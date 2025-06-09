@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Philippine Exam Reviewer</title>
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+  <script src="https://unpkg.com/feather-icons"></script>
+  <link rel="stylesheet" href="src/style/app.css">
+  
+</head>
+<body data-theme="dark" class="font-[Source Sans Pro]">
+  <!-- Header -->
+  <header class="navbar bg-base-100 shadow-sm">
+    <div class="flex-1">
+      <a class="btn btn-ghost text-xl">LC Reviewer PH</a>
+    </div>
+    <div class="flex-none">
+        <a href="#about" class="hover:underline mr-[20px] max-[769px]:hidden">About</a>
+        <a href="#reviewers" class="hover:underline mr-[20px] max-[769px]:hidden">Reviewers</a>
+      <div class="dropdown dropdown-end">
+        <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
+          <div class="w-10 rounded-full">
+            <img
+              alt="Tailwind CSS Navbar component"
+              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+          </div>
+        </div>
+        <ul
+          tabindex="0"
+          class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+          <li>
+            <a class="justify-between">
+              Profile
+              <span class="badge">New</span>
+            </a>
+          </li>
+          <li><a>Settings</a></li>
+          <li><a>Logout</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-br   bg-base-300 py-20 px-6">
+    <div class="max-w-7xl mx-auto flex flex-col-reverse lg:flex-row items-center gap-10">
+      <div class="w-full lg:w-1/2 text-center lg:text-left">
+        <span class="bg-purple-100 text-primary px-3 py-1 rounded-full text-sm font-semibold mb-4 inline-block">Free Access</span>
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight mb-4">Build your reviewer exactly how you need it</h1>
+        <p class="text-lg  mb-">Access LET and Civil exam reviewers anytime and anywhere to practice, prepare, and succeed — perfect for solo reviewers.</p>
+        <div class="flex flex-col sm:flex-row gap-4 mt-[20px] justify-center lg:justify-start">
+          <a href="#reviewers" class="btn btn-secondary">Get started</a>
+          <a href="#about" class="btn btn-outline">Genarete a Questioner</a>
+        </div>
+      </div>
+      <div class="w-full lg:w-1/2 max-[1024px]:hidden">
+        <img src="https://cdn.jsdelivr.net/gh/floatui/assets/ui-devices.png" alt="Devices" class="mx-auto w-full max-w-md" />
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="py-20">
+    <div class="max-w-7xl mx-auto px-6 flex flex-col-reverse md:flex-row items-center gap-12">
+        <div class="w-full flex-1 max-[769px]:hidden">
+            <img src="your-profile-image.jpg" alt="Profile" class="rounded-xl shadow-xl w-full h-auto" />
+        </div>
+        <div class="w-full flex-1">
+        <h3 class="text-3xl font-bold mb-[10px] px-[10px]">Discover exam readiness and better possibilities</h3>
+        <p class="text-lg leading-relaxed mb-6 text-justify px-[10px]">
+          This website is created to help aspiring professionals in the Philippines prepare for the Civil Service Exam and the Licensure Examination for Teachers (LET).
+          My goal is to provide accessible reviewers and testing tools to boost confidence and increase success rates. This is a <strong>free LET and Civil reviewer</strong> platform
+          where you can test and prepare yourself before the actual exam — especially helpful for those who are <strong>self-reviewing or studying solo</strong>.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <div class="flex gap-4 items-start">
+            <i data-feather="calendar" class="text-secondary w-6 h-6"></i>
+            <div>
+              <p class="font-semibold text-lg">28 August 2025</p>
+              <p class="text-sm">Start your journey now for the next exam cycle.</p>
+            </div>
+          </div>
+          <div class="flex gap-4 items-start">
+            <i data-feather="book-open" class="text-secondary w-6 h-6"></i>
+            <div>
+              <p class="font-semibold text-lg">3,200+ reviews completed</p>
+              <p class="text-sm">Thousands of students already prepared.</p>
+            </div>
+          </div>
+        </div>
+        </div>
+    </div>
+  </section>
+
+  <!-- Reviewers Section -->
+  <section id="reviewers" class="py-20 bg-base-300">
+    <div class="max-w-6xl mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10 text-primary">Choose a Reviewer</h3>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+        <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
+          <h4 class="text-xl font-bold mb-2 text-primary">General Information</h4>
+          <p class="">Practice questions on Philippine government, history, and more.</p>
+        </div>
+        <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
+          <h4 class="text-xl font-bold mb-2 text-primary">Math</h4>
+          <p class="">Quantitative questions to sharpen your problem-solving skills.</p>
+        </div>
+        <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
+          <h4 class="text-xl font-bold mb-2 text-primary">English</h4>
+          <p class="">Grammar, reading comprehension, and vocabulary exercises.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+  <section class="py-20 bg-base-300">
+    <div class="max-w-6xl mx-auto px-6">
+
+        <header class="bg-base-300">
+            <h1 class="text-4xl my-[40px] mb-[80px] font-bold text-center">2025 LET Reviewer</h1>
+        </header>
+
+        <h1 class="text-3xl mt-[40px] mb-[20px] font-bold text-left text-primary">LET Reviewer for General Education (Gen Ed)</h1>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+        <a href="./reviewers/part_1/">
+            <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
+                <h4 class="text-xl font-bold mb-2 text-primary">General Education Part 1 Take a Test</h4>
+                <p class="line-clamp-3">The Reviewer Exam mainly cover General Education topics, including science, language, culture, human rights, math, history, computers, social issues, literature, and geography.</p>
+            </div>
+        </a>
+        <a href="reviewers/part_2/">
+            <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
+                <h4 class="text-xl font-bold mb-2 text-primary">General Education Part 2 Take a Test</h4>
+                <p class="line-clamp-3">Ang LET General Education reviewer naglangkob sa English, Math, Science, Filipino, Social Studies, ug General Knowledge. Gikan ni sa topics nga grammar, math problems, ecology, history, literature, ug tech info nga importante sa pagtudlo.</p>
+            </div>
+        </a>
+        <a href="reviewers/part_3/">
+          <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
+            <h4 class="text-xl font-bold mb-2 text-primary">Professional Education Part 3 Take a Test</h4>
+            <p class="">Grammar, reading comprehension, and vocabulary exercises.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Disclaimer -->
+  <section id="disclaimer" class="py-5 border-t bg-amber-50 border-gray-200">
+    <div class="max-w-4xl mx-auto text-center px-4">
+      <h3 class="text-2xl font-semibold mb-4 text-red-600">Disclaimer</h3>
+      <p class="text-gray-700 text-base leading-relaxed">This website is not affiliated with any government agency. The content is provided for educational purposes only to help individuals prepare for the Civil and LET exams.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-base-100 text-center py-5 mt-10">
+    <p>&copy; 2025 Exam Reviewer PH. All rights reserved.</p>
+  </footer>
+
+  <script>feather.replace()</script>
+</body>
+</html>

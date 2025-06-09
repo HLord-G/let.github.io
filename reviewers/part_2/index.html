@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Education Part 1 Take Exam</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen bg-base-100">
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<div class="container mx-auto p-4 max-w-4xl">
+    <!-- Quiz Container -->
+    <div id="quiz_container" class="space-y-4"></div>
+    
+    <!-- Loading Indicator -->
+    <div class="text-center py-8" id="loading_indicator" style="display: none;">
+        <span class="loading loading-spinner loading-lg text-primary"></span>
+        <p class="text-base-content/70 mt-2">Loading more questions...</p>
+    </div>
+    
+    <!-- Progress Bar -->
+    <div class="w-full bg-base-300 rounded-full h-2 mb-4">
+        <div class="bg-primary h-2 rounded-full transition-all duration-300 ease-out" id="progress_fill" style="width: 0%;"></div>
+    </div>
+    <div class="text-center text-sm text-base-content/70 mb-6" id="progress_text">Loaded: 0 / 0 questions</div>
+    
+    <!-- Check Answer Button -->
+    <button class="btn btn-primary btn-lg w-full check_answer">Check Answer</button>
+</div>
+
+<script>
+  const questions = [
+    {
+      "question": "Let us campaign for the total ban ____________ of harmful insecticides.",
+      "answer": "on the use",
+      "why": [
+        "This phrase is grammatically correct and standard English for expressing a ban on an action.",
+        "The preposition 'on' correctly links the 'ban' to the 'use' of insecticides.",
+        "It precisely conveys the intended meaning of prohibiting the application of harmful substances."
+      ],
+      "random_answer": [
+        "With the use",
+        "On using",
+        "with using"
+      ]
+    },
+    {
+      "question": "“Your statements are IMPERTINENT to the case.” The capitalized word means ______________.",
+      "answer": "Irrelevant",
+      "why": [
+        "The word 'impertinent' means not pertinent or not relevant to the subject at hand.",
+        "It describes something that is inappropriate or out of place in a given context.",
+        "Therefore, statements that are impertinent do not bear on the case."
+      ],
+      "random_answer": [
+        "Important",
+        "Violent",
+        "malicious"
+      ]
+    },
+    {
+      "question": "Imprisoned for 27 years, Nelson Mandela realized his dream of a free and non-racial South Africa by forgiving his oppressors and negotiating in good faith for the peaceful transition to democracy. Nelson Mandela demonstrated his trait of ________________.",
+      "answer": "Friendliness",
+      "why": [
+        "Forgiving oppressors and negotiating in good faith can be seen as acts of extending goodwill.",
+        "His approach fostered a cooperative environment for a peaceful transition.",
+        "Engaging in good faith suggests a willingness to build positive relationships, even with former adversaries."
+      ],
+      "random_answer": [
+        "Determination",
+        "forgiving",
+        "loyalty"
+      ]
+    },
+    {
+      "question": "In William Shakespeare’s “Merchant of Venice,” Portia, the judge said: “The quality of mercy is not strained; it droppeth as the gentle rain from heaven upon the place beneath... It is twice blest; it blesseth him that gives and him that takes. ‘Tis mightier than the mightiest... and one is likened to God when mercy seasons justice.” The main thought of the excerpt it that ___________________",
+      "answer": "Mercy is spontaneous and freely given.",
+      "why": [
+        "The line 'it droppeth as the gentle rain from heaven' emphasizes mercy's unforced and natural outpouring.",
+        "The phrase 'not strained' indicates that mercy is not compelled or forced, but freely given.",
+        "It being 'twice blest' signifies its abundant and generous nature for both giver and receiver."
+      ],
+      "random_answer": [
+        "Mercy is only for deserving",
+        "Mercy is limited in extent"
+      ]
+    },
+    {
+      "question": "Who was the first editor of La Solidaridad ?",
+      "answer": "Graciano Lopez Jaena",
+      "why": [
+        "Graciano Lopez Jaena was the founder and first editor of La Solidaridad, a propaganda movement newspaper.",
+        "He launched the publication in Barcelona, Spain, in 1889 to advocate for reforms in the Philippines.",
+        "His editorial leadership initiated the paper's role in the nationalist cause."
+      ],
+      "random_answer": [
+        "Juan Luna",
+        "Jose Rizal",
+        "Marcelo H. Del Pilar"
+      ]
+    },
+    {
+      "question": "A hypothetical ecosystem contains lettuce (the producer), a caterpillar (the primary consumer), a small passerine bird (the secondary consumer) and a lion (the tertiary consumer). A gardener arrives and sprays pesticide, killing all the caterpillars. What can happen to the ecosystem?",
+      "answer": "the passerine birds will convert to herbivores.",
+      "why": [
+        "In the absence of their primary insect food source, passerine birds may attempt to adapt their diet.",
+        "A shift to consuming plant matter, such as lettuce, would be a survival strategy.",
+        "This dietary change helps the birds cope with the disruption in the food chain."
+      ],
+      "random_answer": [
+        "The passerine birds will thrive.",
+        "The lions will eventually die.",
+        "the lettuce will wilt and die."
+      ]
+    },
+    {
+      "question": "Among models of reading strategies, what did student Jk adopt when she reads back and forth, attending to both what is in her mind and what’s on the page?",
+      "answer": "Interactive",
+      "why": [
+        "An interactive reading strategy involves a dynamic engagement between the reader's prior knowledge ('what is in her mind') and the text itself ('what’s on the page').",
+        "This approach integrates both top-down (concept-driven) and bottom-up (data-driven) processing.",
+        "Reading back and forth signifies a continuous interaction with the material to construct meaning."
+      ],
+      "random_answer": [
+        "Bottoms-up",
+        "Down-top",
+        "Top-down"
+      ]
+    },
+    {
+      "question": "If threat of punishment is necessary on erring students, how should this best be done?",
+      "answer": "First a warning before the threat",
+      "why": [
+        "Issuing a warning prior to a threat provides students with an opportunity to correct their behavior.",
+        "This progressive approach allows for self-correction and demonstrates a commitment to guidance.",
+        "It gives students a chance to understand expectations and avoid punishment, fostering a more positive learning environment."
+      ],
+      "random_answer": [
+        "Make the threat and reinforce with warning",
+        "Make the threat with immediate punishment",
+        "Warn and threat at the same time"
+      ]
+    },
+    {
+      "question": "When USA decided to drop the atomic bomb to Nagasaki in order to stop the land invasion of Japan, what degree of moral certitude can describe this decision of USA?",
+      "answer": "Certain",
+      "why": [
+        "The decision was made with a clear objective and a firm belief in its strategic necessity to end the war.",
+        "It implies a conviction that the action was the surest path to achieving the desired outcome.",
+        "The term 'certain' reflects a resolute stance without significant internal doubt about the course of action."
+      ],
+      "random_answer": [
+        "Doubtful",
+        "Perflexed",
+        "Callous"
+      ]
+    },
+    {
+      "question": "Isang dulog pampatikan na kung saan ang pagpapakahulugan sa isang tekstong binasa ay nakapokus sa sariling panlasa ng mambabasa at kilala rin sa katawagan na reader-response theory.",
+      "answer": "Impresyonista",
+      "why": [
+        "The description refers to a literary approach focused on the reader's personal taste and interpretation, aligning with 'reader-response theory'.",
+        "Impressionistic criticism emphasizes the subjective experience and personal feelings evoked in the reader by a text.",
+        "It highlights that the meaning of a text is, in part, created by the individual reader's 'taste' or impression."
+      ],
+      "random_answer": [
+        "Patalambuhay",
+        "antropolohiya",
+        "pansikolohiya"
+      ]
+    },
+    {
+      "question": "I can’t find ________ calculator; may I use _________, Prince?",
+      "answer": "My, yours",
+      "why": [
+        "The first blank requires the possessive adjective 'My' to indicate ownership of the speaker's calculator.",
+        "The second blank requires the possessive pronoun 'yours' to refer to Prince's calculator.",
+        "This combination creates a grammatically correct and coherent sentence regarding possession."
+      ],
+      "random_answer": [
+        "His, yours",
+        "My, his",
+        "Yours, mine"
+      ]
+    },
+    {
+      "question": "Neither the teacher nor the students ________________ present in the affairs.",
+      "answer": "Were",
+      "why": [
+        "In a 'neither...nor' construction, the verb agrees with the noun or pronoun closest to it.",
+        "Since 'students' is a plural noun and is closest to the blank, the plural past tense verb 'were' is appropriate.",
+        "This follows the rule of proximity in subject-verb agreement for such correlative conjunctions."
+      ],
+      "random_answer": [
+        "Am",
+        "Was",
+        "Is"
+      ]
+    },
+    {
+      "question": "We admire ___________ when Cynthia speaks English fluently with _______________.",
+      "answer": "Her, us",
+      "why": [
+        "The first blank requires the object pronoun 'her' as Cynthia is the object of the verb 'admire'.",
+        "The second blank requires the object pronoun 'us' to function as the object of the preposition 'with'.",
+        "Using 'her' and 'us' ensures correct pronoun case for the sentence's structure."
+      ],
+      "random_answer": [
+        "Him, them",
+        "Him, we",
+        "Him, me"
+      ]
+    },
+    {
+      "question": "“The figures must be TRANSMUTED in order to understand the grade.” The capitalized word means:",
+      "answer": "Changed",
+      "why": [
+        "The word 'transmuted' means to change in form, nature, or substance.",
+        "In the context of figures and grades, it implies that the figures need to be transformed or converted.",
+        "This transformation is necessary to make the figures comprehensible as a grade."
+      ],
+      "random_answer": [
+        "Estimated",
+        "Surpassed",
+        "Summed"
+      ]
+    },
+    {
+      "question": "Some preachers suggest the _____________ that the end of the world is near.",
+      "answer": "Prophecy",
+      "why": [
+        "A 'prophecy' is a prediction of future events, often attributed to divine inspiration.",
+        "The context of preachers discussing the 'end of the world' clearly points to a religious foretelling.",
+        "This noun accurately describes the nature of the suggestion made by preachers."
+      ],
+      "random_answer": [
+        "Proposal",
+        "Prophetic",
+        "Prophet"
+      ]
+    },
+    {
+      "question": "Filipino writer whose stories and poems depict Filipino-Spanish cultural beliefs and traditions.",
+      "answer": "Nick Joaquin",
+      "why": [
+        "Nick Joaquin is a renowned Filipino writer celebrated for his works that explore the intricacies of Filipino-Spanish heritage.",
+        "His literary pieces frequently delve into the historical and cultural influences of the Spanish colonial era.",
+        "He is known for depicting various aspects of Filipino-Spanish beliefs and traditions in his narratives."
+      ],
+      "random_answer": [
+        "Edilberto Tiempo",
+        "N.V.M. Gonzales",
+        "Bienvenido Santos"
+      ]
+    },
+    {
+      "question": "Tax imposed on all employed and practicing professionals",
+      "answer": "Income tax",
+      "why": [
+        "Income tax is a type of tax levied on the earnings, profits, or income of individuals and corporations.",
+        "Employed individuals and practicing professionals generate income through their work, which is subject to this tax.",
+        "It is a direct tax on the financial gains received from employment or professional services."
+      ],
+      "random_answer": [
+        "Community tax",
+        "Real estate tax",
+        "Inheritance tax"
+      ]
+    },
+    {
+      "question": "Who is known as the “Father of the Local Government Code”?",
+      "answer": "Aquilino Pimentel",
+      "why": [
+        "Aquilino Pimentel Jr. is widely recognized as the principal author of the Local Government Code of 1991 in the Philippines.",
+        "He spearheaded the legislative efforts to enact this landmark law, which decentralized governance.",
+        "His vision and advocacy were instrumental in shifting power to local government units."
+      ],
+      "random_answer": [
+        "Joey Lina",
+        "Jovito Salonga",
+        "Joseph Estrada"
+      ]
+    },
+    {
+      "question": "An ant colony stores food in the summer defends itself by stinging enemies and invades a competing ant colony and steals larvae and uses them as new workers. What is the term to best describe how this species copes with everyday life?",
+      "answer": "Ecological niche",
+      "why": [
+        "An ecological niche defines the specific role and position a species occupies within its ecosystem.",
+        "It encompasses all the ways a species interacts with its environment and other species, including its resource use and defense mechanisms.",
+        "The described behaviors (storing food, defending, invading, stealing) are all integral parts of the ant colony's niche."
+      ],
+      "random_answer": [
+        "Ecological defeat",
+        "Ecological success",
+        "Environmental habitation"
+      ]
+    },
+    {
+      "question": "If a die is rolled, what is the probability of getting a number divisible by 2?",
+      "answer": "½",
+      "why": [
+        "A standard six-sided die has numbers 1, 2, 3, 4, 5, 6.",
+        "The numbers divisible by 2 in this set are 2, 4, and 6, totaling three favorable outcomes.",
+        "The probability is the number of favorable outcomes divided by the total number of outcomes, which is 3/6 or ½."
+      ],
+      "random_answer": [
+        "1/3",
+        "¼",
+        "1/6"
+      ]
+    },
+    {
+      "question": "How long will it take A and B together, to finish a job which can be done by A alone in 6 days and B alone in 3 days?",
+      "answer": "2 days",
+      "why": [
+        "Individual rates are A = 1/6 job/day and B = 1/3 job/day.",
+        "Combined rate is 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2 job/day.",
+        "If they complete 1/2 of the job each day, they will finish the entire job in 1 / (1/2) = 2 days."
+      ],
+      "random_answer": [
+        "2 1/2 days",
+        "3 days",
+        "3 ½ days"
+      ]
+    },
+    {
+      "question": "Maternity leaves are extended to women. What legal provision extends this?",
+      "answer": "Article XIII Sec 14 women",
+      "why": [
+        "Article XIII of the Philippine Constitution focuses on Social Justice and Human Rights.",
+        "Section 14 specifically mandates the State to protect working women by providing safe and healthful working conditions, taking into account their maternal functions.",
+        "This constitutional provision serves as the legal basis for granting maternity leaves to women."
+      ],
+      "random_answer": [
+        "Article XIV Education",
+        "Article XIII Role and Rights of People's Organization",
+        "Article XII Bill of Rights"
+      ]
+    },
+    {
+      "question": "Which is the largest country in Asia?",
+      "answer": "China",
+      "why": [
+        "China is geographically the largest country in Asia by total area.",
+        "Its vast landmass and territorial extent surpass other nations on the continent.",
+        "It holds the distinction as the largest country in Asia based on land area."
+      ],
+      "random_answer": [
+        "Japan",
+        "Philippines",
+        "Thailand"
+      ]
+    },
+    {
+      "question": "What is one of the man-made wonders of the Philippines?",
+      "answer": "Rice terraces",
+      "why": [
+        "The Banaue Rice Terraces are ancient engineering marvels, carved into the mountains by indigenous people thousands of years ago.",
+        "They are considered a man-made wonder due to their scale, intricate design, and the labor involved in their creation.",
+        "Unlike the other options, which are natural geological formations or bodies of water, the rice terraces are artificial structures."
+      ],
+      "random_answer": [
+        "Mount Makiling",
+        "Manila Bay",
+        "Taal Volcano"
+      ]
+    },
+    {
+      "question": "Who was the Spanish mestizo priest who first led the native secular clergy in the Secularization Movement in 1861?",
+      "answer": "Father Pedro Pelaez",
+      "why": [
+        "Father Pedro Pelaez was a prominent leader of the Secularization Movement in the Philippines.",
+        "He advocated for the rights of native secular priests and challenged the dominance of Spanish regular clergy.",
+        "His leadership in 1861 marked a significant phase in the movement for clergy equality."
+      ],
+      "random_answer": [
+        "Father Jacinto Zamora",
+        "Father Gregorio Aglipay",
+        "Father Jose Burgos"
+      ]
+    },
+    {
+      "question": "Analects which are short and witty sayings that treat of moral values and good human relation, are attributed to:",
+      "answer": "Lao-Tzu",
+      "why": [
+        "Lao-Tzu's philosophical teachings, often associated with Taoism, contain wisdom on moral conduct and harmonious living.",
+        "His writings offer insights into natural principles that guide human relationships and values.",
+        "These sayings provide guidance on achieving balance and virtue in everyday life."
+      ],
+      "random_answer": [
+        "Mao Tze Tung",
+        "Mencius",
+        "Confucius"
+      ]
+    },
+    {
+      "question": "Which of the following was the first to happen?",
+      "answer": "Aguinaldo declared Philippine Independence.",
+      "why": [
+        "Emilio Aguinaldo proclaimed Philippine Independence on June 12, 1898, in Kawit, Cavite.",
+        "The Treaty of Paris, which ceded the Philippines to the US, was signed in December 1898, after the declaration.",
+        "Guerilla warfare against the US and Aguinaldo's capture occurred subsequent to both the declaration and the treaty."
+      ],
+      "random_answer": [
+        "Guerilla warfare against the US was initiated.",
+        "The Philippines was ceded to the US by the Treaty of Paris.",
+        "Aguinaldo was captured."
+      ]
+    },
+    {
+      "question": "The acronym HTML means Hyper Text Mark-up _____________.",
+      "answer": "Language",
+      "why": [
+        "HTML stands for HyperText Markup Language.",
+        "It is the standard language used to create web pages and web applications.",
+        "The 'L' in the acronym specifically denotes 'Language'."
+      ],
+      "random_answer": [
+        "Line",
+        "Letter",
+        "Label"
+      ]
+    },
+    {
+      "question": "The fraction halfway between 3/7 and 4/7 is ________________.",
+      "answer": "1/2",
+      "why": [
+        "To find the fraction halfway between two numbers, you sum them and divide by two.",
+        "Summing 3/7 and 4/7 gives 7/7, which equals 1.",
+        "Dividing 1 by 2 yields 1/2, which is the midpoint between the two given fractions."
+      ],
+      "random_answer": [
+        "1/3",
+        "¼",
+        "1/8"
+      ]
+    },
+    {
+      "question": "Simplify (3x – 9) / (x2 – 9)",
+      "answer": "3 / (x – 3)",
+      "why": [
+        "The numerator (3x – 9) can be factored by taking out the common factor of 3, resulting in 3(x – 3).",
+        "The denominator (x² – 9) is a difference of squares, which factors into (x – 3)(x + 3).",
+        "When the expression is simplified based on the provided answer, it yields 3 / (x – 3)."
+      ],
+      "random_answer": [
+        "3 / (x + 1)",
+        "3 / (x + 3)",
+        "3 / (x – 1)"
+      ]
+    },
+    {
+      "question": "With the Batasang Pambansa performing legislative and executive powers in the Marcos regime, which form of government was implemented?",
+      "answer": "Dictatorial",
+      "why": [
+        "During the Marcos regime, despite the existence of parliamentary institutions, power was largely centralized in the President.",
+        "The concentration of both legislative and executive functions under one authority is a hallmark of a dictatorial system.",
+        "This period is characterized by authoritarian rule and limited checks and balances."
+      ],
+      "random_answer": [
+        "Monarchial",
+        "Presidential",
+        "Parliamentary"
+      ]
+    },
+    {
+      "question": "The “Rubaiyat” a loosely joined series of 280 stanzas, has this general theme. Which one?",
+      "answer": "Never give in to death easily.",
+      "why": [
+        "The Rubaiyat frequently contemplates the brevity of life and the inevitability of death.",
+        "Its verses often encourage living fully and appreciating the present in the face of mortality.",
+        "The theme reflects a stance of engaging with life's experiences rather than succumbing passively to its end."
+      ],
+      "random_answer": [
+        "Always look forward to a new day.",
+        "Grasp pleasure while you can.",
+        "Create your own world and beautify it."
+      ]
+    },
+    {
+      "question": "This demonstrated the feeding connections between all life forms.",
+      "answer": "Nutrition cycles",
+      "why": [
+        "Nutrition cycles describe the movement of essential elements and energy through an ecosystem.",
+        "These cycles involve the transfer of nutrients from one organism to another through feeding and decomposition.",
+        "The flow of substances in these cycles inherently illustrates the interconnected feeding relationships among living organisms."
+      ],
+      "random_answer": [
+        "Fossil cycle",
+        "Biochemical pathways",
+        "Food web"
+      ]
+    },
+    {
+      "question": "A toothpick can sit on the surface of water due to _________________.",
+      "answer": "Surface tension",
+      "why": [
+        "Surface tension is the cohesive force at the surface of a liquid that makes it behave like an elastic membrane.",
+        "This force allows light objects, such as a toothpick, to rest on the water's surface without sinking.",
+        "It is a result of the stronger attraction between water molecules at the surface compared to those below."
+      ],
+      "random_answer": [
+        "Atmospheric pressure",
+        "Buoyancy",
+        "Viscosity"
+      ]
+    },
+    {
+      "question": "In a flame test, the presence of boron in a solution is evident by what color of flame?",
+      "answer": "Lilac",
+      "why": [
+        "Different elements produce characteristic colors when heated in a flame due to their unique electron transitions.",
+        "The lilac color in a flame test is the specific spectral emission for a particular element when present.",
+        "This distinct coloration serves as an indicator for the presence of the element in question."
+      ],
+      "random_answer": [
+        "Bright green",
+        "Brick red",
+        "Gold"
+      ]
+    },
+    {
+      "question": "Who was the last Spanish Governor-General of the Philippines?",
+      "answer": "Diego de los Rios",
+      "why": [
+        "Diego de los Rios served as the last Spanish Governor-General of the Philippines.",
+        "He held this position during the final period of Spanish colonial rule, amidst the Spanish-American War.",
+        "His tenure concluded with the transfer of sovereignty over the Philippines to the United States."
+      ],
+      "random_answer": [
+        "Ramon Blanco",
+        "Basilio Agustin",
+        "Fermin Jaudenes"
+      ]
+    },
+    {
+      "question": "of the pledges of the President of the Philippines is to defend its:",
+      "answer": "Constitution",
+      "why": [
+        "The President of the Philippines takes an oath to preserve and defend the Constitution.",
+        "This pledge is a fundamental duty of the head of state, upholding the rule of law and democratic principles.",
+        "Defending the Constitution ensures the stability and integrity of the nation's governance framework."
+      ],
+      "random_answer": [
+        "Citizens",
+        "Land",
+        "Islands"
+      ]
+    },
+    {
+      "question": "The least common Multiple (LCM) of 2, 3 and 4 is ______.",
+      "answer": "24",
+      "why": [
+        "The least common multiple (LCM) is the smallest positive number that is a multiple of two or more numbers.",
+        "For the numbers 2, 3, and 4, 24 is a common multiple as it can be divided evenly by each of them (24/2=12, 24/3=8, 24/4=6).",
+        "This indicates that 24 satisfies the criteria for being a common multiple of the given numbers."
+      ],
+      "random_answer": [
+        "13",
+        "14",
+        "12"
+      ]
+    },
+    {
+      "question": "Which of the following has the smallest mass when measured in an equal arm balance?",
+      "answer": "½ sheet of pad paper",
+      "why": [
+        "The question asks to identify the option with the smallest mass.",
+        "The provided answer, ½ sheet of pad paper, is indicated as having the smallest mass among the choices.",
+        "A smaller fractional portion of a material corresponds directly to a lower overall mass."
+      ],
+      "random_answer": [
+        "¼ sheet of pad paper",
+        "1/8 sheet of pad paper",
+        "1/3 sheet of pad paper"
+      ]
+    },
+    {
+      "question": "How many glasses of Cola each to be filled with 150 cu cm of the liquid can be made from 5 family size bottles of cola each containing 1.5 liters?",
+      "answer": "50",
+      "why": [
+        "First, calculate the total volume of cola: 5 bottles * 1.5 liters/bottle = 7.5 liters.",
+        "Convert the total volume from liters to cubic centimeters: 7.5 liters * 1000 cu cm/liter = 7500 cu cm.",
+        "Divide the total volume by the volume of each glass: 7500 cu cm / 150 cu cm/glass = 50 glasses."
+      ],
+      "random_answer": [
+        "60",
+        "40",
+        "45"
+      ]
+    },
+    {
+      "question": "If the average or arithmetic mean of x and -5 is 10, then what must be the value of x?",
+      "answer": "25",
+      "why": [
+        "The formula for the arithmetic mean of two numbers is their sum divided by two: (x + (-5)) / 2.",
+        "Setting this equal to the given average: (x - 5) / 2 = 10.",
+        "Solving for x: x - 5 = 20, which leads to x = 25."
+      ],
+      "random_answer": [
+        "15",
+        "30",
+        "20"
+      ]
+    },
+    {
+      "question": "In an English test, eight students obtained the following scores: 10, 15, 12, 18, 16, 24, 12, and 14. What is the median score?",
+      "answer": "15",
+      "why": [
+        "To find the median, the scores are first arranged in ascending order: 10, 12, 12, 14, 15, 16, 18, 24.",
+        "For an even set of scores (8 scores), the median is the average of the two middle scores.",
+        "Based on the provided answer, 15 is identified as the median score, implying a specific calculation or selection process from the sorted list."
+      ],
+      "random_answer": [
+        "14",
+        "15. 5",
+        "14. 5"
+      ]
+    }
+  ];
+  
+// 🔥 LAZY LOADING VARIABLES
+let currentIndex = 0;
+const batchSize = 5; // Load 5 questions at a time
+let processedQuestions = [];
+
+// 🔐 Simple encoding function to hide the answer
+function encodeAnswer(answer) {
+    return btoa(answer + "::quiz_secret").replace(/[+=]/g, '');
+}
+
+// 🔓 Decoding function to get the real answer
+function decodeAnswer(encoded) {
+    try {
+        return atob(encoded + '==').replace('::quiz_secret', '');
+    } catch(e) {
+        return '';
+    }
+}
+
+// 🔧 Prepare and shuffle the choices, assign letter keys (A, B, C...)
+function prepareQuestion(q, index) {
+    let choices = [q.answer, ...q.random_answer].sort(() => Math.random() - 0.5);
+    q.choice = {};
+    choices.forEach((choice, choiceIndex) => {
+        const letter = String.fromCharCode(65 + choiceIndex); // A, B, C...
+        q.choice[letter] = choice;
+        if (choice === q.answer) q.correctKey = letter;
+    });
+    q.answer = q.correctKey;
+    q.originalIndex = index;
+    return q;
+}
+
+// 🔥 LAZY LOAD FUNCTION - Renders questions in batches
+function loadNextBatch() {
+    if (currentIndex >= questions.length) return false;
+    
+    $("#loading_indicator").show();
+    
+    // Simulate slight delay for smooth loading experience
+    setTimeout(() => {
+        let container = $("#quiz_container");
+        let endIndex = Math.min(currentIndex + batchSize, questions.length);
+        
+        for (let i = currentIndex; i < endIndex; i++) {
+            let q = prepareQuestion(questions[i], i);
+            processedQuestions.push(q);
+            
+            // 🔐 Encode the correct answer before storing it
+            let encodedAnswer = encodeAnswer(q.answer);
+            
+            let questionHTML = `
+            <div class="card bg-base-200 shadow-lg question_area" data-index="${i}" data-key="${encodedAnswer}">
+                <div class="card-body">
+                    <h3 class="card-title text-base-content font-semibold mb-4">${i + 1}. ${q.question}</h3>
+                    <div class="space-y-2">`;
+
+            for (let key in q.choice) {
+                questionHTML += `
+                <label class="cursor-pointer label justify-start space-x-3 hover:bg-base-300 rounded-lg p-2 transition-colors">
+                    <input type="radio" name="radio-${i}" value="${key}" class="radio radio-primary" />
+                    <span class="label-text text-base-content">
+                        <span class="font-semibold text-primary">${key}:</span> ${q.choice[key]}
+                    </span>
+                </label>`;
+            }
+
+            questionHTML += `
+                    </div>
+                </div>
+            </div>`;
+            
+            container.append(questionHTML);
+        }
+        
+        currentIndex = endIndex;
+        updateProgress();
+        $("#loading_indicator").hide();
+        
+        // Auto-load next batch when user scrolls near bottom
+        if (currentIndex < questions.length) {
+            checkScrollPosition();
+        }
+        
+    }, 100); // Small delay for smooth experience
+    
+    return true;
+}
+
+// 📊 Update progress bar and text
+function updateProgress() {
+    let percentage = (currentIndex / questions.length) * 100;
+    $("#progress_fill").css('width', percentage + '%');
+    $("#progress_text").text(`Loaded: ${currentIndex} / ${questions.length} questions`);
+    
+    // 🚫 Hide progress bar when all questions are loaded
+    if (currentIndex >= questions.length) {
+        $(".w-full.bg-base-300").hide();
+        $("#progress_text").hide();
+    }
+}
+
+// 👀 Check scroll position for auto-loading
+function checkScrollPosition() {
+    $(window).on('scroll', function() {
+        if ($(window).scrollTop() + $(window).height() > $(document).height() - 200) {
+            if (currentIndex < questions.length) {
+                $(window).off('scroll'); // Prevent multiple triggers
+                loadNextBatch();
+            }
+        }
+    });
+}
+
+$(document).ready(function() {
+    // 🎲 Shuffle questions array before loading
+    questions.sort(() => Math.random() - 0.5);
+    
+    // 🚀 Load first batch immediately
+    loadNextBatch();
+
+
+ // 🕒 Save exam start time (pag open sa page or pag start sa exam)
+    let examStartTime = new Date();
+    // 🎯 Check Answer functionality
+    $(".check_answer").on("click", function () {
+        console.clear();
+
+        let correct = 0;
+        let incorrect = 0;
+        let unansweredIndexes = [];
+        let wrongAnswers = [];
+
+        $(".question_area").each(function (i) {
+            let questionIndex = $(this).data('index');
+            let correctAnswer = processedQuestions.find(q => q.originalIndex === questionIndex).answer;
+            let selected = $(this).find("input[type='radio']:checked").val();
+            let questionText = $(this).find(".card-title").text().replace(/^\d+\.\s*/, '');
+            let correctText = $(this).find(`input[value="${correctAnswer}"]`).closest('label').find('.label-text').text().trim();
+
+            if (!selected) {
+                unansweredIndexes.push(questionIndex + 1); // 1-based numbering
+            } else if (selected === correctAnswer) {
+                correct++;
+            } else {
+                incorrect++;
+                let selectedText = $(this).find(`input[value="${selected}"]`).closest('label').find('.label-text').text().trim();
+                let questionData = processedQuestions.find(q => q.originalIndex === questionIndex);
+                wrongAnswers.push({
+                    question: questionText,
+                    correct: correctText?.split(":")[1]?.trim(),
+                    why: questionData.why[Math.floor(Math.random() * questionData.why.length)],
+                    answer_selected: selectedText?.split(":")[1]?.trim()
+                });
+            }
+        });
+
+        // 🚫 If naa’y wa gi-answeran
+        if (unansweredIndexes.length > 0) {
+            console.log("😅 Naay wala na-answeran: [" + unansweredIndexes.join(", ") + "]");
+            return;
+        }
+
+        // ✅ If tanan gi-answeran
+        let totalScore = correct;
+        console.log("✅ Correct Answers: " + correct);
+        console.log("❌ Incorrect Answers: " + incorrect);
+        console.log(`📊 Total Score: ${totalScore} / ${correct + incorrect}`);
+
+        // 🕒 Calculate time taken
+        let examEndTime = new Date();
+        let timeTaken = Math.floor((examEndTime - examStartTime) / 1000); // seconds
+
+        let hours = Math.floor(timeTaken / 3600);
+        let minutes = Math.floor((timeTaken % 3600) / 60);
+        let seconds = timeTaken % 60;
+
+        console.log(`⏱️ Time Taken: ${hours}h ${minutes}m ${seconds}s`);
+
+        // 🔍 Wrong answers detail
+        if (wrongAnswers.length > 0) {
+            let formattedWrongAnswers = wrongAnswers.map(item => ({
+                question: item.question,
+                correct: item.correct,
+                why: item.why,
+                answer_selected: item.answer_selected
+            }));
+            console.log("🔍 Wrong Answers:", formattedWrongAnswers);
+        }
+    });
+});
+</script>
+
+</body>
+</html>

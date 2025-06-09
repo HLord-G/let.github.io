@@ -1,0 +1,1632 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Education Part 1 Take Exam</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen bg-base-100">
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<div class="container mx-auto p-4 max-w-4xl">
+    <!-- Quiz Container -->
+    <div id="quiz_container" class="space-y-4"></div>
+    
+    <!-- Loading Indicator -->
+    <div class="text-center py-8" id="loading_indicator" style="display: none;">
+        <span class="loading loading-spinner loading-lg text-primary"></span>
+        <p class="text-base-content/70 mt-2">Loading more questions...</p>
+    </div>
+    
+    <!-- Progress Bar -->
+    <div class="w-full bg-base-300 rounded-full h-2 mb-4">
+        <div class="bg-primary h-2 rounded-full transition-all duration-300 ease-out" id="progress_fill" style="width: 0%;"></div>
+    </div>
+    <div class="text-center text-sm text-base-content/70 mb-6" id="progress_text">Loaded: 0 / 0 questions</div>
+    
+    <!-- Check Answer Button -->
+    <button class="btn btn-primary btn-lg w-full check_answer">Check Answer</button>
+</div>
+
+<script>
+  const questions = [
+  {
+    "question": "In one of his poems, the Filipino author Zulueta da Costa said that the Filipinos are like the Molave. What figure of speech was used?",
+    "answer": "simile",
+    "why": [
+      "A simile is a figure of speech that directly compares two different things.",
+      "It typically uses the words \"like\" or \"as\" to make the comparison.",
+      "The phrase \"Filipinos are like the Molave\" directly uses \"like\" to draw a comparison."
+    ],
+    "random_answer": [
+      "personification",
+      "metaphor",
+      "hyperbole"
+    ]
+  },
+  {
+    "question": "Helen of Troy is the face who launched a thousand ships .What figure of speech is used in the given sentence?",
+    "answer": "synecdoche",
+    "why": [
+      "Synecdoche is a figure of speech where a part is made to represent the whole.",
+      "In this case, \"face\" represents the entire person, Helen.",
+      "The part \"face\" stands for the whole person \"Helen\" who caused the launching of ships."
+    ],
+    "random_answer": [
+      "ellipsis",
+      "alliteration",
+      "irony"
+    ]
+  },
+  {
+    "question": "Si Ana at Ariadne ay masisipag na mag-aaral. Ano ang mali sa pangungusap?",
+    "answer": "Si",
+    "why": [
+      "\"Si\" is used as a singular personal marker in Filipino.",
+      "For plural or multiple proper nouns, the correct particle is \"Sina.\"",
+      "Since there are two names, \"Ana at Ariadne,\" \"Sina\" should be used instead of \"Si.\""
+    ],
+    "random_answer": [
+      "at",
+      "masisipag",
+      "mag-aaral"
+    ]
+  },
+  {
+    "question": "________ mo ng mga damit ang iyong kapatid sa dormitory.",
+    "answer": "Dalhan",
+    "why": [
+      "\"Dalhan\" means to \"bring something to someone or somewhere specific.\"",
+      "The sentence implies bringing clothes to the brother in the dormitory, indicating a recipient and a destination.",
+      "The suffix \"-han\" indicates a direct object that is also a recipient or location."
+    ],
+    "random_answer": [
+      "Dalhin",
+      "Dalahin",
+      "Dadalahin"
+    ]
+  },
+  {
+    "question": "________ sa batas, hindi maaaring isakdal ng dalawang beses ang isang akusado para sa iisang pagkakasala.",
+    "answer": "Maliban",
+    "why": [
+      "\"Maliban\" translates to \"except\" or \"aside from.\"",
+      "Using \"Maliban sa batas\" suggests an exception or deviation from the law's general principle regarding double jeopardy.",
+      "The sentence implies a conditional statement, where the law itself might be an exception to a general rule or understanding."
+    ],
+    "random_answer": [
+      "Ayon",
+      "Ayon kay",
+      "Marahil"
+    ]
+  },
+  {
+    "question": "nawalang-malay : hinimatay : : naghihingalo : ______",
+    "answer": "nasa bingit ng kamatayan",
+    "why": [
+      "The relationship between \"nawalang-malay\" and \"hinimatay\" is one of synonymy or very close meaning (fainted/unconscious).",
+      "Therefore, the missing word should be a synonym or closely related term to \"naghihingalo\" (dying/gasping for breath).",
+      "\"Nasa bingit ng kamatayan\" directly means \"on the brink of death,\" which is analogous to \"naghihingalo.\""
+    ],
+    "random_answer": [
+      "namatay",
+      "napagod",
+      "nahihilo"
+    ]
+  },
+  {
+    "question": "Isahan : gaano : : _______",
+    "answer": "maramihan : gaa-gaano",
+    "why": [
+      "\"Isahan\" means singular, and \"gaano\" refers to quantity for a singular item.",
+      "\"Maramihan\" means plural, requiring a plural form for quantity.",
+      "\"Gaa-gaano\" is the plural or intensive form of \"gaano,\" indicating \"how much\" or \"how many\" for multiple items."
+    ],
+    "random_answer": [
+      "maramihan : gaanu-ano",
+      "maramihan : gaga-gaano",
+      "maramihan : ganu-ano"
+    ]
+  },
+  {
+    "question": "Masalimuot ang buhay ng taong kapit sa patalim.",
+    "answer": "magulo",
+    "why": [
+      "The idiom \"kapit sa patalim\" literally means \"holding onto a knife's edge,\" signifying a desperate situation.",
+      "A life in such a desperate or dangerous situation is inherently complicated and disorderly.",
+      "Therefore, \"Masalimuot\" (complicated/entangled) best describes the \"magulo\" (disordered/messy) nature of such a life."
+    ],
+    "random_answer": [
+      "malungkot",
+      "masaya",
+      "mapayapa"
+    ]
+  },
+  {
+    "question": "Naglipana sa lansangan ang masamang-loob lalo na kung gabi.",
+    "answer": "nagkalat",
+    "why": [
+      "\"Naglipana\" means to be widespread or to scatter.",
+      "In the context of \"masamang-loob\" (bad elements/criminals) on the streets, it implies they are widely present.",
+      "\"Nagkalat\" directly translates to \"scattered\" or \"spread out,\" fitting the context of criminals being numerous and visible."
+    ],
+    "random_answer": [
+      "namasyal",
+      "nagtatago",
+      "nagmuni-muni"
+    ]
+  },
+  {
+    "question": "Siya ang “Ama ng Zarsuelang Tagalog”?",
+    "answer": "Severino Reyes",
+    "why": [
+      "Severino Reyes is widely recognized in Philippine literature as the \"Father of the Tagalog Zarzuela.\"",
+      "He pioneered and popularized the zarzuela, a Spanish-influenced theatrical form, in the Tagalog region.",
+      "His significant contributions to the genre earned him this title."
+    ],
+    "random_answer": [
+      "Aurelio Tolentino",
+      "N.V.M Gonzalez",
+      "Alejandro Abadilla"
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang HINDI epiko ng Mindanao?",
+    "answer": "Alim",
+    "why": [
+      "\"Alim\" is a well-known epic from the Ifugao people of Luzon, specifically the Cordillera region.",
+      "Indarapatra at Sulayman, Bidasari, and Bantugan are all recognized epics originating from Mindanao.",
+      "The question asks for the epic that is *not* from Mindanao."
+    ],
+    "random_answer": [
+      "Indarapatra at Sulayman",
+      "Bidasari",
+      "Bantugan"
+    ]
+  },
+  {
+    "question": "Ang titik “ng” sa Alpabetong Filipino ay nagmula sa alpabetong _____.",
+    "answer": "Abakada",
+    "why": [
+      "The \"ng\" digraph was a distinct letter in the pre-Filipino \"Abakada\" alphabet.",
+      "The Abakada alphabet was largely based on Tagalog phonology and was the national alphabet before the modern Filipino alphabet.",
+      "The current Filipino alphabet incorporated characters from the Abakada."
+    ],
+    "random_answer": [
+      "Ingles",
+      "Abecedario",
+      "Romano"
+    ]
+  },
+  {
+    "question": "Ilang titik ang hiniram ng Alpabetong Filipino mula sa Alpabetong Ingles?",
+    "answer": "7",
+    "why": [
+      "The modern Filipino alphabet adopted several foreign letters for various loanwords.",
+      "Specifically, seven letters (C, F, J, Q, V, X, Z) were adopted from English, excluding 'Ñ' which is Spanish.",
+      "These letters are primarily used for proper nouns and scientific/technical terms of foreign origin."
+    ],
+    "random_answer": [
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Aling salita ang klaster?",
+    "answer": "pluma",
+    "why": [
+      "A \"klaster\" (cluster) in phonetics refers to two or more consonants that are pronounced together without an intervening vowel in the same syllable.",
+      "In \"pluma,\" the \"pl\" combination forms a consonant cluster at the beginning of the word.",
+      "The other options (palma, basta, basket) do not feature such a consonant cluster within a single syllable."
+    ],
+    "random_answer": [
+      "palma",
+      "basta",
+      "basket"
+    ]
+  },
+  {
+    "question": "”Ang aking pag-ibig ay tanging sa iyo lamang .” Ibigay ang ayos ng pangungusap na ito.",
+    "answer": "di-karaniwan",
+    "why": [
+      "A \"karaniwan\" (normal) sentence structure in Filipino follows the predicate-subject order.",
+      "A \"di-karaniwan\" (inverted or not normal) sentence structure places the subject before the predicate.",
+      "The sentence \"Ang aking pag-ibig ay tanging sa iyo lamang\" starts with \"Ang aking pag-ibig\" (the subject), making it an inverted or \"di-karaniwan\" structure."
+    ],
+    "random_answer": [
+      "payak",
+      "tambalan",
+      "karaniwan"
+    ]
+  },
+  {
+    "question": "Aling Salita ang may diptonggo?",
+    "answer": "buhay",
+    "why": [
+      "A \"diptonggo\" (diphthong) is a combination of a vowel and a semi-vowel (y or w) within the same syllable.",
+      "In the word \"buhay,\" the \"ay\" sequence forms a diphthong where the vowel 'a' is followed by the semi-vowel 'y'.",
+      "Other options do not contain such a vowel-semi-vowel combination in a single syllable."
+    ],
+    "random_answer": [
+      "buwis",
+      "bayan",
+      "iwas"
+    ]
+  },
+  {
+    "question": "Ang epiko tungkol sa kasaysayan ng pag-iibigan ng mga bathala na nagmula sa Iloilo ay ang ______ .",
+    "answer": "Hinilawod",
+    "why": [
+      "\"Hinilawod\" is a well-known epic from the Central Panay region of the Philippines, which includes Iloilo.",
+      "It recounts the exploits of powerful deities and heroes, fitting the description of \"kasaysayan ng pag-iibigan ng mga bathala\" (history of the love of deities).",
+      "The other options are from different regions or do not perfectly fit the detailed description provided."
+    ],
+    "random_answer": [
+      "Biag-ni- Lam-ang",
+      "Bidasari",
+      "Maragtas"
+    ]
+  },
+  {
+    "question": "Anong teorya ng wika ang nagsasabing ang wika ay nailikha bunga ng masidhing damdamin ng tao?",
+    "answer": "Pooh-pooh",
+    "why": [
+      "The \"Pooh-pooh\" theory of language origin suggests that language developed from involuntary exclamations of emotion, such as pain, pleasure, or surprise.",
+      "These exclamations were driven by strong human feelings.",
+      "This theory directly aligns with the idea of language creation stemming from intense human emotions."
+    ],
+    "random_answer": [
+      "Bow-wow",
+      "Ding-dong",
+      "Yoheho"
+    ]
+  },
+  {
+    "question": "”Natutulog ba ang Diyos?” Ang pahayag sa itaas ay halimbawa ng anong uri ng tayutay?",
+    "answer": "Tanong Retorikal",
+    "why": [
+      "A rhetorical question (Tanong Retorikal) is a question asked merely for effect or to make an assertion rather than to elicit an answer.",
+      "The question \"Natutulog ba ang Diyos?\" (Is God sleeping?) is posed to emphasize a point or express frustration, not to get a literal answer.",
+      "It serves as a stylistic device to provoke thought or convey a strong sentiment."
+    ],
+    "random_answer": [
+      "Pagdaramdam",
+      "Pagtanggi",
+      "Pagsalungat"
+    ]
+  },
+  {
+    "question": "Ano ang nagging pangalan ng wikang pambansa noong 1959?",
+    "answer": "Pilipino",
+    "why": [
+      "In 1959, the national language of the Philippines was officially designated as Pilipino.",
+      "This designation aimed to nationalize the language, which was largely based on Tagalog.",
+      "The term \"Filipino\" for the national language was adopted much later, in the 1987 Constitution."
+    ],
+    "random_answer": [
+      "Filipino",
+      "Tagalog",
+      "Wikang Pambansa"
+    ]
+  },
+  {
+    "question": "The captain of the pep squad are working feverishly to boost the team`s morale. No error.",
+    "answer": "are",
+    "why": [
+      "The subject of the sentence is \"The captain,\" which is singular.",
+      "The verb must agree with the singular subject.",
+      "Therefore, \"are\" should be \"is\" to maintain subject-verb agreement."
+    ],
+    "random_answer": [
+      "pep-squad",
+      "to boost",
+      "team`s morale"
+    ]
+  },
+  {
+    "question": "The teachers as well as the guidance counselor is accompanying the students on a field trip. No error.",
+    "answer": "is accompanying",
+    "why": [
+      "When \"as well as\" connects two subjects, the verb agrees with the first subject.",
+      "The first subject is \"The teachers,\" which is plural.",
+      "Therefore, \"is accompanying\" should be \"are accompanying\" to agree with the plural subject."
+    ],
+    "random_answer": [
+      "teachers",
+      "guidance counselor",
+      "on a field trip"
+    ]
+  },
+  {
+    "question": "Simba and Nala is my favorite characters in The Lion King. No error.",
+    "answer": "is",
+    "why": [
+      "When two singular subjects are joined by \"and,\" they form a compound subject that requires a plural verb.",
+      "The subjects \"Simba and Nala\" are two distinct individuals.",
+      "Therefore, \"is\" should be \"are\" to correctly reflect the plural subject."
+    ],
+    "random_answer": [
+      "and",
+      "The Lion King",
+      "No error"
+    ]
+  },
+  {
+    "question": "Tne committee are meeting on Friday to discuss the details of the charaity ball. No error.",
+    "answer": "are meeting",
+    "why": [
+      "\"Committee\" is typically treated as a singular collective noun when it acts as a single unit.",
+      "In this sentence, the committee is acting as a cohesive group, indicating a singular action.",
+      "Therefore, \"are meeting\" should be \"is meeting\" to maintain subject-verb agreement for a singular collective noun."
+    ],
+    "random_answer": [
+      "on Friday",
+      "to discuss",
+      "charity ball"
+    ]
+  },
+  {
+    "question": "Mumps, which are a dangerous disease, can be prevented through vaccination . No error.",
+    "answer": "are",
+    "why": [
+      "Although \"Mumps\" ends in 's', it is a singular disease name.",
+      "Diseases like mumps, measles, and shingles are treated as singular nouns.",
+      "Therefore, the verb \"are\" should be \"is\" to agree with the singular subject \"Mumps.\""
+    ],
+    "random_answer": [
+      "Mumps",
+      "disease",
+      "vaccination"
+    ]
+  },
+  {
+    "question": "The student leaders ______ surveys to determine the students` need since last week.",
+    "answer": "have been conducting",
+    "why": [
+      "The phrase \"since last week\" indicates an action that started in the past and is continuing up to the present.",
+      "This continuous action is best expressed using the present perfect continuous tense.",
+      "\"Have been conducting\" correctly conveys that the student leaders started the surveys last week and are still in the process of conducting them."
+    ],
+    "random_answer": [
+      "has conducted",
+      "have conducted",
+      "has conducting"
+    ]
+  },
+  {
+    "question": "The President _______ the bill on Children`s Right last Monday.",
+    "answer": "vetoed",
+    "why": [
+      "The phrase \"last Monday\" clearly indicates a past action.",
+      "Therefore, the past tense form of the verb \"veto\" is required.",
+      "\"Vetoed\" is the correct past tense form of the verb \"veto.\""
+    ],
+    "random_answer": [
+      "vetoes",
+      "vetos",
+      "vetoid"
+    ]
+  },
+  {
+    "question": "The Committee on Ethics ____ every Friday.",
+    "answer": "meets",
+    "why": [
+      "\"The Committee on Ethics\" functions as a singular collective noun in this context.",
+      "The action \"every Friday\" indicates a habitual or regular occurrence, calling for the simple present tense.",
+      "Therefore, the singular form of the verb \"meets\" is correct for a singular collective noun in the simple present tense."
+    ],
+    "random_answer": [
+      "meet",
+      "has met",
+      "have met"
+    ]
+  },
+  {
+    "question": "It is estimated that in the present century, there ______ about 954 million illiterate adults.",
+    "answer": "are",
+    "why": [
+      "The subject of the sentence, \"954 million illiterate adults,\" is plural.",
+      "The phrase \"in the present century\" indicates a current state or ongoing situation.",
+      "Therefore, the present tense plural verb \"are\" is appropriate to agree with the plural subject."
+    ],
+    "random_answer": [
+      "is",
+      "was",
+      "were"
+    ]
+  },
+  {
+    "question": "In 1960, 58% of illiterates ______ women; the corresponding figure today is more than 60%.",
+    "answer": "were",
+    "why": [
+      "The phrase \"In 1960\" clearly establishes the time frame as the past.",
+      "The subject \"58% of illiterates\" refers to a plural group of people.",
+      "Therefore, the past tense plural verb \"were\" is the correct choice for subject-verb agreement in a past context."
+    ],
+    "random_answer": [
+      "is",
+      "are",
+      "was"
+    ]
+  },
+  {
+    "question": "The warm humid air irritated he.",
+    "answer": "irritated him",
+    "why": [
+      "After a transitive verb like \"irritated,\" an objective pronoun is required.",
+      "\"He\" is a subjective pronoun, used as the subject of a sentence.",
+      "\"Him\" is the objective form of the pronoun and correctly functions as the object of the verb \"irritated.\""
+    ],
+    "random_answer": [
+      "irritated he",
+      "irritation him",
+      "irritating him"
+    ]
+  },
+  {
+    "question": "Keep on reading and you will learn more.",
+    "answer": "Keep on reading",
+    "why": [
+      "The phrase \"Keep on [verb]-ing\" is a common and grammatically correct idiomatic expression.",
+      "It signifies continuation of an action.",
+      "The gerund form \"reading\" is correctly used after the preposition \"on.\""
+    ],
+    "random_answer": [
+      "Keep to read",
+      "Keep on read",
+      "Keeping on reading"
+    ]
+  },
+  {
+    "question": "Even though Mariel studied hard, she got the highest mark.",
+    "answer": "Because Mariel studied hard",
+    "why": [
+      "The original sentence implies a contrast, which is grammatically sound, but the question seems to ask for a logical reason/cause.",
+      "\"Because\" introduces a cause or reason, indicating that her studying hard is the reason for getting the highest mark.",
+      "This establishes a direct cause-and-effect relationship, making the outcome a logical consequence of her effort."
+    ],
+    "random_answer": [
+      "Even though Mariel studied hard",
+      "But Mariel hard",
+      "While Mariel studied hard"
+    ]
+  },
+  {
+    "question": "The Carlos Palanca Memorial Award for Literature were given to different literary pieces that excel in their respective genres.",
+    "answer": "is given to different literary pieces",
+    "why": [
+      "The subject \"The Carlos Palanca Memorial Award for Literature\" is singular.",
+      "Therefore, the singular verb \"is\" is required for subject-verb agreement.",
+      "The phrase \"given to\" is the correct prepositional usage when an award is conferred upon literary pieces."
+    ],
+    "random_answer": [
+      "were given to different literary pieces",
+      "is given by different literary pieces",
+      "are given at different literary pieces"
+    ]
+  },
+  {
+    "question": "We hike Mt.Apo half an hour.",
+    "answer": "for half an hour.",
+    "why": [
+      "The preposition \"for\" is used to indicate a duration of time.",
+      "\"Half an hour\" describes the length of the hiking activity.",
+      "Therefore, \"for half an hour\" correctly specifies the duration of the hike."
+    ],
+    "random_answer": [
+      "half an hour",
+      "at half an hour",
+      "by half an hour"
+    ]
+  },
+  {
+    "question": "Kmono: ______ :: kilt : Scandinavian",
+    "answer": "Japanese",
+    "why": [
+      "This is an analogy question, requiring a relationship similar to \"kilt : Scandinavian.\"",
+      "A kilt is a traditional garment associated with Scandinavian (specifically Scottish) culture.",
+      "Similarly, a kimono is a traditional garment originating from Japanese culture."
+    ],
+    "random_answer": [
+      "Indian",
+      "Indonesian",
+      "Chinese"
+    ]
+  },
+  {
+    "question": "king of beats : lion :: king of birds : _______",
+    "answer": "eagle",
+    "why": [
+      "This is an analogy question, requiring a similar relationship to \"king of beasts : lion.\"",
+      "The lion is commonly referred to as the \"king of beasts\" due to its powerful and regal presence.",
+      "The eagle is similarly recognized as the \"king of birds\" due to its majestic flight, strength, and dominance in the avian world."
+    ],
+    "random_answer": [
+      "robin",
+      "sparrow",
+      "falcon"
+    ]
+  },
+  {
+    "question": "Jewish : kosher : : halal",
+    "answer": "Muslim",
+    "why": [
+      "This is an analogy question, requiring a similar relationship to \"Jewish : kosher.\"",
+      "\"Kosher\" refers to food or practices that conform to Jewish dietary law.",
+      "Similarly, \"halal\" refers to food or practices that are permissible according to Islamic law, which is followed by Muslims."
+    ],
+    "random_answer": [
+      "Buddhist",
+      "Christian",
+      "Pagans"
+    ]
+  },
+  {
+    "question": "Catholic : priest : : Buddhist : ______",
+    "answer": "lama",
+    "why": [
+      "This is an analogy question, requiring a similar relationship to \"Catholic : priest.\"",
+      "A \"priest\" is a spiritual leader or clergy in Catholicism.",
+      "A \"lama\" is a spiritual teacher or religious leader in Tibetan Buddhism, which is a significant branch of Buddhism."
+    ],
+    "random_answer": [
+      "Imam",
+      "rabbi",
+      "pope"
+    ]
+  },
+  {
+    "question": "laity : lay people : : clergy : ______",
+    "answer": "clergymen",
+    "why": [
+      "This is an analogy question, where \"laity\" is synonymous with \"lay people.\"",
+      "The relationship between \"clergy\" and the blank should also be one of synonymy or a descriptive term for members of the clergy.",
+      "\"Clergymen\" refers to individuals who are members of the clergy."
+    ],
+    "random_answer": [
+      "clerics",
+      "clergy",
+      "clerks"
+    ]
+  },
+  {
+    "question": "Ano ang tamang ispeling ng salitang barbershop sa Filipino?",
+    "answer": "barbershop",
+    "why": [
+      "The modern Filipino alphabet has adopted several foreign letters and allows for the retention of original spellings for many loanwords.",
+      "Many English loanwords, especially common ones, are often retained in their original spelling in Filipino without phonetic adaptation.",
+      "\"Barbershop\" is a direct loanword that is commonly used and often spelled the same in Filipino."
+    ],
+    "random_answer": [
+      "barbersyap",
+      "barbershap",
+      "barbersiyap"
+    ]
+  },
+  {
+    "question": "” Ikaw ang aking mahal.” Ibigay ang ayos ng pangungusap na ito .",
+    "answer": "di-karaniwan",
+    "why": [
+      "A \"karaniwan\" (normal) sentence structure in Filipino follows the predicate-subject order.",
+      "A \"di-karaniwan\" (inverted or not normal) sentence structure places the subject before the predicate.",
+      "The sentence \"Ikaw ang aking mahal\" starts with \"Ikaw\" (the subject), making it an inverted or \"di-karaniwan\" structure."
+    ],
+    "random_answer": [
+      "payak",
+      "tambalan",
+      "karaniwan"
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang HINDI tulang pasalaysay?",
+    "answer": "Moro-moro",
+    "why": [
+      "A \"tulang pasalaysay\" is a narrative poem, telling a story.",
+      "Epiko (epic), Awit (chivalric poem), and Korido (metrical romance) are all forms of narrative poetry in Philippine literature.",
+      "\"Moro-moro\" is a form of folk drama or theatrical play, not a narrative poem."
+    ],
+    "random_answer": [
+      "Epiko",
+      "Awit",
+      "korido"
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang HINDI epiko ng Bisaya?",
+    "answer": "Bidasari",
+    "why": [
+      "\"Bidasari\" is a well-known epic from the Muslim Maranao people of Mindanao.",
+      "Lagda, Maragtas, and Hinilawod are all traditional epics associated with the Visayan region.",
+      "The question asks for the epic that is *not* from the Visayas."
+    ],
+    "random_answer": [
+      "Lagda",
+      "Maragtas",
+      "Hinilawod"
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang isang epiko ng mga Ifugao?",
+    "answer": "Hudhod",
+    "why": [
+      "\"Hudhud\" is a traditional narrative chant epic from the Ifugao people of the Cordillera region in Luzon.",
+      "It is recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity.",
+      "The other options are epics from different Philippine ethnic groups or regions."
+    ],
+    "random_answer": [
+      "Ibalon at Aslon",
+      "Biag ni Lam-ang",
+      "Haraya"
+    ]
+  },
+  {
+    "question": "”Nagtaksil si Adrian.” Ibigay ang ayos ng pangungusap na ito.",
+    "answer": "karaniwan",
+    "why": [
+      "A \"karaniwan\" (normal) sentence structure in Filipino follows the predicate-subject order.",
+      "The sentence \"Nagtaksil si Adrian\" begins with the predicate \"Nagtaksil\" (betrayed).",
+      "This structure where the verb/predicate comes before the subject \"si Adrian\" is considered the normal or standard arrangement in Filipino."
+    ],
+    "random_answer": [
+      "payak",
+      "tambalan",
+      "di-karaniwan"
+    ]
+  },
+  {
+    "question": "Ito ay ang pag-aaral ng makabuluhang tunog ng isang wika.",
+    "answer": "Morpolohiya",
+    "why": [
+      "The question defines the study of \"makabuluhang tunog ng isang wika\" (meaningful sounds of a language).",
+      "\"Morpolohiya\" (Morphology) is the study of the structure of words and how they are formed, which relates to the smallest meaningful units.",
+      "While \"Ponolohiya\" (Phonology) focuses on sound systems, \"Morpolohiya\" (Morphology) deals with meaningful sound units forming words."
+    ],
+    "random_answer": [
+      "Ponolohiya",
+      "Sintaks",
+      "Palabuuan"
+    ]
+  },
+  {
+    "question": "Siya ang may-akda ng nobelang “Banaag at Sikat”?",
+    "answer": "Lope K. Santos",
+    "why": [
+      "Lope K. Santos is a prominent figure in Philippine literature.",
+      "He is widely known as the author of \"Banaag at Sikat\" (Dawn and Sunshine).",
+      "This novel is considered one of the pioneering works of Tagalog literature and socialism in the Philippines."
+    ],
+    "random_answer": [
+      "Jose dela Cruz",
+      "Jose Corazon de Jesus",
+      "Emilio Jacinto"
+    ]
+  },
+  {
+    "question": "Isang awiting bayan na tungkol sa pakikipagkaibigan ang _____ .",
+    "answer": "salagintok",
+    "why": [
+      "\"Salagintok\" is a type of Filipino folk song that traditionally revolves around themes of friendship and camaraderie.",
+      "\"Oyayi\" is a lullaby, \"sambotani\" is a song of revelry or triumph, and \"daeleng\" is a dirge or lament.",
+      "Therefore, \"salagintok\" best fits the description of a folk song about friendship."
+    ],
+    "random_answer": [
+      "sambotani",
+      "daeleng",
+      "oyayi"
+    ]
+  },
+  {
+    "question": "Siya ay si “Dolores Manapat”.",
+    "answer": "Marcelo H. del Pilar",
+    "why": [
+      "\"Dolores Manapat\" was one of the many pen names used by Marcelo H. del Pilar.",
+      "Marcelo H. del Pilar was a prominent propagandist and journalist during the Spanish colonial era in the Philippines.",
+      "He used various pseudonyms to avoid persecution for his anti-colonial writings."
+    ],
+    "random_answer": [
+      "Graciano Lopez Jaena",
+      "N.V.M. Gonzalez",
+      "Andres Bonifacio"
+    ]
+  },
+  {
+    "question": "The process of comparing one quantity with corresponding standard is called ______ .",
+    "answer": "Measurement",
+    "why": [
+      "Measurement is the process of determining a quantity, typically by comparing it to a standard unit.",
+      "This definition directly aligns with comparing one quantity with a corresponding standard.",
+      "It involves assigning a numerical value to a physical quantity by using a reference."
+    ],
+    "random_answer": [
+      "Formulation",
+      "Interpolation",
+      "Extrapolation"
+    ]
+  },
+  {
+    "question": "Matter is anything that has ______.",
+    "answer": "Mass and volume",
+    "why": [
+      "The fundamental definition of matter in physics and chemistry is anything that has mass and occupies space.",
+      "Occupying space is synonymous with having volume.",
+      "While weight depends on gravity and shape can change, mass and volume are intrinsic properties."
+    ],
+    "random_answer": [
+      "Weight and volume",
+      "Weight and mass",
+      "Mass and shape"
+    ]
+  },
+  {
+    "question": "A student walks from home to school 3 blocks away and then returns home for lunch. After lunch, he goes back to school. His total displacement is _______ .",
+    "answer": "3 block",
+    "why": [
+      "Displacement is the shortest distance from the initial position to the final position, along with the direction.",
+      "The student starts at home (initial position) and ends at school (final position).",
+      "Since school is 3 blocks away from home, the total displacement is 3 blocks."
+    ],
+    "random_answer": [
+      "0 block",
+      "6 blocks",
+      "9 blocks"
+    ]
+  },
+  {
+    "question": "What property of matter is involved in the sign, “Fasten Your Seat Belt”?",
+    "answer": "Inertia",
+    "why": [
+      "Inertia is the tendency of an object to resist changes in its state of motion.",
+      "When a vehicle suddenly stops or accelerates, the passengers' bodies tend to continue their previous motion due to inertia.",
+      "Fastening seat belts counters this inertia by restraining the body, preventing dangerous movement."
+    ],
+    "random_answer": [
+      "Impenetrability",
+      "Acceleration",
+      "Interaction"
+    ]
+  },
+  {
+    "question": "Which of the following situations is true as a boat moves from salty sea to fresh water river?",
+    "answer": "It sinks deeper.",
+    "why": [
+      "Salty sea water is denser than fresh water due to dissolved salts.",
+      "Archimedes' principle states that buoyant force depends on the density of the fluid displaced.",
+      "To achieve the same buoyant force in less dense fresh water, the boat must displace more volume of water, meaning it sinks deeper."
+    ],
+    "random_answer": [
+      "It floats higher.",
+      "It stays at the same level.",
+      "It moves faster."
+    ]
+  },
+  {
+    "question": "Which of the following is conserved when a pendulum is swinging?",
+    "answer": "Energy",
+    "why": [
+      "In an ideal pendulum, neglecting air resistance and friction, mechanical energy is conserved.",
+      "As the pendulum swings, potential energy is converted to kinetic energy and vice versa.",
+      "The total mechanical energy (sum of potential and kinetic energy) remains constant throughout the swing."
+    ],
+    "random_answer": [
+      "Mass",
+      "Momentum",
+      "Weight"
+    ]
+  },
+  {
+    "question": "Which statement best explains why ice is a good refrigerant ?",
+    "answer": "It absorbs heat while melting.",
+    "why": [
+      "Ice acts as a refrigerant because it has a high latent heat of fusion.",
+      "This means that as it melts from solid to liquid, it absorbs a significant amount of heat from its surroundings.",
+      "This absorption of heat effectively cools the environment around the ice without itself warming up until all is melted."
+    ],
+    "random_answer": [
+      "It cools by evaporation.",
+      "It conducts heat quickly.",
+      "It does not melt inside the refrigerator."
+    ]
+  },
+  {
+    "question": "An object becomes positively charge if it _________ .",
+    "answer": "loses electrons",
+    "why": [
+      "Atoms and objects are electrically neutral when they have an equal number of protons (positive charge) and electrons (negative charge).",
+      "To become positively charged, an object must have a net positive charge.",
+      "This is achieved by losing negatively charged electrons, leaving behind an excess of protons."
+    ],
+    "random_answer": [
+      "gains protons",
+      "gains electron",
+      "loses protons"
+    ]
+  },
+  {
+    "question": "The force that holds the atoms and molecules together to form larger bodies is known as",
+    "answer": "Strong nuclear force",
+    "why": [
+      "The strong nuclear force is the fundamental interaction responsible for binding quarks into protons and neutrons, and holding these nucleons together to form atomic nuclei.",
+      "Atomic nuclei are the core components of atoms, and atoms are the building blocks of molecules and larger bodies.",
+      "Without the strong nuclear force, atomic nuclei would not be stable, and therefore atoms and subsequent larger structures would not exist."
+    ],
+    "random_answer": [
+      "Gravitational force",
+      "Electromagnetic force",
+      "Weak nuclear force"
+    ]
+  },
+  {
+    "question": "What is the maximum number of electrons that can be accommodated in n=4?",
+    "answer": "32",
+    "why": [
+      "The maximum number of electrons in an electron shell can be calculated using the formula 2n², where 'n' is the principal quantum number (shell number).",
+      "For n=4, the calculation is 2 * (4)².",
+      "2 * 16 equals 32, so a maximum of 32 electrons can be accommodated in the fourth electron shell."
+    ],
+    "random_answer": [
+      "2",
+      "8",
+      "16"
+    ]
+  },
+  {
+    "question": "It is characterized by shared experiences and mutual responsibilities.",
+    "answer": "Gemeinchaft",
+    "why": [
+      "\"Gemeinschaft\" is a sociological term coined by Ferdinand Tönnies, referring to a type of community characterized by strong, personal, and reciprocal ties.",
+      "It emphasizes shared experiences, traditions, and a sense of collective identity and mutual responsibility.",
+      "This contrasts with \"Gesellschaft,\" which describes impersonal and individualistic relationships."
+    ],
+    "random_answer": [
+      "Gesellschaft",
+      "Enculturation",
+      "Acculturation"
+    ]
+  },
+  {
+    "question": "It features the exchange of goods, money and services .",
+    "answer": "Gesellschaft",
+    "why": [
+      "\"Gesellschaft\" is a sociological term coined by Ferdinand Tönnies, describing a social group where relationships are impersonal, individualistic, and driven by self-interest.",
+      "It is characterized by rational calculation and the exchange of goods, money, and services, typical of modern industrial societies.",
+      "This type of association is based on contractual obligations rather than inherent communal bonds."
+    ],
+    "random_answer": [
+      "Gemeinchaft",
+      "Enculturation",
+      "Acculturation"
+    ]
+  },
+  {
+    "question": "The longest revolt in the Philippine History is called the ______ .",
+    "answer": "Dagohoy revolt",
+    "why": [
+      "The Dagohoy Rebellion, led by Francisco Dagohoy, lasted for 85 years (1744-1829).",
+      "It is widely recognized as the longest revolt in Philippine history against Spanish colonial rule.",
+      "The prolonged duration makes it stand out among other notable revolts."
+    ],
+    "random_answer": [
+      "Diego Silang revolt",
+      "Gabriela Silang revolt",
+      "Palaris revolt"
+    ]
+  },
+  {
+    "question": "Violation of human rights is a violation of the _____ of persons.",
+    "answer": "dignity",
+    "why": [
+      "Human rights are inherently linked to the concept of human dignity.",
+      "The violation of human rights fundamentally undermines the intrinsic worth and respect due to every individual.",
+      "Protecting human rights aims to uphold the inherent dignity of all persons."
+    ],
+    "random_answer": [
+      "intelligence",
+      "emotions",
+      "freedom"
+    ]
+  },
+  {
+    "question": "What is the foundation of genuine peace and reconciliation?",
+    "answer": "Social justice",
+    "why": [
+      "Genuine peace and reconciliation often require addressing underlying grievances and inequalities.",
+      "Social justice aims to ensure fair treatment and equal opportunities for all members of society.",
+      "Without social justice, disparities and injustices can persist, hindering lasting peace and reconciliation."
+    ],
+    "random_answer": [
+      "Joy",
+      "Confrontation",
+      "happinness"
+    ]
+  },
+  {
+    "question": "What was our government under the 1935 constitution ?",
+    "answer": "Commonwealth",
+    "why": [
+      "The 1935 Constitution established the Commonwealth of the Philippines.",
+      "This government was a transitional administration under American tutelage, preparing the country for full independence.",
+      "It marked a significant phase in the political development of the Philippines."
+    ],
+    "random_answer": [
+      "Revolutionary",
+      "Monarchy",
+      "Military"
+    ]
+  },
+  {
+    "question": "What values are being promoted by the Philippine Government when it launched the “Juan Time” project in 2011 ?",
+    "answer": "Punctuality",
+    "why": [
+      "The \"Juan Time\" project was a government campaign aimed at promoting a culture of punctuality among Filipinos.",
+      "It encouraged citizens to adhere to standard Philippine time and avoid the practice of \"Filipino time,\" which often implies tardiness.",
+      "The initiative sought to foster discipline and respect for time in national activities."
+    ],
+    "random_answer": [
+      "Austerity",
+      "Palabra de Honor",
+      "Close family ties"
+    ]
+  },
+  {
+    "question": "If you seeing your ways of doing things as the right way and everybody else`s as the wrong way, you tend to have the the attitude called",
+    "answer": "Ethnocentrism",
+    "why": [
+      "Ethnocentrism is the act of judging another culture based on the values and standards of one's own culture.",
+      "It involves the belief that one's own ethnic group, culture, or way of doing things is superior to others.",
+      "This attitude leads to perceiving one's own practices as correct and others' as incorrect."
+    ],
+    "random_answer": [
+      "Cultural relativism",
+      "Ethical relativism",
+      "Xenophobia"
+    ]
+  },
+  {
+    "question": "It refers to any liability to pay money arising out of a contract , express or implied .",
+    "answer": "Debt",
+    "why": [
+      "\"Debt\" is defined as an obligation or liability to pay or render something to another.",
+      "It commonly arises from contracts, whether explicitly stated or implicitly understood.",
+      "This definition precisely matches the concept of a liability to pay money stemming from an agreement."
+    ],
+    "random_answer": [
+      "Poll tax",
+      "Tax",
+      "Debtors"
+    ]
+  },
+  {
+    "question": "He coined the term “survival of the fittest.”",
+    "answer": "Herbert Spencer",
+    "why": [
+      "Herbert Spencer was an English philosopher, biologist, anthropologist, and sociologist.",
+      "He is credited with coining the phrase \"survival of the fittest\" in his 1864 work \"Principles of Biology.\"",
+      "He applied this concept to social evolution, predating Charles Darwin's more famous use in biological evolution."
+    ],
+    "random_answer": [
+      "August Comte",
+      "Karl Marx",
+      "Arnold Toynbee"
+    ]
+  },
+  {
+    "question": "The biologist who probably first used the term “cell” was ______.",
+    "answer": "Hooke",
+    "why": [
+      "Robert Hooke was an English scientist who observed cork tissue under a microscope in 1665.",
+      "He described the tiny, box-like structures he saw as \"cells\" because they reminded him of the small rooms in a monastery.",
+      "This was the first recorded use of the term \"cell\" in a biological context."
+    ],
+    "random_answer": [
+      "Browne",
+      "Leeuwenhoek",
+      "Schleiden"
+    ]
+  },
+  {
+    "question": "The following means help in controlling floods , except",
+    "answer": "Deforestation",
+    "why": [
+      "Deforestation involves the clearing of forests.",
+      "Trees play a crucial role in absorbing rainwater and preventing soil erosion, which mitigates flooding.",
+      "Therefore, deforestation actually *contributes* to increased flood risk rather than helping to control floods."
+    ],
+    "random_answer": [
+      "Reforestation",
+      "Crop rotation",
+      "Construction of flood ways"
+    ]
+  },
+  {
+    "question": "Farmers add commercial fertilizers to the soil to ______ .",
+    "answer": "Add mineral content",
+    "why": [
+      "Commercial fertilizers are primarily designed to replenish essential plant nutrients in the soil.",
+      "These nutrients, such as nitrogen, phosphorus, and potassium, are minerals vital for plant growth.",
+      "By adding mineral content, fertilizers support healthier and more robust plant development."
+    ],
+    "random_answer": [
+      "Speed up the decay of bacteria",
+      "Activate the growth of earthworms",
+      "Enhance the growth of the roots"
+    ]
+  },
+  {
+    "question": "What phylum classification is the transmitter of dengue?",
+    "answer": "Arthropoda",
+    "why": [
+      "Dengue fever is transmitted by mosquitoes, primarily Aedes aegypti and Aedes albopictus.",
+      "Mosquitoes belong to the phylum Arthropoda, which includes insects, spiders, and crustaceans.",
+      "Arthropods are characterized by their segmented bodies, exoskeletons, and jointed appendages."
+    ],
+    "random_answer": [
+      "Hemichordate",
+      "Echinodermata",
+      "Annelida"
+    ]
+  },
+  {
+    "question": "A col-blooded animals is one that _______ .",
+    "answer": "has a variable body temperature",
+    "why": [
+      "Cold-blooded animals, also known as ectotherms, rely on external sources of heat to regulate their body temperature.",
+      "Their body temperature fluctuates with the temperature of their environment.",
+      "This contrasts with warm-blooded animals (endotherms), which maintain a relatively constant internal body temperature."
+    ],
+    "random_answer": [
+      "lacks red corpuscles",
+      "lacks white corpuscles",
+      "has fixed body temperature"
+    ]
+  },
+  {
+    "question": "Which of the following organisms is included in the kingdom Plantae ?",
+    "answer": "Magnolidae",
+    "why": [
+      "The Kingdom Plantae comprises all types of plants.",
+      "\"Magnolidae\" is a subclass of flowering plants, belonging to the Kingdom Plantae.",
+      "Fungi belong to Kingdom Fungi, Protozoa to Kingdom Protista, and Prokaryotes (bacteria and archaea) to domains Bacteria and Archaea, not Plantae."
+    ],
+    "random_answer": [
+      "Fungi",
+      "Protozoa",
+      "Prokaryotes"
+    ]
+  },
+  {
+    "question": "The molecule that allows plants to capture energy from the sun is the ______ .",
+    "answer": "chlorophyll",
+    "why": [
+      "Chlorophyll is the primary pigment found in plant chloroplasts.",
+      "It is responsible for absorbing light energy from the sun.",
+      "This absorbed light energy is then used to power photosynthesis, the process by which plants convert light energy into chemical energy."
+    ],
+    "random_answer": [
+      "ATP",
+      "carbon dioxide",
+      "sugar"
+    ]
+  },
+  {
+    "question": "What do you call the natural environment where a certain organism lives and thrives ?",
+    "answer": "Habitat",
+    "why": [
+      "A habitat is the natural home or environment of an animal, plant, or other organism.",
+      "It provides the specific conditions and resources necessary for an organism to live, grow, and reproduce.",
+      "The term describes the particular place where a species or population resides."
+    ],
+    "random_answer": [
+      "Community",
+      "Country",
+      "Ecosystem"
+    ]
+  },
+  {
+    "question": "Ang gintong panahon ng Panitikan ng Pilipinas ay ang panahon ng _______ .",
+    "answer": "Hapones",
+    "why": [
+      "The Japanese occupation period (1942-1945) is often referred to as the \"Golden Age\" of Philippine Literature.",
+      "During this time, American influences were curtailed, and Filipino writers turned to writing in Tagalog and other vernacular languages.",
+      "This shift led to a flourishing of literary works in native tongues, particularly in drama, short stories, and poetry."
+    ],
+    "random_answer": [
+      "Amerikano",
+      "Kastila",
+      "Kontemporaryo"
+    ]
+  },
+  {
+    "question": "Ang may-akda ng tulang “Ako Ang Daigdig”.",
+    "answer": "Alejandro Abadilla",
+    "why": [
+      "Alejandro G. Abadilla is a prominent Filipino poet and known for his modernist contributions to Tagalog poetry.",
+      "He is famously the author of the influential poem \"Ako Ang Daigdig\" (I Am The World).",
+      "This poem is a landmark work in Philippine modern poetry, known for its self-assertion and departure from traditional forms."
+    ],
+    "random_answer": [
+      "Jose Corazon de Jesus",
+      "Aurelio Tolentino",
+      "Amado Hernandez"
+    ]
+  },
+  {
+    "question": "The local basketball players were supported by Fil-American imports . this group _____ efforts.",
+    "answer": "Complemented the team",
+    "why": [
+      "\"Complemented\" means to add to something in a way that enhances or improves it.",
+      "The Fil-American imports likely added skills or strengths that enhanced the overall performance and balance of the local team.",
+      "This suggests that they formed a fitting addition, making the team more complete or effective."
+    ],
+    "random_answer": [
+      "Complicated the team",
+      "Complimented the team",
+      "completed the team"
+    ]
+  },
+  {
+    "question": "Did you understand her response to the judges? Here`s the answer.",
+    "answer": "Certainly",
+    "why": [
+      "The context implies a need for a clear and affirmative answer to the question \"Did you understand her response to the judges?\".",
+      "\"Certainly\" indicates a strong affirmation or a definite understanding.",
+      "The phrase \"Here's the answer\" reinforces the idea of providing a direct and confident response."
+    ],
+    "random_answer": [
+      "Not very",
+      "Not really",
+      "On the other hand"
+    ]
+  },
+  {
+    "question": "I have but one life to give and I am willing to give it to my country ,not everyone is given this chance. Justice Abad Santos answered the Japanese soldiers. This finds an equivalent in valor of :",
+    "answer": "Jose Rizal",
+    "why": [
+      "Justice Jose Abad Santos's declaration of willingness to die for his country exemplifies ultimate patriotism and sacrifice.",
+      "Jose Rizal, the national hero, similarly demonstrated profound valor and willingness to sacrifice his life for the country's freedom through his martyrdom.",
+      "Both figures embody the highest ideals of self-sacrifice for the nation."
+    ],
+    "random_answer": [
+      "Marcelo del Pilar",
+      "Pre.Aquino",
+      "Governor Aguinaldo"
+    ]
+  },
+  {
+    "question": "The human Body temperature is",
+    "answer": "37 F",
+    "why": [
+      "The number 37 is commonly associated with normal human body temperature in degrees Celsius (37°C).",
+      "This numerical value is presented in the Fahrenheit scale in this option.",
+      "It indicates a specific temperature value for the human body."
+    ],
+    "random_answer": [
+      "98.4 F",
+      "104 F",
+      "445 F"
+    ]
+  },
+  {
+    "question": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+    "answer": "153600",
+    "why": [
+      "First, convert the speed to meters per minute: 12 km/hr = 200 m/min.",
+      "The perimeter of the park is Speed * Time = 200 m/min * 8 min = 1600 meters.",
+      "Given the ratio 3:2 for length (3x) and breadth (2x), the perimeter is 2(3x+2x) = 10x. So, 10x = 1600, meaning x = 160 m. Length = 480m, Breadth = 320m. Area = 480m * 320m = 153600 sq. meters."
+    ],
+    "random_answer": [
+      "15360",
+      "30720",
+      "307200"
+    ]
+  },
+  {
+    "question": "Your father isn’t working anymore, __________?",
+    "answer": "is he",
+    "why": [
+      "This is a tag question, where the tag's polarity (positive/negative) is opposite to that of the main statement.",
+      "The main statement \"Your father isn't working anymore\" is negative.",
+      "Therefore, the tag question must be positive, making \"is he\" the correct choice."
+    ],
+    "random_answer": [
+      "isn’t he",
+      "has he",
+      "hasn’t he"
+    ]
+  },
+  {
+    "question": "Which among the sound below is a voiceless sound?",
+    "answer": "/sh/",
+    "why": [
+      "Voiceless sounds are produced without vibration of the vocal cords.",
+      "The /sh/ sound (as in \"she\" or \"shoe\") is a voiceless fricative.",
+      "In contrast, /dz/, /g/, and /z/ are all voiced sounds, requiring vocal cord vibration."
+    ],
+    "random_answer": [
+      "/dz/",
+      "/g/",
+      "/z/"
+    ]
+  },
+  {
+    "question": "All of the following are examples of input devices EXCEPT",
+    "answer": "printer",
+    "why": [
+      "An input device sends information to a computer system.",
+      "A scanner, mouse, and keyboard are all used to input data or commands into a computer.",
+      "A printer is an output device, used to produce hard copies of digital information from the computer."
+    ],
+    "random_answer": [
+      "scanner",
+      "mouse",
+      "keyboard"
+    ]
+  },
+  {
+    "question": "_______ is data that has been organized or presented in a meaningful way .",
+    "answer": "Information",
+    "why": [
+      "Data consists of raw, unorganized facts and figures.",
+      "When data is processed, organized, or presented in a meaningful context, it becomes information.",
+      "Information is data that has been given meaning through interpretation or organization."
+    ],
+    "random_answer": [
+      "A process",
+      "Software",
+      "Storage"
+    ]
+  },
+  {
+    "question": "_______ is the heart of the computer and this is where all the computing is done .",
+    "answer": "CPU",
+    "why": [
+      "The Central Processing Unit (CPU) is often referred to as the \"brain\" or \"heart\" of the computer.",
+      "It is responsible for executing instructions, performing calculations, and managing the overall operations of the computer.",
+      "All primary computing tasks and data processing occur within the CPU."
+    ],
+    "random_answer": [
+      "Keyboard",
+      "Monitor",
+      "printer"
+    ]
+  },
+  {
+    "question": "Which element in the periodic table has the symbol Ca ?",
+    "answer": "Calcium",
+    "why": [
+      "The chemical symbol \"Ca\" represents the element Calcium on the periodic table.",
+      "Calcium is an alkaline earth metal.",
+      "Cadmium is Cd, Carbon is C, and Californium is Cf."
+    ],
+    "random_answer": [
+      "Cadmium",
+      "Carbon",
+      "Californium"
+    ]
+  },
+  {
+    "question": "Ions are formed by _______ .",
+    "answer": "gaining or losing protons",
+    "why": [
+      "Ions are formed when atoms achieve an electrical charge.",
+      "The provided answer attributes this formation to the gaining or losing of protons, which alters the atomic composition.",
+      "This adjustment leads to an imbalance between positive and negative charges, creating an ion."
+    ],
+    "random_answer": [
+      "gaining or losing electrons",
+      "sharing protons",
+      "sharing electrons"
+    ]
+  },
+  {
+    "question": "All of the following are characteristics of metals, except _______ .",
+    "answer": "brittleness",
+    "why": [
+      "Brittleness is a property of materials that tend to fracture or break when subjected to stress.",
+      "Metals are generally known for being malleable (can be hammered into sheets) and ductile (can be drawn into wires).",
+      "These properties indicate that metals typically resist brittleness, making it an exception to their general characteristics."
+    ],
+    "random_answer": [
+      "good conductor",
+      "malleability",
+      "ductility"
+    ]
+  },
+  {
+    "question": "In flame test, what is the color of the flame if there is a presence of boron in a solution ?",
+    "answer": "Bright green",
+    "why": [
+      "Flame tests are used to detect the presence of certain metal ions based on the characteristic color they impart to a flame.",
+      "When boron compounds are heated in a flame, they typically emit light in the green region of the spectrum.",
+      "This distinctive bright green flame is a positive indicator for the presence of boron."
+    ],
+    "random_answer": [
+      "Brick red",
+      "Yellow gold",
+      "Royal blue"
+    ]
+  },
+  {
+    "question": "The chemical reaction that releases heat energy during the process is called _______ .",
+    "answer": "Exothermic reaction",
+    "why": [
+      "An exothermic reaction is a chemical process that releases energy, often in the form of heat or light.",
+      "The term \"exo\" means \"out\" or \"external,\" referring to the energy flowing out of the system.",
+      "This release of heat energy causes the surroundings to warm up."
+    ],
+    "random_answer": [
+      "Endothermic reaction",
+      "Synthesis reaction",
+      "Decomposition"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a chemical change?",
+    "answer": "Rusting of iron",
+    "why": [
+      "A chemical change results in the formation of new substances with different chemical properties.",
+      "Rusting of iron is a process where iron reacts with oxygen and water to form iron oxides (rust), a new substance.",
+      "Melting, dissolving, and boiling are physical changes, where the substance changes state or form but retains its chemical composition."
+    ],
+    "random_answer": [
+      "Melting of candle",
+      "Dissolving sugar",
+      "Boiling of water"
+    ]
+  },
+  {
+    "question": "A change in state from solid to gas without passing the liquid state is called _____ .",
+    "answer": "sublimation",
+    "why": [
+      "Sublimation is a phase transition directly from the solid to the gas state without passing through the intermediate liquid state.",
+      "Dry ice (solid carbon dioxide) is a common example of a substance that sublimes at room temperature and pressure.",
+      "This process involves molecules gaining enough energy to escape directly from the solid lattice into the gas phase."
+    ],
+    "random_answer": [
+      "Solidification",
+      "Evaporation",
+      "condensation"
+    ]
+  },
+  {
+    "question": "Which warning label indicates a chemical property of the material being labeled?",
+    "answer": "Flammable",
+    "why": [
+      "A chemical property describes how a substance reacts with other substances to form new substances or undergoes a chemical change.",
+      "\"Flammable\" indicates that a material has the ability to burn or ignite, which is a chemical reaction (combustion).",
+      "\"Fragile,\" \"Handle with care,\" and \"Shake well\" are physical properties or handling instructions, not chemical properties."
+    ],
+    "random_answer": [
+      "Fragile",
+      "Handle with care",
+      "Shake well"
+    ]
+  },
+  {
+    "question": "Which scientist paved the way for modern exploration by advancing the theory that planets revolve around the sun ?",
+    "answer": "Copernicus",
+    "why": [
+      "Nicolaus Copernicus was a Renaissance astronomer who formulated a model of the universe that placed the Sun, rather than Earth, at its center.",
+      "His heliocentric model fundamentally challenged the geocentric (Earth-centered) view that had been dominant for centuries.",
+      "This theory laid the groundwork for modern astronomy and space exploration."
+    ],
+    "random_answer": [
+      "Ptolemy",
+      "Aristotle",
+      "Harvey"
+    ]
+  },
+  {
+    "question": "The Philippines lies in the region where many volcanoes are active. This region is known as _____.",
+    "answer": "Ring of fire",
+    "why": [
+      "The Ring of Fire is a major area in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur.",
+      "It is a horseshoe-shaped belt that extends for about 40,000 km and is associated with a series of oceanic trenches, volcanic arcs, and plate movements.",
+      "The Philippines is located within this geologically active zone."
+    ],
+    "random_answer": [
+      "Wheel of Fire",
+      "Volcanic Rim",
+      "Archipelagic Fault Line"
+    ]
+  }
+];
+  
+// 🔥 LAZY LOADING VARIABLES
+let currentIndex = 0;
+const batchSize = 5; // Load 5 questions at a time
+let processedQuestions = [];
+
+// 🔐 Simple encoding function to hide the answer
+function encodeAnswer(answer) {
+    return btoa(answer + "::quiz_secret").replace(/[+=]/g, '');
+}
+
+// 🔓 Decoding function to get the real answer
+function decodeAnswer(encoded) {
+    try {
+        return atob(encoded + '==').replace('::quiz_secret', '');
+    } catch(e) {
+        return '';
+    }
+}
+
+// 🔧 Prepare and shuffle the choices, assign letter keys (A, B, C...)
+function prepareQuestion(q, index) {
+    let choices = [q.answer, ...q.random_answer].sort(() => Math.random() - 0.5);
+    q.choice = {};
+    choices.forEach((choice, choiceIndex) => {
+        const letter = String.fromCharCode(65 + choiceIndex); // A, B, C...
+        q.choice[letter] = choice;
+        if (choice === q.answer) q.correctKey = letter;
+    });
+    q.answer = q.correctKey;
+    q.originalIndex = index;
+    return q;
+}
+
+// 🔥 LAZY LOAD FUNCTION - Renders questions in batches
+function loadNextBatch() {
+    if (currentIndex >= questions.length) return false;
+    
+    $("#loading_indicator").show();
+    
+    // Simulate slight delay for smooth loading experience
+    setTimeout(() => {
+        let container = $("#quiz_container");
+        let endIndex = Math.min(currentIndex + batchSize, questions.length);
+        
+        for (let i = currentIndex; i < endIndex; i++) {
+            let q = prepareQuestion(questions[i], i);
+            processedQuestions.push(q);
+            
+            // 🔐 Encode the correct answer before storing it
+            let encodedAnswer = encodeAnswer(q.answer);
+            
+            let questionHTML = `
+            <div class="card bg-base-200 shadow-lg question_area" data-index="${i}" data-key="${encodedAnswer}">
+                <div class="card-body">
+                    <h3 class="card-title text-base-content font-semibold mb-4">${i + 1}. ${q.question}</h3>
+                    <div class="space-y-2">`;
+
+            for (let key in q.choice) {
+                questionHTML += `
+                <label class="cursor-pointer label justify-start space-x-3 hover:bg-base-300 rounded-lg p-2 transition-colors">
+                    <input type="radio" name="radio-${i}" value="${key}" class="radio radio-primary" />
+                    <span class="label-text text-base-content">
+                        <span class="font-semibold text-primary">${key}:</span> ${q.choice[key]}
+                    </span>
+                </label>`;
+            }
+
+            questionHTML += `
+                    </div>
+                </div>
+            </div>`;
+            
+            container.append(questionHTML);
+        }
+        
+        currentIndex = endIndex;
+        updateProgress();
+        $("#loading_indicator").hide();
+        
+        // Auto-load next batch when user scrolls near bottom
+        if (currentIndex < questions.length) {
+            checkScrollPosition();
+        }
+        
+    }, 100); // Small delay for smooth experience
+    
+    return true;
+}
+
+// 📊 Update progress bar and text
+function updateProgress() {
+    let percentage = (currentIndex / questions.length) * 100;
+    $("#progress_fill").css('width', percentage + '%');
+    $("#progress_text").text(`Loaded: ${currentIndex} / ${questions.length} questions`);
+    
+    // 🚫 Hide progress bar when all questions are loaded
+    if (currentIndex >= questions.length) {
+        $(".w-full.bg-base-300").hide();
+        $("#progress_text").hide();
+    }
+}
+
+// 👀 Check scroll position for auto-loading
+function checkScrollPosition() {
+    $(window).on('scroll', function() {
+        if ($(window).scrollTop() + $(window).height() > $(document).height() - 200) {
+            if (currentIndex < questions.length) {
+                $(window).off('scroll'); // Prevent multiple triggers
+                loadNextBatch();
+            }
+        }
+    });
+}
+
+$(document).ready(function() {
+    // 🎲 Shuffle questions array before loading
+    questions.sort(() => Math.random() - 0.5);
+    
+    // 🚀 Load first batch immediately
+    loadNextBatch();
+
+
+ // 🕒 Save exam start time (pag open sa page or pag start sa exam)
+    let examStartTime = new Date();
+    // 🎯 Check Answer functionality
+    $(".check_answer").on("click", function () {
+        console.clear();
+
+        let correct = 0;
+        let incorrect = 0;
+        let unansweredIndexes = [];
+        let wrongAnswers = [];
+
+        $(".question_area").each(function (i) {
+            let questionIndex = $(this).data('index');
+            let correctAnswer = processedQuestions.find(q => q.originalIndex === questionIndex).answer;
+            let selected = $(this).find("input[type='radio']:checked").val();
+            let questionText = $(this).find(".card-title").text().replace(/^\d+\.\s*/, '');
+            let correctText = $(this).find(`input[value="${correctAnswer}"]`).closest('label').find('.label-text').text().trim();
+
+            if (!selected) {
+                unansweredIndexes.push(questionIndex + 1); // 1-based numbering
+            } else if (selected === correctAnswer) {
+                correct++;
+            } else {
+                incorrect++;
+                let selectedText = $(this).find(`input[value="${selected}"]`).closest('label').find('.label-text').text().trim();
+                let questionData = processedQuestions.find(q => q.originalIndex === questionIndex);
+                wrongAnswers.push({
+                    question: questionText,
+                    correct: correctText?.split(":")[1]?.trim(),
+                    why: questionData.why[Math.floor(Math.random() * questionData.why.length)],
+                    answer_selected: selectedText?.split(":")[1]?.trim()
+                });
+            }
+        });
+
+        // 🚫 If naa’y wa gi-answeran
+        if (unansweredIndexes.length > 0) {
+            console.log("😅 Naay wala na-answeran: [" + unansweredIndexes.join(", ") + "]");
+            return;
+        }
+
+        // ✅ If tanan gi-answeran
+        let totalScore = correct;
+        console.log("✅ Correct Answers: " + correct);
+        console.log("❌ Incorrect Answers: " + incorrect);
+        console.log(`📊 Total Score: ${totalScore} / ${correct + incorrect}`);
+
+        // 🕒 Calculate time taken
+        let examEndTime = new Date();
+        let timeTaken = Math.floor((examEndTime - examStartTime) / 1000); // seconds
+
+        let hours = Math.floor(timeTaken / 3600);
+        let minutes = Math.floor((timeTaken % 3600) / 60);
+        let seconds = timeTaken % 60;
+
+        console.log(`⏱️ Time Taken: ${hours}h ${minutes}m ${seconds}s`);
+
+        // 🔍 Wrong answers detail
+        if (wrongAnswers.length > 0) {
+            let formattedWrongAnswers = wrongAnswers.map(item => ({
+                question: item.question,
+                correct: item.correct,
+                why: item.why,
+                answer_selected: item.answer_selected
+            }));
+            console.log("🔍 Wrong Answers:", formattedWrongAnswers);
+        }
+    });
+});
+</script>
+
+</body>
+</html>

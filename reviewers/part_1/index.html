@@ -2303,7 +2303,7 @@ $(document).ready(function() {
     // ❌ Mistakes Modal
     if (wrongAnswers.length > 0) {
         let wrongModal = $(`
-            <dialog id="wrong_modal" class="modal">
+            <div id="wrong_modal" class="h-[100vh] w-full">
               <div class="modal-box bg-base-200 text-base-content max-h-[80vh] overflow-y-auto">
                 <h3 class="font-bold text-lg mb-2">❌ Mistake Review</h3>
                 <div id="wrongCollapseContainer" class="space-y-3"></div>
@@ -2311,7 +2311,7 @@ $(document).ready(function() {
                   <button class="btn close-wrong">❌ Close</button>
                 </div>
               </div>
-            </dialog>
+            </div>
         `);
         $("body").append(wrongModal);
 

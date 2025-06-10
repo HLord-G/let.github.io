@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Part 1 General Education</title>
-
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
   <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
@@ -28,7 +28,8 @@
       <!-- Countdown text -->
       <div id="countdown" class="text-center font-bold text-xl text-warning mt-5 hidden">5</div>
 
-      <div class="flex flex-row justify-center items-center mt-[20px]">
+      <div class="flex flex-row justify-center items-center mt-[20px] space-x-5">
+        <button onclick="review()" class="btn btn-success">  <i data-feather="book-open"></i> Review</button>
         <button onclick="startCountdown()" class="btn btn-primary">Start Test</button>
       </div>
     </div>
@@ -48,10 +49,23 @@
 
         if (timeLeft <= 0) {
           clearInterval(timer);
-          window.location.href = "../"; // Redirect after 3 seconds
+          window.location.href = "../test/"; // Redirect after 3 seconds
         }
       }, 1000);
     }
+    
+    function review(){
+      window.location.href = "../review/";
+    }
+
+    feather.replace();
+ 
   </script>
+  
+ 
+
+
+
+
 </body>
 </html>

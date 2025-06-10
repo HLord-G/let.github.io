@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,21 +11,20 @@
   <link rel="stylesheet" href="src/style/app.css">
   
 </head>
-<body data-theme="dark" class="font-[Source Sans Pro]">
+<body class="font-[Source Sans Pro]">
   <!-- Header -->
   <header class="navbar bg-base-100 shadow-sm">
     <div class="flex-1">
-      <a class="btn btn-ghost text-xl">LC Reviewer PH</a>
+      <a class="btn btn-ghost text-xl">LET & Civil Reviewer PH</a>
     </div>
     <div class="flex-none">
-        <a href="#about" class="hover:underline mr-[20px] max-[769px]:hidden">About</a>
-        <a href="#reviewers" class="hover:underline mr-[20px] max-[769px]:hidden">Reviewers</a>
-      <div class="dropdown dropdown-end">
+        <a href="#about" class="hover:underline mr-[20px] max-[769px]:hidden font-bold">About</a>
+        <a href="#reviewers" class="hover:underline mr-[20px] max-[769px]:hidden font-bold">Reviewers</a>
+      
+      <div class="dropdown dropdown-end hidden max-[769px]:block">
         <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
-          <div class="w-10 rounded-full">
-            <img
-              alt="Tailwind CSS Navbar component"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+          <div class="">
+            <svg xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960" width="30px" fill="currentColor"><path d="M80-160v-168.67h168.67V-160H80Zm235.33 0v-168.67H880V-160H315.33ZM80-395.33v-169.34h168.67v169.34H80Zm235.33 0v-169.34H880v169.34H315.33ZM80-631.33V-800h168.67v168.67H80Zm235.33 0V-800H880v168.67H315.33Z"/></svg>
           </div>
         </div>
         <ul
@@ -41,24 +40,25 @@
           <li><a>Logout</a></li>
         </ul>
       </div>
+
     </div>
   </header>
 
 
   <!-- Hero Section -->
-  <section class="bg-gradient-to-br   bg-base-300 py-20 px-6">
-    <div class="max-w-7xl mx-auto flex flex-col-reverse lg:flex-row items-center gap-10">
+  <section class="bg-gradient-to-br  bg-base-300 py-20 px-6">
+    <div class="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-10">
       <div class="w-full lg:w-1/2 text-center lg:text-left">
         <span class="bg-purple-100 text-primary px-3 py-1 rounded-full text-sm font-semibold mb-4 inline-block">Free Access</span>
-        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight mb-4">Build your reviewer exactly how you need it</h1>
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight mb-4">LET & Civil Exam Reviewer</h1>
         <p class="text-lg  mb-">Access LET and Civil exam reviewers anytime and anywhere to practice, prepare, and succeed — perfect for solo reviewers.</p>
         <div class="flex flex-col sm:flex-row gap-4 mt-[20px] justify-center lg:justify-start">
           <a href="#reviewers" class="btn btn-secondary">Get started</a>
           <a href="#about" class="btn btn-outline">Genarete a Questioner</a>
         </div>
       </div>
-      <div class="w-full lg:w-1/2 max-[1024px]:hidden">
-        <img src="https://cdn.jsdelivr.net/gh/floatui/assets/ui-devices.png" alt="Devices" class="mx-auto w-full max-w-md" />
+      <div class="w-full lg:w-1/2">
+        <img src="src/img/pphone.webp" alt="Devices" class="mx-auto w-full max-w-md" />
       </div>
     </div>
   </section>
@@ -66,16 +66,25 @@
   <!-- About Section -->
   <section id="about" class="py-20">
     <div class="max-w-7xl mx-auto px-6 flex flex-col-reverse md:flex-row items-center gap-12">
-        <div class="w-full flex-1 max-[769px]:hidden">
-            <img src="your-profile-image.jpg" alt="Profile" class="rounded-xl shadow-xl w-full h-auto" />
+        <div class="w-full flex-1 max-[926px]:hidden">
+            <img src="./src/img/let_cs.webp" alt="Profile" class="rounded-xl shadow-xl w-full h-auto" />
         </div>
         <div class="w-full flex-1">
         <h3 class="text-3xl font-bold mb-[10px] px-[10px]">Discover exam readiness and better possibilities</h3>
-        <p class="text-lg leading-relaxed mb-6 text-justify px-[10px]">
-          This website is created to help aspiring professionals in the Philippines prepare for the Civil Service Exam and the Licensure Examination for Teachers (LET).
-          My goal is to provide accessible reviewers and testing tools to boost confidence and increase success rates. This is a <strong>free LET and Civil reviewer</strong> platform
-          where you can test and prepare yourself before the actual exam — especially helpful for those who are <strong>self-reviewing or studying solo</strong>.
-        </p>
+        <div class="text-lg leading-relaxed mb-6 text-justify px-[10px]">
+          <p>
+            This site helps you prepare for the <strong>Civil Service</strong> and <strong>LET</strong> exams with <strong>free reviewers</strong> and <strong>mock tests</strong>.
+          </p>
+          <p>
+            <strong>100% free</strong> — no hidden fees. I gathered <strong>data</strong> and bought <strong>books</strong> so you can review without spending.
+          </p>
+          <p>
+            Content is <strong>updated daily</strong>, perfect for <strong>self-reviewers</strong>.
+          </p>
+          <p>
+            <strong>  — good luck!</strong>
+          </p>
+        </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <div class="flex gap-4 items-start">
             <i data-feather="calendar" class="text-secondary w-6 h-6"></i>
@@ -98,46 +107,79 @@
 
   <!-- Reviewers Section -->
    
-  <section class="py-20 bg-base-300">
+  <section class="py-20 bg-base-300" id="reviewers">
     <div class="max-w-6xl mx-auto px-6">
 
         <header class="bg-base-300">
-            <h1 class="text-4xl my-[40px] mb-[80px] font-bold text-center">2025 LET Reviewer</h1>
+            <h1 class="text-4xl my-[40px] mb-[80px] font-bold text-center">2025 LET Reviewers</h1>
         </header>
 
-        <h1 class="text-3xl mt-[40px] mb-[20px] font-bold text-left text-primary">LET Reviewer for General Education (Gen Ed)</h1>
+        <h1 class="text-3xl mt-[40px] mb-[40px] font-bold text-left text-base-content/50">LET Reviewer for General Education (Gen Ed)</h1>
+    
+        <div class="grid grid-cols-4 max-[866px]:grid-cols-3 max-[656px]:grid-cols-2 max-[436px]:grid-cols-1  gap-6 max-w-7xl mx-auto">
+          <!-- Card 1 -->
+          <a href="./reviewers/part_1/ready/" class="block">
+              <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
+                  <div class="flex flex-col justify-center items-center">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
+                          <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
+                      </svg>
+                  </div>
+                  <div class="space-y-1 text-left mt-[20px]">
+                      <h1 class="text-lg leading-[20px] text-center font-bold">
+                          General Education Part 1 Take a Test
+                      </h1>
+                      <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The Reviewer Exam mainly cover General Education topics, including science, language, culture, human rights, math, history, computers, social issues, literature, and geography.</p>
+                  </div>
+              </aside>
+          </a>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-        <a href="./reviewers/part_1/ready/">
-            <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
-                <h4 class="text-xl font-bold mb-2 text-primary">General Education Part 1 Take a Test</h4>
-                <p class="line-clamp-3">The Reviewer Exam mainly cover General Education topics, including science, language, culture, human rights, math, history, computers, social issues, literature, and geography.</p>
-            </div>
-        </a>
-        <a href="reviewers/part_2/ready/">
-            <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
-                <h4 class="text-xl font-bold mb-2 text-primary">General Education Part 2 Take a Test</h4>
-                <p class="line-clamp-3">The LET General Education reviewer covers English, Math, Science, Filipino, Social Studies, and General Knowledge. It includes topics like grammar, math problems, ecology, history, literature, and tech info essential for teaching.</p>
-            </div>
-        </a>
-        <a href="reviewers/part_3/ready/">
-          <div class="card bg-base-100 p-6 rounded-xl shadow hover:shadow-lg transition-transform transform hover:-translate-y-1 cursor-pointer">
-            <h4 class="text-xl font-bold mb-2 text-primary">Professional Education Part 3 Take a Test</h4>
-            <p class="">Grammar, reading comprehension, and vocabulary exercises.</p>
-          </div>
-        </a>
-      </div>
+
+          <a href="./reviewers/part_1/ready/" class="block">
+            <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
+                <div class="flex flex-col justify-center items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
+                        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
+                    </svg>
+                </div>
+                <div class="space-y-1 text-left mt-[20px]">
+                    <h1 class="text-lg leading-[20px] text-center font-bold">
+                      General Education Part 2 Take a Test
+                    </h1>
+                    <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The LET General Education reviewer covers English, Math, Science, Filipino, Social Studies, and General Knowledge. It includes topics like grammar, math problems, ecology, history, literature, and tech info essential for teaching.</p>
+                </div>
+            </aside>
+          </a>
+
+          <a href="./reviewers/part_3/ready/" class="block">
+            <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
+                <div class="flex flex-col justify-center items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
+                        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
+                    </svg>
+                </div>
+                <div class="space-y-1 text-left mt-[20px]">
+                    <h1 class="text-lg leading-[20px] text-center font-bold">
+                      Professional Education Part 3 Take a Test
+                    </h1>
+                    <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">Grammar, reading comprehension, and vocabulary exercises.</p>
+                </div>
+            </aside>
+          </a>
+ 
+ 
+        </div>
     </div>
   </section>
 
 
   <!-- Disclaimer -->
-  <section id="disclaimer" class="py-5 border-t bg-amber-50 border-gray-200">
+  <!-- <section id="disclaimer" class="py-5 border-t bg-amber-50 border-gray-200">
     <div class="max-w-4xl mx-auto text-center px-4">
       <h3 class="text-2xl font-semibold mb-4 text-red-600">Disclaimer</h3>
       <p class="text-gray-700 text-base leading-relaxed">This website is not affiliated with any government agency. The content is provided for educational purposes only to help individuals prepare for the Civil and LET exams.</p>
     </div>
-  </section>
+  </section> -->
 
   <!-- Footer -->
   <footer class="bg-base-100 text-center py-5 mt-10">

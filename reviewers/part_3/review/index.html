@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Review</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="flex flex-row justify-center items-center">
+    
+    <div class="flex flex-col justify-center p-[10px] items-center min-w-[300px] max-w-[788px] space-y-4 py-[40px] w-full">
+        
+        <!-- Header -->
+        <div class="text-center mb-6">
+            <h1 class="text-3xl font-bold text-primary mb-2">Quiz Review</h1>
+            <p class="text-base-content/70">Scroll through the questions and review the correct answers</p>
+        </div>
+        
+        <!-- Loading indicator -->
+        <div id="loading" class="loading loading-spinner loading-lg text-primary"></div>
+        
+        <!-- Quiz container -->
+        <div id="quiz-container" class="w-full space-y-6" style="display: none;">
+            <!-- Questions will be loaded here -->
+        </div>
+    </div>
+
+
+    
+<script src="../../../src/script/preview.js"> </script><script>previews(`&#46;&#46;&#47;&#80;&#97;&#114;&#116;&#95;&#51;&#95;&#71;&#101;&#110;&#101;&#114;&#97;&#108;&#95;&#69;&#100;&#117;&#99;&#97;&#116;&#105;&#111;&#110;&#46;&#106;&#115;&#111;&#110;`)</script>
+</body>
+</html>

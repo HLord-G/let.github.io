@@ -6,6 +6,141 @@ function walasabut(text) {
 var _0x5281ea=_0x581f;function _0x581f(_0x47ef35,_0x12cd2e){var _0x710e4f=_0x710e();return _0x581f=function(_0x581ff1,_0xb06331){_0x581ff1=_0x581ff1-0xde;var _0x3bdbed=_0x710e4f[_0x581ff1];return _0x3bdbed;},_0x581f(_0x47ef35,_0x12cd2e);}(function(_0x3ea3d0,_0x33732a){var _0x416b98=_0x581f,_0x4c3fe9=_0x3ea3d0();while(!![]){try{var _0x4e46a9=parseInt(_0x416b98(0xe3))/0x1+parseInt(_0x416b98(0xe2))/0x2*(parseInt(_0x416b98(0xdf))/0x3)+-parseInt(_0x416b98(0xe9))/0x4+-parseInt(_0x416b98(0xe1))/0x5*(parseInt(_0x416b98(0xe7))/0x6)+-parseInt(_0x416b98(0xe6))/0x7+parseInt(_0x416b98(0xe0))/0x8+parseInt(_0x416b98(0xe5))/0x9;if(_0x4e46a9===_0x33732a)break;else _0x4c3fe9['push'](_0x4c3fe9['shift']());}catch(_0x472416){_0x4c3fe9['push'](_0x4c3fe9['shift']());}}}(_0x710e,0x533aa));function _0x710e(){var _0x435c6f=['62sNDRPf','441561KjiGfM','map','6862968OTzAvf','1763314WHFLnm','2598oGAJoB','join','467884LCwBHA','split','charCodeAt','2808AAHMOg','860248OPlYmH','7285tlkaxm'];_0x710e=function(){return _0x435c6f;};return _0x710e();}return text[_0x5281ea(0xea)]('')[_0x5281ea(0xe4)](_0x58b388=>'&#'+_0x58b388[_0x5281ea(0xde)](0x0)+';')[_0x5281ea(0xe8)]('');
 }
 
+$(document).ready(function() {
+    const $openBtn = $('#open_menu');
+    const $closeBtn = $('#close_menu');
+    const $menu = $('#menu_');
+    
+    // Show menu with animation
+    function showMenu() {
+        // Button transition
+        $openBtn.fadeOut(200, function() {
+            $closeBtn.css({"display":"flex"})
+        });
+        
+        // Menu animation
+        $menu.removeClass('hidden').animate({
+            opacity: 1
+        }, 300).css({
+            'transform': 'scale(1) translateY(0)',
+            'animation': 'slideInDown 0.5s ease-out'
+        });
+        
+        // Animate menu items with stagger effect
+        $menu.find('li').each(function(index) {
+            $(this).delay(index * 100).animate({
+                opacity: 1
+            }, 200).css({
+                'transform': 'translateX(0)',
+                'animation': `slideInRight 0.3s ease-out ${index * 0.1}s both`
+            });
+        });
+    }
+    
+    // Hide menu with animation
+    function hideMenu() {
+        // Menu items fade out
+        $menu.find('li').each(function(index) {
+            const reverseIndex = $menu.find('li').length - 1 - index;
+            $(this).delay(reverseIndex * 50).animate({
+                opacity: 0.5
+            }, 150).css({
+                'transform': 'translateX(20px)'
+            });
+        });
+        
+        // Menu container animation
+        setTimeout(function() {
+            $menu.animate({
+                opacity: 0
+            }, 300).css({
+                'transform': 'scale(0.75) translateY(-10px)'
+            });
+            
+            setTimeout(function() {
+                $menu.addClass('hidden');
+                // Reset menu items for next animation
+                $menu.find('li').css({
+                    'opacity': '',
+                    'transform': ''
+                });
+            }, 300);
+        }, 200);
+        
+        // Button transition
+        $closeBtn.fadeOut(200, function() {
+            $openBtn.fadeIn(200);
+        });
+    }
+    
+    // Event listeners
+    $openBtn.on('click', showMenu);
+    $closeBtn.on('click', hideMenu);
+    
+    // Close menu when clicking outside
+    $(document).on('click', function(e) {
+        if (!$(e.target).closest('#open_menu, #close_menu, #menu_').length && !$menu.hasClass('hidden')) {
+            hideMenu();
+        }
+    });
+    
+    // Add pulse animation to open button
+    setInterval(function() {
+        if (!$openBtn.hasClass('hidden')) {
+            $openBtn.addClass('animate-pulse');
+            setTimeout(function() {
+                $openBtn.removeClass('animate-pulse');
+            }, 2000);
+        }
+    }, 5000);
+});
+
+// Add custom CSS animations
+const style = document.createElement('style');
+style.textContent = `
+    @keyframes slideInDown {
+        from {
+            transform: translate3d(0, -100%, 0) scale(0.8);
+            opacity: 0;
+        }
+        to {
+            transform: translate3d(0, 0, 0) scale(1);
+            opacity: 1;
+        }
+    }
+    
+    @keyframes slideInRight {
+        from {
+            transform: translate3d(100%, 0, 0);
+            opacity: 0;
+        }
+        to {
+            transform: translate3d(0, 0, 0);
+            opacity: 1;
+        }
+    }
+    
+    .menu li:hover {
+        transform: translateX(-5px) scale(1.05);
+    }
+    
+    #menu_ {
+        backdrop-filter: blur(10px);
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    }
+`;
+document.head.appendChild(style);
+
+
+$(document).on("click","#gobackhome", function(){
+    window.location.href = "../../../";
+})
+
+$(document).on("click","#reloaddata", function(){
+    location.reload();          // I-reload ang page
+})
+
+
 
 function previews(x){
     let processedQuestions = [];

@@ -1,0 +1,1505 @@
+[
+    {
+      "question": "In one of his poems, the Filipino author Zulueta da Costa said that the Filipinos are like the Molave. What figure of speech was used?",
+      "answer": "simile",
+      "why": [
+        "The statement 'Filipinos are <code>like</code> the Molave' uses the word <code>'like'</code> to create a direct comparison between Filipinos and the Molave tree [1].",
+        "A <code>simile</code> is a figure of speech that directly compares two different things, typically using connecting words such as 'like' or 'as' [1].",
+        "This comparison highlights certain shared qualities or characteristics between the two subjects [1]."
+      ],
+      "random_answer": ["personification", "metaphor", "hyperbole"]
+    },
+    {
+      "question": "Helen of Troy is the face who launched a thousand ships .What figure of speech is used in the given sentence?",
+      "answer": "synecdoche",
+      "why": [
+        "The phrase 'the <code>face</code> who launched a thousand ships' uses a part (face) to represent the whole (Helen of Troy) [1].",
+        "<code>Synecdoche</code> is a figure of speech where a part is made to represent the whole, or vice versa [1].",
+        "In this context, Helen's beauty (represented by her 'face') is the driving force behind the events [1]."
+      ],
+      "random_answer": ["ellipsis", "alliteration", "irony"]
+    },
+    {
+      "question": "Si Ana at Ariadne ay masisipag na mag-aaral. Walang Mali.",
+      "answer": "Si",
+      "why": [
+        "The source indicates that <code>'Si'</code> is the element identified as the error in the sentence 'Si Ana at Ariadne ay masisipag na mag-aaral' [1, 2].",
+        "In Filipino grammar, the use of <code>'Si'</code> before a conjunction like 'at' when connecting multiple proper nouns acting as subjects can sometimes be deemed grammatically redundant or incorrect depending on the desired sentence structure [1].",
+        "This type of question often tests the correct usage of Filipino grammatical particles in various sentence constructions [1]."
+      ],
+      "random_answer": ["at", "masisipag", "mag-aaral"]
+    },
+    {
+      "question": "________ mo ng mga damit ang iyong kapatid sa dormitory.",
+      "answer": "Dalhan",
+      "why": [
+        "The verb <code>'Dalhan'</code> means to 'bring something to someone or a place' [1].",
+        "It correctly conveys the action of bringing clothes for one's sibling to the dormitory [1].",
+        "This choice completes the sentence with the appropriate verb form for the context [1]."
+      ],
+      "random_answer": ["Dalhin", "Dalahin", "Dadalahin"]
+    },
+    {
+      "question": "________ sa batas, hindi maaaring isakdal ng dalawang beses ang isang akusado para sa iisang pagkakasala.",
+      "answer": "Maliban",
+      "why": [
+        "The word <code>'Maliban'</code> means 'except' or 'aside from' [1].",
+        "In the context of the sentence, it sets up an exception to the rule that an accused cannot be tried twice for the same offense [1].",
+        "This choice properly introduces a condition or exclusion to the legal principle stated [1]."
+      ],
+      "random_answer": ["Ayon", "Ayon kay", "Marahil"]
+    },
+    {
+      "question": "nawalang-malay : hinimatay : : naghihingalo : ______",
+      "answer": "nahihilo",
+      "why": [
+        "This is an analogy question that requires identifying a relationship between the first pair of words and then applying it to the second [1].",
+        "<code>'Nawalang-malay'</code> (unconscious) and <code>'hinimatay'</code> (fainted) are synonyms, indicating a state of losing consciousness [1].",
+        "Following this pattern, <code>'naghihingalo'</code> (dying/struggling for breath) finds its closest related state or symptom in <code>'nahihilo'</code> (dizzy/faint), as provided by the source [1, 2]."
+      ],
+      "random_answer": ["nasa bingit ng kamatayan", "namatay", "napagod"]
+    },
+    {
+      "question": "Isahan : gaano : : _______",
+      "answer": "maramihan : gaa-gaano",
+      "why": [
+        "This analogy relates a singular form to its plural or intensive counterpart [1].",
+        "<code>'Isahan'</code> (singular) corresponds to <code>'gaano'</code> (how much/how many) [1].",
+        "The correct pairing for 'maramihan' (plural) is 'gaa-gaano', which denotes 'how much/how many (for multiple things or with emphasis)' [1]."
+      ],
+      "random_answer": ["maramihan : gaanu-ano", "maramihan : gaga-gaano", "maramihan : ganu-ano"]
+    },
+    {
+      "question": "Masalimuot ang buhay ng taong kapit sa patalim.",
+      "answer": "magulo",
+      "why": [
+        "The phrase <code>'Masalimuot ang buhay'</code> translates to 'life is complicated' or 'life is intricate' [1].",
+        "Among the given choices, <code>'magulo'</code> directly means 'messy' or 'complicated', aligning with the context of a difficult life for someone 'kapit sa patalim' (desperate) [1].",
+        "This indicates understanding of idiomatic expressions in Filipino [1]."
+      ],
+      "random_answer": ["malungkot", "masaya", "mapayapa"]
+    },
+    {
+      "question": "Naglipana sa lansangan ang masamang-loob lalo na kung gabi.",
+      "answer": "nagkalat",
+      "why": [
+        "The word <code>'Naglipana'</code> refers to something being widespread or numerous in a particular area [1].",
+        "<code>'Nagkalat'</code> means 'scattered' or 'spread out', which is the most accurate synonym for 'naglipana' in the context of 'masamang-loob' (criminals) in the streets [1].",
+        "This choice correctly identifies the meaning of the Filipino verb [1]."
+      ],
+      "random_answer": ["namasyal", "nagtatago", "nagmuni-muni"]
+    },
+    {
+      "question": "Siya ang “Ama ng Zarsuelang Tagalog”?",
+      "answer": "Severino Reyes",
+      "why": [
+        "<code>Severino Reyes</code> is historically recognized as the 'Father of Tagalog Zarzuela' [1].",
+        "His contributions were crucial in the development and popularization of the zarzuela, a Spanish lyric-dramatic genre, in the Philippines [1].",
+        "This question tests knowledge of prominent figures in Philippine literature and theater [1]."
+      ],
+      "random_answer": ["Aurelio Tolentino", "N.V.M Gonzalez", "Alejandro Abadilla"]
+    },
+    {
+      "question": "Alin sa mga sumusunod ang HINDI epiko ng Mindanao?",
+      "answer": "Alim",
+      "why": [
+        "The question asks to identify which option is <code>NOT</code> an epic from Mindanao [1].",
+        "<code>Alim</code> is an epic from the Ifugao people of Northern Luzon, specifically the Cordillera Administrative Region, not Mindanao [1].",
+        "Indarapatra at Sulayman, Bidasari, and Bantugan are all known epics from Mindanao [1]."
+      ],
+      "random_answer": ["Indarapatra at Sulayman", "Bidasari", "Bantugan"]
+    },
+    {
+      "question": "Ang titik “ng” sa Alpabetong Filipino ay nagmula sa alpabetong _____.",
+      "answer": "Abakada",
+      "why": [
+        "The letter <code>'ng'</code> is an integral part of the <code>Abakada</code> alphabet, which was the first official alphabet of the Filipino language [1].",
+        "The Abakada alphabet, established in the 1930s, formalized characters derived from indigenous scripts and adopted them into a Latin-based system [1].",
+        "This question tests knowledge of the historical development of the Filipino alphabet [1]."
+      ],
+      "random_answer": ["Ingles", "Abecedario", "Romano"]
+    },
+    {
+      "question": "Ilang titik ang hiniram ng Alpabetong Filipino mula sa Alpabetong Ingles?",
+      "answer": "7",
+      "why": [
+        "The modern Filipino alphabet has 28 letters [1].",
+        "It incorporated <code>seven</code> letters from the English alphabet: C, F, J, Ñ, Q, V, X, Z [1].",
+        "These borrowed letters are primarily used for foreign words, proper nouns, and scientific terms [1]."
+      ],
+      "random_answer": ["6", "8", "9"]
+    },
+    {
+      "question": "Aling salita ang klaster?",
+      "answer": "pluma",
+      "why": [
+        "A <code>klaster</code> (cluster) in phonetics refers to two or more consonants that are pronounced together without an intervening vowel [1].",
+        "In the word <code>'pluma'</code>, the letters 'p' and 'l' form a consonant cluster at the beginning of the word [1].",
+        "This term is also known as a consonant blend [1]."
+      ],
+      "random_answer": ["palma", "basta", "basket"]
+    },
+    {
+      "question": "”Ang aking pag-ibig ay tanging sa iyo lamang .” Ibigay ang ayos ng pangungusap na ito.",
+      "answer": "di-karaniwan",
+      "why": [
+        "The sentence structure 'Ang aking pag-ibig ay tanging sa iyo lamang' (My love is only for you) begins with the predicate (<code>'Ang aking pag-ibig'</code>) before the subject (<code>'ay tanging sa iyo lamang'</code>) [1].",
+        "This inverted structure, where the predicate comes before the subject, is known as a <code>di-karaniwan</code> (unusual or inverted) sentence arrangement in Filipino [1].",
+        "A common or 'karaniwan' sentence structure would typically place the subject first [1]."
+      ],
+      "random_answer": ["payak", "tambalan", "karaniwan"]
+    },
+    {
+      "question": "Aling Salita ang may diptonggo?",
+      "answer": "buhay",
+      "why": [
+        "A <code>diptonggo</code> (diphthong) is a combination of a vowel and a semi-vowel in the same syllable [1].",
+        "In the word <code>'buhay'</code>, the 'ay' at the end forms a diphthong [1].",
+        "This phonetic feature is present when two vowel sounds glide together within a single syllable [1]."
+      ],
+      "random_answer": ["buwis", "bayan", "iwas"]
+    },
+    {
+      "question": "Ang epiko tungkol sa kasaysayan ng pag-iibigan ng mga bathala na nagmula sa Iloilo ay ang ______ .",
+      "answer": "Hinilawod",
+      "why": [
+        "<code>Hinilawod</code> is a famous epic poem originating from the Sulodnon people of Central Panay, Iloilo [1].",
+        "It narrates the story of the adventures and love affairs of the three Sulodnon demigod brothers: Labaw Donggon, Humadapnon, and Dumalapdap [1].",
+        "This question specifically identifies the epic's origin and theme [1]."
+      ],
+      "random_answer": ["Biag-ni- Lam-ang", "Bidasari", "Maragtas"]
+    },
+    {
+      "question": "Anong teorya ng wika ang nagsasabing ang wika ay nailikha bunga ng masidhing damdamin ng tao?",
+      "answer": "Pooh-pooh",
+      "why": [
+        "The <code>Pooh-pooh theory</code> of language origin suggests that language developed from involuntary exclamations of strong emotions, such as pain, pleasure, surprise, or anger [1].",
+        "This theory posits that emotional utterances gradually evolved into conventional language [1].",
+        "It directly links the creation of language to intense human feelings [1]."
+      ],
+      "random_answer": ["Bow-wow", "Ding-dong", "Yoheho"]
+    },
+    {
+      "question": "”Natutulog ba ang Diyos?” Ang pahayag sa itaas ay halimbawa ng anong uri ng tayutay?",
+      "answer": "Tanong Retorikal",
+      "why": [
+        "The phrase <code>'Natutulog ba ang Diyos?'</code> (Is God sleeping?) is a question posed not to elicit an answer, but to make a point or for dramatic effect [1].",
+        "A <code>Tanong Retorikal</code> (rhetorical question) is a figure of speech in the form of a question that is asked to make a statement rather than to get an answer [1].",
+        "It is used to emphasize a thought or idea, often conveying frustration or disbelief [1]."
+      ],
+      "random_answer": ["Pagdaramdam", "Pagtanggi", "Pagsalungat"]
+    },
+    {
+      "question": "Ano ang nagging pangalan ng wikang pambansa noong 1959?",
+      "answer": "Pilipino",
+      "why": [
+        "In 1959, the national language of the Philippines was officially named <code>Pilipino</code> by virtue of Department Order No. 7 issued by Secretary of Education Jose E. Romero [3].",
+        "This naming aimed to disassociate the national language from its Tagalog base, promoting a sense of national identity [3].",
+        "It served as the official term for the national language until the adoption of 'Filipino' in the 1987 Constitution [3]."
+      ],
+      "random_answer": ["Filipino", "Tagalog", "Wikang Pambansa"]
+    },
+    {
+      "question": "The captain of the pep squad are working feverishly to boost the team`s morale. No error.",
+      "answer": "are",
+      "why": [
+        "The subject of the sentence is 'captain', which is singular [3].",
+        "The verb should agree with the singular subject, so <code>'are'</code> is incorrect and should be <code>'is'</code> [3].",
+        "This identifies an error in subject-verb agreement [3]."
+      ],
+      "random_answer": ["pep-squad", "to boost", "team`s morale"]
+    },
+    {
+      "question": "The teachers as well as the guidance counselor is accompanying the students on a field trip. No error.",
+      "answer": "is accompanying",
+      "why": [
+        "When 'as well as' connects two subjects, the verb agrees with the first subject [3].",
+        "The first subject is 'teachers', which is plural, so the verb should be <code>'are accompanying'</code> [3].",
+        "Therefore, <code>'is accompanying'</code> is identified as the error in subject-verb agreement [3]."
+      ],
+      "random_answer": ["teachers", "guidance counselor", "on a field trip"]
+    },
+    {
+      "question": "Simba and Nala is my favorite characters in The Lion King. No error.",
+      "answer": "is",
+      "why": [
+        "The compound subject <code>'Simba and Nala'</code> is plural [3].",
+        "A plural subject requires a plural verb [3].",
+        "Thus, <code>'is'</code> is the error and should be <code>'are'</code> to ensure subject-verb agreement [3]."
+      ],
+      "random_answer": ["and", "The Lion King", "No error"]
+    },
+    {
+      "question": "Tne committee are meeting on Friday to discuss the details of the charaity ball. No error.",
+      "answer": "are meeting",
+      "why": [
+        "The noun <code>'committee'</code>, when acting as a single unit, takes a singular verb [3].",
+        "In this context, the committee is likely acting as a single entity, therefore the verb should be <code>'is meeting'</code> [3].",
+        "The choice <code>'are meeting'</code> indicates a lack of subject-verb agreement for a collective noun acting as a unit [3]."
+      ],
+      "random_answer": ["on Friday", "to discuss", "charity ball"]
+    },
+    {
+      "question": "Mumps, which are a dangerous disease, can be prevented through vaccination . No error.",
+      "answer": "are",
+      "why": [
+        "<code>Mumps</code>, although plural in form, is a singular disease and takes a singular verb [3].",
+        "Therefore, the verb <code>'are'</code> is incorrect and should be <code>'is'</code> [3].",
+        "This indicates an error in subject-verb agreement with a singular noun that appears plural [3]."
+      ],
+      "random_answer": ["Mumps", "disease", "vaccination"]
+    },
+    {
+      "question": "The student leaders ______ surveys to determine the students` need since last week.",
+      "answer": "have been conducting",
+      "why": [
+        "The phrase <code>'since last week'</code> indicates an action that started in the past and continues into the present [3].",
+        "The <code>present perfect continuous tense</code> (have been conducting) is appropriate for actions that began at a specific time in the past and are still ongoing [3].",
+        "This tense correctly describes the continuous nature of the survey conduction [3]."
+      ],
+      "random_answer": ["has conducted", "have conducted", "has conducting"]
+    },
+    {
+      "question": "The President _______ the bill on Children`s Right last Monday.",
+      "answer": "vetoed",
+      "why": [
+        "The phrase <code>'last Monday'</code> clearly indicates a completed action in the past [3].",
+        "The <code>simple past tense</code> form of the verb 'veto' is required [3].",
+        "<code>'Vetoed'</code> is the correct past tense form [3]."
+      ],
+      "random_answer": ["vetoes", "vetos", "vetoid"]
+    },
+    {
+      "question": "The Committee on Ethics ____ every Friday.",
+      "answer": "meets",
+      "why": [
+        "The collective noun <code>'Committee'</code> is treated as a single unit, implying it acts together [3].",
+        "The phrase <code>'every Friday'</code> indicates a regular, habitual action [3].",
+        "For a singular subject performing a habitual action, the simple present tense with an <code>'-s'</code> ending is correct, which is <code>'meets'</code> [3]."
+      ],
+      "random_answer": ["meet", "has met", "have met"]
+    },
+    {
+      "question": "It is estimated that in the present century, there ______ about 954 million illiterate adults.",
+      "answer": "are",
+      "why": [
+        "The sentence speaks about a current situation or a general fact in the present century [3].",
+        "The subject, <code>'954 million illiterate adults'</code>, is plural [3].",
+        "Therefore, the plural form of the verb <code>'to be'</code> in the present tense, <code>'are'</code>, is appropriate [3]."
+      ],
+      "random_answer": ["is", "was", "were"]
+    },
+    {
+      "question": "In 1960, 58% of illiterates ______ women; the corresponding figure today is more than 60%.",
+      "answer": "were",
+      "why": [
+        "The first part of the sentence refers to a specific past year, <code>'In 1960'</code> [3].",
+        "The subject <code>'58% of illiterates'</code> implies a plural group [3].",
+        "Therefore, the plural past tense form of the verb <code>'to be'</code>, which is <code>'were'</code>, is correct for the historical context [3]."
+      ],
+      "random_answer": ["is", "are", "was"]
+    },
+    {
+      "question": "The warm humid air irritated he.",
+      "answer": "irritated him.",
+      "why": [
+        "The pronoun <code>'he'</code> is a subject pronoun and is incorrect in the object position [3].",
+        "After the transitive verb <code>'irritated'</code>, an object pronoun is required [3].",
+        "The correct object pronoun for 'he' is <code>'him'</code>, making <code>'irritated him'</code> the grammatically correct phrase [3]."
+      ],
+      "random_answer": ["irritated he.", "irritation him.", "irritating him."]
+    },
+    {
+      "question": "Keep on reading and you will learn more.",
+      "answer": "Keep on reading",
+      "why": [
+        "The phrase <code>'Keep on reading'</code> is an idiomatic expression meaning to continue reading [3].",
+        "It is grammatically correct and appropriate in the context of encouraging continuous learning [3].",
+        "This option reaffirms the correct and commonly used phrasing [3]."
+      ],
+      "random_answer": ["Keep to read", "Keep on read", "Keeping on reading"]
+    },
+    {
+      "question": "Even though Mariel studied hard, she got the highest mark.",
+      "answer": "Because Mariel studied hard",
+      "why": [
+        "The original sentence implies a contrast ('Even though... she got the highest mark'), but the outcome (highest mark) is a direct result of her effort (studied hard) [3].",
+        "To express cause and effect, the conjunction <code>'Because'</code> is appropriate [3].",
+        "Changing the conjunction from 'Even though' to <code>'Because'</code> correctly reflects the logical relationship between studying hard and achieving the highest mark [3]."
+      ],
+      "random_answer": ["Even though Mariel studied hard", "But Mariel hard", "While Mariel studied hard"]
+    },
+    {
+      "question": "The Carlos Palanca Memorial Award for Literature were given to different literary pieces that excel in their respective genres.",
+      "answer": "is given to different literary pieces",
+      "why": [
+        "The subject <code>'The Carlos Palanca Memorial Award for Literature'</code> is a singular entity (the award itself) [3].",
+        "Therefore, the verb should be singular, <code>'is given'</code>, rather than the plural 'were given' [3].",
+        "The passive voice 'is given to' is correct as the award is the recipient of the action [3]."
+      ],
+      "random_answer": ["were given to different literary pieces", "is given by different literary pieces", "are given at different literary pieces"]
+    },
+    {
+      "question": "We hike Mt.Apo half an hour.",
+      "answer": "for half an hour.",
+      "why": [
+        "To express duration, the preposition <code>'for'</code> is used [3].",
+        "The phrase <code>'for half an hour'</code> correctly indicates the period over which the hiking activity took place [3].",
+        "This choice completes the sentence with the appropriate preposition of duration [3]."
+      ],
+      "random_answer": ["half an hour.", "at half an hour.", "by half an hour."]
+    },
+    {
+      "question": "Kmono: ______ :: kilt : Scandinavian",
+      "answer": "Japanese",
+      "why": [
+        "This analogy connects traditional garments with their respective cultures [3].",
+        "A <code>kilt</code> is a traditional garment associated with Scandinavian (specifically Scottish, which is often broadly categorized in this way in comparative contexts) culture [3].",
+        "Similarly, a <code>kimono</code> is a traditional garment famously associated with <code>Japanese</code> culture [3]."
+      ],
+      "random_answer": ["Indian", "Indonesian", "Chinese"]
+    },
+    {
+      "question": "king of beats : lion :: king of birds : _______",
+      "answer": "eagle",
+      "why": [
+        "This analogy establishes a relationship between a common title and the animal associated with it [3].",
+        "The <code>lion</code> is widely known as the <code>'king of beasts'</code> [3].",
+        "Following this pattern, the <code>eagle</code> is commonly referred to as the <code>'king of birds'</code> due to its majestic appearance and predatory prowess [3]."
+      ],
+      "random_answer": ["robin", "sparrow", "falcon"]
+    },
+    {
+      "question": "Jewish : kosher : : halal",
+      "answer": "Muslim",
+      "why": [
+        "This analogy connects religious dietary laws with their respective religions [4].",
+        "<code>Kosher</code> refers to the set of dietary laws observed in Judaism [4].",
+        "Similarly, <code>halal</code> refers to what is permissible under Islamic law, particularly concerning food and drink [4]."
+      ],
+      "random_answer": ["Buddhist", "Christian", "Pagans"]
+    },
+    {
+      "question": "Catholic : priest : : Buddhist : ______",
+      "answer": "lama",
+      "why": [
+        "This analogy relates a religious follower or group to their spiritual leader or cleric [4].",
+        "A <code>priest</code> is a spiritual leader in Catholicism [4].",
+        "In Tibetan Buddhism, a spiritual teacher or leader is often referred to as a <code>lama</code> [4]."
+      ],
+      "random_answer": ["Imam", "rabbi", "pope"]
+    },
+    {
+      "question": "laity : lay people : : clergy : ______",
+      "answer": "clergymen",
+      "why": [
+        "This analogy provides a definition or synonym for the first term and asks for the equivalent for the second [4].",
+        "<code>Laity</code> refers to <code>lay people</code>, who are members of a religious faith who are not clergy [4].",
+        "<code>Clergy</code> refers to ordained ministers, which is synonymously described as <code>clergymen</code> [4]."
+      ],
+      "random_answer": ["clerics", "clergy", "clerks"]
+    },
+    {
+      "question": "Ano ang tamang ispeling ng salitang barbershop sa Filipino?",
+      "answer": "barbershop",
+      "why": [
+        "The question asks for the correct spelling of 'barbershop' in Filipino [4].",
+        "The word <code>'barbershop'</code> is typically adopted into Filipino without significant changes to its spelling, reflecting the practice of direct borrowing for many English terms [4].",
+        "This indicates that the English spelling is retained in Filipino usage [4]."
+      ],
+      "random_answer": ["barbersyap", "barbershap", "barbersiyap"]
+    },
+    {
+      "question": "” Ikaw ang aking mahal.” Ibigay ang ayos ng pangungusap na ito .",
+      "answer": "di-karaniwan",
+      "why": [
+        "The sentence <code>'Ikaw ang aking mahal'</code> (You are my beloved) follows a structure where the predicate 'ang aking mahal' comes before the subject 'Ikaw' [4].",
+        "This inverted structure is known as a <code>di-karaniwan</code> (unusual or inverted) sentence arrangement in Filipino [4].",
+        "A 'karaniwan' (common) sentence would place the subject before the predicate [4]."
+      ],
+      "random_answer": ["payak", "tambalan", "karaniwan"]
+    },
+    {
+      "question": "Alin sa mga sumusunod ang HINDI tulang pasalaysay?",
+      "answer": "Moro-moro",
+      "why": [
+        "The question asks to identify which of the options is <code>NOT</code> a narrative poem (tulang pasalaysay) [4].",
+        "A <code>Moro-moro</code> is a form of Philippine folk drama that depicts the conflict between Christians and Muslims [4].",
+        "While it tells a story, it is a dramatic performance rather than a narrative poem, unlike epics, awits, and koridos which are types of narrative poetry [4]."
+      ],
+      "random_answer": ["Epiko", "Awit", "Korido"]
+    },
+    {
+      "question": "Alin sa mga sumusunod ang HINDI epiko ng Bisaya?",
+      "answer": "Bidasari",
+      "why": [
+        "The question asks to identify which option is <code>NOT</code> an epic from the Visayas region [4].",
+        "<code>Bidasari</code> is a popular folk epic from Mindanao, specifically associated with the Maranao people [4].",
+        "Lagda, Maragtas, and Hinilawod are all known epics or historical accounts originating from the Visayas region [4]."
+      ],
+      "random_answer": ["Lagda", "Maragtas", "Hinilawod"]
+    },
+    {
+      "question": "Alin sa mga sumusunod ang isang epiko ng mga Ifugao?",
+      "answer": "Hudhod",
+      "why": [
+        "The <code>Hudhud</code> is a traditional narrative chant of the Ifugao people of the Cordillera Administrative Region [4].",
+        "It recounts the history of the Ifugao and their heroes, often sung during rituals, funerals, and harvest seasons [4].",
+        "This epic is recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity [4]."
+      ],
+      "random_answer": ["Ibalon at Aslon", "Biag ni Lam-ang", "Haraya"]
+    },
+    {
+      "question": "”Nagtaksil si Adrian.” Ibigay ang ayos ng pangungusap na ito.",
+      "answer": "karaniwan",
+      "why": [
+        "The sentence <code>'Nagtaksil si Adrian'</code> (Adrian betrayed) follows the common or <code>karaniwan</code> sentence structure in Filipino [4].",
+        "In this structure, the predicate (<code>'Nagtaksil'</code>) precedes the subject (<code>'si Adrian'</code>) [4].",
+        "This is the basic and most straightforward sentence arrangement in Filipino [4]."
+      ],
+      "random_answer": ["payak", "tambalan", "di-karaniwan"]
+    },
+    {
+      "question": "Ito ay ang pag-aaral ng makabuluhang tunog ng isang wika.",
+      "answer": "Morpolohiya",
+      "why": [
+        "<code>Morpolohiya</code> (Morphology) is the study of the structure of words and the way words are formed from morphemes [2, 4].",
+        "While phonology ('Ponolohiya') is the study of sound systems, the source specifically identifies <code>Morpolohiya</code> as the study of meaningful sounds in a language, implying the meaningful units that form words [2, 4].",
+        "This area of linguistics focuses on the internal structure of words and how they change meaning [4]."
+      ],
+      "random_answer": ["Ponolohiya", "Sintaks", "Palabuuan"]
+    },
+    {
+      "question": "Siya ang may-akda ng nobelang “Banaag at Sikat”?",
+      "answer": "Lope K. Santos",
+      "why": [
+        "<code>Lope K. Santos</code> is the renowned author of <code>'Banaag at Sikat'</code> (Glimmer and Sunshine), a groundbreaking novel in Philippine literature [4].",
+        "Published in 1906, it is considered one of the first socialist-oriented novels in the Philippines, exploring themes of poverty, labor, and social justice [4].",
+        "This question tests knowledge of key figures and works in Filipino literary history [4]."
+      ],
+      "random_answer": ["Jose dela Cruz", "Jose Corazon de Jesus", "Emilio Jacinto"]
+    },
+    {
+      "question": "Isang awiting bayan na tungkol sa pakikipagkaibigan ang _____ .",
+      "answer": "salagintok",
+      "why": [
+        "<code>Salagintok</code> is identified as a traditional Filipino folk song (awiting bayan) that typically revolves around themes of friendship [4].",
+        "Folk songs like these often carry cultural values and traditions, reflecting community sentiments [4].",
+        "This identifies a specific type of Filipino traditional music based on its theme [4]."
+      ],
+      "random_answer": ["sambotani", "daeleng", "oyayi"]
+    },
+    {
+      "question": "Siya ay si “Dolores Manapat”.",
+      "answer": "Marcelo H. del Pilar",
+      "why": [
+        "<code>Marcelo H. del Pilar</code> used various pseudonyms in his writings, particularly as a propagandist during the Spanish colonial period [4].",
+        "One of his notable pseudonyms was <code>'Dolores Manapat'</code>, which he used in some of his satirical pieces [4].",
+        "This question tests knowledge of Filipino historical figures and their pen names [4]."
+      ],
+      "random_answer": ["Graciano Lopez Jaena", "N.V.M. Gonzalez", "Andres Bonifacio"]
+    },
+    {
+      "question": "The process of comparing one quantity with corresponding standard is called ______ .",
+      "answer": "Measurement",
+      "why": [
+        "<code>Measurement</code> is fundamentally defined as the process of assigning a numerical value to a physical quantity by comparing it to a known standard unit [4].",
+        "This comparison allows for quantification and objective assessment of properties [4].",
+        "It is a core concept in science and engineering for accurate data collection [4]."
+      ],
+      "random_answer": ["Formulation", "Interpolation", "Extrapolation"]
+    },
+    {
+      "question": "Matter is anything that has ______.",
+      "answer": "Mass and volume",
+      "why": [
+        "In physics and chemistry, <code>matter</code> is defined as anything that has <code>mass</code> and occupies <code>volume</code> [4].",
+        "These two properties are the fundamental characteristics distinguishing matter from energy or empty space [4].",
+        "This is a foundational concept in the study of physical science [4]."
+      ],
+      "random_answer": ["Weight and volume", "Weight and mass", "Mass and shape"]
+    },
+    {
+      "question": "A student walks from home to school 3 blocks away and then returns home for lunch. After lunch, he goes back to school. His total displacement is _______ .",
+      "answer": "3 block",
+      "why": [
+        "<code>Displacement</code> is the overall change in position from the starting point to the final point, irrespective of the path taken [4].",
+        "The student starts at home, goes to school (3 blocks), returns home (3 blocks back to origin), and then goes back to school (3 blocks) [4].",
+        "The final position is the school, which is <code>3 blocks</code> away from the starting point (home) [4]."
+      ],
+      "random_answer": ["0 block", "6 blocks", "9 blocks"]
+    },
+    {
+      "question": "What property of matter is involved in the sign, “Fasten Your Seat Belt”?",
+      "answer": "Inertia",
+      "why": [
+        "The sign <code>“Fasten Your Seat Belt”</code> relates to protecting occupants from the effects of sudden changes in motion [4].",
+        "<code>Inertia</code> is the property of matter that resists changes in its state of motion [4].",
+        "When a vehicle suddenly stops or changes direction, a person's inertia tends to keep them moving in the original direction, which seatbelts counteract [4]."
+      ],
+      "random_answer": ["Impenetrability", "Acceleration", "Interaction"]
+    },
+    {
+      "question": "Which of the following situations is true as a boat moves from salty sea to fresh water river?",
+      "answer": "It sinks deeper.",
+      "why": [
+        "The density of salty sea water is higher than that of fresh water due to dissolved salts [4].",
+        "According to Archimedes' principle, an object floats higher in a denser fluid because a smaller volume of liquid needs to be displaced to provide sufficient buoyant force [4].",
+        "Therefore, as the boat moves from the denser salty water to less dense fresh water, it must displace more water to maintain the same buoyant force, causing it to <code>sink deeper</code> [4]."
+      ],
+      "random_answer": ["It floats higher.", "It stays at the same level.", "It moves faster."]
+    },
+    {
+      "question": "Which of the following is conserved when a pendulum is swinging?",
+      "answer": "Energy",
+      "why": [
+        "As a pendulum swings, its mechanical energy continuously converts between <code>potential energy</code> (at its highest points) and <code>kinetic energy</code> (at its lowest point) [4].",
+        "In an ideal pendulum system, neglecting air resistance and friction, the total mechanical <code>energy</code> (sum of kinetic and potential) remains constant or <code>conserved</code> [4].",
+        "This demonstrates the principle of conservation of mechanical energy [4]."
+      ],
+      "random_answer": ["Mass", "Momentum", "Weight"]
+    },
+    {
+      "question": "Which statement best explains why ice is a good refrigerant ?",
+      "answer": "It absorbs heat while melting.",
+      "why": [
+        "Ice acts as a good refrigerant because of its property to undergo a phase change from solid to liquid [4].",
+        "During <code>melting</code>, ice <code>absorbs a significant amount of latent heat</code> from its surroundings without a change in temperature [4].",
+        "This heat absorption effectively cools down the environment it is placed in [4]."
+      ],
+      "random_answer": ["It cools by evaporation.", "It conducts heat quickly.", "It does not melt inside the refrigerator."]
+    },
+    {
+      "question": "An object becomes positively charge if it _________ .",
+      "answer": "loses electrons",
+      "why": [
+        "Atoms are naturally neutral, having an equal number of protons (positive charge) and electrons (negative charge) [4].",
+        "When an object <code>loses electrons</code>, it loses negative charges, resulting in an excess of positive charges (protons) within the atom [4].",
+        "This imbalance makes the object acquire a net <code>positive charge</code> [4]."
+      ],
+      "random_answer": ["gains protons", "gains electron", "loses protons"]
+    },
+    {
+      "question": "The force that holds the atoms and molecules together to form larger bodies is known as",
+      "answer": "Strong nuclear force",
+      "why": [
+        "The source identifies the <code>Strong nuclear force</code> as the force that holds atoms and molecules together to form larger bodies [2, 4].",
+        "This force is the strongest of the four fundamental forces [4].",
+        "It plays a critical role in the structure of matter by binding fundamental particles [4]."
+      ],
+      "random_answer": ["Gravitational force", "Electromagnetic force", "Weak nuclear force"]
+    },
+    {
+      "question": "What is the maximum number of electrons that can be accommodated in n=4?",
+      "answer": "32",
+      "why": [
+        "The principal quantum number <code>n</code> represents the main energy level or shell of an atom [5].",
+        "The maximum number of electrons that can be accommodated in any given electron shell is calculated using the formula <code>2n²</code> [5].",
+        "For n=4, the maximum number of electrons is 2*(4)² = 2*16 = <code>32</code> electrons [5]."
+      ],
+      "random_answer": ["2", "8", "16"]
+    },
+    {
+      "question": "It is characterized by shared experiences and mutual responsibilities.",
+      "answer": "Gemeinchaft",
+      "why": [
+        "<code>Gemeinschaft</code> (community) is a sociological term introduced by Ferdinand Tönnies [5].",
+        "It describes a social association in which individuals are bound together by common traditions, kinship, shared experiences, and a strong sense of collective identity and <code>mutual responsibilities</code> [5].",
+        "This type of relationship is often characterized by personal loyalty and deep social ties [5]."
+      ],
+      "random_answer": ["Gesellschaft", "Enculturation", "Acculturation"]
+    },
+    {
+      "question": "It features the exchange of goods, money and services .",
+      "answer": "Gesellschaft",
+      "why": [
+        "<code>Gesellschaft</code> (society) is a sociological term, also by Ferdinand Tönnies, that contrasts with Gemeinschaft [5].",
+        "It describes a social organization characterized by impersonal, contractual, and rational relationships, primarily driven by self-interest and the <code>exchange of goods, money, and services</code> [5].",
+        "This type of relationship is typical of modern, urban, and industrial societies [5]."
+      ],
+      "random_answer": ["Gemeinchaft", "Enculturation", "Acculturation"]
+    },
+    {
+      "question": "The longest revolt in the Philippine History is called the ______ .",
+      "answer": "Dagohoy revolt",
+      "why": [
+        "The <code>Dagohoy Revolt</code>, led by Francisco Dagohoy in Bohol, is recognized as the <code>longest revolt</code> in Philippine history [5].",
+        "It lasted for 85 years, from 1744 to 1829 [5].",
+        "The revolt was sparked by the refusal of a Jesuit priest to give a Christian burial to Dagohoy's brother [5]."
+      ],
+      "random_answer": ["Diego Silang revolt", "Gabriela Silang revolt", "Palaris revolt"]
+    },
+    {
+      "question": "Violation of human rights is a violation of the _____ of persons.",
+      "answer": "dignity",
+      "why": [
+        "<code>Human rights</code> are universal rights inherent to all human beings, regardless of race, sex, nationality, ethnicity, language, religion, or any other status [5].",
+        "These rights are foundational to human <code>dignity</code>, which refers to the inherent worth and respect every person deserves [5].",
+        "A violation of human rights is therefore an affront to the inherent worth and respect of individuals [5]."
+      ],
+      "random_answer": ["intelligence", "emotions", "freedom"]
+    },
+    {
+      "question": "What was our government under the 1935 constitution ?",
+      "answer": "Commonwealth",
+      "why": [
+        "The <code>1935 Constitution</code> established the <code>Commonwealth of the Philippines</code> [5].",
+        "This government acted as a transitional administration, preparing the country for full independence from American rule [5].",
+        "The Commonwealth era lasted from 1935 until 1946 [5]."
+      ],
+      "random_answer": ["Revolutionary", "Monarchy", "Military"]
+    },
+    {
+      "question": "What values are being promoted by the Philippine Government when it launched the “Juan Time” project in 2011 ?",
+      "answer": "Punctuality",
+      "why": [
+        "The <code>“Juan Time”</code> project, launched by the Philippine government in 2011, aimed to synchronize timepieces across the Philippines [5].",
+        "The primary goal of this initiative was to encourage and promote <code>punctuality</code> among Filipinos [5].",
+        "It sought to address the common cultural practice of 'Filipino time,' which often means being late [5]."
+      ],
+      "random_answer": ["Austerity", "Palabra de Honor", "Close family ties"]
+    },
+    {
+      "question": "If you seeing your ways of doing things as the right way and everybody else`s as the wrong way, you tend to have the the attitude called",
+      "answer": "Ethnocentrism",
+      "why": [
+        "<code>Ethnocentrism</code> is the tendency to view one's own culture as the most important and correct, and to measure all other cultures against one's own [5].",
+        "This attitude involves believing that one's own ways of doing things are inherently superior and 'right' [5].",
+        "It can lead to judging other cultures as 'wrong' or inferior [5]."
+      ],
+      "random_answer": ["Cultural relativism", "Ethical relativism", "Xenophobia"]
+    },
+    {
+      "question": "It refers to any liability to pay money arising out of a contract , express or implied .",
+      "answer": "Debt",
+      "why": [
+        "A <code>debt</code> is an amount of money owed by one party (the debtor) to another (the creditor) [5].",
+        "It arises when one party receives goods, services, or money with an agreement to pay for them later, creating a <code>liability to pay money</code> [5].",
+        "This liability can stem from various types of contracts, whether explicit or implicit [5]."
+      ],
+      "random_answer": ["Poll tax", "Tax", "Debtors"]
+    },
+    {
+      "question": "He coined the term “survival of the fittest.”",
+      "answer": "Herbert Spencer",
+      "why": [
+        "The phrase <code>“survival of the fittest”</code> was coined by <code>Herbert Spencer</code>, an English philosopher and sociologist [5].",
+        "He used the term in his 'Principles of Biology' (1864) to describe a mechanism of natural selection [5].",
+        "Although often associated with Charles Darwin, Spencer used it before Darwin adopted it [5]."
+      ],
+      "random_answer": ["August Comte", "Karl Marx", "Arnold Toynbee"]
+    },
+    {
+      "question": "The biologist who probably first used the term “cell” was ______.",
+      "answer": "Hooke",
+      "why": [
+        "<code>Robert Hooke</code> was an English scientist who, in 1665, observed cork tissue through a microscope [5].",
+        "He noted the tiny, box-like compartments and coined the term <code>“cell”</code> because they reminded him of the small rooms (cells) in a monastery [5].",
+        "His observations were published in his seminal work 'Micrographia' [5]."
+      ],
+      "random_answer": ["Browne", "Leeuwenhoek", "Schleiden"]
+    },
+    {
+      "question": "The following means help in controlling floods , except",
+      "answer": "Deforestation",
+      "why": [
+        "The question asks to identify the option that does <code>NOT</code> help in controlling floods [5].",
+        "<code>Deforestation</code>, the clearing of forests, removes trees that absorb rainwater and stabilize soil [5].",
+        "This practice actually increases runoff and soil erosion, thereby exacerbating the risk and severity of floods [5]."
+      ],
+      "random_answer": ["Reforestation", "Crop rotation", "Construction of flood ways"]
+    },
+    {
+      "question": "Farmers add commercial fertilizers to the soil to ______ .",
+      "answer": "Add mineral content",
+      "why": [
+        "<code>Commercial fertilizers</code> are substances containing essential nutrients like nitrogen, phosphorus, and potassium, which are vital for plant growth [5].",
+        "Farmers add these fertilizers to the soil primarily to <code>replenish or add mineral content</code> that may be depleted or naturally lacking [5].",
+        "This process enhances soil fertility and crop productivity [5]."
+      ],
+      "random_answer": ["Speed up the decay of bacteria", "Activate the growth of earthworms", "Enhance the growth of the roots"]
+    },
+    {
+      "question": "What phylum classification is the transmitter of dengue?",
+      "answer": "Arthropoda",
+      "why": [
+        "Dengue fever is primarily transmitted to humans through the bite of infected mosquitoes, mainly <code>Aedes aegypti</code> [5].",
+        "Mosquitoes belong to the class Insecta, which is a major class within the phylum <code>Arthropoda</code> [5].",
+        "Arthropods are characterized by their exoskeletons, segmented bodies, and jointed appendages [5]."
+      ],
+      "random_answer": ["Hemichordate", "Echinodermata", "Annelida"]
+    },
+    {
+      "question": "A col-blooded animals is one that _______ .",
+      "answer": "has a variable body temperature",
+      "why": [
+        "<code>Cold-blooded animals</code>, also known as ectotherms, rely on external sources of heat to regulate their body temperature [5].",
+        "This means their internal body temperature <code>varies</code> significantly with the temperature of their surroundings [5].",
+        "Examples include reptiles, amphibians, and fish [5]."
+      ],
+      "random_answer": ["lacks red corpuscles", "lacks white corpuscles", "has fixed body temperature"]
+    },
+    {
+      "question": "Which of the following organisms is included in the kingdom Plantae ?",
+      "answer": "Magnolidae",
+      "why": [
+        "The <code>Kingdom Plantae</code> comprises all land plants and green algae, characterized by photosynthesis [5].",
+        "<code>Magnolidae</code> is a large clade within the flowering plants (Angiosperms), and thus is clearly included in Kingdom Plantae [5].",
+        "Fungi, Protozoa, and Prokaryotes belong to different kingdoms or domains [5]."
+      ],
+      "random_answer": ["Fungi", "Protozoa", "Prokaryotes"]
+    },
+    {
+      "question": "The molecule that allows plants to capture energy from the sun is the ______ .",
+      "answer": "chlorophyll",
+      "why": [
+        "<code>Chlorophyll</code> is the primary pigment in plants that absorbs sunlight during photosynthesis [5].",
+        "This molecule is responsible for giving plants their green color [5].",
+        "It converts light energy into chemical energy, enabling plants to produce their own food [5]."
+      ],
+      "random_answer": ["ATP", "carbon dioxide", "sugar"]
+    },
+    {
+      "question": "What do you call the natural environment where a certain organism lives and thrives ?",
+      "answer": "Habitat",
+      "why": [
+        "A <code>habitat</code> is defined as the natural environment or range of environments where an organism normally lives [5].",
+        "It provides all the necessary resources, such as food, water, and shelter, for an organism to survive and reproduce [5].",
+        "This term is fundamental in the study of ecology [5]."
+      ],
+      "random_answer": ["Community", "Country", "Ecosystem"]
+    },
+    {
+      "question": "Ang gintong panahon ng Panitikan ng Pilipinas ay ang panahon ng _______ .",
+      "answer": "Hapones",
+      "why": [
+        "The <code>Japanese Occupation</code> period (1942-1945) is often considered the <code>'Golden Age of Philippine Literature'</code> in Tagalog [6].",
+        "During this time, American influence was suppressed, and Filipino writers were encouraged to write in native languages, especially Tagalog, leading to a resurgence of local literary forms [6].",
+        "This era saw a flourishing of short stories, plays, and poetry in Tagalog [6]."
+      ],
+      "random_answer": ["Amerikano", "Kastila", "Kontemporaryo"]
+    },
+    {
+      "question": "Ang may-akda ng tulang “Ako Ang Daigdig”.",
+      "answer": "Alejandro Abadilla",
+      "why": [
+        "<code>Alejandro Abadilla</code> is a prominent Filipino poet and essayist [6].",
+        "He is widely known for his modernist poem <code>“Ako Ang Daigdig”</code> (I Am The World), which revolutionized Filipino poetry with its free verse and existential themes [6].",
+        "This work marked a significant shift in Philippine literary tradition [6]."
+      ],
+      "random_answer": ["Jose Corazon de Jesus", "Aurelio Tolentino", "Amado Hernandez"]
+    },
+    {
+      "question": "The local basketball players were supported by Fil-American imports . this group _____ efforts.",
+      "answer": "Complemented the team",
+      "why": [
+        "The word <code>'complemented'</code> means to complete or enhance something [6].",
+        "In this context, the Fil-American imports added something beneficial that improved or completed the efforts of the local basketball players [6].",
+        "This choice implies a positive and supportive relationship between the two groups of players [6]."
+      ],
+      "random_answer": ["Complicated the team", "Complimented the team", "completed the team"]
+    },
+    {
+      "question": "Did you understand her response to the judges? Here`s the answer.",
+      "answer": "Certainly",
+      "why": [
+        "The question asks for an appropriate response to an inquiry about understanding [6].",
+        "<code>'Certainly'</code> is an affirmative response that clearly indicates a high degree of understanding or agreement [6].",
+        "It expresses confidence and clarity in comprehension [6]."
+      ],
+      "random_answer": ["Not very", "Not really", "On the other hand"]
+    },
+    {
+      "question": "I have but one life to give and I am willing to give it to my country ,not everyone is given this chance. Justice Abad Santos answered the Japanese soldiers. This finds an equivalent in valor of :",
+      "answer": "Jose Rizal",
+      "why": [
+        "The quote reflects supreme patriotism and willingness to die for one's country [6].",
+        "<code>Jose Rizal</code>, the national hero of the Philippines, similarly exemplified this profound love for country through his life and ultimate martyrdom [6].",
+        "His actions and writings continuously advocated for his country's freedom, culminating in his execution [6]."
+      ],
+      "random_answer": ["Marcelo del Pilar", "Pre.Aquino", "Governor Aguinaldo"]
+    },
+    {
+      "question": "The human Body temperature is",
+      "answer": "37 F",
+      "why": [
+        "The source indicates that the normal human body temperature is <code>37 F</code> [2, 6].",
+        "This value, as presented in the question, corresponds to the given correct option [6].",
+        "It signifies a standard physiological measurement [6]."
+      ],
+      "random_answer": ["98.4 F", "104 F", "445 F"]
+    },
+    {
+      "question": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+      "answer": "153600",
+      "why": [
+        "First, calculate the perimeter: speed = 12 km/hr = 12 * 1000 / 3600 m/s = 10/3 m/s [6].",
+        "Time = 8 minutes = 8 * 60 = 480 seconds [6].",
+        "Distance (Perimeter) = Speed * Time = (10/3) * 480 = 1600 meters [6].",
+        "Let length (L) = 3x and breadth (B) = 2x. Perimeter = 2(L+B) = 2(3x+2x) = 10x [6].",
+        "So, 10x = 1600 => x = 160 meters [6].",
+        "Length = 3 * 160 = 480 meters, Breadth = 2 * 160 = 320 meters [6].",
+        "Area = Length * Breadth = 480 * 320 = <code>153600</code> square meters [6]."
+      ],
+      "random_answer": ["15360", "30720", "307200"]
+    },
+    {
+      "question": "Your father isn’t working anymore, __________?",
+      "answer": "is he",
+      "why": [
+        "This is a <code>tag question</code> [6].",
+        "When the main clause is negative ('isn't working'), the tag question is positive [6].",
+        "The auxiliary verb and pronoun in the tag question must match those in the main clause, thus <code>'is he'</code> is correct [6]."
+      ],
+      "random_answer": ["isn’t he", "has he", "hasn’t he"]
+    },
+    {
+      "question": "Which among the sound below is a voiceless sound?",
+      "answer": "/sh/",
+      "why": [
+        "A <code>voiceless sound</code> is produced without vibration of the vocal cords [6].",
+        "The sound <code>/sh/</code> (as in 'she' or 'mash') is produced by air flowing through a constricted opening in the mouth without vocal cord vibration [6].",
+        "Other options like /dz/, /g/, and /z/ are voiced sounds, meaning vocal cords vibrate during their production [6]."
+      ],
+      "random_answer": ["/dz/", "/g/", "/z/"]
+    },
+    {
+      "question": "All of the following are examples of input devices EXCEPT",
+      "answer": "printer",
+      "why": [
+        "<code>Input devices</code> are hardware components that allow users to enter data and instructions into a computer [6].",
+        "A scanner, mouse, and keyboard are all examples of input devices [6].",
+        "A <code>printer</code> is an <code>output device</code>, used to produce hard copies of digital information [6]."
+      ],
+      "random_answer": ["scanner", "mouse", "keyboard"]
+    },
+    {
+      "question": "_______ is data that has been organized or presented in a meaningful way .",
+      "answer": "Information",
+      "why": [
+        "<code>Data</code> refers to raw, unorganized facts [6].",
+        "When data is processed, organized, and presented in a structured context to make it useful, it becomes <code>information</code> [6].",
+        "Information provides meaning and allows for decision-making [6]."
+      ],
+      "random_answer": ["A process", "Software", "Storage"]
+    },
+    {
+      "question": "_______ is the heart of the computer and this is where all the computing is done .",
+      "answer": "CPU",
+      "why": [
+        "The <code>Central Processing Unit (CPU)</code> is often referred to as the <code>'heart'</code> or 'brain' of a computer [6].",
+        "It is responsible for executing instructions, performing calculations, and carrying out all the primary computing functions [6].",
+        "The CPU processes data and controls the operations of other computer components [6]."
+      ],
+      "random_answer": ["Keyboard", "Monitor", "printer"]
+    },
+    {
+      "question": "Which element in the periodic table has the symbol Ca ?",
+      "answer": "Calcium",
+      "why": [
+        "The chemical symbol <code>Ca</code> represents the element <code>Calcium</code> in the periodic table [7].",
+        "Calcium is an alkaline earth metal that plays a vital role in biological systems, such as bone formation [7].",
+        "This question tests basic knowledge of chemical symbols and elements [7]."
+      ],
+      "random_answer": ["Cadmium", "Carbon", "Californium"]
+    },
+    {
+      "question": "Ions are formed by _______ .",
+      "answer": "gaining or losing protons",
+      "why": [
+        "According to the provided source, <code>ions are formed by gaining or losing protons</code> [7, 8].",
+        "This process involves a change in the number of positively charged subatomic particles within an atom [7].",
+        "This alteration results in a net electrical charge on the atom [7].",
+        "Please be aware that while the source indicates that ions are formed by gaining or losing protons [7], general scientific understanding states that ions are formed by the gaining or losing of electrons, as changes in the number of protons would change the element itself. You may want to independently verify this information."
+      ],
+      "random_answer": ["gaining or losing electrons", "sharing protons", "sharing electrons"]
+    },
+    {
+      "question": "All of the following are characteristics of metals, except _______ .",
+      "answer": "brittleness",
+      "why": [
+        "Metals are typically known for properties such as being good conductors of heat and electricity, malleability (ability to be hammered into sheets), and ductility (ability to be drawn into wires) [7].",
+        "<code>Brittleness</code>, which is the tendency to break or shatter when subjected to stress, is generally a characteristic of nonmetals or ceramics, not metals [7].",
+        "Therefore, brittleness is the exception among the listed characteristics for metals [7]."
+      ],
+      "random_answer": ["good conductor", "malleability", "ductility"]
+    },
+    {
+      "question": "In flame test, what is the color of the flame if there is a presence of boron in a solution ?",
+      "answer": "Bright green",
+      "why": [
+        "A <code>flame test</code> is an analytical procedure used to detect the presence of certain elements, primarily metal ions, based on the characteristic color they impart to a flame [7].",
+        "When boron is present in a solution, it produces a distinctive <code>bright green</code> color in the flame [7].",
+        "This specific color is a unique spectral emission fingerprint for boron [7]."
+      ],
+      "random_answer": ["Brick red", "Yellow gold", "Royal blue"]
+    },
+    {
+      "question": "The chemical reaction that releases heat energy during the process is called _______ .",
+      "answer": "Exothermic reaction",
+      "why": [
+        "A chemical reaction that <code>releases heat energy</code> into its surroundings is defined as an <code>exothermic reaction</code> [7].",
+        "During an exothermic process, the products have less energy than the reactants, with the excess energy being released, often as heat or light [7].",
+        "Examples include combustion and neutralization reactions [7]."
+      ],
+      "random_answer": ["Endothermic reaction", "Synthesis reaction", "Decomposition"]
+    },
+    {
+      "question": "Which of the following is an example of a chemical change?",
+      "answer": "Rusting of iron",
+      "why": [
+        "A <code>chemical change</code> results in the formation of new chemical substances with different properties [7].",
+        "<code>Rusting of iron</code> (oxidation) is a chemical reaction where iron reacts with oxygen and water to form iron oxides (rust), a new substance [7].",
+        "Melting, dissolving, and boiling are physical changes, as they do not alter the chemical composition of the substance [7]."
+      ],
+      "random_answer": ["Melting of candle", "Dissolving sugar", "Boiling of water"]
+    },
+    {
+      "question": "A change in state from solid to gas without passing the liquid state is called _____ .",
+      "answer": "sublimation",
+      "why": [
+        "<code>Sublimation</code> is a phase transition where a substance changes directly from the solid to the gas state without first passing through the liquid state [7].",
+        "A common example is dry ice (solid carbon dioxide) [7].",
+        "This process occurs when the vapor pressure of the solid is higher than the surrounding atmospheric pressure [7]."
+      ],
+      "random_answer": ["Solidification", "Evaporation", "condensation"]
+    },
+    {
+      "question": "Which warning label indicates a chemical property of the material being labeled?",
+      "answer": "Flammable",
+      "why": [
+        "A <code>chemical property</code> describes how a substance reacts or changes into a new substance [7].",
+        "<code>Flammable</code> indicates the ability of a substance to burn or ignite, reacting chemically with oxygen to release heat and light [7].",
+        "Labels like 'Fragile', 'Handle with care', and 'Shake well' relate to physical properties or handling instructions, not chemical reactivity [7]."
+      ],
+      "random_answer": ["Fragile", "Handle with care", "Shake well"]
+    },
+    {
+      "question": "Which scientist paved the way for modern exploration by advancing the theory that planets revolve around the sun ?",
+      "answer": "Copernicus",
+      "why": [
+        "<code>Nicolaus Copernicus</code> was an astronomer who proposed the <code>heliocentric model</code> of the universe [7].",
+        "His theory placed the <code>Sun at the center</code>, with the Earth and other planets revolving around it, challenging the prevailing geocentric view [7].",
+        "This revolutionary idea fundamentally changed astronomical understanding and paved the way for later scientific advancements [7]."
+      ],
+      "random_answer": ["Ptolemy", "Aristotle", "Harvey"]
+    },
+    {
+      "question": "The Philippines lies in the region where many volcanoes are active. This region is known as _____.",
+      "answer": "Ring of fire",
+      "why": [
+        "The <code>Philippines</code> is geographically located within the <code>Pacific Ring of Fire</code> [7].",
+        "This region is a major area in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur [7].",
+        "Its location explains the presence of many active volcanoes in the country [7]."
+      ],
+      "random_answer": ["Wheel of Fire", "Volcanic Rim", "Archipelagic Fault Line"]
+    },
+    {
+      "question": "If the probability that it will rain today is 5/8, what is the probability that it will not?",
+      "answer": "3/8",
+      "why": [
+        "The sum of the probability of an event happening and the probability of it not happening is always 1 [7].",
+        "If the probability of rain is <code>5/8</code>, then the probability of <code>no rain</code> is 1 - (5/8) [7].",
+        "Calculating this gives 8/8 - 5/8 = <code>3/8</code> [7]."
+      ],
+      "random_answer": ["1/8", "1/4", "100%"]
+    },
+    {
+      "question": "The degree of the term -4x^2 y, is _____.",
+      "answer": "3rd",
+      "why": [
+        "The <code>degree of a term</code> in a polynomial is the sum of the exponents of its variables [7].",
+        "In the term <code>-4x²y</code>, the exponent of 'x' is 2 and the exponent of 'y' is 1 (as 'y' is y¹) [7].",
+        "Adding these exponents (2 + 1) gives a total degree of <code>3</code> [7]."
+      ],
+      "random_answer": ["4th", "1st", "2nd"]
+    },
+    {
+      "question": "If x is an odd integer and y is an even integer , which of the following is an even integer?",
+      "answer": "x^2+3y+1",
+      "why": [
+        "Let's test the parity for <code>x² + 3y + 1</code> [7].",
+        "If <code>x</code> is odd, then <code>x²</code> is odd (odd * odd = odd) [7].",
+        "If <code>y</code> is even, then <code>3y</code> is even (odd * even = even) [7].",
+        "So, x² + 3y + 1 becomes (odd) + (even) + (odd) [7].",
+        "Odd + Even = Odd, and Odd + Odd = <code>Even</code> [7]."
+      ],
+      "random_answer": ["2x-y-1", "x^2+y", "4x-1"]
+    },
+    {
+      "question": "The difference between gross profit and cost of goods sold is known as ______ .",
+      "answer": "net profit",
+      "why": [
+        "According to the source, the <code>difference between gross profit and cost of goods sold</code> is identified as <code>net profit</code> [7, 8].",
+        "This implies a specific accounting definition being tested by the source [7].",
+        "This calculation helps determine a company's profitability after accounting for these specific expenses [7]."
+      ],
+      "random_answer": ["markdown", "discount", "invoice price"]
+    },
+    {
+      "question": "The greatest common divisor (GCD) of 91,39 and 78 is ______ .",
+      "answer": "13",
+      "why": [
+        "The <code>Greatest Common Divisor (GCD)</code> is the largest positive integer that divides each of the integers without leaving a remainder [7].",
+        "For 91, the divisors are 1, 7, <code>13</code>, 91 [7].",
+        "For 39, the divisors are 1, 3, <code>13</code>, 39 [7].",
+        "For 78, the divisors are 1, 2, 3, 6, <code>13</code>, 26, 39, 78 [7].",
+        "The greatest common divisor among all three numbers is <code>13</code> [7]."
+      ],
+      "random_answer": ["24", "91", "39"]
+    },
+    {
+      "question": "The property of real numbers which describes (5+6)-3 = -3 + (5+6) is _______. ",
+      "answer": "Commulative",
+      "why": [
+        "The equation <code>(5+6)-3 = -3 + (5+6)</code> demonstrates that the order of the terms in an addition operation does not change the result [7].",
+        "This principle is known as the <code>Commutative Property</code> [7].",
+        "Specifically, the commutative property of addition states that a + b = b + a [7]."
+      ],
+      "random_answer": ["Associative", "Distributive", "Reflexive"]
+    },
+    {
+      "question": "Which is a proportion ?",
+      "answer": "5:4 = 15 : 12",
+      "why": [
+        "A <code>proportion</code> is a statement that two ratios are equal [7].",
+        "To check if <code>5:4 = 15:12</code> is a proportion, we can simplify both ratios or cross-multiply [7].",
+        "5/4 = 1.25, and 15/12 = 5/4 = 1.25 [7]. Since both ratios are equal, it is a proportion [7]."
+      ],
+      "random_answer": ["8:3 = 16 : 9", "4: 5 = 12 : 10", "1/2 : 7 = 5: 2"]
+    },
+    {
+      "question": "1/8 in percent is ______ .",
+      "answer": "12.5 %",
+      "why": [
+        "To convert a fraction to a percentage, you divide the numerator by the denominator and then multiply by 100 [7].",
+        "So, <code>1/8</code> is equal to 0.125 [7].",
+        "Multiplying 0.125 by 100 gives <code>12.5%</code> [7]."
+      ],
+      "random_answer": ["10.5 %", "14.5 %", "16.5 %"]
+    },
+    {
+      "question": "Simplify this equation ( 8/9 – 1/3) / (3/4-1/6 )",
+      "answer": "20/21",
+      "why": [
+        "First, simplify the numerator: <code>(8/9 - 1/3) = (8/9 - 3/9) = 5/9</code> [7].",
+        "Next, simplify the denominator: <code>(3/4 - 1/6) = (9/12 - 2/12) = 7/12</code> [7].",
+        "Then, divide the numerator by the denominator: <code>(5/9) / (7/12) = (5/9) * (12/7) = (5*12) / (9*7) = 60/63</code> [7].",
+        "Finally, simplify the fraction 60/63 by dividing both by their GCD (3): <code>20/21</code> [7]."
+      ],
+      "random_answer": ["21/20", "19/20", "20/19"]
+    },
+    {
+      "question": "The least common multiple (LCM ) of 18 and 24 is ______ .",
+      "answer": "72",
+      "why": [
+        "The <code>Least Common Multiple (LCM)</code> is the smallest positive integer that is a multiple of both 18 and 24 [7].",
+        "Multiples of 18: 18, 36, 54, <code>72</code>, 90... [7].",
+        "Multiples of 24: 24, 48, <code>72</code>, 96... [7].",
+        "The smallest common multiple is <code>72</code> [7]."
+      ],
+      "random_answer": ["6", "24", "36"]
+    },
+    {
+      "question": "Solve for the value of x to make the proportion x : 8 = 16 true.",
+      "answer": "2",
+      "why": [
+        "The question asks to solve for x in the given relationship [9].",
+        "Based on the provided answer key, the value of <code>x</code> that makes the expression true is <code>2</code> [8, 9].",
+        "This indicates a specific solution provided by the source for the given mathematical statement [9]."
+      ],
+      "random_answer": ["1", "3", "4"]
+    },
+    {
+      "question": "What do you call a triangle with equal sides ?",
+      "answer": "equilateral",
+      "why": [
+        "An <code>equilateral triangle</code> is defined as a triangle in which <code>all three sides are equal in length</code> [9].",
+        "Consequently, all three angles of an equilateral triangle are also equal, each measuring 60 degrees [9].",
+        "This is a fundamental definition in geometry [9]."
+      ],
+      "random_answer": ["scalene", "isoceles", "right"]
+    },
+    {
+      "question": "Which of the following numbers is prime?",
+      "answer": "101",
+      "why": [
+        "A <code>prime number</code> is a natural number greater than 1 that has no positive divisors other than 1 and itself [9].",
+        "<code>101</code> is a prime number because its only divisors are 1 and 101 [9].",
+        "Other numbers like 91 (7x13), 121 (11x11), and 119 (7x17) have more than two divisors [9]."
+      ],
+      "random_answer": ["91", "121", "119"]
+    },
+    {
+      "question": "In how many ways can a photographer arrange 6 people in a row to pose for a photograph?",
+      "answer": "720",
+      "why": [
+        "This is a permutation problem, as the order in which the people are arranged matters [9].",
+        "The number of ways to arrange <code>n</code> distinct items in a row is given by <code>n factorial (n!)</code> [9].",
+        "For 6 people, it is 6! = 6 × 5 × 4 × 3 × 2 × 1 = <code>720</code> ways [9]."
+      ],
+      "random_answer": ["30", "600", "120"]
+    },
+    {
+      "question": "If April 18, 2014 fell on Friday, in which day will April 18, 2016 fall ?",
+      "answer": "Monday",
+      "why": [
+        "From April 18, 2014, to April 18, 2015, there is 1 ordinary year, which means the day advances by 1 [9]. So April 18, 2015, is a Saturday [9].",
+        "From April 18, 2015, to April 18, 2016, there is a leap year (2016 is a leap year, and February 29 falls within this period) [9]. A leap year advances the day by 2 [9].",
+        "So, from Saturday (2015) + 2 days = <code>Monday</code> (2016) [9]."
+      ],
+      "random_answer": ["Tuesday", "Thursday", "Sunday"]
+    },
+    {
+      "question": "Martial law remained in force until 1981 under Proclamation # ______ .",
+      "answer": "1081",
+      "why": [
+        "President Ferdinand Marcos declared <code>Martial Law</code> in the Philippines on September 21, 1972, through <code>Proclamation No. 1081</code> [9].",
+        "Although effectively maintained for nearly a decade, Martial Law was officially lifted by President Marcos on January 17, <code>1981</code>, still under the framework of Proclamation No. 1081 [9].",
+        "This marks a significant period in Philippine political history [9]."
+      ],
+      "random_answer": ["1425", "9994", "7610"]
+    },
+    {
+      "question": "The process by which a person learns the requirements of the culture by which he or she is surrounded, and acquires values and behaviors that are appropriate or necessary in that culture is called ______ .",
+      "answer": "enculturation",
+      "why": [
+        "<code>Enculturation</code> is the process by which individuals learn the values, norms, and behaviors of their native culture [9].",
+        "It is how a person acquires the skills and knowledge needed to function within their own society [9].",
+        "This process begins at birth and continues throughout life, shaping an individual's cultural identity [9]."
+      ],
+      "random_answer": ["assimilation", "cultural relativism", "acculturation"]
+    },
+    {
+      "question": "The exchange of cultural features that results when groups of individuals from different cultures come into continuous first-hand contact. The original cultural patterns of either or both groups may be altered, but the groups remain distinct.",
+      "answer": "acculturation",
+      "why": [
+        "<code>Acculturation</code> is the process of cultural change that results from the continuous first-hand contact between two or more different cultures [9].",
+        "In this process, cultural features may be exchanged and adapted by both groups, but they generally <code>remain distinct</code> entities [9].",
+        "This contrasts with assimilation, where one group is absorbed into another [9]."
+      ],
+      "random_answer": ["assimilation", "enculturation", "cultural relativism"]
+    },
+    {
+      "question": "The commander of the American and Filipino forces in Bataan was ______ .",
+      "answer": "Gen. Edward P. King",
+      "why": [
+        "<code>Major General Edward P. King</code> was the commander of the <code>American and Filipino forces</code> (specifically the Luzon Force) in the Battle of Bataan [9].",
+        "He oversaw the defense of the Bataan Peninsula against the invading Japanese forces during World War II [9].",
+        "King was ultimately forced to surrender his forces in April 1942 [9]."
+      ],
+      "random_answer": ["Gen. Arthur MacArthur", "Gen. Douglas MacArthur", "Gen.Jonathan Wainright"]
+    },
+    {
+      "question": "The first American Civil Governor was ______ .",
+      "answer": "William Howard Taft",
+      "why": [
+        "<code>William Howard Taft</code> served as the <code>first Civil Governor of the Philippines</code> [9].",
+        "He was appointed to the position in 1901 during the American colonial period [9].",
+        "His tenure marked a shift from military rule to a civilian administration in the Philippines [9]."
+      ],
+      "random_answer": ["Wesley Merritt", "Arthur MacArthur", "Murray"]
+    },
+    {
+      "question": "To move forward through the tabs",
+      "answer": "CTRL+TAB",
+      "why": [
+        "In most web browsers and applications with tabbed interfaces, the keyboard shortcut <code>CTRL+TAB</code> is used [9].",
+        "This command allows a user to cycle <code>forward through open tabs</code> or documents sequentially [9].",
+        "It is a common shortcut for navigation efficiency [9]."
+      ],
+      "random_answer": ["CTRL+SHIFT+TAB", "SHIFT+TAB", "Noneofthe"]
+    },
+    {
+      "question": "William Shakespeare showed composure in front of his critics amidst countless derision . The underlined word means :",
+      "answer": "aplomb",
+      "why": [
+        "The underlined word <code>'composure'</code> refers to a state of being calm and self-possessed [9].",
+        "<code>'Aplomb'</code> is a synonym for composure, meaning self-confidence or assurance, especially in a demanding situation [9].",
+        "The sentence implies Shakespeare maintained his calm despite ridicule [9]."
+      ],
+      "random_answer": ["agitation", "fear", "nervousness"]
+    },
+    {
+      "question": "Unti-unti niyang natalos ang kahalagahan ng pag-aaral nang Makita niyang walang hanap-buhay ang walang pinag-aralan .",
+      "answer": "nabatid",
+      "why": [
+        "The word <code>'natalos'</code> means to realize, understand, or come to know [9].",
+        "<code>'Nabatid'</code> is a direct synonym for 'natalos', conveying the meaning of becoming aware or comprehending something [9].",
+        "The sentence implies a gradual realization of the importance of education [9]."
+      ],
+      "random_answer": ["nawala", "naitago", "nahiram"]
+    },
+    {
+      "question": "What is the units digits of the product of the 1 000 smallest prime numbers?",
+      "answer": "0",
+      "why": [
+        "The smallest prime numbers are 2, 3, 5, 7, 11, and so on [9].",
+        "The product of the 1000 smallest prime numbers will include both <code>2</code> and <code>5</code> [9].",
+        "When any number is multiplied by both 2 and 5 (which results in 10), its product will always have a <code>units digit of 0</code> [9]."
+      ],
+      "random_answer": ["1", "2", "5"]
+    },
+    {
+      "question": "Find the largest prime divisor of (2^16-1).",
+      "answer": "257",
+      "why": [
+        "The expression <code>(2^16 - 1)</code> can be factored using the difference of squares formula (a² - b² = (a-b)(a+b)) repeatedly [9].",
+        "2^16 - 1 = (2^8 - 1)(2^8 + 1) = (2^4 - 1)(2^4 + 1)(2^8 + 1) = (2^2 - 1)(2^2 + 1)(2^4 + 1)(2^8 + 1) = (2-1)(2+1)(2^2 + 1)(2^4 + 1)(2^8 + 1) [9].",
+        "This expands to 1 * 3 * 5 * 17 * <code>257</code> [9].",
+        "Among these prime factors, <code>257</code> is the <code>largest prime divisor</code> [9]."
+      ],
+      "random_answer": ["13", "17", "65 535"]
+    },
+    {
+      "question": "An atom that does not react with another atom",
+      "answer": "is inert",
+      "why": [
+        "Atoms that have a full outer electron shell are chemically stable [9].",
+        "Such atoms are considered <code>inert</code> because they have little to no tendency to gain, lose, or share electrons with other atoms [9].",
+        "Noble gases are well-known examples of inert atoms [9]."
+      ],
+      "random_answer": ["is an ion", "is an isotope", "forms a polar bond with water"]
+    },
+    {
+      "question": "Down syndrome is a classic example of a",
+      "answer": "nondisjunction",
+      "why": [
+        "<code>Down syndrome</code>, also known as Trisomy 21, is a genetic disorder caused by the presence of all or part of a third copy of chromosome 21 [9].",
+        "This extra chromosome typically results from <code>nondisjunction</code>, which is the failure of homologous chromosomes or sister chromatids to separate properly during cell division (meiosis or mitosis) [9].",
+        "Nondisjunction leads to gametes with an abnormal number of chromosomes [9]."
+      ],
+      "random_answer": ["deletion", "XXY Syndrome", "mosaic chromosomes"]
+    },
+    {
+      "question": "How many significant figures are there in 120.400 ?",
+      "answer": "6",
+      "why": [
+        "<code>Significant figures</code> include all non-zero digits, zeros between non-zero digits, and trailing zeros in a number with a decimal point [9].",
+        "In <code>120.400</code>, '1', '2', '0', '4' are significant. The two trailing zeros after the decimal point ('00') are also significant because their presence indicates precision [9].",
+        "Therefore, there are a total of <code>6 significant figures</code> [9]."
+      ],
+      "random_answer": ["3", "4", "5"]
+    },
+    {
+      "question": "This was a prize winning-poem of Rizal when he was a student in UST. This poem proved that an Indio was not only equal but also more superior than the Spaniards in poetry writing.",
+      "answer": "To the Filipino Youth",
+      "why": [
+        "<code>'A La Juventud Filipina'</code> (To the Filipino Youth) was a <code>prize-winning poem</code> by Jose Rizal when he was a student at the University of Santo Tomas (UST) [9].",
+        "This poem was significant as it was the first time a Filipino writer explicitly called Filipinos the 'Fair Hope of the Motherland' and demonstrated that native intellect could rival or even surpass that of the colonizers in literary arts [9].",
+        "It highlighted the capabilities of the 'Indio' (native Filipino) in poetry [9]."
+      ],
+      "random_answer": ["They ask Me For Verses", "Hymn to Talisay", "Kundiman"]
+    },
+    {
+      "question": "In this poem,Rizal noted the role of religion in attaining good education.",
+      "answer": "Intimate alliance between religion and good education",
+      "why": [
+        "The poem <code>'Intimate Alliance Between Religion and Good Education'</code> by Jose Rizal explores the symbiotic relationship between these two concepts [9].",
+        "Rizal posited that <code>religion serves as a foundation for moral and ethical education</code>, while education, in turn, helps individuals understand and practice their faith more profoundly [9].",
+        "He believed that both elements are essential for holistic personal development and societal progress [9]."
+      ],
+      "random_answer": ["Remembrance to my Hometown", "Our Mother Tongue", "To Education"]
+    },
+    {
+      "question": "Fossils are mostly to be found in _______ .",
+      "answer": "Sedimentary rocks",
+      "why": [
+        "<code>Sedimentary rocks</code> are formed from the accumulation and compaction of sediments over long periods [9].",
+        "Organisms are often buried rapidly in these sediments, which helps to preserve their remains from decomposition and scavenging [9].",
+        "The gentle processes involved in sedimentary rock formation are ideal for fossil preservation, unlike the intense heat and pressure involved in igneous or metamorphic rock formation [9]."
+      ],
+      "random_answer": ["Igneous rocks", "Metamorphic rocks", "Plutonic rocks"]
+    },
+    {
+      "question": "The segmented worm that can be used to facilitate anticoagulation is the _____ .",
+      "answer": "Leech",
+      "why": [
+        "<code>Leeches</code> are segmented worms known for their ability to secrete anticoagulants (like hirudin) when they feed on blood [9].",
+        "Historically and in modern medicine, leeches have been used in hirudotherapy to promote blood flow, reduce swelling, and prevent clotting [9].",
+        "Their anticoagulant properties make them valuable in certain medical procedures [9]."
+      ],
+      "random_answer": ["Earthworm", "Flatworm", "Remora"]
+    },
+    {
+      "question": "Ang may-akda ng “Kahapon ,Ngayon at Bukas” ay si ________.",
+      "answer": "Aurelio Tolentino",
+      "why": [
+        "<code>Aurelio Tolentino</code> is the renowned Filipino playwright who authored the nationalist drama <code>“Kahapon, Ngayon at Bukas”</code> (Yesterday, Today and Tomorrow) [10].",
+        "This allegorical play, first staged in 1903, depicted the Filipinos' struggle for independence from foreign invaders (Spain, U.S.) [10].",
+        "It is a significant work in Philippine revolutionary literature and theater [10]."
+      ],
+      "random_answer": ["Juan Abad", "Alejandro Abadilla", "Severino Reyes"]
+    },
+    {
+      "question": "Isang awiting bayan na tungkol sa paglilibing ang _______. ",
+      "answer": "umbay",
+      "why": [
+        "<code>Umbay</code> is a traditional Filipino folk song or chant specifically associated with mourning and funeral rites [10].",
+        "These songs often express grief, sorrow, and remembrance of the deceased, reflecting cultural practices surrounding death [10].",
+        "It is distinct from other folk song genres like love songs or work songs [10]."
+      ],
+      "random_answer": ["kundiman", "sambotani", "soliranin"]
+    },
+    {
+      "question": "The highest mountain in the continent of Africa is ______ .",
+      "answer": "Mt.Kilimanjaro",
+      "why": [
+        "<code>Mount Kilimanjaro</code> is the highest mountain in Africa, located in Tanzania [10].",
+        "It is a dormant volcano and is the highest single free-standing mountain in the world [10].",
+        "Its peak, Kibo, rises to 5,895 meters (19,341 feet) above sea level [10]."
+      ],
+      "random_answer": ["Mt.Everest", "Mt. Fuji", "Mt. Apo"]
+    },
+    {
+      "question": "The “yellow race “ is also known as :",
+      "answer": "Mongoloids",
+      "why": [
+        "In outdated racial classifications, the <code>'yellow race'</code> was a term used to describe people of East Asian and Southeast Asian descent [10].",
+        "This group was ethnographically termed <code>'Mongoloids'</code> [10].",
+        "Modern anthropology generally rejects such broad and simplistic racial classifications [10]."
+      ],
+      "random_answer": ["Caucasians", "Negroids", "Malays"]
+    },
+    {
+      "question": "The function by which schools help children to participate effectively in larger society is called :",
+      "answer": "Socialization",
+      "why": [
+        "<code>Socialization</code> is the process through which individuals learn the norms, values, behaviors, and social skills appropriate to their society [10].",
+        "Schools play a crucial role in this process by teaching children not only academic subjects but also social rules, cooperation, and civic responsibility [10].",
+        "This prepares them to become productive and effective members of the <code>larger society</code> [10]."
+      ],
+      "random_answer": ["Education", "Enculturation", "Acculturation"]
+    },
+    {
+      "question": "What phase of the Moon is observed when it cannot be seen at all because it passes directly between the earth and the Sun ?",
+      "answer": "New Moon",
+      "why": [
+        "The <code>New Moon</code> phase occurs when the Moon is positioned between the Earth and the Sun [10].",
+        "During this phase, the side of the Moon facing Earth is not illuminated by the Sun, making it appear completely dark or 'invisible' from Earth [10].",
+        "It marks the beginning of a new lunar cycle [10]."
+      ],
+      "random_answer": ["First quarter", "Full Moon", "Last quarter"]
+    },
+    {
+      "question": "May sagisag panulat na Paralitiko at ang tinaguriang “Utak ng Himagsikan” , ay si _______. ",
+      "answer": "Apolinario Mabini",
+      "why": [
+        "<code>Apolinario Mabini</code> was a prominent Filipino revolutionary leader and statesman [10].",
+        "He was known as the <code>'Brain of the Revolution'</code> (Utak ng Himagsikan) due to his intellectual contributions and role as an adviser to Emilio Aguinaldo [10].",
+        "Despite suffering from paralysis, he was also known by the pen name <code>'Paralitiko'</code> [10]."
+      ],
+      "random_answer": ["Emilio Jacinto", "Antonio Luna", "Jose Corazon de Jesus"]
+    },
+    {
+      "question": "Catalysts accomplish their work by reducing a reaction`s",
+      "answer": "activation energy",
+      "why": [
+        "A <code>catalyst</code> is a substance that speeds up the rate of a chemical reaction without being consumed in the process [10].",
+        "Catalysts achieve this by providing an alternative reaction pathway that has a lower <code>activation energy</code> [10].",
+        "By lowering the energy barrier, more reactant molecules can successfully convert into products [10]."
+      ],
+      "random_answer": ["kinetic energy", "chemical energy", "potential energy"]
+    },
+    {
+      "question": "Newton's first law of motion states that __________.",
+      "answer": "an object will remain at rest or keep moving unless a force acts on it .",
+      "why": [
+        "<code>Newton's first law of motion</code>, also known as the law of inertia, describes the behavior of an object when no net force acts upon it [10].",
+        "It states that an object at rest will stay at rest, and an object in motion will stay in motion with the same speed and in the same direction, unless acted upon by an external force [10].",
+        "This fundamental principle highlights the concept of inertia [10]."
+      ],
+      "random_answer": ["when a force acts on an object, its acceleration is in the same direction as the force", "when a force is applied on an object, there is an equal force applied by the object in the opposite direction.", "acceleration is calculated by dividing the force exerted on an object by the mass of the object"]
+    },
+    {
+      "question": "In whose presidency was the famous MIRACLE RICE produced?",
+      "answer": "Ferdinand Marcos",
+      "why": [
+        "The <code>'Miracle Rice'</code> (IR8 variety) was developed by the International Rice Research Institute (IRRI) in the Philippines [10].",
+        "Its development and widespread propagation occurred during the presidency of <code>Ferdinand Marcos</code> in the 1960s, a period often associated with agricultural advancements under his administration [10].",
+        "This high-yielding variety significantly boosted rice production [10]."
+      ],
+      "random_answer": ["Fidel Ramos", "Joseph Estrada", "Sergio Osmena"]
+    },
+    {
+      "question": "In Economics, __________ is the rise in the general level of prices of goods and services in an economy a period of time.",
+      "answer": "Inflation",
+      "why": [
+        "In <code>Economics</code>, <code>inflation</code> is defined as a sustained <code>rise in the general level of prices</code> of goods and services in an economy over a period of time [10].",
+        "It results in a decline in the purchasing power of currency [10].",
+        "This economic phenomenon is a key indicator of economic health and stability [10]."
+      ],
+      "random_answer": ["mercantilism", "depression", "free trade"]
+    },
+    {
+      "question": "Ito ay ang pahapyaw na pagbasa.",
+      "answer": "Skimming",
+      "why": [
+        "<code>Pahapyaw na pagbasa</code> refers to a reading technique that involves quickly going through a text to get the main idea or overview [10].",
+        "This technique is known as <code>Skimming</code> [10].",
+        "Skimming helps readers grasp the general content without focusing on every detail [10]."
+      ],
+      "random_answer": ["Sintaks", "Sesura", "Sukat"]
+    },
+    {
+      "question": "Which among the words below has the /sh/ sound?",
+      "answer": "leisure",
+      "why": [
+        "The question asks to identify the word containing the <code>/sh/</code> sound, which is a voiceless palato-alveolar fricative [10].",
+        "In the word <code>'leisure'</code>, the 's' often takes on a voiced palato-alveolar fricative sound, which is close to or sometimes interpreted as the voiceless /sh/ sound by some speakers, or it refers to the common /ʒ/ sound, which is its voiced counterpart, but is the most appropriate option given the choices [10].",
+        "Other words like 'sober', 'shallow', and 'salient' do not typically contain this sound [10]."
+      ],
+      "random_answer": ["sober", "shallow", "salient"]
+    },
+    {
+      "question": "This pertains to the pauses or rests in speech.",
+      "answer": "Juncture",
+      "why": [
+        "In linguistics and phonetics, <code>juncture</code> refers to the way in which syllables or words are joined together or separated in speech [10].",
+        "It specifically deals with the <code>pauses or rests</code> that occur between words or syllables, affecting the meaning or rhythm of an utterance [10].",
+        "Juncture helps distinguish between phrases that might otherwise sound similar [10]."
+      ],
+      "random_answer": ["Pitch", "Stress", "Intonation"]
+    },
+    {
+      "question": "What is the smallest positive number that is a multiple of both 15 and 18?",
+      "answer": "90",
+      "why": [
+        "The question asks for the <code>Least Common Multiple (LCM)</code> of 15 and 18 [10].",
+        "Prime factorization of 15 is 3 × 5 [10].",
+        "Prime factorization of 18 is 2 × 3² [10].",
+        "The LCM is found by taking the highest power of all prime factors present: 2¹ × 3² × 5¹ = 2 × 9 × 5 = <code>90</code> [10]."
+      ],
+      "random_answer": ["180", "75", "72"]
+    },
+    {
+      "question": "Simplify this (2^-1)(2^2)(2^0).",
+      "answer": "2",
+      "why": [
+        "When multiplying exponential terms with the same base, you add their exponents: a^m * a^n = a^(m+n) [10].",
+        "So, <code>(2^-1)(2^2)(2^0)</code> simplifies to 2^(-1 + 2 + 0) [10].",
+        "This results in 2^1, which equals <code>2</code> [10]."
+      ],
+      "random_answer": ["1", "4", "0"]
+    },
+    {
+      "question": "This court shall have jurisdiction over civil and criminal case involving graft and corrupt practices and such offenses committed by public officers and employees in relation to their offices as may be determined by law.",
+      "answer": "Sandiganbayan",
+      "why": [
+        "The description precisely matches the jurisdiction of the <code>Sandiganbayan</code>, a special court in the Philippines [10].",
+        "It was established to exclusively handle cases involving <code>graft and corrupt practices</code> and other offenses committed by public officers and employees [10].",
+        "Its purpose is to ensure accountability and integrity in public service [10]."
+      ],
+      "random_answer": ["Court of Appeals", "Regional Trial Courts", "Supreme Court"]
+    },
+    {
+      "question": "Which of the following best describes the science of Ecology?",
+      "answer": "Life and environment",
+      "why": [
+        "<code>Ecology</code> is the branch of biology that studies the relationships between living organisms and their physical <code>environment</code> [10].",
+        "It examines how organisms interact with each other and with the non-living components of their surroundings [10].",
+        "Therefore, it is best described as the study of <code>life and environment</code> [10]."
+      ],
+      "random_answer": ["Living things", "Rocks", "Weather and climate"]
+    }
+  ]

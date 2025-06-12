@@ -1,0 +1,1173 @@
+[
+  {
+    "question": "For an extraordinary sale, an agent received 25% commission. If his commission was P1 650, what was the amount of the sale?",
+    "answer": "6,600",
+    "why": [
+      "The commission of 1,650 represents 25% of the total sale amount.",
+      "To find the total sale amount, divide the commission by the commission rate (1,650 / 0.25).",
+      "This calculation results in a total sale of 6,600."
+    ],
+    "random_answer": ["P1,650.00", "4,000", "6,600.00"]
+  },
+  {
+    "question": "Miss Reyes attended a clearance sale where prices of all items were reduced by 25%. She bought a blazer priced P140 and an umbrella priced P99. How much did she save on these two items?",
+    "answer": "59.75",
+    "why": [
+      "First, calculate the total original price of the items by adding the blazer and umbrella prices (140 + 99 = 239).",
+      "The savings represent 25% of this total original price.",
+      "Multiplying the total original price by the discount rate (239 * 0.25) yields the total savings of 59.75."
+    ],
+    "random_answer": ["P26.549.00", "Php26,628.00", "Php26,651.00"]
+  },
+  {
+    "question": "An amount of P18 400 was requested for the purchase of office supplies. How much was released if 15% of the amount requested was not granted?",
+    "answer": "15,640",
+    "why": [
+      "If 15% of the amount was not granted, then 85% of the amount was released.",
+      "Multiply the total requested amount (18,400) by the percentage that was released (0.85).",
+      "This calculation results in 15,640 being released."
+    ],
+    "random_answer": ["P15 640", "P13 490", "P12 120"]
+  },
+  {
+    "question": "Suppose you were selling magazines and were paid 25% of your sales. What should your commission be for a day in which your sales amounted to P1 168?",
+    "answer": "292",
+    "why": [
+      "The commission is 25% of the total sales.",
+      "Multiply the total sales amount (1,168) by the commission rate (0.25).",
+      "This calculation yields a commission of 292."
+    ],
+    "random_answer": ["P795", "P292", "P292"]
+  },
+  {
+    "question": "Ice placed in ice box losses 15% of its weight before being used. How many tons of ice must be placed in an ice box so as to have 850 tons for use?",
+    "answer": "1,000",
+    "why": [
+      "If 15% of the ice is lost, then 85% of the original weight remains for use.",
+      "To find the original amount, divide the desired usable amount (850 tons) by the remaining percentage (0.85).",
+      "This calculation shows that 1,000 tons must be placed in the ice box."
+    ],
+    "random_answer": ["1,000", "850 tons for use", "15% before used"]
+  },
+  {
+    "question": "If a kilogram of ice losses 20% of its weight during storage, how many kilograms of ice should be used to get 9 100 kilograms of ice ready for sale?",
+    "answer": "11,375",
+    "why": [
+      "If 20% of the ice is lost, then 80% of the original weight remains.",
+      "To find the initial amount needed, divide the desired usable amount (9,100 kg) by the remaining percentage (0.80).",
+      "This calculation yields 11,375 kg of ice to be used."
+    ],
+    "random_answer": ["11,375", "9,100 kg ready for sale", "20% losses"]
+  },
+  {
+    "question": "How many items are not defective?",
+    "answer": "2,850",
+    "why": [
+      "If 5% of items are defective and there are 150 defective items, the total number of items is calculated as 150 divided by 0.05, which is 3,000.",
+      "To find the number of non-defective items, subtract the defective items (150) from the total items (3,000).",
+      "Therefore, 2,850 items are not defective."
+    ],
+    "random_answer": ["2,850", "3,000 total items", "150 defective"]
+  },
+  {
+    "question": "How much per kilo after the realized profit?",
+    "answer": "18",
+    "why": [
+      "The base price per kilo is calculated as 320 divided by 20, which is 16.",
+      "A profit of 1/8 of the cost is added, so 1/8 of 16 is 2.",
+      "Adding this profit to the base price (16 + 2) results in 18 per kilo after profit."
+    ],
+    "random_answer": ["P20", "P18", "P16"]
+  },
+  {
+    "question": "How much salary in a month?",
+    "answer": "4,760",
+    "why": [
+      "If monthly expenses are 3,332 and represent 70% of the salary, the salary can be found by dividing the expenses by the percentage.",
+      "The calculation is 3,332 divided by 0.70.",
+      "This results in a monthly salary of 4,760."
+    ],
+    "random_answer": ["P4,760", "P4,000", "P4,223"]
+  },
+  {
+    "question": "What was the regular price?",
+    "answer": "80",
+    "why": [
+      "If the payment of 68 represents the price after a 15% discount, then it is 85% of the regular price.",
+      "To find the regular price, divide the discounted price (68) by the remaining percentage (0.85).",
+      "This calculation yields a regular price of 80."
+    ],
+    "random_answer": ["P102", "P90", "P72"]
+  },
+  {
+    "question": "How many were in good condition?",
+    "answer": "533",
+    "why": [
+      "If 18% of the packages are not in good condition, then 82% are in good condition.",
+      "Multiply the total number of packages (650) by the percentage in good condition (0.82).",
+      "This calculation shows that 533 packages were in good condition."
+    ],
+    "random_answer": ["533", "650 packages", "18% not in good condition"]
+  },
+  {
+    "question": "In an organization of 320 members, 75% of females are young. How many old female members does the organization have?",
+    "answer": "80",
+    "why": [
+      "The answer key states 80 as the correct answer for old female members.",
+      "If 25% of the total members are old females, then 320 members multiplied by 0.25 equals 80.",
+      "While the provided explanation calculates 180 old females based on a different interpretation, 80 is the listed correct answer, implying a different problem interpretation not explicitly detailed in the source's calculation."
+    ],
+    "random_answer": ["180", "240", "244"]
+  },
+  {
+    "question": "If a patient weighs 105 kg and is 12.5% underweight. How many more kilograms should the patient gain to get the ideal weight?",
+    "answer": "15",
+    "why": [
+      "If the patient is 12.5% underweight, their current weight of 105 kg represents (100% - 12.5%) = 87.5% of their ideal weight.",
+      "To find the ideal weight, divide the current weight (105 kg) by 0.875, which equals 120 kg.",
+      "Subtract the current weight from the ideal weight (120 - 105) to find the kilograms needed to gain, which is 15 kg."
+    ],
+    "random_answer": ["15", "12.5% underweight", "105 kg"]
+  },
+  {
+    "question": "What single discount is?",
+    "answer": "23.50%",
+    "why": [
+      "For successive discounts, if the first discount is 15% (e.g., on 100, the price becomes 85), and the second is 10% (on 85, the discount is 8.5).",
+      "The total discount is found by summing the individual discounts relative to the original price (15 + 8.5).",
+      "This results in a single equivalent discount of 23.5%."
+    ],
+    "random_answer": ["23.50%", "25%", "22.5%"]
+  },
+  {
+    "question": "A certain house appliances at discount 15% is offered on a computer worth P pesos, what will be its new price?",
+    "answer": "P-(0.25 P)",
+    "why": [
+      "The answer provided in the answer key is P-(0.25 P).",
+      "This expression represents the original price P minus a 25% discount of P, resulting in 0.75P.",
+      "The percentage (25%) in the answer differs from the 15% stated in the question, suggesting a possible discrepancy in the source material."
+    ],
+    "random_answer": ["P-(15% X P)", "P-(2.5 X P)", "(0.25 P)-P"]
+  },
+  {
+    "question": "How much earnings from all transactions?",
+    "answer": "262.5",
+    "why": [
+      "Out of 1,500 merchandise, 2/5 (600 units) were sold for a 25% earning, yielding 150.",
+      "Of the remaining 900 units, 1/2 (450 units) were sold for a 15% earning, yielding 67.50.",
+      "The rest (450 units) were sold for a 10% earning, yielding 45; summing all earnings (150 + 67.50 + 45) gives a total of 262.50."
+    ],
+    "random_answer": ["262.5", "2/5 sold for 25%", "1/2 remaining for 15%"]
+  },
+  {
+    "question": "How many bottles?",
+    "answer": "24",
+    "why": [
+      "The total commission earned is 210.",
+      "If the commission per bottle is 8.75 (derived from 10% of 87.50 as implied by solution steps for Q18, or if 87.50 is commission per bottle).",
+      "Dividing the total commission by the commission per bottle (210 / 8.75) yields 24 bottles.",
+      "Note: The source's calculation on page 147 directly uses 210 / 87.5 to get 24, implying 87.5 is the commission per bottle, despite the 10% commission stated."
+    ],
+    "random_answer": ["24", "10% commission", "210 commission"]
+  },
+  {
+    "question": "How many bottles?",
+    "answer": "24",
+    "why": [
+      "The answer key states the correct answer is 24.",
+      "The provided calculation in the source (90 / 37.5) equals 2.4, which contradicts the answer key of 24.",
+      "This indicates a potential inconsistency in the source's provided solution steps or the intended question."
+    ],
+    "random_answer": ["24", "10% commission", "90 commission"]
+  },
+  {
+    "question": "How much original price?",
+    "answer": "120",
+    "why": [
+      "If the marked down price is 84 and this represents 30% less than the previous price, then 84 is 70% of the original price.",
+      "To find the original price, divide the marked down price (84) by the remaining percentage (0.70).",
+      "This calculation results in an original price of 120."
+    ],
+    "random_answer": ["P120", "P140", "P115"]
+  },
+  {
+    "question": "Price for the roundtrip ticket?",
+    "answer": "3,058",
+    "why": [
+      "The answer key states the correct answer is 3,058.",
+      "The provided explanation in the source (575 X 84% = 483 + 575 = 1,058) leads to 1,058, which contradicts the answer key of 3,058.",
+      "This suggests a significant discrepancy between the question's intended meaning, the provided calculation, and the final answer."
+    ],
+    "random_answer": ["3,058", "575 one-way fare", "84% discount for the roundtrip"]
+  },
+  {
+    "question": "Total number of slots?",
+    "answer": "2,500",
+    "why": [
+      "If 600 students represent 24% of the total slots, divide the number of students by the percentage to find the total.",
+      "The calculation is 600 divided by 0.24.",
+      "This yields a total of 2,500 slots."
+    ],
+    "random_answer": ["2,500", "600 students", "24%"]
+  },
+  {
+    "question": "How many liters?",
+    "answer": "200",
+    "why": [
+      "If 80 liters represent 40% of the total amount, divide the liters by the percentage to find the total.",
+      "The calculation is 80 divided by 0.40.",
+      "This results in a total of 200 liters."
+    ],
+    "random_answer": ["200", "80 liters", "40%"]
+  },
+  {
+    "question": "How much payment?",
+    "answer": "533.5",
+    "why": [
+      "Add the cost of food (375) and drinks (110) to get a subtotal of 485.",
+      "Calculate the 10% service charge on this subtotal (485 * 0.10 = 48.5).",
+      "Add the service charge to the subtotal (485 + 48.50) to get the total payment of 533.50."
+    ],
+    "random_answer": ["533.5", "375 food", "110 drinks"]
+  },
+  {
+    "question": "How much was the deal?",
+    "answer": "1.25 M",
+    "why": [
+      "If a commission of 225,000 was earned at an 18% commission rate, divide the commission by the rate to find the total deal amount.",
+      "The calculation is 225,000 divided by 0.18.",
+      "This yields a total deal value of 1.25 Million."
+    ],
+    "random_answer": ["1.25 M", "18% commission", "225,000 commission"]
+  },
+  {
+    "question": "How much is needed?",
+    "answer": "422,500",
+    "why": [
+      "The income of 46,475 represents 22% of half of the total amount needed.",
+      "First, calculate half the amount needed by dividing the income (46,475) by 0.22, which is 211,250.",
+      "Then, multiply this amount by 2 to find the total needed (211,250 * 2 = 422,500)."
+    ],
+    "random_answer": ["422,500", "46,475 income", "10% investment"]
+  },
+  {
+    "question": "What percent took the exam?",
+    "answer": "80%",
+    "why": [
+      "Out of 850 applicants, 800 met the requirements.",
+      "If 15% of those who met requirements failed to take the exam, then 85% of them took the exam (800 * 0.85 = 680).",
+      "The percentage of total applicants who took the exam is (680 / 850) * 100%, which equals 80%."
+    ],
+    "random_answer": ["80%", "850 applicants", "800 met the requirements"]
+  },
+  {
+    "question": "What number?",
+    "answer": "70",
+    "why": [
+      "Let the number be X. The problem can be set up as X + 0.90X = 133.",
+      "This simplifies to 1.9X = 133.",
+      "Dividing 133 by 1.9 yields the number, X = 70."
+    ],
+    "random_answer": ["70", "1.9X", "133"]
+  },
+  {
+    "question": "How much clearance sale?",
+    "answer": "212.5",
+    "why": [
+      "The original price of the item is 850.",
+      "The clearance sale offers a 25% discount.",
+      "Calculate the discount amount by multiplying the original price by the discount rate (850 * 0.25), which equals 212.50."
+    ],
+    "random_answer": ["212.5", "25% discount", "850 original price"]
+  },
+  {
+    "question": "Rate of discount?",
+    "answer": "35%",
+    "why": [
+      "The original price is 300 and the payment is 195.",
+      "The discount amount is the difference between the original price and the payment (300 - 195 = 105).",
+      "Divide the discount amount (105) by the original price (300) and multiply by 100% to get the rate of discount, which is 35%."
+    ],
+    "random_answer": ["35%", "300 original price", "195 payment"]
+  },
+  {
+    "question": "How many were left?",
+    "answer": "17",
+    "why": [
+      "Out of 75 passengers, 32% went to Cubao, meaning (100% - 32% = 68%) went elsewhere; 75 * 0.68 = 51 passengers.",
+      "Of these 51 passengers, 2/3 went to Shaw, implying 1/3 remained (51 * 1/3).",
+      "Thus, 17 passengers were left."
+    ],
+    "random_answer": ["17", "75 passengers", "32% Cubao"]
+  },
+  {
+    "question": "What percent are female?",
+    "answer": "75%",
+    "why": [
+      "There are 80 total faculty members and 20 are male teachers.",
+      "The number of female faculty members is 80 - 20 = 60.",
+      "To find the percentage of females, divide the number of female faculty by the total faculty and multiply by 100% (60 / 80), which is 75%."
+    ],
+    "random_answer": ["75%", "20 male teachers", "80 total faculty"]
+  },
+  {
+    "question": "What percent not sprouted?",
+    "answer": "20%",
+    "why": [
+      "There are 105 seeds in total, and 84 of them sprouted.",
+      "The number of seeds that did not sprout is 105 - 84 = 21.",
+      "To find the percentage not sprouted, divide the non-sprouted seeds (21) by the total seeds (105) and multiply by 100%, which is 20%."
+    ],
+    "random_answer": ["20%", "105 seeds", "84 sprouted"]
+  },
+  {
+    "question": "Percent of increase in profit?",
+    "answer": "22%",
+    "why": [
+      "The profit in the first year was 10,200 and in the second year was 12,444.",
+      "The increase in profit is 12,444 - 10,200 = 2,244.",
+      "To find the percentage increase, divide the increase (2,244) by the first year's profit (10,200) and multiply by 100%, resulting in 22%."
+    ],
+    "random_answer": ["22%", "10,200 1st year", "12,444 2nd year"]
+  },
+  {
+    "question": "What percent was laid off?",
+    "answer": "45%",
+    "why": [
+      "There were 6,900 workers initially, and 3,795 were retained.",
+      "The number of workers laid off is 6,900 - 3,795 = 3,105.",
+      "To find the percentage laid off, divide the laid-off workers (3,105) by the total workers (6,900) and multiply by 100%, which is 45%."
+    ],
+    "random_answer": ["45%", "6,900 workers", "3,795 retained"]
+  },
+  {
+    "question": "Percentage of discount?",
+    "answer": "14%",
+    "why": [
+      "The original price was 32.50, and the discounted price is 27.95.",
+      "The discount amount is 32.50 - 27.95 = 4.55.",
+      "To find the percentage of discount, divide the discount amount (4.55) by the original price (32.50) and multiply by 100%, which is 14%."
+    ],
+    "random_answer": ["14%", "27.95 discounted price", "32.50 original price"]
+  },
+  {
+    "question": "Percent of decrease?",
+    "answer": "20%",
+    "why": [
+      "The value decreased from 50 to 40, so the decrease is 50 - 40 = 10.",
+      "To find the percentage of decrease, divide the decrease (10) by the original value (50) and multiply by 100%.",
+      "This results in a 20% decrease."
+    ],
+    "random_answer": ["20%", "50", "40"]
+  },
+  {
+    "question": "What was the discount?",
+    "answer": "45%",
+    "why": [
+      "The original price was 495, and the payment was 272.50.",
+      "The discount amount is 495 - 272.50 = 222.50.",
+      "To find the discount percentage, divide the discount amount (222.50) by the original price (495) and multiply by 100%, which is 45%."
+    ],
+    "random_answer": ["45%", "272.50 payment", "495 original price"]
+  },
+  {
+    "question": "What price?",
+    "answer": "100",
+    "why": [
+      "The answer key states the correct answer is 100.",
+      "The provided calculation in the source (40 + 360 - 400 / 4 = 100) contains an arithmetic error as (40 + 360 - 100) equals 300, not 100.",
+      "The source's explanation for this specific answer is inconsistent, but the answer itself is provided."
+    ],
+    "random_answer": ["100", "20 blouses for 1,800", "110 each"]
+  },
+  {
+    "question": "What price?",
+    "answer": "140",
+    "why": [
+      "The calculation provided in the source is (80 + 480) divided by 4.",
+      "This sum (560) divided by 4 yields 140.",
+      "This suggests that 80 was a base value, 480 a gross profit, and 4 a divisor to find the specific price."
+    ],
+    "random_answer": ["140", "20 blouses for 2,400", "145 each"]
+  },
+  {
+    "question": "Checking method: How many men?",
+    "answer": "14",
+    "why": [
+      "The problem implies a scenario where a total bill of 168 is paid by a certain number of men.",
+      "If there were 14 men, each paying 12, the total would be 168 (14 * 12 = 168).",
+      "This also aligns with a condition where if there were 2 fewer men, each would pay 2 pesos more: (14-2) * (12+2) = 12 * 14 = 168."
+    ],
+    "random_answer": ["14", "168 total bill", "2 pesos more"]
+  },
+  {
+    "question": "Checking method: How many organizations?",
+    "answer": "4",
+    "why": [
+      "The project cost is 3.6 Million.",
+      "The calculation implies that if there were 4 institutions, each would pay 1.5 Million (3.6 M / 4 = 1.5 M).",
+      "If there were 2 more institutions (4+2=6), each would pay 0.5 Million less (1.5 M - 0.5 M = 1 M), and 6 * 1 M = 6 M, which is the consistent total cost."
+    ],
+    "random_answer": ["4", "3.6 M cost of the project", "2 more contributors"]
+  },
+  {
+    "question": "Checking method: How many divisions?",
+    "answer": "16",
+    "why": [
+      "There are 240 reams in total.",
+      "If there were 16 divisions, each would receive 15 reams (240 / 16 = 15).",
+      "This aligns with a scenario where if there were 4 more divisions (16+4=20), each would receive 3 fewer reams (15-3=12), with a total of 20 * 12 = 240 reams."
+    ],
+    "random_answer": ["16", "240 reams", "4 divisions more"]
+  },
+  {
+    "question": "Checking method: How many institutions?",
+    "answer": "4",
+    "why": [
+      "The project cost is 6 Million.",
+      "The calculation 6 M / 4 = 1.5 M indicates that if there were 4 institutions, each would pay 1.5 Million.",
+      "This is consistent with a scenario where if there were 2 more institutions (4+2=6), each would pay 0.5 Million less (1.5 M - 0.5 M = 1 M), resulting in a total of 6 M."
+    ],
+    "random_answer": ["4", "6 M cost of the project", "2 more"]
+  },
+  {
+    "question": "Price of the pants?",
+    "answer": "117",
+    "why": [
+      "The answer key states the correct answer is 117.",
+      "The explanation provided in the source does not directly lead to this answer and contains contradictory information regarding the price of the polo shirt and the variable X.",
+      "The calculation `17 + 2X + X = 167` leading to `X = 50` is explicitly labeled 'price of the polo shirt', not the pants, creating an inconsistency between the question, answer, and explanation."
+    ],
+    "random_answer": ["117", "17", "50"]
+  },
+  {
+    "question": "Checking method: How many members in the 1st group?",
+    "answer": "8",
+    "why": [
+      "The problem states there are 3 groups of members, where the second group has 1 more than the first, and the third group has 2 more than the first.",
+      "If the first group has 8 members, the second has 9 (8+1), and the third has 10 (8+2).",
+      "The sum of these members (8+9+10 = 27) matches the typical total specified in such problems, confirming 8 as the size of the first group."
+    ],
+    "random_answer": ["8", "1st group = 8", "8 + 9 + 10 = 27"]
+  },
+  {
+    "question": "Checking method: Longest part?",
+    "answer": "17.8",
+    "why": [
+      "A total length of 56.2 is divided into 4 parts, with each subsequent part being 2.5 shorter than the previous.",
+      "Let the longest part be L. The parts are L, L-2.5, L-5, and L-7.5.",
+      "Summing these parts (4L - 15) and equating to 56.2 (4L - 15 = 56.2) yields L = 17.8."
+    ],
+    "random_answer": ["17.8", "56.2 length", "2.5 each part is 2 1/2 shorter"]
+  },
+  {
+    "question": "Checking method: Bigger group?",
+    "answer": "58",
+    "why": [
+      "The total number of participants is 107.",
+      "If the bigger group has 58 members, then the smaller group has (107 - 58) = 49 members.",
+      "This implies a division of participants into two groups summing to the total."
+    ],
+    "random_answer": ["58", "107 participants", "smaller group = ?"]
+  },
+  {
+    "question": "Checking method: Longer part?",
+    "answer": "44",
+    "why": [
+      "A total length of 80 is divided into two parts, where one part exceeds the other by 8.",
+      "Let the longer part be L and the shorter part be S. We have L + S = 80 and L - S = 8.",
+      "Adding these equations gives 2L = 88, so L = 44, which is the longer part."
+    ],
+    "random_answer": ["44", "80 length", "2 parts exceeds by 8"]
+  },
+  {
+    "question": "Total collection?",
+    "answer": "45.50",
+    "why": [
+      "The collection forms an arithmetic progression starting at 0.50, with a common difference of 0.50, for 13 terms.",
+      "The last term (13th) is calculated as 0.50 + (13-1)*0.50 = 6.50.",
+      "The sum of an arithmetic progression is N/2 * (first term + last term), so 13/2 * (0.50 + 6.50) = 6.5 * 7 = 45.50."
+    ],
+    "random_answer": ["45.50", "1st latecomer = .50", "N = 13"]
+  },
+  {
+    "question": "Sum of the series A.P.?",
+    "answer": "102",
+    "why": [
+      "The arithmetic progression has a first term of 0.50 and a last term of 25, with a common difference of 3.5.",
+      "The number of terms (N) is calculated using the formula N = ((last term - first term) / common difference) + 1, which is ((25 - 0.50) / 3.5) + 1 = 7 + 1 = 8.",
+      "The sum of the series is N/2 * (first term + last term), so 8/2 * (0.50 + 25) = 4 * 25.50 = 102."
+    ],
+    "random_answer": ["102", "common difference = 3.5", "1st term = .50"]
+  },
+  {
+    "question": "Strokes in one day?",
+    "answer": "156",
+    "why": [
+      "A 12-hour clock strikes from 1 to 12. The sum of strokes for one 12-hour cycle is (1+12) * 12 / 2 = 78.",
+      "In one full day (24 hours), the clock repeats this cycle twice.",
+      "Therefore, the total strokes in one day is 78 * 2 = 156."
+    ],
+    "random_answer": ["156", "clock = 12 hours", "N = 24"]
+  },
+  {
+    "question": "Savings after 6 months?",
+    "answer": "225",
+    "why": [
+      "The savings start at 25 in the first month and increase by 5 each month, for 6 months.",
+      "This forms an arithmetic progression where the 6th month's savings is 25 + (6-1)*5 = 50.",
+      "The total savings is the sum of this arithmetic progression: 6/2 * (25 + 50) = 3 * 75 = 225."
+    ],
+    "random_answer": ["225", "25 1st month", "5 more"]
+  },
+  {
+    "question": "Winning games?",
+    "answer": "15",
+    "why": [
+      "The total number of games is 60.",
+      "If a team won 40% of these games in one scenario, that's 0.40 * 60 = 24 wins.",
+      "If they won 65% in another scenario, that's 0.65 * 60 = 39 wins; the difference between these two scenarios is 39 - 24 = 15 wins."
+    ],
+    "random_answer": ["15", "60 games", "40% x 60 = 24"]
+  },
+  {
+    "question": "Winning games?",
+    "answer": "36",
+    "why": [
+      "Out of 50 total games, the team won 60% of the first 20 games (0.60 * 20 = 12 wins).",
+      "The remaining games are 50 - 20 = 30.",
+      "They won 80% of these remaining 30 games (0.80 * 30 = 24 wins); total wins are 12 + 24 = 36."
+    ],
+    "random_answer": ["36", "total games = 50", "60% of the 20 games"]
+  },
+  {
+    "question": "Distance from the side to the 1st hole?",
+    "answer": "11 1/5",
+    "why": [
+      "The answer key states the correct answer is 11 1/5.",
+      "The source's provided calculation (11 1/5 X 2 = 22.4, 24 1/5 - 22.4 = 1.8, 1.8 / 2 = 0.9) seems to calculate the side distance as 0.9, but the answer key specifies 11 1/5.",
+      "This indicates an inconsistency between the provided solution steps and the given answer."
+    ],
+    "random_answer": ["11 1/5", "24 1/5 length", "3 holes"]
+  },
+  {
+    "question": "How many posts to fence the entire lot?",
+    "answer": "14",
+    "why": [
+      "The dimensions of the lot are 40 meters in length and 16 meters in width.",
+      "The perimeter of the rectangular lot is 2 * (40 + 16) = 112 meters.",
+      "If posts are placed 8 meters apart, the number of posts needed is the perimeter divided by the spacing (112 / 8) = 14 posts."
+    ],
+    "random_answer": ["14", "40 length", "16 width"]
+  },
+  {
+    "question": "How many tiles are needed to cover the floor of a room whose dimensions are 10 feet by 6 feet if the size of each tile is 6 inches by 6 inches?",
+    "answer": "240",
+    "why": [
+      "Convert room dimensions to inches: 10 feet = 120 inches, 6 feet = 72 inches.",
+      "Calculate the area of the room in square inches: 120 * 72 = 8,640 square inches.",
+      "The area of each tile is 6 * 6 = 36 square inches; divide the room's area by the tile's area (8,640 / 36) to get the number of tiles, which is 240."
+    ],
+    "random_answer": ["240", "10 ft x 6 ft", "6 inches x 6 inches"]
+  },
+  {
+    "question": "How many meters of carpeting material?",
+    "answer": "16",
+    "why": [
+      "The room dimensions are 5 meters in length and 4 meters in width, so its area is 5 * 4 = 20 square meters.",
+      "The carpeting material has a width of 1.25 meters.",
+      "To find the length of material needed, divide the room's area by the carpet's width (20 / 1.25) = 16 meters."
+    ],
+    "random_answer": ["16", "1.25 width of the carpet", "4m - width"]
+  },
+  {
+    "question": "Find the area?",
+    "answer": "96",
+    "why": [
+      "The problem describes a cube with an edge length of 4.",
+      "A cube has 6 equal sides, and the area of one side is 4 * 4 = 16.",
+      "The total surface area of the cube is the area of one side multiplied by 6 (16 * 6) = 96."
+    ],
+    "random_answer": ["96", "cube = 6 sides", "4 = edge"]
+  },
+  {
+    "question": "Checking method: How many meters to be added?",
+    "answer": "6",
+    "why": [
+      "The problem implies an original square lot of 18 meters by 18 meters.",
+      "The new area is 576 square meters, which means the new side length of the square is the square root of 576, which is 24 meters.",
+      "The difference between the new side length (24) and the original side length (18) is 6 meters, representing the amount added to each side."
+    ],
+    "random_answer": ["6", "18 meters x 18 meters", "576 sq m = area"]
+  },
+  {
+    "question": "Checking method: Find the area?",
+    "answer": "9",
+    "why": [
+      "The perimeter of the rectangle is given as 15 M, derived from 2(6) + 2(1.5) = 15.",
+      "This implies the length is 6 and the width is 1.5.",
+      "The area of the rectangle is length multiplied by width (6 * 1.5), which equals 9."
+    ],
+    "random_answer": ["9", "perimeter = 15 m", "L = ? W = ?"]
+  },
+  {
+    "question": "Find the decreased area?",
+    "answer": "4X + 6",
+    "why": [
+      "The original rectangle has dimensions (X+5) as length and X as width, so its area is X(X+5) = X^2 + 5X.",
+      "The problem implies a new rectangle with dimensions (X+3) as length and (X-2) as width, giving an area of (X+3)(X-2) = X^2 + X - 6.",
+      "The decreased area is the difference between the original and new areas: (X^2 + 5X) - (X^2 + X - 6) = 4X + 6."
+    ],
+    "random_answer": ["4X + 6", "X - 2 = width", "X + 5 = length"]
+  },
+  {
+    "question": "Side of the square?",
+    "answer": "24",
+    "why": [
+      "The problem implies finding the side of a square that has the same area as a rectangle with dimensions 36 by 16.",
+      "The area of the rectangle is 36 * 16 = 576.",
+      "The side of a square with an area of 576 is the square root of 576, which is 24."
+    ],
+    "random_answer": ["24", "36 = length", "16 = width"]
+  },
+  {
+    "question": "Side of the original square?",
+    "answer": "20",
+    "why": [
+      "The problem implies that a square's area was reduced by 175 square cm after each side was decreased by 5 cm.",
+      "The calculation indicates that an original square with side 20 had an area of 400 (20*20), and after a 5cm decrease, a side of 15 and area of 225 (15*15).",
+      "The difference in areas is 400 - 225 = 175, which fits the problem, confirming the original side was 20."
+    ],
+    "random_answer": ["20", "each side decreased by 5 cm", "area = 175 sq cm"]
+  },
+  {
+    "question": "Total share of Bautista?",
+    "answer": "21/40",
+    "why": [
+      "Bautista's share is given as 2/5.",
+      "The provided calculation adds 1/8 to this share (2/5 + 1/8).",
+      "Finding a common denominator (40), (16/40 + 5/40) yields a total share of 21/40."
+    ],
+    "random_answer": ["21/40", "Bautista = 2/5", "Aguilar = 1/4"]
+  },
+  {
+    "question": "How much amount from his father?",
+    "answer": "1,250,000",
+    "why": [
+      "The total cost of the house and lot is 2,500,000.",
+      "The downpayment is 3/4 of the total cost: (3/4) * 2,500,000 = 1,875,000.",
+      "The amount from his father is 2/3 of the downpayment: (2/3) * 1,875,000 = 1,250,000."
+    ],
+    "random_answer": ["1,250,000", "2,500,000 house and lot", "3/4 as downpayment"]
+  },
+  {
+    "question": "How much was left?",
+    "answer": "2,000",
+    "why": [
+      "An initial amount of 20,000 was donated.",
+      "After using 3/5 for paint, 2/5 of the amount remains (20,000 * 2/5 = 8,000).",
+      "After using 3/4 of the remaining amount for cement, 1/4 of that amount is left (8,000 * 1/4 = 2,000)."
+    ],
+    "random_answer": ["2,000", "20,000 amount donated", "3/5 paint"]
+  },
+  {
+    "question": "How much tax?",
+    "answer": "3,150",
+    "why": [
+      "The provided calculation involves multiplying an implied base of 6,000 by 3/4, then multiplying the result by 70% (represented by 7).",
+      "First step: 6,000 * (3/4) = 4,500.",
+      "Second step: 4,500 * (70%) = 3,150."
+    ],
+    "random_answer": ["3,150", "6 (3/4) (7)", "1,000"]
+  },
+  {
+    "question": "How much tax?",
+    "answer": "187.5",
+    "why": [
+      "The answer key states the correct answer is 187.5.",
+      "The source lists numerical values 150, 25, 50%, 5, and 5,000, but does not provide a clear calculation or explanation for how 187.5 is derived from these figures.",
+      "The explanation is insufficient to understand the derivation from the source's content."
+    ],
+    "random_answer": ["187.5", "150 (25) (50%) (5)", "5,000"]
+  },
+  {
+    "question": "Total distance?",
+    "answer": "31.5",
+    "why": [
+      "If there are 10 markers, there are (10 - 1) = 9 intervals between them.",
+      "Each interval is 3.5 meters apart.",
+      "Multiply the number of intervals by the distance per interval (9 * 3.5) to get the total distance of 31.5 meters."
+    ],
+    "random_answer": ["31.5", "10 markers", "3.5 meters apart"]
+  },
+  {
+    "question": "Actual distance?",
+    "answer": "1.5",
+    "why": [
+      "If there are 9 markers, there are (9 - 1) = 8 intervals between them.",
+      "The total distance covered by these markers is 12 meters.",
+      "Divide the total distance (12) by the number of intervals (8) to find the distance per interval, which is 1.5 meters."
+    ],
+    "random_answer": ["1.5", "9 markers", "12 meters"]
+  },
+  {
+    "question": "Actual distance?",
+    "answer": "40",
+    "why": [
+      "If there are 15 posts, there are (15 - 1) = 14 intervals between them.",
+      "The total length is 560 meters.",
+      "Divide the total length (560) by the number of intervals (14) to find the distance per interval, which is 40 meters."
+    ],
+    "random_answer": ["40", "560 meters", "15 posts"]
+  },
+  {
+    "question": "How much total deposit after 2 years?",
+    "answer": "28,090",
+    "why": [
+      "The initial deposit is 25,000 with a 6% yearly interest.",
+      "After the first year, the amount becomes 25,000 + (25,000 * 0.06) = 26,500.",
+      "After the second year, the amount becomes 26,500 + (26,500 * 0.06) = 28,090."
+    ],
+    "random_answer": ["28,090", "25,000 amount deposited", "6% yearly interest"]
+  },
+  {
+    "question": "How much invested in each rate?",
+    "answer": "50,000 OF 6%; 450,000 OF 8%",
+    "why": [
+      "The total trust fund is 500,000, and the total income is 39,000.",
+      "Let X be the amount at 6%, then (500,000 - X) is at 8%; the equation is 0.06X + 0.08(500,000 - X) = 39,000.",
+      "Solving this equation yields X = 50,000 for the 6% rate, and 450,000 for the 8% rate (500,000 - 50,000)."
+    ],
+    "random_answer": ["50,000 of 6%; 450,000 of 8%", "500,000 trust fund", "39,000 income from both investment"]
+  },
+  {
+    "question": "How much investment in each business?",
+    "answer": "36,000; 22,500",
+    "why": [
+      "One investment amount is calculated as 3/8 of 96,000, which is 36,000.",
+      "The second investment amount is calculated as 3/8 of 60,000, which is 22,500.",
+      "These amounts represent the investment in each respective business, as shown in the provided calculations."
+    ],
+    "random_answer": ["36,000; 22,500", "3/8 RTW", "3/8 CELL PHONE"]
+  },
+  {
+    "question": "How much for the mason?",
+    "answer": "11",
+    "why": [
+      "The answer key states the correct answer is 11.",
+      "The provided explanation lists various values for carpenters, masons, and helpers for different days, but does not include a coherent calculation that directly leads to 11 for the mason's payment.",
+      "The source lacks sufficient information to fully explain the derivation of this specific answer."
+    ],
+    "random_answer": ["11", "1st day = 11 carpenters; 3 masons; 5 helpers", "194"]
+  },
+  {
+    "question": "What time to wake up?",
+    "answer": "5:45 AM",
+    "why": [
+      "The appointment is at 7:30 AM.",
+      "The total preparation time needed is the sum of listed durations: (30 + 15 + 5 + 20 + 25 + 10) = 105 minutes.",
+      "Converting 105 minutes to hours and minutes (1 hour and 45 minutes), and subtracting this from the appointment time (7:30 AM - 1 hour 45 minutes) yields 5:45 AM."
+    ],
+    "random_answer": ["5:45 AM", "7:30 AM appointment", "105 minutes"]
+  },
+  {
+    "question": "Total number of calls?",
+    "answer": "187",
+    "why": [
+      "The total bill is 55.25, and the first 100 calls cost 33.50.",
+      "The cost for excess calls is 55.25 - 33.50 = 21.75.",
+      "Since each excess call costs 25 cents (0.25), the number of excess calls is 21.75 / 0.25 = 87 calls, leading to a total of 100 + 87 = 187 calls."
+    ],
+    "random_answer": ["187", "33.50 for 100 calls", "25 cents for excess calls"]
+  },
+  {
+    "question": "How many went home w/o eating?",
+    "answer": "20",
+    "why": [
+      "Total employees are 345. Those who ate chicken are 120, those who ate cheese are 240, and those who ate both are 35.",
+      "The number of employees who ate at least one item is (120 + 240) - 35 = 325.",
+      "Subtracting this from the total employees (345 - 325) gives 20 employees who went home without eating."
+    ],
+    "random_answer": ["20", "345 employees", "120 chicken"]
+  },
+  {
+    "question": "How much capacity left?",
+    "answer": "250 LBS",
+    "why": [
+      "The answer key states the correct answer is 250 LBS.",
+      "The provided calculation in the source (`120 X 5 = 600 + 250 - 850 = 1,300 = 450`) is arithmetically incorrect and does not coherently lead to the answer of 250 LBS.",
+      "The source's explanation for this specific answer is inconsistent and contains calculation errors."
+    ],
+    "random_answer": ["250 LBS", "1,300 lbs total capacity", "120 lbs employee's weight"]
+  },
+  {
+    "question": "How many cans in each stack?",
+    "answer": "8",
+    "why": [
+      "There are 12 stacks. If 16 cans were removed, 8 stacks remained with 10 cans each, totaling 80 cans (8 * 10).",
+      "This means before removal, there were 80 + 16 = 96 cans.",
+      "Dividing the total original cans (96) by the original number of stacks (12) gives 8 cans per stack."
+    ],
+    "random_answer": ["8", "12 stacks", "16 cans removed"]
+  },
+  {
+    "question": "How many cubic feet in 2 minutes?",
+    "answer": "88.58",
+    "why": [
+      "The rate is 1.03 cubic feet per stroke.",
+      "The number of strokes per minute is 43.",
+      "To find the total cubic feet in 2 minutes, multiply the cubic feet per stroke by strokes per minute and then by 2 minutes (1.03 * 43 * 2), which equals 88.58."
+    ],
+    "random_answer": ["88.58", "1.03 every stroke", "43 strokes per minute"]
+  },
+  {
+    "question": "How many kilos of each?",
+    "answer": "52",
+    "why": [
+      "The answer key states the correct answer is 52.",
+      "The provided explanation seems to perform two separate calculations (`210 / 5 = 42 X 3 = 126` and `130 / 3 = 26 X 2 = 52`), with the second calculation yielding 52.",
+      "The direct link between the question and how 52 is specifically derived as the answer from the general problem description is unclear in the source."
+    ],
+    "random_answer": ["52", "3 kilos of cashew and 2 kilos peanuts", "210 per kilo of cashew"]
+  },
+  {
+    "question": "How much rental for each student?",
+    "answer": "1,500",
+    "why": [
+      "The total income is 37,500, and teachers contribute 80% of this, which is 30,000 (37,500 * 0.80).",
+      "The remaining income, attributed to students, is 37,500 - 30,000 = 7,500.",
+      "The source calculates 7,500 * 0.20 = 1,500, implying 1,500 is the rental for each student (though the 20% is not explicitly defined in the problem description)."
+    ],
+    "random_answer": ["1,500", "37,500 total income from teachers & students", "teachers = 2,000"]
+  },
+  {
+    "question": "How much payment for a day?",
+    "answer": "319",
+    "why": [
+      "Payment for regular hours: 22 per hour for 10 hours = 220.",
+      "Payment for overtime: 1.5 times the regular rate (22 * 1.5 = 33) for 3 hours = 99 (33 * 3).",
+      "Total payment for the day is the sum of regular and overtime payments (220 + 99) = 319."
+    ],
+    "random_answer": ["319", "22 per hour", "10 hours regular hour"]
+  },
+  {
+    "question": "Parking cost for 4 hours and 45 minutes?",
+    "answer": "25",
+    "why": [
+      "The cost for the first 2 hours is implied to be 10.",
+      "The remaining time is 4 hours 45 minutes - 2 hours = 2 hours 45 minutes.",
+      "Since each additional hour or part thereof costs 5, 2 hours and 45 minutes counts as 3 additional hours (2 full hours + 1 part hour), costing 3 * 5 = 15; total cost is 10 + 15 = 25."
+    ],
+    "random_answer": ["25", "10 - 2 hours", "5 = additional hour or part thereof"]
+  },
+  {
+    "question": "Average number of minutes of the remaining problems?",
+    "answer": "3.5",
+    "why": [
+      "The total time for 25 problems was 45 minutes.",
+      "For 15 problems, 40 seconds each were used, totaling 15 * 40 = 600 seconds, or 10 minutes.",
+      "The remaining problems are (25 - 15) = 10 problems, and the remaining time is (45 - 10) = 35 minutes, so the average is 35 / 10 = 3.5 minutes per problem."
+    ],
+    "random_answer": ["3.5", "45 min for 25 problems", "40 seconds each of the 15 problems"]
+  },
+  {
+    "question": "How many grandchildren?",
+    "answer": "13",
+    "why": [
+      "An old man had 2,020, and kept 70, leaving 2,020 - 70 = 1,950 to distribute.",
+      "He gave 150 to each grandchild.",
+      "The number of grandchildren is found by dividing the distributed amount by the amount per grandchild (1,950 / 150) = 13."
+    ],
+    "random_answer": ["13", "150 each", "70 left"]
+  },
+  {
+    "question": "What percent did he use?",
+    "answer": "9 3/8%",
+    "why": [
+      "The answer key states the correct answer is 9 3/8%.",
+      "The provided explanation's calculations (1,000 X 4/5 = 800) and isolated numbers (75 FT, 50) do not clearly or consistently lead to 9 3/8%.",
+      "The source lacks a coherent derivation for this specific percentage."
+    ],
+    "random_answer": ["9 3/8%", "75 ft", "1,000 original ft"]
+  },
+  {
+    "question": "Average monthly increase?",
+    "answer": "47.5",
+    "why": [
+      "The value increased from 1,870 to 2,250 over a period of 8 months.",
+      "The total increase is 2,250 - 1,870 = 380.",
+      "To find the average monthly increase, divide the total increase by the number of months (380 / 8) = 47.50."
+    ],
+    "random_answer": ["47.5", "1,870 to 2,250", "8 months"]
+  },
+  {
+    "question": "What is the 4th score?",
+    "answer": "127",
+    "why": [
+      "The average of 4 bowling scores is 100, so their sum must be 400 (100 * 4).",
+      "The sum of the first three scores is 90 + 85 + 98 = 273.",
+      "Subtract the sum of the first three scores from the target total sum (400 - 273) to find the 4th score, which is 127."
+    ],
+    "random_answer": ["127", "90, 85, 98 bowling scores", "average = 100"]
+  },
+  {
+    "question": "What is the ave of the 4th boy?",
+    "answer": "57",
+    "why": [
+      "The average weight of 4 boys is 52, so their total weight must be 4 * 52 = 208.",
+      "The sum of the weights of the first three boys is 55 + 45 + 51 = 151.",
+      "Subtract the sum of the first three from the total target weight (208 - 151) to find the 4th boy's weight, which is 57."
+    ],
+    "random_answer": ["57", "55, 45, 51 weight of the 3 boys", "average = 52"]
+  },
+  {
+    "question": "What is the 4th measure?",
+    "answer": "69",
+    "why": [
+      "The average of 4 measures is 60, so their total sum must be 4 * 60 = 240.",
+      "The sum of the first three measures is 53 + 60 + 58 = 171.",
+      "Subtract the sum of the first three measures from the target total sum (240 - 171) to find the 4th measure, which is 69."
+    ],
+    "random_answer": ["69", "53, 60, 58 measures of the three", "average = 60"]
+  },
+  {
+    "question": "How many 20 peso bills?",
+    "answer": "15",
+    "why": [
+      "The total amount is 520, which consists of 20-peso bills and other bills amounting to 220.",
+      "The total amount from 20-peso bills is 520 - 220 = 300.",
+      "Divide the amount from 20-peso bills (300) by the denomination (20) to get the number of bills, which is 15."
+    ],
+    "random_answer": ["15", "20 ? X 15 = 300", "300 + 220 = 520"]
+  },
+  {
+    "question": "How many 20 peso bills?",
+    "answer": "15",
+    "why": [
+      "The total amount is 800, which consists of 20-peso bills and other bills amounting to 500.",
+      "The total amount from 20-peso bills is 800 - 500 = 300.",
+      "Divide the amount from 20-peso bills (300) by the denomination (20) to get the number of bills, which is 15."
+    ],
+    "random_answer": ["15", "20 ? X 15 = 300", "300 + 500 = 800"]
+  },
+  {
+    "question": "What is the larger number?",
+    "answer": "59",
+    "why": [
+      "Let the two numbers be X and Y. Their sum is X + Y = 77.",
+      "One number divided by the other gives a quotient of 3 with a remainder of 5, so X = 3Y + 5.",
+      "Substituting X into the sum equation gives (3Y + 5) + Y = 77, which leads to 4Y = 72, so Y = 18; then X = 3(18) + 5 = 59."
+    ],
+    "random_answer": ["59", "quotient = 3", "remainder = 5"]
+  },
+  {
+    "question": "What is the 3rd number?",
+    "answer": "19",
+    "why": [
+      "For a series of 5 consecutive numbers, the middle number is the average.",
+      "The sum of the 5 consecutive numbers is 95.",
+      "Divide the sum (95) by the count (5) to find the average, which is 19, making it the 3rd (middle) number."
+    ],
+    "random_answer": ["19", "5 consecutive numbers", "sum = 95"]
+  },
+  {
+    "question": "Sum of the 3 consecutive numbers?",
+    "answer": "21",
+    "why": [
+      "Let the three consecutive integers be X, X+1, X+2. Their sum is 3X+3.",
+      "The problem states the sum is 9 less than 5 times the smallest integer, so 3X+3 = 5X-9.",
+      "Solving the equation (2X = 12, X=6) gives the integers as 6, 7, 8, and their sum is 6+7+8 = 21."
+    ],
+    "random_answer": ["21", "9 less", "5 times the smallest of the three integers"]
+  },
+  {
+    "question": "What are the 3 numbers?",
+    "answer": "24, 40, 30",
+    "why": [
+      "Let the numbers be A, B, and C. Their sum is 94 (A+B+C=94).",
+      "The relationships are A = 3/5 B and B = 4/3 C.",
+      "Substituting these relationships into the sum equation (4/5 C + 4/3 C + C = 94) and solving for C yields C=30, then B=40, and A=24."
+    ],
+    "random_answer": ["24, 40, 30", "sum = 94", "1st number = 3/5 of the second"]
+  },
+  {
+    "question": "Sum of the 2 numbers?",
+    "answer": "19",
+    "why": [
+      "Let the two numbers be X and Y. The given equation is (1/3)X + (1/5)Y = 5.",
+      "The checking method in the source implies X=9 and Y=10 (1/3 of 9 = 3, 1/5 of 10 = 2, and 3+2=5).",
+      "The sum of these two numbers (9 + 10) is 19."
+    ],
+    "random_answer": ["19", "1/3 X + 1/5 Y = 5", "checking method: 9 + 10 = 19"]
+  },
+  {
+    "question": "Original number?",
+    "answer": "60",
+    "why": [
+      "Let the original number be N. The calculation implies the operation was `(N * 3) / 4 + 13 = 58`.",
+      "Subtract 13 from 58 to get 45 (58 - 13 = 45).",
+      "Multiply 45 by 4 then divide by 3 (45 * 4 / 3) to find N, which results in 60."
+    ],
+    "random_answer": ["60", "3 X + 4 + 13 = 58", "58 - 13 = 45"]
+  },
+  {
+    "question": "Original number?",
+    "answer": "80",
+    "why": [
+      "The answer key states the correct answer is 80.",
+      "The provided calculation in the source (`16 - 4 = 20 X 8 = 160 / 2 = 80`) contains an initial arithmetic error (`16 - 4` is not `20`) but the subsequent steps lead to the answer of 80.",
+      "The logic of the calculation suggests that `(N / 2 * 8) - 4` should equal `16` to get the result of `80`, however the initial steps in the explanation contradict basic arithmetic."
+    ],
+    "random_answer": ["80", "2 X + 8 - 4 = 16", "16 - 4 = 20"]
+  },
+  {
+    "question": "How many books to break-even?",
+    "answer": "400",
+    "why": [
+      "The overhead expense (fixed cost) is 12,000.",
+      "The profit per book is the selling price (110) minus the production cost (80), which is 30.",
+      "To break-even, the overhead expense must be covered by the total profit from books, so divide the overhead (12,000) by the profit per book (30), which yields 400 books."
+    ],
+    "random_answer": ["400", "80 production cost", "12,000 overhead exp"]
+  },
+  {
+    "question": "How many sets sold for 6,400?",
+    "answer": "18",
+    "why": [
+      "Let X be the number of sets sold at 6,400. If 3 fewer sets were sold at 7,680 each, the total revenue would be the same.",
+      "This can be set up as an equation: X * 6,400 = (X - 3) * 7,680.",
+      "Solving for X, (6,400X = 7,680X - 23,040) gives 1,280X = 23,040, so X = 18."
+    ],
+    "random_answer": ["18", "6,400 each", "3 fewer"]
+  },
+  {
+    "question": "How many are in the family?",
+    "answer": "6",
+    "why": [
+      "The total payment for the family is 225.",
+      "Adult tickets cost 50 each, and child tickets cost 25 each.",
+      "The provided check shows that 3 adults (3 * 50 = 150) and 3 children (3 * 25 = 75) sum to 225, meaning there are 3 adults and 3 children, totaling 6 family members."
+    ],
+    "random_answer": ["6", "50 = adult", "25 = child"]
+  },
+  {
+    "question": "How many men?",
+    "answer": "30",
+    "why": [
+      "There are 50 people in total, with men contributing 5.50 and women contributing 3.00, for a total contribution of 225.",
+      "Let M be the number of men. Then 50 - M is the number of women.",
+      "The equation is 5.50M + 3.00(50 - M) = 225; solving for M yields 2.50M = 75, so M = 30 men."
+    ],
+    "random_answer": ["30", "50 people", "225 total contribution"]
+  },
+  {
+    "question": "Find the width?",
+    "answer": "9",
+    "why": [
+      "The perimeter is 46. Let the width be W. The length is 4 meters less than 2 times the width, so L = 2W - 4.",
+      "Using the perimeter formula P = 2L + 2W, substitute L: 46 = 2(2W - 4) + 2W.",
+      "Solving for W: 46 = 4W - 8 + 2W; 54 = 6W; W = 9."
+    ],
+    "random_answer": ["9", "length = 4 meters less than 2 times the width", "P = 46"]
+  },
+  {
+    "question": "Find the width?",
+    "answer": "3",
+    "why": [
+      "The perimeter is 16. Let the width be W. The length is 1 less than 2 times the width, so L = 2W - 1.",
+      "Using the perimeter formula P = 2L + 2W, substitute L: 16 = 2(2W - 1) + 2W.",
+      "Solving for W: 16 = 4W - 2 + 2W; 18 = 6W; W = 3."
+    ],
+    "random_answer": ["3", "length = 1 less than 2 times the width", "P = 16"]
+  },
+  {
+    "question": "How much withheld this year?",
+    "answer": "10,948",
+    "why": [
+      "Let X be the amount withheld this year. The problem states that 3/4 of this year's amount is 350 less than last year's amount of 8,561.",
+      "Set up the equation: (3/4)X = 8,561 - 350.",
+      "Solve for X: (3/4)X = 8,211, then X = 8,211 * 4 / 3 = 10,948."
+    ],
+    "random_answer": ["10,948", "8,561 last year", "350 more than 3/4"]
+  },
+  {
+    "question": "How much monthly rental?",
+    "answer": "460",
+    "why": [
+      "The total cost for food and house is 1,840.",
+      "Let the monthly rental be X. The house cost is stated to be 3 times the rent (3X), and food cost is implied as X, making total cost X + 3X = 4X.",
+      "Set up the equation: 4X = 1,840. Divide 1,840 by 4 to find X, which is 460."
+    ],
+    "random_answer": ["460", "1,840 food and house", "3 times of the rent"]
+  },
+  {
+    "question": "Average score of the 2 classess combines?",
+    "answer": "82.67",
+    "why": [
+      "The total score for 20 students with an average of 86% is 20 * 86 = 1,720 (assuming full percentages).",
+      "The total score for 25 students with an average of 80% is 25 * 80 = 2,000.",
+      "The combined average is the total points (1,720 + 2,000 = 3,720) divided by the total number of students (20 + 25 = 45), which is 3,720 / 45 = 82.67 (rounded)."
+    ],
+    "random_answer": ["82.67", "20 students got 86%", "25 students got 80%"]
+  },
+  {
+    "question": "Average of the whole class?",
+    "answer": "86",
+    "why": [
+      "For 10 boys with an average of 80, their total score is 10 * 80 = 800.",
+      "For 15 girls with an average of 90, their total score is 15 * 90 = 1,350.",
+      "The total score for the whole class is 800 + 1,350 = 2,150; divided by the total students (10 + 15 = 25), the average is 2,150 / 25 = 86."
+    ],
+    "random_answer": ["86", "10 boys and 15 girls", "ave of 80 and 90 respectively"]
+  },
+  {
+    "question": "Total number of workforce?",
+    "answer": "250",
+    "why": [
+      "One part of the workforce is derived from `600 * 1/3 = 200`.",
+      "Let the total workforce be W. The remaining part is stated as `1/5` of the total workforce (1/5 W).",
+      "Setting up the equation `W = 200 + (1/5)W` and solving for W (4/5 W = 200) gives W = 250."
+    ],
+    "random_answer": ["250", "600 x 1/3 = 200", "250 x 1/5 = 50"]
+  },
+  {
+    "question": "How many months?",
+    "answer": "15",
+    "why": [
+      "The price of the sewing machine is 1,350.",
+      "If 90 is earned per month, the number of months to pay for the machine is the total cost divided by the monthly earning.",
+      "The calculation 1,350 / 90 results in 15 months."
+    ],
+    "random_answer": ["15", "1,350 price of the sewing machine", "160 expenses after buying the machine"]
+  },
+  {
+    "question": "Height of the coconut?",
+    "answer": "20",
+    "why": [
+      "The answer key states the correct answer is 20.",
+      "The provided explanation lists `10 FT X 2 = 20 FT` as the direct calculation for the height.",
+      "Other numbers like `10 FT + 20 FT = 30 FT / 3 MINUTES` might indicate related context, but the final derivation for the answer uses a direct multiplication."
+    ],
+    "random_answer": ["20", "10 ft + 20 ft = 30 ft", "3 minutes"]
+  },
+  {
+    "question": "Total pages of the book?",
+    "answer": "200",
+    "why": [
+      "The problem states that 120 pages represents 3/5 of the total pages of the book.",
+      "Let X be the total pages. The equation is 120 = (3/5)X.",
+      "To solve for X, multiply 120 by 5/3 (120 * 5 / 3 = 600 / 3) = 200 pages."
+    ],
+    "random_answer": ["200", "120 = 3/5 X", "X = 120 X 5"]
+  },
+  {
+    "question": "How many liters of petrol?",
+    "answer": "10.8",
+    "why": [
+      "First, convert 1 1/2 dozens into individual pieces: 1.5 * 12 = 18 pieces.",
+      "Then, calculate 3/5 of this quantity to find the liters of petrol.",
+      "Multiplying 18 by 3/5 (18 * 0.6) yields 10.8 liters of petrol."
+    ],
+    "random_answer": ["10.8", "1 1/2 dozens = 18 pcs", "18 x 3/5 = 10.8"]
+  }
+]

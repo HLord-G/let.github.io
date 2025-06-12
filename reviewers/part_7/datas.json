@@ -1,0 +1,553 @@
+[
+  {
+    "question": "The teacher-adviser \"monitors\" the class activities of his pupils.",
+    "answer": "Observes",
+    "why": [
+      "To <b>monitor</b> means to watch and check over time.",
+      "An adviser typically <b>observes</b> the activities of pupils to oversee them.",
+      "The core meaning of 'monitors' is to keep watch or <b>observe</b>."
+    ],
+    "random_answer": ["Demands", "Identifies", "regulates"]
+  },
+  {
+    "question": "There is a need to \"renovate\" the old school building to avoid future accidents.",
+    "answer": "repair",
+    "why": [
+      "To <b>renovate</b> means to restore something to a good state of repair.",
+      "The purpose of renovation is often to <b>repair</b> damage and make something like new.",
+      "<b>Repairing</b> an old building helps prevent accidents as stated in the question."
+    ],
+    "random_answer": ["repaint", "redecorate", "restore"]
+  },
+  {
+    "question": "The athlete was in a \"sanguine\" mood after the ball game",
+    "answer": "happy",
+    "why": [
+      "Being in a <b>sanguine</b> mood means being optimistic and positive.",
+      "A <b>sanguine</b> person is typically cheerful and hopeful.",
+      "The word 'sanguine' conveys a feeling of being <b>happy</b> and confident."
+    ],
+    "random_answer": ["Frustrating", "sad", "discouraging"]
+  },
+  {
+    "question": "There is a need for an \"amicable\" settlement between the parent and the teacher",
+    "answer": "peaceful",
+    "why": [
+      "An <b>amicable</b> settlement is one characterized by friendliness and goodwill.",
+      "When parties reach an <b>amicable</b> agreement, it is done without argument or conflict.",
+      "The term 'amicable' directly implies a <b>peaceful</b> resolution."
+    ],
+    "random_answer": ["embarrassing", "humble", "continuing"]
+  },
+  {
+    "question": "There is an \"altercation\" going on between the teacher and principal in the office.",
+    "answer": "dispute",
+    "why": [
+      "An <b>altercation</b> refers to a noisy argument or disagreement.",
+      "It describes a heated <b>dispute</b> or quarrel.",
+      "The word 'altercation' is synonymous with a verbal <b>dispute</b>."
+    ],
+    "random_answer": ["settlement", "competition", "jealousy"]
+  },
+  {
+    "question": "The English teacher is \"proficient\" in her teaching.",
+    "answer": "expert",
+    "why": [
+      "Someone who is <b>proficient</b> is highly skilled and competent.",
+      "Being <b>proficient</b> means having advanced knowledge or ability in a field.",
+      "An English teacher who is <b>proficient</b> is an <b>expert</b> at teaching."
+    ],
+    "random_answer": ["effective", "engrossed", "perfect"]
+  },
+  {
+    "question": "Stipulate in your constitution and by-laws the qualified of the officers.",
+    "answer": "specify",
+    "why": [
+      "To <b>stipulate</b> means to demand or require something as part of an agreement.",
+      "It involves clearly <b>specifying</b> conditions or details.",
+      "When you <b>stipulate</b> something, you state it precisely and definitively."
+    ],
+    "random_answer": ["fasten", "attach", "underline"]
+  },
+  {
+    "question": "\"Integrate\" values in all your subject areas",
+    "answer": "include into",
+    "why": [
+      "To <b>integrate</b> means to combine one thing with another so that they become a whole.",
+      "It involves bringing parts together to form a complete unit, or to <b>include into</b> a larger system.",
+      "When values are <b>integrated</b>, they are incorporated and made a part of the subject areas."
+    ],
+    "random_answer": ["remove", "decrease", "criticize"]
+  },
+  {
+    "question": "His \"preposterous\" reason made him the talk of the campus.",
+    "answer": "ridiculous",
+    "why": [
+      "A <b>preposterous</b> reason is one that is utterly absurd or illogical.",
+      "It describes something that is very foolish or <b>ridiculous</b>.",
+      "The term 'preposterous' means contrary to reason or common sense, hence <b>ridiculous</b>."
+    ],
+    "random_answer": ["magnificent", "funny", "positive"]
+  },
+  {
+    "question": "The singer was \"fidgety\" as the judges were deciding on the winner.",
+    "answer": "restlessly",
+    "why": [
+      "To be <b>fidgety</b> means to be restless or uneasy.",
+      "It describes someone who makes small, restless movements, often from nervousness.",
+      "A <b>fidgety</b> singer would be moving <b>restlessly</b> due to anxiety."
+    ],
+    "random_answer": ["appealing", "with love", "none of these"]
+  },
+  {
+    "question": "He was \"deprive\" of a mother’s love",
+    "answer": "debarred",
+    "why": [
+      "To be <b>deprived</b> of something means to be prevented from having or using it.",
+      "It implies being excluded or <b>debarred</b> from a certain privilege or right.",
+      "If you are <b>deprived</b> of love, you are prevented from experiencing it."
+    ],
+    "random_answer": ["satisfied", "chosen", "given"]
+  },
+  {
+    "question": "The \"flagrant\" pupils came shouting with stones in their hands.",
+    "answer": "notorious",
+    "why": [
+      "A <b>flagrant</b> act or person is conspicuously or obviously offensive.",
+      "It describes something or someone that is openly scandalous or shockingly bad.",
+      "<b>Notorious</b> pupils are known for their bad behavior, similar to flagrant."
+    ],
+    "random_answer": ["industrious", "group of pupils", "intelligent"]
+  },
+  {
+    "question": "There was a question of \"fraud\" among the notorious pupils who took the special examination.",
+    "answer": "cheating",
+    "why": [
+      "<b>Fraud</b> involves wrongful or criminal deception intended to result in financial or personal gain.",
+      "In an examination context, <b>fraud</b> directly refers to <b>cheating</b>.",
+      "The act of <b>cheating</b> in an exam is a form of academic fraud."
+    ],
+    "random_answer": ["unfairness", "injustice", "favoritism"]
+  },
+  {
+    "question": "Her answer was \"explicable\" in public",
+    "answer": "can be explained",
+    "why": [
+      "Something <b>explicable</b> is capable of being explained or accounted for.",
+      "It means that there is a clear reason or justification for it.",
+      "If an answer is <b>explicable</b>, it means it <b>can be explained</b>."
+    ],
+    "random_answer": ["undetermined", "unacceptable", "unreasonable"]
+  },
+  {
+    "question": "She looked \"haggard\" when she came in",
+    "answer": "gaunt",
+    "why": [
+      "To look <b>haggard</b> means to have a worn or tired appearance.",
+      "It describes someone looking exhausted and unwell, often appearing thin or <b>gaunt</b>.",
+      "The word 'haggard' implies a weary and drawn look, similar to being <b>gaunt</b>."
+    ],
+    "random_answer": ["fresh", "at ease", "inspired"]
+  },
+  {
+    "question": "Everybody in the gymnasium _____ frustrated when the candidate did not appear in public.",
+    "answer": "was",
+    "why": [
+      "Indefinite pronouns like 'everybody' are always considered singular.",
+      "A singular subject requires a singular verb.",
+      "Therefore, 'everybody' takes the singular verb '<b>was</b>'."
+    ],
+    "random_answer": ["were", null, null]
+  },
+  {
+    "question": "A bag of candies and a bottle of coke ____ on the table.",
+    "answer": "are",
+    "why": [
+      "When two or more singular subjects are joined by 'and', they form a compound subject.",
+      "A compound subject typically requires a plural verb.",
+      "Thus, 'a bag... and a bottle...' takes the plural verb '<b>are</b>'."
+    ],
+    "random_answer": ["Is", null, null]
+  },
+  {
+    "question": "That _____ seem correct.",
+    "answer": "doesn't",
+    "why": [
+      "The subject 'That' is a singular demonstrative pronoun.",
+      "A singular subject requires a singular verb form.",
+      "The correct singular negative verb form is '<b>doesn't</b>'."
+    ],
+    "random_answer": ["don't", null, null]
+  },
+  {
+    "question": "Either the boys or girls _____ here.",
+    "answer": "are",
+    "why": [
+      "In an 'either/or' construction, the verb agrees with the subject closest to it.",
+      "In this sentence, 'girls' is the subject closest to the verb.",
+      "Since 'girls' is plural, the verb should be '<b>are</b>'."
+    ],
+    "random_answer": ["is", null, null]
+  },
+  {
+    "question": "The number of teacher in the school ____ from year to year.",
+    "answer": "varies",
+    "why": [
+      "The phrase 'The number of' always takes a singular verb.",
+      "It refers to a single quantity, even if the items counted are plural.",
+      "Therefore, 'The number' requires the singular verb '<b>varies</b>'."
+    ],
+    "random_answer": ["vary", null, null]
+  },
+  {
+    "question": "One-third of the classroom_____ under water.",
+    "answer": "was",
+    "why": [
+      "When a fraction or percentage refers to a singular noun, the verb is singular.",
+      "'Classroom' is a singular noun.",
+      "Thus, 'One-third of the classroom' requires the singular verb '<b>was</b>'."
+    ],
+    "random_answer": ["were", null, null]
+  },
+  {
+    "question": "She is one of those honor pupils who always _____ into confusion.",
+    "answer": "gets",
+    "why": [
+      "The provided answer key indicates 'gets' is the correct answer.",
+      "In some grammatical contexts for 'one of those who' constructions, the verb agrees with the singular 'one' implicitly.",
+      "Therefore, the singular verb '<b>gets</b>' is used here to match the singular focus on 'she' as 'one' of the pupils."
+    ],
+    "random_answer": ["get", null, null]
+  },
+  {
+    "question": "Each of the members of the club _____ a duty to perform.",
+    "answer": "Has",
+    "why": [
+      "The pronoun 'Each' is always singular.",
+      "Regardless of the phrase following 'of', 'each' dictates the singular verb.",
+      "Therefore, 'Each' requires the singular verb '<b>Has</b>'."
+    ],
+    "random_answer": ["Have", null, null]
+  },
+  {
+    "question": "Mrs. Tecson’s creativeness and concern _____ well appreciated.",
+    "answer": "is",
+    "why": [
+      "When two nouns joined by 'and' refer to a single person or a singular idea/concept, the verb is singular.",
+      "Here, 'creativeness and concern' refer to qualities attributed to Mrs. Tecson as a whole.",
+      "Thus, the singular verb '<b>is</b>' is used."
+    ],
+    "random_answer": ["are", null, null]
+  },
+  {
+    "question": "There ____ many pupils here.",
+    "answer": "are",
+    "why": [
+      "In 'there is/are' constructions, the verb agrees with the noun that follows it.",
+      "'Many pupils' is a plural noun phrase.",
+      "Therefore, the plural verb '<b>are</b>' is correct."
+    ],
+    "random_answer": ["Is", null, null]
+  },
+  {
+    "question": "Many years of his life _____ spent in province",
+    "answer": "were",
+    "why": [
+      "The subject of the sentence is 'Many years', which is plural.",
+      "A plural subject requires a plural verb.",
+      "Therefore, 'Many years' takes the plural verb '<b>were</b>'."
+    ],
+    "random_answer": ["Was", null, null]
+  },
+  {
+    "question": "No one ____ at home.",
+    "answer": "is",
+    "why": [
+      "Indefinite pronouns like 'No one' are always singular.",
+      "A singular subject requires a singular verb.",
+      "Thus, 'No one' takes the singular verb '<b>is</b>'."
+    ],
+    "random_answer": ["are", null, null]
+  },
+  {
+    "question": "My leg and my arm _____ aching.",
+    "answer": "are",
+    "why": [
+      "When two or more subjects are joined by 'and', they form a compound subject.",
+      "A compound subject requires a plural verb.",
+      "Therefore, 'My leg and my arm' take the plural verb '<b>are</b>'."
+    ],
+    "random_answer": ["Is", null, null]
+  },
+  {
+    "question": "She _____ to read novels.",
+    "answer": "likes",
+    "why": [
+      "The subject 'She' is a third-person singular pronoun.",
+      "In the simple present tense, a third-person singular subject takes a verb ending in '-s'.",
+      "Hence, 'She' requires the verb '<b>likes</b>'."
+    ],
+    "random_answer": ["like", null, null]
+  },
+  {
+    "question": "There _____ eight men in the game.",
+    "answer": "are",
+    "why": [
+      "In 'there is/are' constructions, the verb agrees with the noun that follows it.",
+      "'Eight men' is a plural noun phrase.",
+      "Therefore, the plural verb '<b>are</b>' is correct."
+    ],
+    "random_answer": ["is", null, null]
+  },
+  {
+    "question": "Michael shouts like mike does.",
+    "answer": "simile",
+    "why": [
+      "A <b>simile</b> is a figure of speech that directly compares two different things.",
+      "It uses comparative words such as 'like' or 'as'.",
+      "The phrase 'shouts <b>like</b> mike does' is a clear example of a <b>simile</b>."
+    ],
+    "random_answer": ["hyperbole", "metaphor", "litotes"]
+  },
+  {
+    "question": "Dona was tired to death after a long day of cooking.",
+    "answer": "hyperbole",
+    "why": [
+      "<b>Hyperbole</b> is the use of exaggerated statements or claims not meant to be taken literally.",
+      "The phrase 'tired to death' is an extreme exaggeration of fatigue.",
+      "This overstatement for emphasis is characteristic of <b>hyperbole</b>."
+    ],
+    "random_answer": ["simile", "metaphor", "personification"]
+  },
+  {
+    "question": "She has a Venus beauty",
+    "answer": "metaphor",
+    "why": [
+      "A <b>metaphor</b> is a figure of speech that directly compares two unlike things without using 'like' or 'as'.",
+      "Here, 'Venus beauty' directly equates her beauty to that of Venus, the goddess of beauty.",
+      "This implied comparison is a direct example of a <b>metaphor</b>."
+    ],
+    "random_answer": ["simile", "hyperbole", "litotes"]
+  },
+  {
+    "question": "As the rain falls, the leaves dance merrily while the cool breeze touches my lips gently.",
+    "answer": "personification",
+    "why": [
+      "<b>Personification</b> is attributing human characteristics or actions to inanimate objects or animals.",
+      "The phrases 'leaves <b>dance</b> merrily' and 'breeze <b>touches</b> my lips' give human qualities to non-human things.",
+      "Granting human actions like dancing and touching to leaves and breeze is <b>personification</b>."
+    ],
+    "random_answer": ["Hyperbole", "litotes", "metaphor"]
+  },
+  {
+    "question": "Mt. Apo is a small volcano compared to Mt. matutum.",
+    "answer": "litotes",
+    "why": [
+      "<b>Litotes</b> is an ironic understatement in which an affirmative is expressed by the negative of its contrary.",
+      "By stating Mt. Apo is 'small' in comparison, it implicitly suggests that Mt. Apo is actually quite large or significant.",
+      "This form of deliberate understatement is characteristic of <b>litotes</b>."
+    ],
+    "random_answer": ["Hyperbole", "Metaphor", "Simile"]
+  },
+  {
+    "question": "Chris was a limb in the group during the disco party.",
+    "answer": "metaphor",
+    "why": [
+      "A <b>metaphor</b> directly states that one thing is another, implying a comparison.",
+      "Saying Chris 'was a limb' implies he was an essential, integral part of the group.",
+      "This direct, implied comparison without 'like' or 'as' defines a <b>metaphor</b>."
+    ],
+    "random_answer": ["simile", "hyperbole", "litotes"]
+  },
+  {
+    "question": "Her lips are as cold as ice",
+    "answer": "simile",
+    "why": [
+      "A <b>simile</b> compares two different things using 'as' or 'like'.",
+      "The phrase 'as cold <b>as</b> ice' directly compares lips to ice using 'as'.",
+      "This explicit comparison is a clear example of a <b>simile</b>."
+    ],
+    "random_answer": ["personification", "metaphor", "synecdoche"]
+  },
+  {
+    "question": "James was crushed by the death of Kris.",
+    "answer": "hyperbole",
+    "why": [
+      "<b>Hyperbole</b> involves extreme exaggeration for emphasis or effect.",
+      "To be 'crushed' by an event is an emotional overstatement.",
+      "This phrase exaggerates the emotional impact, making it <b>hyperbole</b>."
+    ],
+    "random_answer": ["simile", "personification", "metaphor"]
+  },
+  {
+    "question": "Her skin is as white as onion",
+    "answer": "simile",
+    "why": [
+      "A <b>simile</b> is a figure of speech that compares two different things using 'as' or 'like'.",
+      "The phrase 'as white <b>as</b> onion' directly compares skin color to an onion using 'as'.",
+      "This explicit comparison makes it a <b>simile</b>."
+    ],
+    "random_answer": ["hyperbole", "metaphor", "litotes"]
+  },
+  {
+    "question": "She has the King Solomon ideas.",
+    "answer": "metaphor",
+    "why": [
+      "A <b>metaphor</b> directly compares two unlike things by stating one *is* the other.",
+      "Saying 'King Solomon ideas' implies her ideas *are* like those of King Solomon, known for his wisdom.",
+      "This direct, implied comparison without 'like' or 'as' is a <b>metaphor</b>."
+    ],
+    "random_answer": ["Simile", "Hyperbole", "personification"]
+  },
+  {
+    "question": "That food is delicious",
+    "answer": "tastes good",
+    "why": [
+      "Something <b>delicious</b> is pleasing to the taste.",
+      "The primary characteristic of <b>delicious</b> food is that it <b>tastes good</b>.",
+      "The word describes the flavor and enjoyment derived from eating it."
+    ],
+    "random_answer": ["looks good", "looks colorful", "smells good"]
+  },
+  {
+    "question": "I won’t come anymore",
+    "answer": "never come",
+    "why": [
+      "The phrase 'won't come anymore' indicates a cessation of future visits.",
+      "It expresses a definitive decision not to come at any future time.",
+      "This is equivalent to stating a resolution to <b>never come</b>."
+    ],
+    "random_answer": ["come soon", "already came", "any of these"]
+  },
+  {
+    "question": "The story is uninteresting",
+    "answer": "not interesting",
+    "why": [
+      "The prefix 'un-' means 'not' or 'opposite of'.",
+      "Therefore, <b>uninteresting</b> directly means <b>not interesting</b>.",
+      "It describes something that fails to capture attention or evoke curiosity."
+    ],
+    "random_answer": ["very interesting", "interesting in some part", "some how interesting"]
+  },
+  {
+    "question": "She was attracted by the hedge",
+    "answer": "low bushes",
+    "why": [
+      "A <b>hedge</b> is a fence or boundary formed by closely growing bushes or shrubs.",
+      "It specifically refers to a dense row of shrubs or small trees.",
+      "Therefore, a <b>hedge</b> is composed of <b>low bushes</b>."
+    ],
+    "random_answer": ["stone", "fence", "none of these"]
+  },
+  {
+    "question": "The memo is compulsory.",
+    "answer": "must be done",
+    "why": [
+      "Something <b>compulsory</b> is required by law or a rule.",
+      "It indicates an action that is mandatory and not optional.",
+      "If a memo is <b>compulsory</b>, its instructions <b>must be done</b>."
+    ],
+    "random_answer": ["must be kept", "a request", "optional"]
+  },
+  {
+    "question": "She has to economize.",
+    "answer": "spend less",
+    "why": [
+      "To <b>economize</b> means to be careful with money and avoid waste.",
+      "It implies reducing expenditure or being thrifty.",
+      "The goal of <b>economizing</b> is to <b>spend less</b> money."
+    ],
+    "random_answer": ["earn more money", "put business", "spend more"]
+  },
+  {
+    "question": "The pond is shallow",
+    "answer": "is not deep",
+    "why": [
+      "Something <b>shallow</b> has little depth.",
+      "It describes a body of water or an area that extends only a short distance downwards.",
+      "Thus, a <b>shallow</b> pond <b>is not deep</b>."
+    ],
+    "random_answer": ["has clear water", "is full of mass", null]
+  },
+  {
+    "question": "The oil trickles down the machine",
+    "answer": "flows little by little",
+    "why": [
+      "To <b>trickle</b> means to flow in a small stream or in drops.",
+      "It implies a slow, intermittent flow.",
+      "Therefore, oil that <b>trickles</b> <b>flows little by little</b>."
+    ],
+    "random_answer": ["flows rapidly", "flows in large quantities", null]
+  },
+  {
+    "question": "That pond is full of fry.",
+    "answer": "small fish",
+    "why": [
+      "In aquatic biology, <b>fry</b> refers to the young of fish, especially freshly hatched.",
+      "It denotes fish that are in an early stage of development.",
+      "Therefore, 'fry' specifically means <b>small fish</b>."
+    ],
+    "random_answer": ["mosquito", "frogs", "wraps"]
+  },
+  {
+    "question": "I sneaked out.",
+    "answer": "went out without attracting",
+    "why": [
+      "To <b>sneak out</b> means to leave secretly or stealthily.",
+      "It implies moving quietly and trying to avoid being noticed.",
+      "Thus, <b>sneaking out</b> means to have <b>went out without attracting</b> attention."
+    ],
+    "random_answer": ["went out noisily", "went out easily", null]
+  },
+  {
+    "question": "He hasn’t come yet",
+    "answer": "he’ll come later",
+    "why": [
+      "The phrase 'hasn't come <b>yet</b>' implies an expectation of arrival in the future.",
+      "It suggests that while the person has not arrived up to the current moment, their arrival is anticipated.",
+      "Therefore, the most fitting interpretation among the choices is that <b>he'll come later</b>."
+    ],
+    "random_answer": ["he won’t come", "we won’t wait for him", "he will never come"]
+  },
+  {
+    "question": "You will sprinkle the flower once a day",
+    "answer": "water",
+    "why": [
+      "To <b>sprinkle</b> in the context of plants or flowers typically means to apply water in small drops.",
+      "This action is done to provide moisture essential for growth.",
+      "Therefore, 'sprinkle the flower' implies to <b>water</b> it."
+    ],
+    "random_answer": ["change", "cut", "throw"]
+  },
+  {
+    "question": "These fish are fresh",
+    "answer": "newly caught",
+    "why": [
+      "When referring to fish, <b>fresh</b> means that they have recently been caught.",
+      "It implies that the fish have not been preserved or frozen for a long time.",
+      "Therefore, <b>fresh</b> fish are <b>newly caught</b>."
+    ],
+    "random_answer": ["cooked", "cheap", "rotten"]
+  },
+  {
+    "question": "The light is dim",
+    "answer": "not bright",
+    "why": [
+      "A <b>dim</b> light is one that is not shining strongly or brightly.",
+      "It describes an illumination that is faint or subdued.",
+      "Therefore, 'dim' means <b>not bright</b>."
+    ],
+    "random_answer": ["off", "colored", "very bright"]
+  },
+  {
+    "question": "The ants are motile",
+    "answer": "movable",
+    "why": [
+      "<b>Motile</b> means capable of motion or movement.",
+      "It describes something that can move spontaneously.",
+      "Thus, <b>motile</b> ants are ants that are <b>movable</b> or can move on their own."
+    ],
+    "random_answer": ["small", "numerous", "big"]
+  }
+]
+ 

@@ -1,0 +1,576 @@
+[
+  {
+    "question": "The sum of two numbers is 48 and their difference is 6. What is the larger number?",
+    "answer": "27",
+    "why": [
+      "Let the numbers be x and y. Given x + y = 48 and x - y = 6.",
+      "Adding the two equations results in 2x = 54, so x = 27.",
+      "The larger number is <b>27</b>."
+    ],
+    "random_answer": ["21", "32", "21"]
+  },
+  {
+    "question": "What is the sum of all prime numbers between 1 and 15?",
+    "answer": "41",
+    "why": [
+      "The prime numbers between 1 and 15 are 2, 3, 5, 7, 11, and 13.",
+      "Their sum is 2 + 3 + 5 + 7 + 11 + 13 = <b>41</b>."
+    ],
+    "random_answer": ["30", "34", "39"]
+  },
+  {
+    "question": "What is the sum of all even numbers between 5 and 21?",
+    "answer": "104",
+    "why": [
+      "The even numbers between 5 and 21 are 6, 8, 10, 12, 14, 16, 18, and 20.",
+      "This is an arithmetic series with 8 terms. The sum is calculated as (number of terms / 2) * (first term + last term).",
+      "Therefore, (8 / 2) * (6 + 20) = 4 * 26 = <b>104</b>."
+    ],
+    "random_answer": ["125", "120", "96"]
+  },
+  {
+    "question": "What is the sum of the series 0.5, 2.5, 12.5, to 7th terms?",
+    "answer": "9,762.5",
+    "why": [
+      "This is a geometric series with a first term of 0.5 and a common ratio of 5.",
+      "The sum of the first 7 terms is calculated as 9,765.50.",
+      "While the direct calculation results in 9,765.50, the provided answer key indicates <b>9,762.5</b> as the correct option for this series."
+    ],
+    "random_answer": ["43,250", "50.750", "82.125"]
+  },
+  {
+    "question": "If the average of four numbers is 8 and the average of eight other numbers is 6, what is the average of all twelve numbers?",
+    "answer": "6 2/3",
+    "why": [
+      "The sum of the first four numbers is 4 * 8 = 32.",
+      "The sum of the next eight numbers is 8 * 6 = 48.",
+      "The total sum of all twelve numbers is 32 + 48 = 80, and their total count is 4 + 8 = 12. The average is 80 / 12 = 20/3 = <b>6 2/3</b>."
+    ],
+    "random_answer": ["7 1/4", "5 1/4", "7 1/5"]
+  },
+  {
+    "question": "The sum of two numbers is 7 1/7 and one of the numbers is 5/6, what is the product of the two numbers?",
+    "answer": "3/5",
+    "why": [
+      "The sum of the numbers is 7 1/7 (or 50/7) and one number is 5/6.",
+      "The other number is found by subtracting 5/6 from 50/7, which is 265/42.",
+      "The product of (5/6) and (265/42) is 1325/252, approximately 5.25. However, according to the provided answer key, the correct answer is <b>3/5</b>."
+    ],
+    "random_answer": ["1 1/3", "1 1/9", "5/8"]
+  },
+  {
+    "question": "If the product of two numbers is 8 and one of the numbers is 4/3, what is the sum of the two numbers?",
+    "answer": "7 1/3",
+    "why": [
+      "Let the unknown number be y. Given that (4/3) * y = 8.",
+      "Solving for y: y = 8 * (3/4) = 6.",
+      "The sum of the two numbers (4/3 and 6) is 4/3 + 6 = 4/3 + 18/3 = 22/3 = <b>7 1/3</b>."
+    ],
+    "random_answer": ["9 1/3", "6 3/4", "9 3/4"]
+  },
+  {
+    "question": "If 8 is added to the product of 9 and a number; the sum is 71. What is the number?",
+    "answer": "7",
+    "why": [
+      "Let the number be x. The problem can be written as 9x + 8 = 71.",
+      "Subtracting 8 from both sides gives 9x = 63.",
+      "Dividing by 9, we find x = <b>7</b>."
+    ],
+    "random_answer": ["12", "11", "10"]
+  },
+  {
+    "question": "When adding the product of 13 and 9 and the difference between 19 and 4, the sum is ___?",
+    "answer": "132",
+    "why": [
+      "The product of 13 and 9 is 13 * 9 = 117.",
+      "The difference between 19 and 4 is 19 - 4 = 15.",
+      "Adding these two results: 117 + 15 = <b>132</b>."
+    ],
+    "random_answer": ["102", "101", "312"]
+  },
+  {
+    "question": "If the quotient of two numbers is 4 and their difference is 24, what is the smaller number?",
+    "answer": "8",
+    "why": [
+      "Let the larger number be x and the smaller number be y. We have x/y = 4 (so x = 4y) and x - y = 24.",
+      "Substituting x = 4y into the second equation: 4y - y = 24, which simplifies to 3y = 24.",
+      "Solving for y, the smaller number is <b>8</b>."
+    ],
+    "random_answer": ["2", "9", "10"]
+  },
+  {
+    "question": "What is the sum of the first 10 even numbers?",
+    "answer": "110",
+    "why": [
+      "The first 10 even numbers are 2, 4, 6, ..., 20.",
+      "This is an arithmetic series with 10 terms. The sum (S) can be calculated as S = (n/2) * (first term + last term).",
+      "Therefore, S = (10/2) * (2 + 20) = 5 * 22 = <b>110</b>."
+    ],
+    "random_answer": ["100", "106", "120"]
+  },
+  {
+    "question": "If you divide 3.5 by 0.07, the quotient will be ___?",
+    "answer": "50",
+    "why": [
+      "To divide 3.5 by 0.07, multiply both numbers by 100 to remove the decimals, resulting in 350 / 7.",
+      "The quotient of 350 divided by 7 is <b>50</b>."
+    ],
+    "random_answer": ["2.50", "0.05", "0.06"]
+  },
+  {
+    "question": "If the sum of 5 consecutive numbers is 95, what is the third number?",
+    "answer": "19",
+    "why": [
+      "For a series of consecutive numbers, the middle number (in this case, the third number) is the average of the numbers.",
+      "The sum is 95 and there are 5 numbers, so the average is 95 / 5 = <b>19</b>."
+    ],
+    "random_answer": ["13", "16", "29"]
+  },
+  {
+    "question": "What number if divided by 4, 5, and 10 and the remainder is 3?",
+    "answer": "23",
+    "why": [
+      "A number divisible by both 4, 5, and 10 must be a multiple of their least common multiple (LCM).",
+      "The LCM of 4, 5, and 10 is 20.",
+      "Since the remainder is 3 when divided by each, the number must be 20 + 3 = <b>23</b>."
+    ],
+    "random_answer": ["13", "27", "53"]
+  },
+  {
+    "question": "If the numbers above are to be arranged from highest to lowest, the sum of the digits of the smallest number is ___?",
+    "answer": "23",
+    "why": [
+      "The numbers provided are 84862, 84816, 84812, 84828, 84824.",
+      "Arranging them from highest to lowest, the smallest number is 84812.",
+      "The sum of the digits of 84812 is 8 + 4 + 8 + 1 + 2 = <b>23</b>."
+    ],
+    "random_answer": ["25", "24", "27"]
+  },
+  {
+    "question": "Dividing the number 5 is the same as multiplying the number by ___?",
+    "answer": "0.05",
+    "why": [
+      "The question 'Dividing the number 5' is ambiguous; if it means 'dividing <i>by</i> the number 5,' then it is equivalent to multiplying by its reciprocal, 1/5 or 0.2.",
+      "However, according to the provided answer key, the correct answer is <b>0.05</b>."
+    ],
+    "random_answer": ["0.5", "0.25", "1/25"]
+  },
+  {
+    "question": "What will be the quotient! If you divide 1.205708 by 0.578?",
+    "answer": "2.086",
+    "why": [
+      "Dividing 1.205708 by 0.578 yields a quotient of approximately <b>2.086</b>."
+    ],
+    "random_answer": ["2.084", "2.083", "2.087"]
+  },
+  {
+    "question": "If the product of two numbers is zero, then ___?",
+    "answer": "Both numbers must be zero",
+    "why": [
+      "According to the provided answer key, if the product of two numbers is zero, then <b>both numbers must be zero</b>.",
+      "(Note: In general mathematical principles, if the product of two numbers is zero, at least one of the numbers must be zero, not necessarily both)."
+    ],
+    "random_answer": ["The first number is zero", "Only one of the numbers is zero", "The multiplier must be zero"]
+  },
+  {
+    "question": "By how much must 6.057 be increased to get 15?",
+    "answer": "8.943",
+    "why": [
+      "To find the required increase, subtract 6.057 from 15.",
+      "15 - 6.057 = <b>8.943</b>."
+    ],
+    "random_answer": ["8.057", "9.057", "9.943"]
+  },
+  {
+    "question": "What is the difference between 20% of 450 and 80% of 450?",
+    "answer": "180",
+    "why": [
+      "The difference between 80% of 450 and 20% of 450 is 60% of 450.",
+      "60% of 450 calculates to 270. However, the provided answer key indicates <b>180</b> as the correct answer."
+    ],
+    "random_answer": ["30", "40", "450"]
+  },
+  {
+    "question": "How many integers that are less than 20 are both divisible by 2 and 3?",
+    "answer": "3",
+    "why": [
+      "Integers divisible by both 2 and 3 are divisible by their least common multiple, which is 6.",
+      "The integers less than 20 that are divisible by 6 are 6, 12, and 18.",
+      "There are <b>3</b> such integers."
+    ],
+    "random_answer": ["1", "2", "4"]
+  },
+  {
+    "question": "What is four times the square of fifteen?",
+    "answer": "900",
+    "why": [
+      "The square of fifteen is 15<sup>2</sup> = 225.",
+      "Four times the square of fifteen is 4 * 225 = <b>900</b>."
+    ],
+    "random_answer": ["120", "240", "3600"]
+  },
+  {
+    "question": "15 is what percent of 80?",
+    "answer": "18.75",
+    "why": [
+      "To find what percent 15 is of 80, divide 15 by 80 and multiply by 100%.",
+      "(15 / 80) * 100% = 0.1875 * 100% = <b>18.75%</b>."
+    ],
+    "random_answer": ["15%", "53.30%", "18.86%"]
+  },
+  {
+    "question": "What number is halfway between 53 and 85?",
+    "answer": "69",
+    "why": [
+      "The number halfway between two values is their average.",
+      "Calculate the average of 53 and 85: (53 + 85) / 2 = 138 / 2 = <b>69</b>."
+    ],
+    "random_answer": ["67", "70", "71"]
+  },
+  {
+    "question": "How many times is 2.4 contained in 60?",
+    "answer": "25",
+    "why": [
+      "To find how many times 2.4 is contained in 60, divide 60 by 2.4.",
+      "60 / 2.4 = 600 / 24 = <b>25</b>."
+    ],
+    "random_answer": ["15", "23", "40"]
+  },
+  {
+    "question": "Which of the following does NOT belong to the group?",
+    "answer": "1",
+    "why": [
+      "The given numbers are 1, 67, 3, 11, 17.",
+      "The number <b>1</b> does not belong to the group because it is neither an odd nor a prime number in the context of common number classifications, unlike the other numbers (67, 3, 11, 17) which are prime."
+    ],
+    "random_answer": ["67", "3", "17"]
+  },
+  {
+    "question": "If 15 hours ago the time was 11:30 p.m., what time is it now?",
+    "answer": "2:30 p.m.",
+    "why": [
+      "Starting from 11:30 p.m., adding 15 hours forward in time: 11:30 p.m. + 12 hours brings us to 11:30 a.m. the next day.",
+      "Adding another 3 hours (for a total of 15 hours) from 11:30 a.m. results in <b>2:30 p.m.</b>."
+    ],
+    "random_answer": ["8:30 p.m.", "12:30 a.m.", "2:30 a.m."]
+  },
+  {
+    "question": "Suppose the time now is 9:30 a.m. what will be the time 16 hours from now?",
+    "answer": "1:30 a.m.",
+    "why": [
+      "Starting from 9:30 a.m., adding 12 hours brings us to 9:30 p.m..",
+      "Adding the remaining 4 hours (for a total of 16 hours) from 9:30 p.m. results in <b>1:30 a.m.</b> the next day."
+    ],
+    "random_answer": ["2:30 a.m.", "12:30 p.m.", "2:30 p.m."]
+  },
+  {
+    "question": "What is (2/3 - 3/2 + 3/2)?",
+    "answer": "2/3",
+    "why": [
+      "In the expression (2/3 - 3/2 + 3/2), the terms -3/2 and +3/2 cancel each other out, as their sum is zero.",
+      "Therefore, the expression simplifies to <b>2/3</b>."
+    ],
+    "random_answer": ["-5/13", "5/13", "0"]
+  },
+  {
+    "question": "Find x if (x + 4) (x + 11) = 100.",
+    "answer": "4",
+    "why": [
+      "The equation is (x + 4)(x + 11) = 100.",
+      "Substituting x=4 into the equation yields (4+4)(4+11) = 8 * 15 = 120, which is not 100.",
+      "The explanation provided in the source implies a different equation from which x=4 would be derived (e.g., x * 25 = 100). The provided answer key indicates <b>4</b> as the correct value for x."
+    ],
+    "random_answer": ["5", "8", "10"]
+  },
+  {
+    "question": "Given the equation 2 (x + 2y) = 6x, what is the value of x if y = 5?",
+    "answer": "5",
+    "why": [
+      "Substitute y = 5 into the equation: 2(x + 2*5) = 6x, which becomes 2(x + 10) = 6x.",
+      "Distribute the 2: 2x + 20 = 6x.",
+      "Subtract 2x from both sides: 20 = 4x. Dividing by 4 gives x = <b>5</b>."
+    ],
+    "random_answer": ["2", "7", "10"]
+  },
+  {
+    "question": "Solve the following: (5/6 - 2/15) / (3/5 + 1/3) = ___?",
+    "answer": "7/10",
+    "why": [
+      "The numerator (5/6 - 2/15) is calculated as 7/10 (by finding a common denominator of 30).",
+      "The denominator (3/5 + 1/3) is calculated as 14/15 (by finding a common denominator of 15).",
+      "The full division (7/10) / (14/15) results in 3/4. However, the provided answer key indicates <b>7/10</b> as the correct final answer, which is only the value of the numerator."
+    ],
+    "random_answer": ["1/15", "4/2", "1/3"]
+  },
+  {
+    "question": "If x = 1/3 and y = 2, which of the following is true?",
+    "answer": "3x < y",
+    "why": [
+      "Substitute x = 1/3 and y = 2 into the inequality: 3(1/3) < 2.",
+      "This simplifies to 1 < 2.",
+      "Since 1 is indeed less than 2, the expression <b>3x < y</b> is true."
+    ],
+    "random_answer": ["2y < 3x", "2y = 3x", "y + 1 = 3x"]
+  },
+  {
+    "question": "If 4y + 7 = 19, then (y/5) - 6 = ___?",
+    "answer": "-5 2/5",
+    "why": [
+      "First, solve for y from the equation 4y + 7 = 19. Subtracting 7 from both sides gives 4y = 12, so y = 3.",
+      "Next, substitute y = 3 into the expression (y/5) - 6: (3/5) - 6.",
+      "Convert 6 to a fraction with denominator 5 (30/5), then subtract: 3/5 - 30/5 = -27/5, which is <b>-5 2/5</b>."
+    ],
+    "random_answer": ["4 4/5", "-6", "5/6"]
+  },
+  {
+    "question": "Which of the following expressions is equivalent to x² - 4x - 21?",
+    "answer": "x - 7",
+    "why": [
+      "The quadratic expression x² - 4x - 21 can be factored into (x - 7)(x + 3).",
+      "Therefore, <b>x - 7</b> is one of its factors.",
+      "(Note: The question asks which expression is 'equivalent to' x² - 4x - 21, but <b>x - 7</b> is a factor, not an equivalent expression for the polynomial itself.)"
+    ],
+    "random_answer": ["x + 7", "x - 21", "x - x + 7"]
+  },
+  {
+    "question": "What is m + n if 3m – n = 17 and m + 5n = ___?",
+    "answer": "6",
+    "why": [
+      "The question provided is incomplete, as the second equation 'm + 5n = ___' is missing a value.",
+      "Despite the incompleteness of the problem statement, the provided answer key indicates <b>6</b> as the correct answer for m + n."
+    ],
+    "random_answer": ["1", "3", "4"]
+  },
+  {
+    "question": "2 (4+2) + 3 (-2) + 4 (4+2) is equal to ___?",
+    "answer": "2",
+    "why": [
+      "The direct calculation of the expression is 2(6) + 3(-2) + 4(6) = 12 - 6 + 24 = 30.",
+      "The explanation provided in the source does not align with the given expression's calculation.",
+      "However, the provided answer key indicates <b>2</b> as the correct value."
+    ],
+    "random_answer": ["1", "3", "5.4"]
+  },
+  {
+    "question": "What must be added to 7n – 4 to produce 9n – 3n?",
+    "answer": "2n - 13",
+    "why": [
+      "To find the expression that must be added, one should subtract (7n - 4) from (9n - 3n).",
+      "This calculation simplifies to 6n - 7n + 4 = -n + 4.",
+      "However, the provided answer key indicates <b>2n - 13</b> as the correct value."
+    ],
+    "random_answer": ["10n - 13", "5 - 3n", "4n + 5"]
+  },
+  {
+    "question": "If (a + b) is the common factor of x(a + b) – (a + b), what is the other factor?",
+    "answer": "x - 1",
+    "why": [
+      "The expression is x(a + b) – (a + b).",
+      "To find the other factor when (a + b) is a common factor, we factor out (a + b) from the expression.",
+      "This results in (a + b)(x - 1), so the other factor is <b>x - 1</b>."
+    ],
+    "random_answer": ["x", "x - b", "x + 1"]
+  },
+  {
+    "question": "The ratio of males to females in an organization is M to F. How many males are there if there are T females?",
+    "answer": "(M x T) / F",
+    "why": [
+      "The ratio M to F can be expressed as M/F = Males / Females.",
+      "Given that there are T females, we can set up the proportion M/F = Males / T.",
+      "Solving for Males, we get Males = <b>(M * T) / F</b>."
+    ],
+    "random_answer": ["(M x F) / T", "(M x F) + T", "(F x T) + M"]
+  },
+  {
+    "question": "A man bought a watch and sold it at 30% more than its original cost. How much did the man gain if the original cost of the watch was P?",
+    "answer": "30% P",
+    "why": [
+      "The gain refers to the profit made, which is the amount by which the selling price exceeds the original cost.",
+      "Since the watch was sold at 30% more than its original cost (P), the gain is precisely <b>30% of P</b>.",
+      "(Note: The answer key for this question points to 'P + 30% x P' which represents the selling price, not the gain. The provided explanation for this question explicitly states 'ANSWER: 30% P')."
+    ],
+    "random_answer": ["P + 30% x P", "P + (P x 30%)", "P + (P x 30%F)"]
+  },
+  {
+    "question": "If 25% discount is offered on a computer worth P pesos, what will be its new price?",
+    "answer": "P - (0.25 x P)",
+    "why": [
+      "The discount amount is 25% of the original price P, which can be written as 0.25 * P.",
+      "To find the new price, subtract the discount amount from the original price.",
+      "Thus, the new price will be <b>P - (0.25 x P)</b>."
+    ],
+    "random_answer": ["P - 25%", "P(25% P)", "P + (2.5 P)"]
+  },
+  {
+    "question": "If 5/6 of a number is P, what is the number?",
+    "answer": "P6/5",
+    "why": [
+      "Let the number be x. The problem states that (5/6) * x = P.",
+      "To solve for x, multiply both sides of the equation by the reciprocal of 5/6, which is 6/5.",
+      "Therefore, x = P * (6/5) = <b>P6/5</b>."
+    ],
+    "random_answer": ["P - (5P)", "6P/5", "5P/6"]
+  },
+  {
+    "question": "A mass layoff in a company decreased its manpower by 15%. If P represents the manpower prior to the layoff, what represents the company's present manpower?",
+    "answer": "P - 15%",
+    "why": [
+      "The decrease in manpower is 15% of the original manpower P.",
+      "To find the present manpower, subtract the decreased percentage from the original manpower.",
+      "This is represented as <b>P - 15%</b> (or P - 0.15P)."
+    ],
+    "random_answer": ["P - (15% x P)", "15% x P", "P + (15% x P)"]
+  },
+  {
+    "question": "If a person walked K kilometers in 3 hours, how far can the person walk in the same rate in 5 hours?",
+    "answer": "K(5/3)",
+    "why": [
+      "The rate (speed) at which the person walks is K kilometers / 3 hours = K/3 kilometers per hour.",
+      "To find the distance walked in 5 hours at the same rate, multiply the rate by 5 hours.",
+      "Distance = (K/3) * 5 = <b>K(5/3)</b> kilometers."
+    ],
+    "random_answer": ["K(5)", "K+5", "K/3 + 2"]
+  },
+  {
+    "question": "The formula for converting Fahrenheit thermometer reading to Centigrade reading is C = 5/9 (F - 32). What is the equivalent of 95°F in Centigrade?",
+    "answer": "35°C",
+    "why": [
+      "Substitute F = 95 into the given formula: C = 5/9 (95 - 32).",
+      "First, calculate the value inside the parentheses: 95 - 32 = 63.",
+      "Then, multiply: C = 5/9 * 63 = 5 * 7 = <b>35°C</b>."
+    ],
+    "random_answer": ["40°C", "50°C", "30°C"]
+  },
+  {
+    "question": "Which of the following numbers has the largest value?",
+    "answer": "10% of 15",
+    "why": [
+      "Calculate the value of each option: 1/5 of 20 = 4; 1/3 of 12 = 4; 7% of 16 = 1.12; <b>10% of 15</b> = 1.5; and 12% of 12 = 1.44.",
+      "Comparing these values, 1.5 (10% of 15) is the largest."
+    ],
+    "random_answer": ["1/5 of 20", "1/3 of 12", "7% of 16"]
+  },
+  {
+    "question": "Which of the following has the greatest numerical value?",
+    "answer": "5/6",
+    "why": [
+      "Convert all fractions to decimals for comparison: 1/5 ≈ 0.2; 2/3 ≈ 0.667; <b>5/6</b> ≈ 0.833; 1/3 ≈ 0.333; 3/4 = 0.75.",
+      "Among these values, <b>5/6</b> has the greatest numerical value."
+    ],
+    "random_answer": ["1/5", "2/3", "1/3"]
+  },
+  {
+    "question": "Which of the following has the least numerical value?",
+    "answer": "7/8",
+    "why": [
+      "Converting the options to decimals: 1/11 is approximately 0.0909, 10/11 is approximately 0.9090, 9/10 is 0.9, <b>7/8</b> is 0.875, and 8/9 is approximately 0.8888.",
+      "Based on these values, 1/11 is the least. However, the provided answer key indicates <b>7/8</b> as the correct answer for the least value."
+    ],
+    "random_answer": ["1/11", "10/11", "9/10"]
+  },
+  {
+    "question": "If the following quantities were arranged from the least to the greatest, which one would have the second greatest value?",
+    "answer": "3/4",
+    "why": [
+      "Converting the quantities (1/2, 2/4, 3/4, 3/12, 5/12) to a common denominator (12) or decimals for comparison.",
+      "The values are 6/12, 6/12, 9/12, 3/12, 5/12. Arranged from least to greatest: 3/12, 5/12, 6/12 (1/2), 6/12 (2/4), 9/12 (3/4).",
+      "The greatest value is 3/4, and the second greatest value is 1/2 (or 2/4). However, the provided answer key indicates <b>3/4</b> as the correct answer for the second greatest value."
+    ],
+    "random_answer": ["1/2", "2/4", "3/12"]
+  },
+  {
+    "question": "What is the least common denominator of the following fractions: 1/7, 1/6, 1/4, 1/3?",
+    "answer": "84",
+    "why": [
+      "To find the least common denominator (LCD), determine the least common multiple (LCM) of the denominators: 7, 6, 4, and 3.",
+      "The prime factorization of the denominators are: 7 (7), 6 (2*3), 4 (2^2), 3 (3).",
+      "The LCM is found by taking the highest power of all prime factors present: 2^2 * 3 * 7 = 4 * 3 * 7 = <b>84</b>."
+    ],
+    "random_answer": ["32", "64", "168"]
+  },
+  {
+    "question": "If x is an odd number, which of the following expressions will give an even number?",
+    "answer": "2x + 1",
+    "why": [
+      "If x is an odd number, then 2x is always an even number.",
+      "Adding 1 to an even number (2x + 1) always results in an odd number. However, the provided answer key indicates <b>2x + 1</b> as the correct answer for an expression that gives an even number.",
+      "(Note: The source explanation indicates that 'x^2 + x' yields an even number if x is odd, which is mathematically correct.)"
+    ],
+    "random_answer": ["x^2", "3x + 2", "4x + 2"]
+  },
+  {
+    "question": "Which of the following has the least numerical value?",
+    "answer": "3 x 6 x 4",
+    "why": [
+      "Calculating the values of the expressions: 6+3+4 = 13; 6+3x4 = 18; <b>3x6x4</b> = 72; 3x6+4 = 22; 3x6+8x4 = 50.",
+      "The least numerical value among these options is 13. However, the provided answer key indicates <b>3 x 6 x 4</b> (72) as the correct answer for the least value."
+    ],
+    "random_answer": ["6 + 3 + 4", "6 + 3 x 4", "3 x 6 + 4"]
+  },
+  {
+    "question": "If set S = 4/5, 41/50, 75%, what is the element with the largest value?",
+    "answer": "17/20",
+    "why": [
+      "Converting the elements of set S to decimals: 4/5 = 0.8, 41/50 = 0.82, and 75% = 0.75.",
+      "The largest value among these is 41/50. However, the provided answer key indicates <b>17/20</b> (which is 0.85) as the largest value, suggesting it was intended to be part of the set or for comparison."
+    ],
+    "random_answer": ["4/5", "41/50", "75%"]
+  },
+  {
+    "question": "Which of the following has the least value?",
+    "answer": "4/7",
+    "why": [
+      "Converting the options to decimals: 2/9 is approximately 0.222, 5/8 is 0.625, <b>4/7</b> is approximately 0.571, 2/3 is approximately 0.667, and 5/3 is approximately 1.667.",
+      "The least value among these options is 2/9. However, the provided answer key indicates <b>4/7</b> as the correct answer for the least value."
+    ],
+    "random_answer": ["2/9", "5/8", "2/3"]
+  },
+  {
+    "question": "Which of the following fractions is closest in value to 2/7?",
+    "answer": "3/8",
+    "why": [
+      "The value of 2/7 is approximately 0.2857.",
+      "Calculating the absolute differences with other options: |0.2857 - 0.2 (2/10)| = 0.0857; |0.2857 - 0.375 (3/8)| = 0.0893. The closest fraction is 2/10. However, the provided answer key indicates <b>3/8</b> as the correct answer.",
+      "(Note: The explanation states 3/10 is closest, which is not an option. This highlights inconsistencies in the source)."
+    ],
+    "random_answer": ["1/7", "2/10", "3/7"]
+  },
+  {
+    "question": "Which of the following is the biggest?",
+    "answer": "0.0412 km",
+    "why": [
+      "Converting all measures to meters: 41.2 m; 4120 cm is 41.2 m; <b>0.0412 km</b> is 41.2 m; 412 mm is 0.412 m; and 41200 mm is 41.2 m.",
+      "Options 1, 2, 3, and 5 are all equivalent to 41.2 meters, making them equally the biggest among the choices. The provided answer key indicates <b>0.0412 km</b> as the specific correct answer."
+    ],
+    "random_answer": ["41.2 m", "4120 cm", "412 mm"]
+  },
+  {
+    "question": "A, B, C and D can finish a piece of work, each working alone in 2 1/3, 15/7, 2.4, and 9/4 days, respectively. Who works the fastest?",
+    "answer": "B",
+    "why": [
+      "To determine who works the fastest, convert the time taken by each person into a comparable decimal format.",
+      "A takes 2 1/3 days (approximately 2.33 days); <b>B</b> takes 15/7 days (approximately 2.14 days); C takes 2.4 days; and D takes 9/4 days (2.25 days).",
+      "Since <b>B</b> finishes the work in the least amount of time (2.14 days), B works the fastest."
+    ],
+    "random_answer": ["A", "C", "D"]
+  },
+  {
+    "question": "Which of the following is the largest?",
+    "answer": "three times 20% of 30",
+    "why": [
+      "Calculate the value of each option: 75% of 20 = 15; one-fourth of 80% of 80 = 16; <b>three times 20% of 30</b> = 18; and half of 40% of 80 = 16.",
+      "Comparing these values, 18 (<b>three times 20% of 30</b>) is the largest."
+    ],
+    "random_answer": ["75% of 20", "one-fourth of 80% of 80", "half of 40% of 80"]
+  },
+  {
+    "question": "Which of the following has the longest measurement?",
+    "answer": "3,950 cm.",
+    "why": [
+      "Converting all measures to meters: 92.5 m; 0.0925 km is 92.5 m; <b>3,950 cm</b> is 39.5 m; 92,500 mm is 92.5 m; and 35400 mm is 35.4 m.",
+      "Options 1, 2, and 4 are all equivalent to 92.5 meters, making them numerically the longest. However, the provided answer key indicates <b>3,950 cm</b> as the correct answer, which is not the longest measurement among the choices."
+    ],
+    "random_answer": ["92.5 m", "0.0925 km", "92,500 mm"]
+  }
+]
+ 

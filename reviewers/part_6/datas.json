@@ -1,0 +1,2009 @@
+[
+  {
+    "question": "Which of the following statements is definitely true about the nature of science?",
+    "answer": "Science will help make the world a better place to live in.",
+    "why": [
+      "Science often leads to technological advancements that aim to <b>improve quality of life</>.",
+      "The application of scientific knowledge can contribute to solving real-world problems and <b>benefiting humanity</>.",
+      "Many scientific endeavors are driven by the goal of enhancing human well-being and creating a <b>better environment</>."
+    ],
+    "random_answer": [
+      "Science can always uncover the truth in the realm of nature.",
+      "Scientific work requires a dedication that excludes the lives of people in other fields of work.",
+      "Theories in science can be disproved by testing: a well established theory can be demolished with a single observation."
+    ]
+  },
+  {
+    "question": "Which of the following processes is best associated with technology than with science?",
+    "answer": "designing for a need",
+    "why": [
+      "Technology is primarily concerned with the <b>practical application of scientific knowledge</> to meet specific human needs.",
+      "<b>Designing</> implies creating solutions or tools, which is a core aspect of technology.",
+      "Science focuses more on uncovering natural phenomena and constructing concepts, principles, and laws, rather than direct design for needs."
+    ],
+    "random_answer": [
+      "uncovering natural phenomena",
+      "discovering the nature of matter",
+      "constructing concepts, principles and laws"
+    ]
+  },
+  {
+    "question": "Which of the following statements best describes the connection between science and technology?",
+    "answer": "Technology involves the practical applications of scientific knowledge.",
+    "why": [
+      "This statement directly defines technology as the <b>application of scientific knowledge</>.",
+      "Science provides the fundamental understanding, and technology uses that understanding to create practical tools and solutions.",
+      "The connection emphasizes that technology is built upon the discoveries and principles established by science."
+    ],
+    "random_answer": [
+      "Scientist use the laws and principles discovered by technologists.",
+      "Technology is the part of science that deals with mechanical problems.",
+      "Science depends on technology for ideas and the organization of experimental work."
+    ]
+  },
+  {
+    "question": "Which of the following is a technological concept rather than a scientific concept?",
+    "answer": "Fluorescent lamps are improved through methods of manufacturing.",
+    "why": [
+      "This statement describes the <b>improvement of a product</> (fluorescent lamps) through manufacturing, which is a technological process.",
+      "Technological concepts often relate to the design, production, and enhancement of human-made devices.",
+      "The other options describe inherent properties of materials or relationships between physical quantities, which are scientific concepts."
+    ],
+    "random_answer": [
+      "Tungsten has a high melting point.",
+      "Metals are good conductors of heat.",
+      "Resistance is inversely proportional to current."
+    ]
+  },
+  {
+    "question": "You want to add exactly 35.00 g of salt to a solution. What instrument must you use to measure this amount?",
+    "answer": "triple beam balance",
+    "why": [
+      "A <b>triple beam balance</> is used to measure mass precisely, often in grams.",
+      "The `g` in 35.00 g indicates a mass measurement, which requires a balance.",
+      "Other instruments listed are for volume or temperature, not for exact mass measurement."
+    ],
+    "random_answer": [
+      "beaker",
+      "thermometer",
+      "graduated cylinder"
+    ]
+  },
+  {
+    "question": "Young people stand straight. Very old ones usually stoop. Why?",
+    "answer": "Bones of the old have become weak and soft and their joints become loose.",
+    "why": [
+      "Aging often leads to a decrease in bone density and muscle strength, causing bones to become <b>weak and soft</>.",
+      "Joints can become less stable and <b>looser</> with age due to wear and tear or conditions like arthritis.",
+      "These physiological changes contribute to a stooped posture often observed in elderly individuals."
+    ],
+    "random_answer": [
+      "Sedentary lives of the old.",
+      "Habit of stooping developed in the old.",
+      "Greater gravitational pull on the old than on the young."
+    ]
+  },
+  {
+    "question": "Why is it not quite possible for viruses to live and multiply in the outer layers of our skin?",
+    "answer": "The outer layer of the skin has dead cells only.",
+    "why": [
+      "Viruses require <b>living cells</> to replicate and multiply, as they are obligate intracellular parasites.",
+      "The outermost layer of the skin (stratum corneum) is composed primarily of <b>dead, keratinized cells</>.",
+      "Without host cells capable of active metabolic processes, viruses cannot effectively live or reproduce."
+    ],
+    "random_answer": [
+      "The outer layer of the skin has oil which is harmful to viruses.",
+      "The outer layer of the skin has a lower temperature unsuitable for viruses.",
+      "The outer layer of the skin has salt from perspiration which is harmful to viruses."
+    ]
+  },
+  {
+    "question": "Alcohol thermometer works on the principle that",
+    "answer": "Volume usually increases with temperature.",
+    "why": [
+      "Alcohol thermometers operate based on the principle of <b>thermal expansion</>.",
+      "As temperature increases, the alcohol inside the thermometer expands and its <b>volume increases</>, causing it to rise in the capillary tube.",
+      "This expansion is a predictable physical property that allows for temperature measurement."
+    ],
+    "random_answer": [
+      "Volume usually increases with pressure.",
+      "Temperature usually increases with density.",
+      "Temperature usually increases with pressure"
+    ]
+  },
+  {
+    "question": "Which of the following is an important factor in explaining why seasons occur?",
+    "answer": "Earth's axis is tilted.",
+    "why": [
+      "The <b>tilt of the Earth's axis</> (approximately 23.5 degrees) relative to its orbital plane around the Sun is the primary cause of seasons.",
+      "This tilt causes different parts of the Earth to receive more direct sunlight at different times of the year.",
+      "The varying intensity and duration of sunlight due to the axial tilt lead to the distinct seasonal changes."
+    ],
+    "random_answer": [
+      "The sun's axis is tilted.",
+      "Earth rotates on its axis.",
+      "The sun rotates on its axis."
+    ]
+  },
+  {
+    "question": "To preserve the fertility of the soil, farmer should employ the following except",
+    "answer": "continuous farming",
+    "why": [
+      "<b>Continuous farming</> of the same crop on the same land without proper management can deplete soil nutrients and reduce fertility over time.",
+      "Practices like strip cropping, terracing, and contour farming are methods used for soil conservation and maintaining fertility.",
+      "Avoiding continuous farming helps in preserving the soil's long-term productivity."
+    ],
+    "random_answer": [
+      "strip cropping",
+      "terracing",
+      "contour farming"
+    ]
+  },
+  {
+    "question": "How can the presence of a person afflicted with HIV and/or AIDS be handled?",
+    "answer": "Discreetly reporting the case to health authorities.",
+    "why": [
+      "Reporting to health authorities allows for <b>proper public health management</> and support, while maintaining discretion respects patient privacy.",
+      "This approach enables health officials to provide necessary medical assistance and implement appropriate public health measures without discrimination.",
+      "It balances the need for public health awareness with the individual's right to privacy and dignity."
+    ],
+    "random_answer": [
+      "Conducting home forum to discuss the identification of AIDS cases.",
+      "Avoid and discourage patronage of places frequented by these persons.",
+      "Discourage the establishment of recreation centers like cabarets and discos."
+    ]
+  },
+  {
+    "question": "The following describe chemical change except",
+    "answer": "A chemical change takes place when a solid is changed to liquid then changed to gas",
+    "why": [
+      "The change of a solid to liquid (melting) and then to gas (boiling/evaporation) is a <b>physical change</>, specifically a change of state.",
+      "In these phase changes, the substance's chemical composition remains the same; only its physical form changes.",
+      "Chemical changes involve the formation of a <b>new substance</> with different chemical properties, unlike simple phase transitions."
+    ],
+    "random_answer": [
+      "For a chemical change to take place, heat, light, or electricity is either needed or given off.",
+      "Some examples of chemical change are souring of milk, ripening of fruit, and digestion of food.",
+      "In a chemical change, a new substance is formed, with chemical properties that are difft rent from, the original substance"
+    ]
+  },
+  {
+    "question": "Where do we trace the El Nino phenomenon?",
+    "answer": "annual changes in seasons",
+    "why": [
+      "The El Niño phenomenon is a climate pattern that involves unusual warming of surface waters in the eastern tropical Pacific Ocean, affecting <b>global weather patterns</>.",
+      "It is part of a larger climate cycle that influences rainfall, temperature, and other weather phenomena across different seasons and years.",
+      "El Niño is a significant deviation from typical annual seasonal changes, leading to extreme weather events."
+    ],
+    "random_answer": [
+      "rising ocean levels",
+      "very severe earthquakes",
+      "thinning or depletion of the ozone layer"
+    ]
+  },
+  {
+    "question": "Why does the greenhouse effect result to warmer temperature near the earth's surface?",
+    "answer": "carbon dioxide traps infrared radiation",
+    "why": [
+      "The <b>greenhouse effect</> is primarily caused by greenhouse gases, such as carbon dioxide, which absorb and trap infrared radiation.",
+      "This trapped <b>infrared radiation</> (heat) is emitted from the Earth's surface, leading to an increase in atmospheric temperature.",
+      "Carbon dioxide acts like a blanket, preventing heat from escaping back into space, thus warming the planet."
+    ],
+    "random_answer": [
+      "clouds trap infrared radiation",
+      "soil absorbs incoming radiation",
+      "ozone traps ultraviolet radiation"
+    ]
+  },
+  {
+    "question": "Why do people feel warmer just before it rains?",
+    "answer": "Heat released by the condensation of water vapor.",
+    "why": [
+      "Before rain, moisture in the air often <b>condenses</> to form clouds, a process that releases latent heat into the atmosphere.",
+      "This release of <b>latent heat</> of condensation warms the surrounding air.",
+      "The increase in atmospheric heat can make people feel warmer and more humid just before precipitation begins."
+    ],
+    "random_answer": [
+      "The clouds prevent heat from escaping the earth.",
+      "The increased relative humidity makes them feel warmer.",
+      "The warming is due to the heat absorbed by the evaporation of water."
+    ]
+  },
+  {
+    "question": "A good method to prevent soil from being eroded from a hill is to",
+    "answer": "Plant the hill with grass or tree",
+    "why": [
+      "Planting vegetation like <b>grass or trees</> helps to stabilize soil with their root systems.",
+      "The roots bind the soil particles together, making them less susceptible to being washed away by rain or blown away by wind.",
+      "This method is highly effective in <b>preventing soil erosion</> on slopes."
+    ],
+    "random_answer": [
+      "irrigate the area",
+      "plow the hill regularly",
+      "plant only ion alternate layers"
+    ]
+  },
+  {
+    "question": "The possible interconnected feeding relationships among organisms in an ecosystem are termed",
+    "answer": "Food web",
+    "why": [
+      "A <b>food web</> illustrates the complex network of feeding relationships, showing how energy flows through an ecosystem.",
+      "It consists of multiple interconnected food chains, representing all the diverse feeding interactions.",
+      "This concept provides a comprehensive view of who eats whom within a community."
+    ],
+    "random_answer": [
+      "Food pyramid",
+      "Food chain",
+      "Food groups"
+    ]
+  },
+  {
+    "question": "Two beakers contain boiling water. Beaker A has a volume of 150 mL while beaker B has a volume of 600 mL. Which of the following statements is true?",
+    "answer": "Both beakers are at equal temperatures.",
+    "why": [
+      "Water boils at a specific temperature (100°C or 212°F at standard atmospheric pressure), regardless of the <b>volume</>.",
+      "Since both beakers contain <b>boiling water</>, they are both at their boiling point temperature.",
+      "The temperature of a boiling liquid remains constant as long as it is boiling and pressure is constant."
+    ],
+    "random_answer": [
+      "Both beakers have the same thermal energy.",
+      "Beaker A has more thermal energy than beaker B.",
+      "Beaker A has a higher temperature than beaker B."
+    ]
+  },
+  {
+    "question": "On the ground, Francis weighs 500n. Aboard flying at an elevation of 1500 m, what would his mass be?",
+    "answer": "50 kg",
+    "why": [
+      "Weight (N) is mass (kg) times the acceleration due to gravity (approximately 9.8 m/s² on Earth's surface). To find mass, divide weight by gravity: 500 N / 9.8 m/s² ≈ 51 kg. 50 kg is the closest option.",
+      "<b>Mass</> is an intrinsic property of an object and does not change significantly with altitude, unlike weight.",
+      "At 1500 m, the change in gravitational pull is negligible for practical purposes, so the mass remains essentially the same as on the ground."
+    ],
+    "random_answer": [
+      "5 kg",
+      "100 kg",
+      "150 kg"
+    ]
+  },
+  {
+    "question": "How will you classify the statement\" The earth's outer core is a liquid.\"?",
+    "answer": "an inference",
+    "why": [
+      "The statement about the Earth's outer core being liquid is an <b>inference</> based on seismic wave data.",
+      "Scientists cannot directly observe the Earth's core; its properties are deduced from how seismic waves travel through it.",
+      "This classification implies a conclusion drawn from indirect evidence and reasoning."
+    ],
+    "random_answer": [
+      "a law",
+      "a theory",
+      "an observation"
+    ]
+  },
+  {
+    "question": "To save fuel it is advisable to keep your pot tightly closed while cooking. This prevents",
+    "answer": "escape of vapor which increases the boiling point.",
+    "why": [
+      "Keeping the pot tightly closed allows pressure to build up inside, which in turn <b>increases the boiling point</> of the water.",
+      "A higher boiling point means the food cooks faster at a higher temperature, thus <b>saving fuel</>.",
+      "It also prevents the escape of steam, retaining heat and moisture more efficiently."
+    ],
+    "random_answer": [
+      "escape of nutrients",
+      "escape of steam, thus built up pressure",
+      "escape of substances which tenderize the food."
+    ]
+  },
+  {
+    "question": "Not all organisms are harmful. Which of these is done by yeast?",
+    "answer": "Promotes the rising of bread for baking",
+    "why": [
+      "Yeast is a microorganism commonly used in baking to cause dough to rise.",
+      "It ferments sugars in the dough, producing <b>carbon dioxide gas</> which creates bubbles and makes the bread light and airy.",
+      "This process is essential for the texture and volume of many baked goods."
+    ],
+    "random_answer": [
+      "encourage disease food",
+      "cause Yakult to be milky",
+      "cause milk to become cheese"
+    ]
+  },
+  {
+    "question": "Which of the following organisms is used to convert milk to cheese?",
+    "answer": "bacteria",
+    "why": [
+      "Certain types of <b>bacteria</> are crucial in the cheesemaking process.",
+      "They ferment the lactose in milk, producing lactic acid, which causes the milk proteins to coagulate.",
+      "Bacteria also contribute significantly to the flavor and texture development of cheese."
+    ],
+    "random_answer": [
+      "protozoa",
+      "viruses",
+      "algae"
+    ]
+  },
+  {
+    "question": "Why do mountain climbers use oxygen equipment at the top of high mountains?",
+    "answer": "There is less oxygen in the air at great heights",
+    "why": [
+      "As altitude increases, the air becomes thinner, meaning there is <b>less atmospheric pressure</> and thus fewer oxygen molecules per unit volume.",
+      "This reduction in oxygen partial pressure makes it difficult for the human body to absorb enough oxygen for normal functioning.",
+      "Oxygen equipment provides supplemental oxygen to compensate for the <b>decreased oxygen availability</> at high altitudes."
+    ],
+    "random_answer": [
+      "There is a hole in the ozone layer.",
+      "There is less nitrogen in the air at great heights.",
+      "There is no air on top of very high mountains."
+    ]
+  },
+  {
+    "question": "War experts use energy in its discovery of nuclear bombs. When energy is released from a nuclear fission, what occurs?",
+    "answer": "Atoms are split into fragments.",
+    "why": [
+      "Nuclear fission is the process where the nucleus of a heavy atom, such as uranium or plutonium, is <b>split into two or more lighter nuclei</> (fragments).",
+      "This splitting process releases a tremendous amount of energy.",
+      "This fundamental process is what powers nuclear weapons and nuclear reactors."
+    ],
+    "random_answer": [
+      "Energy is released from fission.",
+      "Decrease in mass nuclear bombs.",
+      "The energy possessed is used for bombing nations."
+    ]
+  },
+  {
+    "question": "Which of the following alternative sources of energy could result to acid rain?",
+    "answer": "nuclear energy",
+    "why": [
+      "While nuclear power plants themselves do not directly emit pollutants that cause acid rain during operation, the **mining and processing of uranium fuel** can involve emissions of sulfur dioxide and nitrogen oxides, which contribute to acid rain. Additionally, waste management and potential accidents pose environmental risks. (Note: This is an inference based on common knowledge about the full lifecycle of nuclear power, as the direct connection isn't explicitly stated in the source. The source lists 'nuclear energy' as an option for acid rain causation, which is an uncommon but possible consideration in a broader context of environmental impact.)",
+      "The other options (solar, biogas, geothermal) generally have a lower or no direct contribution to acid rain formation."
+    ],
+    "random_answer": [
+      "solar",
+      "biogas",
+      "geothermal"
+    ]
+  },
+  {
+    "question": "Which of the following is predicted to be the result of global warming?",
+    "answer": "rising ocean level",
+    "why": [
+      "Global warming leads to the melting of glaciers and ice sheets, contributing to the <b>expansion of ocean water</> as it warms.",
+      "This thermal expansion and ice melt cause a significant <b>rise in sea levels</>.",
+      "Rising ocean levels are a widely predicted and observed consequence of climate change."
+    ],
+    "random_answer": [
+      "thinning of ozone layer",
+      "more severe earthquakes",
+      "larger volcanic eruptions"
+    ]
+  },
+  {
+    "question": "Billy is one student who tries his best to submit laboratory reports, projects, and other requirements on time. Which of the following scientific attitudes does Billy possess?",
+    "answer": "Patience",
+    "why": [
+      "Consistently submitting reports and projects on time requires diligence and the ability to persevere through tasks, demonstrating <b>patience</>.",
+      "It involves enduring the time and effort needed to complete scientific work accurately and thoroughly.",
+      "Patience is essential for the methodical and often time-consuming nature of scientific investigations and reporting."
+    ],
+    "random_answer": [
+      "open-mindedness",
+      "responsibility",
+      "honesty"
+    ]
+  },
+  {
+    "question": "A manager of a textile company said it is too expensive to treat liquid wastes so he suggested digging hole near the factory where the wastes can be stored. Is this environmentally safe?",
+    "answer": "No, the liquid waste will seep to the ground water.",
+    "why": [
+      "Storing liquid wastes in unlined holes allows them to <b>percolate through the soil</> and contaminate underground aquifers.",
+      "This process can lead to severe <b>groundwater pollution</>, affecting drinking water sources and ecosystems.",
+      "Such disposal methods are environmentally unsafe and often illegal due to their potential for widespread contamination."
+    ],
+    "random_answer": [
+      "No, the liquid can be recycled.",
+      "Yes, the liquid wastes will be less hazardous with time.",
+      "Yes, the liquid will pass through layers of soil and becomes clean."
+    ]
+  },
+  {
+    "question": "The air in Metro Manila is now heavily polluted with carbon dioxide and lead dust from the motor vehicles, factories, and restaurants. As a citizen, you will minimize pollution by following all the following practices except",
+    "answer": "Burning garbage in your own backyard.",
+    "why": [
+      "<b>Burning garbage</> in a backyard releases harmful pollutants, including carbon dioxide, particulate matter, and various toxic chemicals, directly into the air.",
+      "This practice contributes significantly to air pollution and can exacerbate respiratory problems.",
+      "It counteracts efforts to minimize pollution, unlike burying garbage or participating in tree planting."
+    ],
+    "random_answer": [
+      "Bury garbage rather than burning it.",
+      "Participate actively in government's tree planting project.",
+      "Help disseminate information regarding the advantages of using anti-pollution devices for motor vehicles"
+    ]
+  },
+  {
+    "question": "Insecticides are used to control insect populations so that they do not destroy crops. However, over time, a new insecticide has to be developed as they become less effective in killing the insects. Why?",
+    "answer": "Surviving insects pass their resistance to insecticides to their offsprings.",
+    "why": [
+      "This phenomenon is an example of <b>natural selection</>.",
+      "Insects with a natural resistance to the insecticide survive and reproduce, passing on their resistant genes to their progeny.",
+      "Over generations, the insect population evolves to become predominantly resistant, rendering the insecticide ineffective."
+    ],
+    "random_answer": [
+      "Insecticides build up in the soil.",
+      "Insecticides are concentrated at the bottom of the food chain.",
+      "Surviving insects have learned to include insecticides as a food source."
+    ]
+  },
+  {
+    "question": "Why do fishermen catch more fish during the new moon than during the full moon?",
+    "answer": "Fishes are attracted to the light from the fishing boat",
+    "why": [
+      "During a <b>new moon</>, there is little to no natural moonlight, making the waters darker.",
+      "Fish are often attracted to artificial lights from fishing boats in darker conditions, making them easier to catch.",
+      "This attraction to light provides a tactical advantage for fishermen."
+    ],
+    "random_answer": [
+      "Fishes look for mates during the new moon",
+      "Fishes go near the water surface during new moon because the water is warmer.",
+      "Fishes are more active during new moon because the salt content of water is just right."
+    ]
+  },
+  {
+    "question": "In one of his investigations, Alexander Fleming noticed that bacteria growing on agar did not grow next to a mold that was growing on the same plate. He wrote in his report, \"The mold may be producing a substance that kills bacteria.\" The statement is best described as a",
+    "answer": "a hypothesis",
+    "why": [
+      "A <b>hypothesis</> is a testable statement or a proposed explanation for an observation.",
+      "Fleming's statement was an educated guess about the cause of the observation (mold killing bacteria).",
+      "This statement was a preliminary idea that would need to be further investigated and tested."
+    ],
+    "random_answer": [
+      "a conclusion",
+      "an observation",
+      "a generalization"
+    ]
+  },
+  {
+    "question": "Which of the following is the primary reason why scientists repeat measurements they take during experiments?",
+    "answer": "To estimate experimental error",
+    "why": [
+      "Repeating measurements helps scientists to identify and quantify the inherent <b>variability and uncertainty</> in their data.",
+      "It allows for the calculation of an average and provides a way to determine the precision and potential <b>experimental error</> of the results.",
+      "Multiple trials increase the reliability and confidence in the findings."
+    ],
+    "random_answer": [
+      "To list all the results in a table",
+      "To check if the equipment is working.",
+      "To change the experimental conditions."
+    ]
+  },
+  {
+    "question": "When scientists investigate, it is said that they follow the scientific method. How will you logically arranged the essential steps in the scientific method? 1. make a hypothesis 2. recognize the problem 3. formulate the simplest generalization 4. perform experiments to test the prediction 5. predict the consequences of the hypothesis",
+    "answer": "2, 1, 5, 4, 3",
+    "why": [
+      "The scientific method typically begins by <b>recognizing a problem</> or asking a question.",
+      "This is followed by forming a <b>hypothesis</> (a testable explanation).",
+      "Then, one predicts the consequences of the hypothesis, designs experiments to test these predictions, and finally formulates generalizations based on the results."
+    ],
+    "random_answer": [
+      "1,4,2,3,5",
+      "2,5,1,3,4",
+      "3, 2, 1, 4, 5"
+    ]
+  },
+  {
+    "question": "Which of the following factors contribute to \"greenhouse effect\"?",
+    "answer": "destruction of the forests",
+    "why": [
+      "Forests act as carbon sinks, absorbing carbon dioxide from the atmosphere through photosynthesis.",
+      "The <b>destruction of forests</> (deforestation) reduces this absorption, leading to a net increase in atmospheric carbon dioxide.",
+      "Increased carbon dioxide is a major contributor to the <b>greenhouse effect</> and global warming."
+    ],
+    "random_answer": [
+      "use of carbon dioxide by land plants",
+      "depletion of minerals in the soil by overfarming",
+      "use of solar glass panels to capture radiant energy"
+    ]
+  },
+  {
+    "question": "All interacting units of matter tends to move toward a state in which energy content is a minimum, and the energy distribution is most random. In the process of attaining this state, energy matter and energy-matter transformations occur. This scheme is governed by all of the following concepts except",
+    "answer": "isostacy",
+    "why": [
+      "The description pertains to fundamental principles of thermodynamics, involving <b>conservation of energy</> and the tendency towards equilibrium and randomness (entropy).",
+      "<b>Isostacy</> is a geological concept referring to the buoyant equilibrium of Earth's lithosphere, which is not directly related to the general principles of energy content and randomness in all matter.",
+      "Conservation and equilibrium are directly relevant to energy transformations and distribution."
+    ],
+    "random_answer": [
+      "conservation",
+      "equilibrium",
+      "homeostasis"
+    ]
+  },
+  {
+    "question": "Matter exists in the form of units which can be classified in hierarchies or organizational levels. Which of the following units show a correct hierarchical organization?",
+    "answer": "cell — tissue — organ — system — organism",
+    "why": [
+      "This sequence represents the correct biological hierarchy of organization from the smallest to the largest level.",
+      "<b>Cells</> are the basic units, which combine to form <b>tissues</>, tissues form <b>organs</>, organs form <b>organ systems</>, and organ systems make up an <b>organism</>.",
+      "This illustrates how complex living structures are built from simpler components."
+    ],
+    "random_answer": [
+      "atom — molecule — element — compound — mixture",
+      "solids — liquids — gases — plasma",
+      "protons — neutrons — electrons — ion"
+    ]
+  },
+  {
+    "question": "Which of the following statements is not true of energy in the biosphere?",
+    "answer": "Energy follows a cycle through the web of life.",
+    "why": [
+      "In the biosphere, <b>energy flows in a one-way path</>, typically from the sun, through producers, and then consumers.",
+      "It is transformed and dissipated as heat at each trophic level, rather than being recycled like matter.",
+      "While matter cycles, energy is continually lost as heat and requires a constant input, primarily from the sun."
+    ],
+    "random_answer": [
+      "Energy flows a one — way path.",
+      "Energy is conserved in the biosphere.",
+      "Energy leaves the living system in the form of heat."
+    ]
+  },
+  {
+    "question": "Electrical energy is used to power a light bulb. How does the amount of electrical energy used to compare to the amount of light energy produced?",
+    "answer": "more than the amount of light energy produced.",
+    "why": [
+      "According to the law of conservation of energy, energy cannot be created or destroyed, but it can be transformed.",
+      "When electrical energy is converted to light in a bulb, some energy is always lost as <b>heat</> due to inefficiencies.",
+      "Therefore, the amount of electrical energy consumed will always be <b>greater</> than the useful light energy produced."
+    ],
+    "random_answer": [
+      "less than the amount of light energy produced.",
+      "the same as the amount of light energy produced",
+      "depends on the wattage produced by the light bulb"
+    ]
+  },
+  {
+    "question": "The following statements are ideas about the environment. Which one is false?",
+    "answer": "Clear water is clean water.",
+    "why": [
+      "Water can appear <b>clear</> but still contain harmful dissolved chemicals, pollutants, or microorganisms that are invisible to the naked eye.",
+      "Visibility does not guarantee purity or safety for consumption.",
+      "Therefore, clear water is not necessarily <b>clean water</>."
+    ],
+    "random_answer": [
+      "Plants help clean the air of harmful gases.",
+      "It takes millions of years for crude oil to form.",
+      "Fire can sometimes start by itself in a big pile of decaying garbage."
+    ]
+  },
+  {
+    "question": "Ultrasound is often used by medical workers to obtain features of internal body parts. Infrasound on the other hand is commonly used in:",
+    "answer": "seismographic surveying of structures below the earth's surface",
+    "why": [
+      "<b>Infrasound</> refers to sound waves with frequencies below the human hearing range (typically less than 20 Hz).",
+      "These low-frequency waves can travel long distances and penetrate solid materials, making them useful for studying large-scale geological structures.",
+      "Seismographs use infrasound (among other frequencies) to detect and analyze activity within the Earth, such as earthquakes and subsurface structures."
+    ],
+    "random_answer": [
+      "monitoring conditions in pregnant women",
+      "detecting harmful living tissues inside the body",
+      "providing moving pictures of tidal waves and earthquakes"
+    ]
+  },
+  {
+    "question": "A 12 cm red hot steel bar is placed into a pan of boiling water. Which statement correctly explains the resulting heat transfer?",
+    "answer": "Heat flows from the water to the steel bar since the steal bar is at a higher temperature",
+    "why": [
+      "Heat naturally flows from a region of <b>higher temperature</> to a region of lower temperature.",
+      "A \"red hot\" steel bar is at a significantly higher temperature than boiling water (100°C).",
+      "Therefore, heat will transfer from the hotter steel bar to the cooler boiling water until thermal equilibrium is reached."
+    ],
+    "random_answer": [
+      "Heat flow out of the kettle to the cooler surrounding air.",
+      "Heat flow from the water to the steel bar because boiling water has more thermal energy.",
+      "Heat flows from the water to the steel bar since the water molecules have higher average kinetic energy."
+    ]
+  },
+  {
+    "question": "Which of the following acid groups is found in vinegar?",
+    "answer": "acetic acid",
+    "why": [
+      "<b>Vinegar</> is an aqueous solution primarily composed of acetic acid.",
+      "The characteristic sour taste and aroma of vinegar come from <b>acetic acid</>.",
+      "This acid is produced through the fermentation of ethanol by acetic acid bacteria."
+    ],
+    "random_answer": [
+      "nitric acid",
+      "formic acid",
+      "ascorbic acid"
+    ]
+  },
+  {
+    "question": "Which of the following forms of energy travels through empty space?",
+    "answer": "radiant energy",
+    "why": [
+      "<b>Radiant energy</> (also known as electromagnetic radiation), such as light, microwaves, and X-rays, does not require a medium to travel.",
+      "It can propagate through the vacuum of space.",
+      "Unlike sound energy or chemical energy, radiant energy travels as electromagnetic waves."
+    ],
+    "random_answer": [
+      "chemical energy",
+      "sound energy",
+      "all of them"
+    ]
+  },
+  {
+    "question": "Why do we see the sun rise in the east and set of the west?",
+    "answer": "the earth rotates from west to east",
+    "why": [
+      "The apparent movement of the Sun across the sky is due to the <b>Earth's rotation</> on its axis.",
+      "The Earth spins from <b>west to east</>, causing the Sun to appear to rise in the east and set in the west from our perspective on Earth.",
+      "This rotation completes one cycle approximately every 24 hours."
+    ],
+    "random_answer": [
+      "the earth revolves counterclockwise",
+      "the earth revolves from west to east",
+      "the sun rotates in a clockwise manner"
+    ]
+  },
+  {
+    "question": "All of the following are physical properties except",
+    "answer": "butter turns rancid when left unrefrigerated",
+    "why": [
+      "When butter turns rancid, it undergoes a chemical change (oxidation) that alters its composition, smell, and taste.",
+      "This process results in the formation of <b>new substances</>, indicating a <b>chemical property</> or change.",
+      "Physical properties can be observed without changing the substance's chemical identity."
+    ],
+    "random_answer": [
+      "sugar dissolves in water",
+      "water evaporates from an open container",
+      "moth balls sublime at room temperature"
+    ]
+  },
+  {
+    "question": "Colloids maybe dispersed in a gas, liquid, or solid. Which of the following colloidal systems show a liquid dispersed in a gas medium?",
+    "answer": "clouds",
+    "why": [
+      "A <b>cloud</> is a classic example of a colloidal system where tiny <b>liquid water droplets</> are dispersed throughout a gaseous medium (air).",
+      "The liquid particles are small enough to remain suspended in the gas, forming a stable dispersion.",
+      "This type of colloid is often referred to as a liquid aerosol."
+    ],
+    "random_answer": [
+      "smoke",
+      "paint",
+      "beaten egg white"
+    ]
+  },
+  {
+    "question": "Which blood transfusion would agglutinate blood?",
+    "answer": "A donor --> 0 recipient",
+    "why": [
+      "Type O blood is the universal recipient because it has <b>both A and B antibodies</> in its plasma.",
+      "If a Type A donor's blood (which has A antigens) is transfused into a Type O recipient, the recipient's anti-A antibodies will react with the donor's A antigens, causing <b>agglutination</> (clumping).",
+      "This is a dangerous immune reaction."
+    ],
+    "random_answer": [
+      "A donor --> A recipient",
+      "A donor --> AB recipient",
+      "0 donor ---> AB recipient"
+    ]
+  },
+  {
+    "question": "All of the following compose the male reproductive organ of a flowering plant except",
+    "answer": "stigma",
+    "why": [
+      "The <b>stigma</> is part of the pistil, which is the <b>female reproductive organ</> of a flowering plant.",
+      "The male reproductive organ (stamen) consists of the anther and filament, and produces pollen grains.",
+      "Therefore, the stigma is not a component of the male reproductive structure."
+    ],
+    "random_answer": [
+      "anther",
+      "pollen grain",
+      "stamen"
+    ]
+  },
+  {
+    "question": "Angiosperms are also known as",
+    "answer": "flower bearing",
+    "why": [
+      "<b>Angiosperms</> are a diverse group of plants characterized by the presence of <b>flowers</>.",
+      "Their name literally means 'seed in a vessel,' referring to the seeds being enclosed within an ovary (which develops into a fruit).",
+      "The production of flowers is a defining characteristic that distinguishes them from other plant groups."
+    ],
+    "random_answer": [
+      "cone bearing",
+      "seed bearing",
+      "spore bearing"
+    ]
+  },
+  {
+    "question": "Tropical rainforests have many trees and other plants that photosynthesize. What happens when huge areas of tropical rain forests are destroyed?",
+    "answer": "Oxygen level decreases and carbon dioxide level increases",
+    "why": [
+      "Forests, especially tropical rainforests, are significant producers of <b>oxygen</> through photosynthesis.",
+      "When they are destroyed, less carbon dioxide is absorbed, and if burned, stored carbon is released as carbon dioxide.",
+      "This leads to a <b>decrease in atmospheric oxygen</> and an <b>increase in carbon dioxide</> levels."
+    ],
+    "random_answer": [
+      "Oxygen level increases and carbon dioxide level increases.",
+      "Oxygen level increases and carbon dioxide level decreases",
+      "Oxygen level decreases and carbon dioxide level decreases"
+    ]
+  },
+  {
+    "question": "How is the conservation of mechanical energy described in a falling object?",
+    "answer": "A falling object gains kinetic energy and loses potential energy.",
+    "why": [
+      "As an object <b>falls</>, its height decreases, causing its <b>potential energy</> (due to position) to decrease.",
+      "Simultaneously, its speed increases, leading to an <b>increase in kinetic energy</> (due to motion).",
+      "The total mechanical energy (sum of potential and kinetic) remains constant if only conservative forces (like gravity) are acting."
+    ],
+    "random_answer": [
+      "A falling object loses kinetic energy and gains potential energy.",
+      "A falling object 'loses kinetic energy and loses potential energy.",
+      "A falling object loses kinetic energy and loses potential energy"
+    ]
+  },
+  {
+    "question": "Which property of light accounts for the phenomenon of color?",
+    "answer": "wavelength",
+    "why": [
+      "The <b>color of light</> is determined by its <b>wavelength</>.",
+      "Different wavelengths within the visible spectrum are perceived by the human eye as different colors.",
+      "For example, shorter wavelengths appear blue or violet, while longer wavelengths appear red or orange."
+    ],
+    "random_answer": [
+      "amplitude",
+      "velocity",
+      "intensity"
+    ]
+  },
+  {
+    "question": "In which rock layers are remains of aquatic organisms most commonly found?",
+    "answer": "sedimentary",
+    "why": [
+      "<b>Sedimentary rocks</> are formed from the accumulation and compaction of sediments, often in watery environments.",
+      "The remains of aquatic organisms (fossils) are frequently preserved within these layers as sediments accumulate around them.",
+      "Unlike igneous or metamorphic rocks, sedimentary rocks provide the ideal conditions for fossilization."
+    ],
+    "random_answer": [
+      "Igneous",
+      "metamorphic",
+      "intrusive"
+    ]
+  },
+  {
+    "question": "Nights are cooler when the sky is dear than when it is overcast. Why is this so?",
+    "answer": "Heat from the lower atmosphere easily escapes when there is no cloud cover.",
+    "why": [
+      "Clouds act as an insulating blanket, trapping heat radiating from the Earth's surface and reflecting it back.",
+      "When the sky is <b>clear</>, there is no cloud cover to impede the escape of this radiated heat into space.",
+      "This allows for more rapid and efficient cooling of the Earth's surface and lower atmosphere."
+    ],
+    "random_answer": [
+      "The sun is hidden from us at night.",
+      "Cooler air can hold less water vapor.",
+      "Rain falls when water vapor condenses above freezing point."
+    ]
+  },
+  {
+    "question": "Two air masses have the same relative humidity. Which of the following can also be said about them?",
+    "answer": "none of them",
+    "why": [
+      "<b>Relative humidity</> is the amount of moisture in the air relative to the maximum it can hold at a given temperature.",
+      "Two air masses can have the same relative humidity but still differ in temperature, volume, or whether they contain rain clouds.",
+      "Relative humidity alone does not dictate these other properties directly."
+    ],
+    "random_answer": [
+      "they have the same volume",
+      "they have the game temperature",
+      "both have rain clouds"
+    ]
+  },
+  {
+    "question": "Which of the following phrases best describes adaptation of organisms?",
+    "answer": "structure or behavior of an organism to help it survive in its environment",
+    "why": [
+      "An <b>adaptation</> is a heritable trait that has evolved through natural selection to <b>increase an organism's fitness</> in a particular environment.",
+      "These can be physical structures (like thick covering) or behavioral patterns (like fast movements or blending color) that improve survival and reproduction.",
+      "The core idea is how an organism is uniquely suited to its surroundings."
+    ],
+    "random_answer": [
+      "thick covering to conserve water",
+      "fast movements to escape its enemies",
+      "blending of color so that it cannot be easily seen by its enemies"
+    ]
+  },
+  {
+    "question": "At what stages in its life cycle is a butterfly most active?",
+    "answer": "larva and adult",
+    "why": [
+      "The <b>larva</> (caterpillar) stage of a butterfly's life cycle is characterized by intense feeding and growth, making it highly active in consuming plant material.",
+      "The <b>adult</> butterfly stage is active in reproduction, feeding on nectar, and dispersal, involving flight and mating.",
+      "The egg and pupa stages are generally dormant or less active."
+    ],
+    "random_answer": [
+      "egg and larva",
+      "pupa and adult",
+      "adult and egg"
+    ]
+  },
+  {
+    "question": "What type of solar radiation is effectively absorbed by the ozone layer of the earth's atmosphere?",
+    "answer": "ultraviolet",
+    "why": [
+      "The <b>ozone layer</> in the stratosphere plays a crucial role in absorbing harmful <b>ultraviolet (UV) radiation</> from the sun.",
+      "This absorption protects living organisms on Earth from the damaging effects of excessive UV exposure.",
+      "Specifically, it primarily filters out most of the UV-B and all of the UV-C radiation."
+    ],
+    "random_answer": [
+      "infrared",
+      "gamma",
+      "X — ray"
+    ]
+  },
+  {
+    "question": "We wear light clothes especially during summer because white",
+    "answer": "reflects heat",
+    "why": [
+      "Light-colored or <b>white clothing</> is preferred in summer because it <b>reflects a larger portion of incoming solar radiation</>.",
+      "This reflection prevents the absorption of heat by the clothing and, consequently, by the body.",
+      "Dark colors, conversely, absorb more heat, making them feel warmer."
+    ],
+    "random_answer": [
+      "absorbs heat",
+      "disperses heat",
+      "refracts heat"
+    ]
+  },
+  {
+    "question": "Objects are visible because of the light they",
+    "answer": "reflect",
+    "why": [
+      "Most objects we see are not light sources themselves; instead, they become visible because they <b>reflect light</> that falls upon them.",
+      "The reflected light then travels to our eyes, allowing us to perceive the object.",
+      "Different objects reflect different wavelengths of light, which is how we perceive various colors."
+    ],
+    "random_answer": [
+      "absorb",
+      "diffuse",
+      "refract"
+    ]
+  },
+  {
+    "question": "It makes blue litmus paper turn red",
+    "answer": "acid",
+    "why": [
+      "<b>Acids</> are substances that, when dissolved in water, produce hydrogen ions and typically have a pH less than 7.",
+      "A characteristic property of acids is that they cause <b>blue litmus paper to turn red</>.",
+      "This is a common indicator test for the presence of an acidic solution."
+    ],
+    "random_answer": [
+      "salt",
+      "base",
+      "water"
+    ]
+  },
+  {
+    "question": "Smelling a scent of perfume from a distance illustrates",
+    "answer": "diffusion",
+    "why": [
+      "<b>Diffusion</> is the process by which particles spread out from an area of higher concentration to an area of lower concentration.",
+      "When perfume is sprayed, its scent molecules are highly concentrated near the source and gradually spread throughout the air.",
+      "This movement allows the scent to be detected even at a distance from where it was initially released."
+    ],
+    "random_answer": [
+      "cohesion",
+      "adhesion",
+      "all of these"
+    ]
+  },
+  {
+    "question": "What is the weight of the man whose mass is 50 kg?",
+    "answer": "490 N",
+    "why": [
+      "Weight is calculated by multiplying mass by the acceleration due to gravity (approximately 9.8 m/s²).",
+      "For a mass of 50 kg, the weight would be 50 kg * 9.8 m/s² = <b>490 Newtons</> (N).",
+      "The Newton (N) is the standard unit of force, which includes weight."
+    ],
+    "random_answer": [
+      "50 N",
+      "13. 50 kg",
+      "490 N"
+    ]
+  },
+  {
+    "question": "The motion of the noon around the earth is an example of",
+    "answer": "uniform circular motion",
+    "why": [
+      "The Moon's orbit around the Earth is approximately circular, and its speed is relatively constant, making it an example of <b>uniform circular motion</>.",
+      "In this type of motion, an object moves in a circular path at a constant speed, though its velocity is continuously changing direction.",
+      "This describes the orbital mechanics of celestial bodies like the Moon."
+    ],
+    "random_answer": [
+      "uniform motion",
+      "projectile motion",
+      "rectilinear motion"
+    ]
+  },
+  {
+    "question": "In a neutral atom, the number of protons is equal to the number of",
+    "answer": "electrons",
+    "why": [
+      "A <b>neutral atom</> has no net electrical charge.",
+      "Protons carry a positive charge, and <b>electrons</> carry a negative charge of equal magnitude.",
+      "For the atom to be neutral, the number of positively charged protons must exactly balance the number of negatively charged electrons."
+    ],
+    "random_answer": [
+      "neutrons",
+      "nucleons",
+      "all of these"
+    ]
+  },
+  {
+    "question": "The scientist who have said that an atom is mostly empty space with tiny positive core called the nucleus",
+    "answer": "Rutherford",
+    "why": [
+      "<b>Ernest Rutherford</> conducted the famous gold foil experiment, which led to the discovery of the atomic nucleus.",
+      "His model proposed that an atom consists of a tiny, dense, positively charged <b>nucleus</> at its center, with electrons orbiting in mostly empty space around it.",
+      "This model revolutionized the understanding of atomic structure."
+    ],
+    "random_answer": [
+      "Dalton",
+      "Thomson",
+      "Bohr"
+    ]
+  },
+  {
+    "question": "What process can efficiently separate alcohol from water?",
+    "answer": "distillation",
+    "why": [
+      "<b>Distillation</> is a separation technique that takes advantage of differences in boiling points.",
+      "Alcohol has a lower boiling point than water, so it vaporizes preferentially when heated.",
+      "The vapor is then collected and condensed, separating the alcohol from the water."
+    ],
+    "random_answer": [
+      "filtration",
+      "decantation",
+      "chromatography"
+    ]
+  },
+  {
+    "question": "The constant temperature at which solid is changed in its liquid form",
+    "answer": "melting point",
+    "why": [
+      "The <b>melting point</> is the specific temperature at which a substance transitions from a solid state to a liquid state.",
+      "At this temperature, the solid and liquid phases exist in equilibrium.",
+      "It remains constant during the phase change, even as heat is added, until all the solid has melted."
+    ],
+    "random_answer": [
+      "dew point",
+      "boiling point"
+    ]
+  },
+  {
+    "question": "Urine has a density of 1.02 g/mL. What is the volume of 25 g of urine?",
+    "answer": "24.5 mL",
+    "why": [
+      "Density is defined as mass divided by volume (Density = Mass / Volume).",
+      "To find the volume, rearrange the formula to Volume = Mass / Density.",
+      "Substituting the given values: Volume = 25 g / 1.02 g/mL ≈ <b>24.5 mL</>."
+    ],
+    "random_answer": [
+      "25.5 mL",
+      "0.04 mL",
+      "25.0 mL"
+    ]
+  },
+  {
+    "question": "Which of the following statements best describes a liquid?",
+    "answer": "It has definite volume",
+    "why": [
+      "A <b>liquid</> is a state of matter that has a <b>definite volume</> but takes the shape of its container.",
+      "Its particles are close together but are able to move past one another.",
+      "This characteristic distinguishes it from gases (no definite volume) and solids (definite shape and volume)."
+    ],
+    "random_answer": [
+      "It has definite shape",
+      "It expands to till its container",
+      "Its particles are tightly packed with each other"
+    ]
+  },
+  {
+    "question": "The movement of the solid part of the earth is called",
+    "answer": "diastropism",
+    "why": [
+      "<b>Diastropism</> refers to the large-scale deformation of the Earth's crust by natural processes such as folding, faulting, and plate movement.",
+      "It encompasses all processes that involve the movement and deformation of the Earth's solid lithosphere.",
+      "This geological term describes the forces that build continents and mountain ranges."
+    ],
+    "random_answer": [
+      "earthquake",
+      "faulting",
+      "folding"
+    ]
+  },
+  {
+    "question": "The rocks that may have been formed from magma in volcanoes or from flowing larva are called",
+    "answer": "igneous rocks",
+    "why": [
+      "<b>Igneous rocks</> are formed from the cooling and solidification of molten rock (magma or lava).",
+      "They can form either below the Earth's surface (intrusive) or on the surface from volcanic eruptions (extrusive).",
+      "The term 'igneous' comes from the Latin word for fire, reflecting their origin from molten material."
+    ],
+    "random_answer": [
+      "sedimentary rocks",
+      "metamorphic rocks",
+      "minerals"
+    ]
+  },
+  {
+    "question": "The method of farming on the mountainsides to prevent erosion is called",
+    "answer": "contour farming",
+    "why": [
+      "<b>Contour farming</> involves plowing and planting crops along the contours of a slope rather than up and down it.",
+      "This practice creates ridges that slow down water runoff, allowing more water to soak into the soil.",
+      "It significantly reduces <b>soil erosion</> on hillsides by preventing the formation of gullies."
+    ],
+    "random_answer": [
+      "crop rotation",
+      "strip cropping",
+      "mountain farming"
+    ]
+  },
+  {
+    "question": "The process of breaking down rocks",
+    "answer": "weathering",
+    "why": [
+      "<b>Weathering</> is the process of breaking down rocks, soils, and minerals through contact with the Earth's atmosphere, biota, and waters.",
+      "It can be physical (mechanical), chemical, or biological.",
+      "This process does not involve the removal of rock material, unlike erosion, but rather its disintegration or decomposition."
+    ],
+    "random_answer": [
+      "erosion",
+      "volcanism",
+      "all of these"
+    ]
+  },
+  {
+    "question": "The upper part of lithosphere that contains various rock layers at different depths",
+    "answer": "crust",
+    "why": [
+      "The <b>crust</> is the outermost solid layer of the Earth, forming the upper part of the lithosphere.",
+      "It is characterized by diverse rock types and varying depths, making up continents and ocean basins.",
+      "Below the crust are the mantle and core."
+    ],
+    "random_answer": [
+      "mantle",
+      "core",
+      "none of these"
+    ]
+  },
+  {
+    "question": "At night, the wind blows from the land to the sea. This is because the cool air over the land blows in to replace the warm air rising from the sea. This type of breeze is called a",
+    "answer": "land breeze",
+    "why": [
+      "A <b>land breeze</> occurs at night when the land cools down faster than the sea.",
+      "The cooler, denser air over the land flows towards the relatively warmer, less dense air rising over the sea.",
+      "This creates a temperature gradient that drives the wind from land to sea."
+    ],
+    "random_answer": [
+      "sea breeze",
+      "both of them",
+      "none of there"
+    ]
+  },
+  {
+    "question": "The type of cloud the produces precipitation and is usually seen before it rains",
+    "answer": "nimbus",
+    "why": [
+      "<b>Nimbus</> is a prefix or suffix used to denote clouds that produce <b>precipitation</> (rain, snow, or sleet).",
+      "Examples include nimbostratus (continuous rain) and cumulonimbus (thunderstorms).",
+      "These clouds are often dark and heavy with water, indicating impending rainfall."
+    ],
+    "random_answer": [
+      "cirrus",
+      "cumulus",
+      "stratus"
+    ]
+  },
+  {
+    "question": "The condition of the atmosphere at any given time and place",
+    "answer": "weather",
+    "why": [
+      "<b>Weather</> refers to the specific atmospheric conditions, such as temperature, humidity, precipitation, and wind, at a particular moment and location.",
+      "It is distinct from climate, which describes long-term average weather patterns.",
+      "Weather can change rapidly and is what we experience day-to-day."
+    ],
+    "random_answer": [
+      "climate",
+      "season",
+      "none of them"
+    ]
+  },
+  {
+    "question": "It refers the actual amount of water vapor present in the atmosphere",
+    "answer": "absolute humidity",
+    "why": [
+      "<b>Absolute humidity</> measures the actual mass of water vapor present in a given volume of air.",
+      "It is expressed, for example, as grams of water vapor per cubic meter of air.",
+      "Unlike relative humidity, absolute humidity does not depend on temperature."
+    ],
+    "random_answer": [
+      "relative humidity",
+      "both of them"
+    ]
+  },
+  {
+    "question": "Which layer of the atmosphere contains the ozone layer",
+    "answer": "stratosphere",
+    "why": [
+      "The <b>ozone layer</>, which absorbs most of the Sun's harmful ultraviolet (UV) radiation, is located primarily within the <b>stratosphere</>.",
+      "This layer extends from about 10 to 50 kilometers (6 to 31 miles) above the Earth's surface.",
+      "The presence of ozone in this layer is vital for protecting life on Earth."
+    ],
+    "random_answer": [
+      "troposphere",
+      "mesosphere",
+      "thermosphere"
+    ]
+  },
+  {
+    "question": "Who advocated the idea that all things are made up of four elements of fire, air, earth, and water?",
+    "answer": "Aristotle",
+    "why": [
+      "The ancient Greek philosopher <b>Aristotle</> famously proposed that all matter is composed of four basic elements: earth, water, air, and fire.",
+      "This theory was influential for centuries and shaped early scientific thought.",
+      "He believed these elements combined in various proportions to form all substances."
+    ],
+    "random_answer": [
+      "Newton",
+      "Galileo",
+      "Einstein"
+    ]
+  },
+  {
+    "question": "How do solutions differ from compounds?",
+    "answer": "solutions vary in composition; compound have definite composition",
+    "why": [
+      "A <b>solution</> is a homogeneous mixture where the proportions of its components can vary within certain limits.",
+      "A <b>compound</> is a pure substance formed by the chemical combination of two or more elements in a <b>fixed and definite proportion</>.",
+      "This difference in composition variability is a key distinction between mixtures and compounds."
+    ],
+    "random_answer": [
+      "solutions are heterogeneous mixtures; compounds are homogeneous",
+      "solutions have definite composition; compounds vary in composition",
+      "solutions are formed in chemical reactions; compound combine physically"
+    ]
+  },
+  {
+    "question": "Which part of the flower develops into seeds?",
+    "answer": "ovule",
+    "why": [
+      "After fertilization, the <b>ovule</> within the ovary of a flower develops into a <b>seed</>.",
+      "The ovule contains the female gamete and, upon fertilization, forms the embryo and endosperm, which are enclosed within the seed coat.",
+      "The ovary itself develops into the fruit."
+    ],
+    "random_answer": [
+      "pistil",
+      "ovary",
+      "ovary wall"
+    ]
+  },
+  {
+    "question": "Copper is used for electrical wires because it is ductile. Which of the following describes ductility of metals?",
+    "answer": "can be drawn into fine wires",
+    "why": [
+      "<b>Ductility</> is a physical property of materials, particularly metals, that describes their ability to be stretched or drawn into thin wires.",
+      "Copper's high ductility makes it an excellent choice for electrical wiring.",
+      "This property allows for the formation of long, thin conductors without breaking."
+    ],
+    "random_answer": [
+      "the softness of metals",
+      "the hardness of metals",
+      "can be hammered forming this sheets"
+    ]
+  },
+  {
+    "question": "Why does air temperature usually decrease toward the poles?",
+    "answer": "areas near the poles receive less solar energy per unit area",
+    "why": [
+      "Due to the Earth's spherical shape and axial tilt, sunlight strikes the polar regions at a <b>more oblique angle</>.",
+      "This means the same amount of solar energy is spread over a <b>larger surface area</> at the poles compared to the equator.",
+      "Consequently, polar regions receive less concentrated solar energy, leading to colder temperatures."
+    ],
+    "random_answer": [
+      "there is plenty of ice near the poles",
+      "air generally moves toward the equator",
+      "cold air near the poles prevent heating of the land"
+    ]
+  },
+  {
+    "question": "Which energy changes takes place in a flashlight with batteries?",
+    "answer": "chemical — electrical — light",
+    "why": [
+      "Batteries store <b>chemical energy</>.",
+      "When the flashlight is turned on, this chemical energy is converted into <b>electrical energy</>.",
+      "The electrical energy then powers the bulb, which converts it into <b>light energy</> (and some heat)."
+    ],
+    "random_answer": [
+      "electrical — light — chemical",
+      "light — chemical — electrical",
+      "chemical — light — electrical"
+    ]
+  },
+  {
+    "question": "A material that does not transmit light that strikes its surface is known as a",
+    "answer": "opaque",
+    "why": [
+      "An <b>opaque</> material is one that completely blocks the passage of light.",
+      "Light striking an opaque surface is either absorbed or reflected, but it does not pass through the material.",
+      "This property makes objects like walls and solid doors opaque."
+    ],
+    "random_answer": [
+      "transparent",
+      "translucent"
+    ]
+  },
+  {
+    "question": "The mechanism of heat transfer that is only possible in liquids and gases is called",
+    "answer": "convection",
+    "why": [
+      "<b>Convection</> is the transfer of heat through the movement of fluids (liquids or gases).",
+      "As a fluid is heated, it becomes less dense and rises, while cooler, denser fluid sinks, creating a circulation current.",
+      "This process cannot occur in solids because their particles are fixed in position."
+    ],
+    "random_answer": [
+      "conduction",
+      "radiation"
+    ]
+  },
+  {
+    "question": "What is the process of changing solid to gas without passing the liquid state?",
+    "answer": "sublimation",
+    "why": [
+      "<b>Sublimation</> is a phase transition where a substance changes directly from a <b>solid to a gas</> without going through a liquid phase.",
+      "A common example is dry ice (solid carbon dioxide) turning directly into carbon dioxide gas.",
+      "This process occurs when the vapor pressure of the solid is higher than the surrounding atmospheric pressure at a given temperature."
+    ],
+    "random_answer": [
+      "condensation",
+      "evaporation",
+      "freezing"
+    ]
+  },
+  {
+    "question": "Sound that is heard louder than the others has a greater",
+    "answer": "amplitude",
+    "why": [
+      "The <b>loudness</> or intensity of a sound wave is directly related to its <b>amplitude</>.",
+      "A larger amplitude corresponds to more energy carried by the wave, resulting in a louder sound.",
+      "Pitch is related to frequency, not loudness."
+    ],
+    "random_answer": [
+      "pitch",
+      "frequency",
+      "frequency"
+    ]
+  },
+  {
+    "question": "Why are shadows formed?",
+    "answer": "light travels in a straight line",
+    "why": [
+      "<b>Shadows</> are formed because light rays travel in <b>straight lines</>.",
+      "When an opaque object blocks these straight light rays, it prevents light from reaching the area behind it.",
+      "This absence of light creates the dark region known as a shadow."
+    ],
+    "random_answer": [
+      "Light produces _a dark area",
+      "light is dispersed in all direction",
+      "light is scattered by a smooth surface"
+    ]
+  },
+  {
+    "question": "In a guitar, which string can produce a high pitch?",
+    "answer": "thin and short",
+    "why": [
+      "The <b>pitch</> of a vibrating string is inversely proportional to its length and directly proportional to its tension and inversely proportional to its mass per unit length.",
+      "A <b>shorter string</> vibrates at a higher frequency, producing a higher pitch.",
+      "A <b>thinner string</> (less mass per unit length) also vibrates at a higher frequency for a given tension, resulting in a higher pitch."
+    ],
+    "random_answer": [
+      "thin and long",
+      "thick and long",
+      "thick and short"
+    ]
+  },
+  {
+    "question": "Which device can converts mechanical energy to electrical energy?",
+    "answer": "generator",
+    "why": [
+      "A <b>generator</> is a device that converts <b>mechanical energy</> into <b>electrical energy</>.",
+      "It typically works on the principle of electromagnetic induction, where a rotating coil in a magnetic field produces an electric current.",
+      "This is the fundamental principle behind power generation in power plants."
+    ],
+    "random_answer": [
+      "battery",
+      "motor",
+      "photo voltaic cell"
+    ]
+  },
+  {
+    "question": "What is the force that opposes motion?",
+    "answer": "friction",
+    "why": [
+      "<b>Friction</> is a force that opposes relative motion or the tendency of such motion between two surfaces in contact.",
+      "It acts in the opposite direction of the motion or applied force.",
+      "Friction is responsible for slowing down moving objects and enabling things like walking."
+    ],
+    "random_answer": [
+      "tension",
+      "weight",
+      "normal force"
+    ]
+  },
+  {
+    "question": "Why are bums caused by steam more damaging than the one caused by boiling water?",
+    "answer": "Steam has more energy per kilogram",
+    "why": [
+      "<b>Steam</> (water vapor at 100°C) contains significantly more thermal energy per unit mass than boiling water at the same temperature.",
+      "This extra energy is the <b>latent heat of vaporization</> that was absorbed during the phase change from liquid to gas.",
+      "When steam condenses on the skin, it releases this large amount of latent heat, causing more severe burns than direct contact with boiling water."
+    ],
+    "random_answer": [
+      "Water has a higher temperature",
+      "Steam is a vapor of water molecules",
+      "Steam is easily formed than boiling water"
+    ]
+  },
+  {
+    "question": "What happens when vapor condenses into a liquid?",
+    "answer": "It releases heat",
+    "why": [
+      "When a substance undergoes <b>condensation</> (changes from a gas/vapor to a liquid), it <b>releases latent heat</> to its surroundings.",
+      "This is because the molecules in the vapor state have higher kinetic energy, and as they condense, this excess energy is given off.",
+      "This released heat is known as the latent heat of condensation."
+    ],
+    "random_answer": [
+      "It absorbs heat",
+      "its temperature increases",
+      "its temperature decreases"
+    ]
+  },
+  {
+    "question": "What do you call sound with frequency that is below 20 Hz?",
+    "answer": "infrasonic",
+    "why": [
+      "<b>Infrasonic</> refers to sound waves with frequencies <b>below the lower limit of human audibility</>, which is typically 20 Hertz (Hz).",
+      "These low-frequency sounds can be produced by natural phenomena like earthquakes, volcanoes, and large animals.",
+      "Sounds above 20,000 Hz are ultrasonic."
+    ],
+    "random_answer": [
+      "supersonic",
+      "subsonic",
+      "ultrasonic"
+    ]
+  },
+  {
+    "question": "The separation of white light into colors of the spectrum is called",
+    "answer": "dispersion",
+    "why": [
+      "<b>Dispersion</> is the phenomenon where white light separates into its constituent colors (the spectrum) as it passes through a medium like a prism.",
+      "This occurs because different wavelengths (colors) of light travel at slightly different speeds in the medium, causing them to refract at different angles.",
+      "Each color bends by a different amount, leading to their separation."
+    ],
+    "random_answer": [
+      "scattering",
+      "reflection",
+      "refraction"
+    ]
+  },
+  {
+    "question": "Which among the following is a non-renewable energy resource?",
+    "answer": "fossil fuel",
+    "why": [
+      "<b>Fossil fuels</> (like coal, oil, and natural gas) are formed from the remains of ancient organisms over millions of years.",
+      "They are considered <b>non-renewable</> because their rate of formation is extremely slow compared to the rate at which they are consumed.",
+      "Once extracted and burned, they are depleted and cannot be replenished on a human timescale."
+    ],
+    "random_answer": [
+      "wind energy",
+      "solar energy",
+      "geothermal energy"
+    ]
+  },
+  {
+    "question": "The gas that is most abundant in the air is",
+    "answer": "nitrogen",
+    "why": [
+      "The Earth's atmosphere is composed primarily of <b>nitrogen gas</> (N2), making up approximately 78% of its volume.",
+      "Oxygen is the second most abundant gas, at about 21%.",
+      "This makes nitrogen the overwhelmingly dominant component of the air we breathe."
+    ],
+    "random_answer": [
+      "oxygen",
+      "carbon dioxide",
+      "argon"
+    ]
+  },
+  {
+    "question": "The greatest source of indoor pollutant is",
+    "answer": "radon",
+    "why": [
+      "<b>Radon</> is a naturally occurring radioactive gas that is colorless, odorless, and tasteless.",
+      "It is produced by the decay of uranium in soil and rocks and can seep into homes through cracks in foundations.",
+      "Radon is considered the <b>leading cause of lung cancer among non-smokers</> and is a significant indoor air pollutant."
+    ],
+    "random_answer": [
+      "smog",
+      "CFCs",
+      "sunlight"
+    ]
+  },
+  {
+    "question": "All of the following are probable consequences of water related environmental problems except",
+    "answer": "respiratory tack infection",
+    "why": [
+      "<b>Water-related environmental problems</> typically lead to waterborne diseases that affect the digestive system.",
+      "Diarrhea, typhoid fever, and amoebiasis are common illnesses contracted through contaminated water.",
+      "Respiratory tract infections are generally associated with air pollution or airborne pathogens, not directly with water problems."
+    ],
+    "random_answer": [
+      "diarrhea",
+      "typhoid fever",
+      "amoebiasis"
+    ]
+  },
+  {
+    "question": "Overdraft is an overuse of groundwater, which makes the reservoirs of groundwater emptied and very seldom replenished especially during the summer months. Which among the following environmental problems related to soil is the probable consequence of overdraft?",
+    "answer": "land subsidence",
+    "why": [
+      "<b>Over-pumping of groundwater</> (overdraft) can lead to the compaction of underground sediments.",
+      "When the water that supported the soil and rock is removed, the land above can literally <b>sink or subside</>.",
+      "This phenomenon, known as land subsidence, can cause structural damage to buildings and infrastructure."
+    ],
+    "random_answer": [
+      "soil pollution",
+      "soil erosion",
+      "deforestation"
+    ]
+  },
+  {
+    "question": "Plant nutrients such as nitrates and phosphates, which come from fertilizers and detergent, can cause algal bloom. What do you call the phenomenon on which a body of water which contains high concentrations of chemical elements required for life makes the produces bloom by directly nourishing most bacteria than aquatic organisms like fishes?",
+    "answer": "euthrophication",
+    "why": [
+      "<b>Eutrophication</> is the process by which a body of water becomes excessively enriched with nutrients, typically nitrates and phosphates.",
+      "This nutrient overload leads to dense growth of plant life, particularly algae, forming <b>algal blooms</>.",
+      "These blooms can deplete oxygen in the water, harming aquatic life like fish, and promote bacterial growth."
+    ],
+    "random_answer": [
+      "biomagnification",
+      "soil water intrusion"
+    ]
+  },
+  {
+    "question": "Which of the following best describes a nonmetal?",
+    "answer": "they are good insulators",
+    "why": [
+      "<b>Nonmetals</> are generally characterized by being <b>poor conductors of heat and electricity</>, meaning they are good insulators.",
+      "They tend to be brittle and lack metallic luster, unlike metals which are ductile and malleable.",
+      "This insulating property is a key characteristic distinguishing them from metals."
+    ],
+    "random_answer": [
+      "They are ductile and malleable",
+      "they have high tensile strength",
+      "they are hard and brittle"
+    ]
+  },
+  {
+    "question": "Which is an example of a heterogeneous mixture?",
+    "answer": "concrete",
+    "why": [
+      "A <b>heterogeneous mixture</> is a mixture in which the components are not uniformly distributed and can be visually distinguished.",
+      "<b>Concrete</> is made of cement, sand, gravel, and water, which are visibly distinct components even when mixed.",
+      "Unlike homogeneous mixtures (solutions), its composition is not uniform throughout."
+    ],
+    "random_answer": [
+      "Distilled water",
+      "Agua oxinada",
+      "rubbing alcohol"
+    ]
+  },
+  {
+    "question": "Which of the following phase changes are exothermic?",
+    "answer": "condensation and freezing",
+    "why": [
+      "<b>Exothermic processes</> are those that release heat to the surroundings.",
+      "During <b>condensation</> (gas to liquid) and <b>freezing</> (liquid to solid), substances release latent heat as their particles come closer together and lose kinetic energy.",
+      "This release of energy warms the environment around the substance."
+    ],
+    "random_answer": [
+      "sublimation and melting",
+      "evaporation and condensation",
+      "evaporation and deposition"
+    ]
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "answer": "Air has volume",
+    "why": [
+      "<b>Air</> is a mixture of gases, and gases, like all forms of matter, <b>occupy space</> and therefore have volume.",
+      "Though often invisible, air can be compressed or expanded, demonstrating its physical presence and volume.",
+      "The other options are generally false; light and sound are forms of energy and do not have mass or volume, and heat is a form of energy transfer, not a substance occupying space."
+    ],
+    "random_answer": [
+      "Light has mass",
+      "Heat occupies space",
+      "Sound has both mass and volume"
+    ]
+  },
+  {
+    "question": "Which of the following is an intensive physical property?",
+    "answer": "color",
+    "why": [
+      "An <b>intensive property</> is a physical property that does not depend on the amount of matter present.",
+      "<b>Color</> remains the same regardless of how much of a substance you have.",
+      "Mass, volume, and length are extensive properties, meaning they depend on the quantity of the substance."
+    ],
+    "random_answer": [
+      "mass",
+      "volume",
+      "length"
+    ]
+  },
+  {
+    "question": "When a pure crystalline yellowish substance is heated in vacuum, a greenish gas and a red powdery substance were produced. In which of the following will you classify the yellowish substance?",
+    "answer": "compound",
+    "why": [
+      "The yellowish substance is a <b>compound</> because it broke down into <b>two different substances</> (a greenish gas and a red powdery substance) upon heating.",
+      "Compounds can be broken down into simpler substances by chemical means.",
+      "Elements cannot be broken down further, and mixtures would not necessarily yield new substances upon simple heating in this manner."
+    ],
+    "random_answer": [
+      "Element",
+      "mixture",
+      "pure substance"
+    ]
+  },
+  {
+    "question": "Isotopes are atoms that have the same atomic number but different mass numbers. It means also that isotopes are atoms that have",
+    "answer": "the same number of protons but different number of neutrons",
+    "why": [
+      "The <b>atomic number</> of an atom is defined by the number of <b>protons</> in its nucleus.",
+      "The <b>mass number</> is the sum of protons and neutrons.",
+      "Therefore, if isotopes have the same atomic number but different mass numbers, it means they must have the same number of protons but a different number of <b>neutrons</>."
+    ],
+    "random_answer": [
+      "the same number of electrons but different number of protons",
+      "the same number of neutrons but different number of electrons",
+      "the same number of protons but different number of electrons"
+    ]
+  },
+  {
+    "question": "This electrically neutral particle was discovered by Chadwick in 1932 with its mass slightly greater than that of proton?",
+    "answer": "neutron",
+    "why": [
+      "<b>James Chadwick</> discovered the <b>neutron</> in 1932.",
+      "The neutron is an <b>electrically neutral</> subatomic particle found in the nucleus of atoms.",
+      "It has a mass very close to that of a proton, but slightly greater."
+    ],
+    "random_answer": [
+      "electron",
+      "positron",
+      "neutrino"
+    ]
+  },
+  {
+    "question": "The spoilage of meat is delayed when kept in a refrigerator because the cold temperature",
+    "answer": "slows down the action of bacteria",
+    "why": [
+      "Most bacteria and other microorganisms that cause spoilage thrive at warmer temperatures.",
+      "<b>Cold temperatures</> significantly <b>slow down the metabolic activity</> and reproduction rate of these microorganisms.",
+      "This reduced activity delays the chemical reactions that lead to meat spoilage."
+    ],
+    "random_answer": [
+      "keeps the flies/ insects away",
+      "changes the color and odor of meat",
+      "turns the water component of meat to ice"
+    ]
+  },
+  {
+    "question": "During chemical changes or chemical reactions, which particles are gained, lost, or shared?",
+    "answer": "electrons in the outermost energy level",
+    "why": [
+      "<b>Chemical reactions</> involve the rearrangement of atoms through the formation and breaking of chemical bonds.",
+      "These bonds are formed by the <b>gaining, losing, or sharing of electrons</>, specifically those in the <b>valence (outermost) energy level</>.",
+      "The nucleus (protons and neutrons) remains unchanged during typical chemical reactions."
+    ],
+    "random_answer": [
+      "protons inside the nucleus",
+      "neutrons inside the nucleus",
+      "electrons in the innermost energy level"
+    ]
+  },
+  {
+    "question": "Which of the following radiation has the highest penetrating power?",
+    "answer": "gamma",
+    "why": [
+      "<b>Gamma radiation</> (gamma rays) are a form of electromagnetic radiation, similar to X-rays, but with higher energy.",
+      "They have <b>no charge and no mass</>, allowing them to pass through most materials with minimal interaction.",
+      "Consequently, gamma rays have the <b>highest penetrating power</> among common types of radiation (alpha, beta, gamma)."
+    ],
+    "random_answer": [
+      "alpha",
+      "beta"
+    ]
+  },
+  {
+    "question": "Which of the following statements explains why we feel cool after perspiring?",
+    "answer": "evaporating water in our skin produces a cooling effect",
+    "why": [
+      "<b>Perspiration</> (sweat) on the skin absorbs heat energy from the body as it changes from a liquid to a gas.",
+      "This process of <b>evaporation</> requires a significant amount of heat (latent heat of vaporization).",
+      "As heat is drawn away from the skin, a <b>cooling effect</> is experienced."
+    ],
+    "random_answer": [
+      "vapor in the air condenses in our skin",
+      "water coming out of our body is cold",
+      "pores in our skin allow cool air to enter"
+    ]
+  },
+  {
+    "question": "What is the most practical way to control pollution?",
+    "answer": "careful planning of environmental usage",
+    "why": [
+      "<b>Careful planning</> involves implementing sustainable practices, designing efficient systems, and regulating resource use to minimize waste and emissions.",
+      "It focuses on proactive measures and integrated approaches to prevent pollution at its source.",
+      "This strategy ensures that human activities are conducted in a manner that reduces their negative impact on the environment."
+    ],
+    "random_answer": [
+      "decreasing the population",
+      "more government control of industry",
+      "slowing the rate of technological growth"
+    ]
+  },
+  {
+    "question": "Humans can cause rapid changes in the environment, sometimes producing catastrophic events. Which statement below is the best example of this concept?",
+    "answer": "mountainside highway construction causes a landslide",
+    "why": [
+      "<b>Mountainside highway construction</> involves significant alteration of natural slopes and rock stability.",
+      "Such human-engineered changes can disrupt geological equilibrium, leading to <b>landslides</> or other forms of mass wasting.",
+      "This is a direct example of human activity causing a rapid and potentially catastrophic environmental event."
+    ],
+    "random_answer": [
+      "lightning causes forest fire",
+      "shifting crustal plates cause an earthquake",
+      "changing seasonal winds cause flooding in an area"
+    ]
+  },
+  {
+    "question": "How are latitude and longitude lines drawn?",
+    "answer": "latitude lines are parallel and longitude lines meet at the poles",
+    "why": [
+      "<b>Latitude lines</> (parallels) are imaginary circles drawn horizontally around the Earth, <b>parallel to the equator</>.",
+      "<b>Longitude lines</> (meridians) are imaginary half-circles drawn vertically from the North Pole to the South Pole, thus <b>meeting at the poles</>.",
+      "This grid system allows for precise location on Earth."
+    ],
+    "random_answer": [
+      "latitude lines are parallel and longitude lines meet at the equator",
+      "longitude lines are parallel and latitude lines meet at the poles",
+      "longitude lines are parallel and latitude lines meet at the equator"
+    ]
+  },
+  {
+    "question": "The water part of the earth is also known as a",
+    "answer": "hydrosphere",
+    "why": [
+      "The <b>hydrosphere</> refers to all the water on or near the Earth's surface.",
+      "This includes oceans, seas, lakes, rivers, glaciers, ice caps, groundwater, and atmospheric water vapor.",
+      "It is one of the major spheres of the Earth system."
+    ],
+    "random_answer": [
+      "lithosphere",
+      "atmosphere",
+      "biosphere"
+    ]
+  },
+  {
+    "question": "The vibration of the earth's surface due to the release of storad energy when the deformed rock ruptures or returns to its original size and shape?",
+    "answer": "earthquake",
+    "why": [
+      "An <b>earthquake</> is caused by the sudden release of accumulated energy in the Earth's crust.",
+      "This energy is stored in rocks that have been subjected to stress and deformation.",
+      "When the stress exceeds the rock's strength, it ruptures, releasing seismic waves that cause the ground to shake."
+    ],
+    "random_answer": [
+      "tsunami",
+      "faulting",
+      "folding"
+    ]
+  },
+  {
+    "question": "What happens to a given mass of fluid if heat flow into it?",
+    "answer": "It becomes less dense",
+    "why": [
+      "When <b>heat flows into a fluid</>, its particles gain kinetic energy and move further apart.",
+      "This increased spacing causes the fluid to <b>expand in volume</>.",
+      "Since density is mass divided by volume, an increase in volume for a given mass results in a <b>decrease in density</>."
+    ],
+    "random_answer": [
+      "It becomes denser",
+      "it becomes colder",
+      "It becomes heavier"
+    ]
+  },
+  {
+    "question": "What happens when air is heated?",
+    "answer": "It expands and it rises",
+    "why": [
+      "When <b>air is heated</>, its molecules gain kinetic energy and move more rapidly, causing them to spread out.",
+      "This leads to an <b>expansion</> of the air, making it less dense than the surrounding cooler air.",
+      "Due to its lower density, the heated air then <b>rises</>."
+    ],
+    "random_answer": [
+      "It expands and sinks",
+      "It contracts and rises",
+      "It contracts and sinks"
+    ]
+  },
+  {
+    "question": "What do you call the phenomenon wherein there is a marked increase in the earth's surface temperature associated with radiation being trapped by its atmosphere?",
+    "answer": "Global warming",
+    "why": [
+      "<b>Global warming</> refers to the long-term increase in Earth's average surface temperature.",
+      "This is primarily caused by an increase in greenhouse gases in the atmosphere, which <b>trap infrared radiation</>.",
+      "The greenhouse effect is the mechanism, and global warming is the resulting increase in temperature."
+    ],
+    "random_answer": [
+      "Greenhouse effect",
+      "El Niño",
+      "La Niña"
+    ]
+  },
+  {
+    "question": "In the water cycle, which process is responsible for getting water into the atmosphere?",
+    "answer": "evaporation",
+    "why": [
+      "<b>Evaporation</> is the process by which liquid water changes into water vapor and rises into the atmosphere.",
+      "This process is driven by energy from the sun and is a key component of the <b>water cycle</>.",
+      "It transfers water from bodies of water and land surfaces into the air."
+    ],
+    "random_answer": [
+      "Condensation",
+      "sublimation",
+      "melting"
+    ]
+  },
+  {
+    "question": "In majority of stars, the most common element is",
+    "answer": "hydrogen",
+    "why": [
+      "Stars, including our Sun, are primarily composed of <b>hydrogen</>.",
+      "Hydrogen undergoes nuclear fusion in a star's core, releasing the energy that makes the star shine.",
+      "It is the most abundant element in the universe, and thus, in most stars."
+    ],
+    "random_answer": [
+      "oxygen",
+      "helium",
+      "nitrogen"
+    ]
+  },
+  {
+    "question": "The color of the hottest star is",
+    "answer": "bluish white",
+    "why": [
+      "The color of a star is an indicator of its surface temperature.",
+      "The <b>hottest stars</> emit more energy at shorter wavelengths, appearing <b>blue or bluish-white</>.",
+      "Conversely, cooler stars appear red."
+    ],
+    "random_answer": [
+      "red",
+      "yellow",
+      "blue"
+    ]
+  },
+  {
+    "question": "If you want to cook boiled eggs while in the mountains you should",
+    "answer": "boil the eggs for a longer time",
+    "why": [
+      "At higher altitudes, atmospheric pressure is lower.",
+      "Lower pressure causes water to <b>boil at a lower temperature</> than 100°C.",
+      "Since the water is boiling at a lower temperature, the eggs will take <b>longer to cook</> through at this reduced heat."
+    ],
+    "random_answer": [
+      "use hotter flame",
+      "boil the eggs for a shorter time",
+      "not boil the eggs, because the water temperature won't get hot enough to cook them"
+    ]
+  },
+  {
+    "question": "A metal lid could not be unscrewed from its glass jar. Which of the following is the best way to unscrew it from the jar?",
+    "answer": "Invert the jar with the lid in a very hot water for a few seconds",
+    "why": [
+      "Heating the metal lid will cause it to <b>expand</> more than the glass jar due to differences in their coefficients of thermal expansion.",
+      "This expansion will slightly loosen the lid, making it easier to unscrew.",
+      "Placing only the lid in hot water directly targets the metal for expansion."
+    ],
+    "random_answer": [
+      "Invert the jar with the lid in a very cold water for a few seconds",
+      "invert the jar with the lid in cold and then in hot water for a few seconds",
+      "invert the jar with the lid in hot and then in cold water for a few seconds"
+    ]
+  },
+  {
+    "question": "It refers to the temperature at which the molecules have the lowest possible kinetic energy",
+    "answer": "absolute zero",
+    "why": [
+      "<b>Absolute zero</> is the theoretical lowest possible temperature, at which particles have the <b>minimum possible kinetic energy</>.",
+      "At this temperature (0 Kelvin or -273.15 °C), all atomic motion ceases, except for quantum mechanical zero-point energy.",
+      "It represents the point of zero thermal energy."
+    ],
+    "random_answer": [
+      "melting point",
+      "boiling point",
+      "freezing point"
+    ]
+  },
+  {
+    "question": "Why does apiece of metal feel colder than a piece of wood at the same temperature",
+    "answer": "metals allow heat to flow through them easily",
+    "why": [
+      "Metals are generally <b>good thermal conductors</>, meaning they efficiently transfer heat.",
+      "When you touch a metal, it rapidly conducts heat away from your warmer hand, making it feel colder.",
+      "Wood, being a poor conductor (an insulator), transfers heat much more slowly, so it doesn't feel as cold."
+    ],
+    "random_answer": [
+      "metal is colder than wood",
+      "metals have higher specific heat than wood",
+      "none of the above"
+    ]
+  },
+  {
+    "question": "What accounts for the cooling effect inside the refrigerator?",
+    "answer": "vaporization of the refrigeration fluid",
+    "why": [
+      "Refrigerators work by using a refrigerant that undergoes a cycle of phase changes.",
+      "When the liquid refrigerant <b>vaporizes</> (evaporates) into a gas inside the evaporator coils, it absorbs a large amount of <b>heat from the inside of the refrigerator</>.",
+      "This absorption of heat creates the cooling effect."
+    ],
+    "random_answer": [
+      "the refrigerator is properly insulated",
+      "compression of the refrigerant into liquid",
+      "the motor converts electrical energy into thermal energy"
+    ]
+  },
+  {
+    "question": "What do you call animals that feed on both plant and meat?",
+    "answer": "herbivores",
+    "why": [
+      "The question asks for animals that feed on 'both plant and meat,' but the provided answer key says 'herbivores'. Herbivores feed only on plants. This indicates a discrepancy between the question and the answer provided in the source. Given the instruction to *draw on information in the sources* and *focus only on the question and correct answer*, I must adhere to the answer key's choice, even if it's biologically incorrect in a broader context.",
+      "A <b>herbivore</> is an animal that feeds exclusively on plants.",
+      "This category includes animals ranging from small insects to large mammals."
+    ],
+    "random_answer": [
+      "carnivores",
+      "omnivores",
+      "insectivores"
+    ]
+  },
+  {
+    "question": "After drinking dirty water, a student developed bloody diarrhea and liver problems in a few weeks later. Which of the following is the most likely cause of the disease?",
+    "answer": "amoeba",
+    "why": [
+      "<b>Amoebiasis</> is an infection caused by the parasite <b>Entamoeba histolytica</>, often transmitted through contaminated water.",
+      "It commonly leads to symptoms such as bloody diarrhea and can cause liver abscesses, resulting in liver problems.",
+      "This aligns with the described symptoms after consuming dirty water."
+    ],
+    "random_answer": [
+      "Paramecium",
+      "dinoflagellates",
+      "euglena"
+    ]
+  },
+  {
+    "question": "Chemical produced by some bacteria that can kill or weaken other bacteria",
+    "answer": "antibiotics",
+    "why": [
+      "<b>Antibiotics</> are substances, often produced by bacteria or fungi, that can <b>kill or inhibit the growth of other microorganisms</>, particularly bacteria.",
+      "They are widely used in medicine to treat bacterial infections.",
+      "This biological warfare strategy allows some microorganisms to compete effectively against others."
+    ],
+    "random_answer": [
+      "antitoxins",
+      "antibodies",
+      "antiseptic"
+    ]
+  },
+  {
+    "question": "When light travels from water to air, what happens to its speed?",
+    "answer": "It increases",
+    "why": [
+      "The speed of light changes as it passes from one medium to another.",
+      "Light travels slower in denser media (like water) and <b>faster in less dense media</> (like air or vacuum).",
+      "Therefore, when light moves from water to air, its speed <b>increases</>."
+    ],
+    "random_answer": [
+      "It decreases",
+      "It remains the same"
+    ]
+  },
+  {
+    "question": "In which medium can sound travel the fastest?",
+    "answer": "metals",
+    "why": [
+      "Sound travels fastest through <b>solids</>, then liquids, and slowest through gases.",
+      "This is because particles in solids, like <b>metals</>, are much closer together and more rigidly connected, allowing vibrations to be transmitted more efficiently.",
+      "The denser and stiffer the medium, the faster sound waves can propagate."
+    ],
+    "random_answer": [
+      "wood",
+      "water",
+      "air"
+    ]
+  },
+  {
+    "question": "The sound produced by a piano differs from that of the violin even if both sounds have the same pitch and loudness because of",
+    "answer": "overtones",
+    "why": [
+      "The unique quality or character of a musical sound, even if it has the same pitch and loudness, is called <b>timbre</>.",
+      "Timbre is determined by the presence and relative intensity of <b>overtones</> (also known as harmonics or partials) in the sound.",
+      "Different instruments produce different combinations of overtones, which gives them their distinctive sound."
+    ],
+    "random_answer": [
+      "frequency",
+      "intensity",
+      "amplitude"
+    ]
+  },
+  {
+    "question": "What do you call type of mixture that scatters light passing through it?",
+    "answer": "colloid",
+    "why": [
+      "A <b>colloid</> is a type of mixture where one substance is dispersed evenly throughout another, but the particles are larger than those in a solution.",
+      "These larger particles are big enough to <b>scatter light</> passing through the mixture, a phenomenon known as the Tyndall effect.",
+      "Examples include milk, fog, and smoke."
+    ],
+    "random_answer": [
+      "solution",
+      "suspension"
+    ]
+  },
+  {
+    "question": "Fleming is a scientist made famous due to his fortunate accidental discovery of penicillin. This is an example of a",
+    "answer": "serendipity",
+    "why": [
+      "<b>Serendipity</> refers to the occurrence and development of events by chance in a happy or beneficial way.",
+      "Alexander Fleming's discovery of penicillin, stemming from an accidental contamination of a petri dish, is a classic example of this.",
+      "It highlights how unforeseen events can lead to significant scientific breakthroughs."
+    ],
+    "random_answer": [
+      "scientific destiny",
+      "medical truth",
+      "hard work"
+    ]
+  },
+  {
+    "question": "Why is water considered a universal solvent?",
+    "answer": "It dissolve both polar and ionic substance",
+    "why": [
+      "Water is often called the <b>universal solvent</> because of its ability to dissolve a wide variety of substances.",
+      "Its polarity allows it to effectively interact with and dissolve both <b>polar molecules</> (like sugars) and <b>ionic compounds</> (like salts).",
+      "The hydrogen bonds in water molecules help in solvating these different types of solutes."
+    ],
+    "random_answer": [
+      "It has a high density",
+      "It has a high specific heat",
+      "It dissolves polar and non — polar substances"
+    ]
+  },
+  {
+    "question": "The study of matter with focus on motion, forces and energy?",
+    "answer": "physics",
+    "why": [
+      "<b>Physics</> is the branch of science that deals with the study of matter and energy and their interactions.",
+      "Its core areas include mechanics (motion, forces), thermodynamics (energy, heat), and electromagnetism.",
+      "It seeks to understand the fundamental principles governing the natural world."
+    ],
+    "random_answer": [
+      "chemistry",
+      "biology",
+      "earth science"
+    ]
+  }
+]

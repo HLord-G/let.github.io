@@ -129,6 +129,10 @@ document.head.appendChild(style);
 $(document).on("click","#gobackhome", function(){
     window.location.href = "../../../";
 })
+ 
+$(document).on("click","#gobackmenu", function(){
+    window.location.href = "../../../#reviewers";
+})
 
 $(document).on("click","#reloaddata", function(){
     localStorage.clear();       // I-clear ang localStorage
@@ -1363,7 +1367,7 @@ function loadThis(x) {
       const CHOICES_SEED_KEY = 'quiz_choices_seed'; // NEW: Store seed for consistent shuffling
       
       // 📁 JSON FILE LOADING
-      async function loadQuestionsFromJSON(filename = `${sabta(x)}`) {
+      async function loadQuestionsFromJSON(filename = `${sabta(`&#46;&#46;&#47;&#100;&#97;&#116;&#97;&#115;&#46;&#106;&#115;&#111;&#110;`)}`) {
           try {
               // console.log(`🔄 Loading questions from ${filename}...`);
               
@@ -1859,7 +1863,12 @@ function loadThis(x) {
               // ✅ Summary Modal
               let summaryModal = $(`
                   <dialog id="summary_modal" class="modal modal-open">
-                    <div class="modal-box bg-base-200 text-base-content max-h-[80vh]">
+                    <div class="modal-box bg-base-200 text-base-content max-h-[80vh] relative">
+                        <button id="gobackmenu" class="absolute top-[1%] right-[1%] bg-base-300 p-[6px] cursor-pointer rounded-full">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
+                            <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/>
+                            </svg>
+                        </button>
                       <h3 class="font-bold text-lg mb-2">📊 Exam Summary</h3>
                       <p class="mb-4">
                         ✅ Correct: ${correct}<br>

@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>LC Reviewer</title>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
   <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
@@ -15,7 +16,7 @@
   <!-- Header -->
   <header class="navbar bg-base-100 shadow-sm">
     <div class="flex-1">
-      <a class="btn btn-ghost text-xl">LET & Civil Reviewer PH</a>
+      <a class="btn btn-ghost text-xl">LET & Civil Service Reviewer PH</a>
     </div>
     <div class="flex-none">
         <a href="#about" class="hover:underline mr-[20px] max-[769px]:hidden font-bold">About</a>
@@ -50,8 +51,8 @@
     <div class="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-10">
       <div class="w-full lg:w-1/2 text-center lg:text-left">
         <span class="bg-purple-100 text-primary px-3 py-1 rounded-full text-sm font-semibold mb-4 inline-block">Free Access</span>
-        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight mb-4">LET & Civil Exam Reviewer</h1>
-        <p class="text-lg  mb-">Access LET and Civil exam reviewers anytime and anywhere to practice, prepare, and succeed — perfect for solo reviewers.</p>
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight mb-4">LET & Civil Service Exam Reviewer</h1>
+        <p class="text-lg  mb-">Access LET and Civil Service exam reviewers anytime and anywhere to practice, prepare, and succeed — perfect for solo reviewers.</p>
         <div class="flex flex-col sm:flex-row gap-4 mt-[20px] justify-center lg:justify-start">
           <a href="#reviewers" class="btn btn-secondary">Get started</a>
           <!-- <a href="#about" class="btn btn-outline">Genarete a Questioner</a> -->
@@ -73,7 +74,7 @@
         <h3 class="text-3xl font-bold mb-[10px] px-[10px]">Discover exam readiness and better possibilities</h3>
         <div class="text-lg leading-relaxed mb-6 text-justify px-[10px]">
           <p>
-            This site helps you prepare for the <strong>Civil Service</strong> and <strong>LET</strong> exams with <strong>free reviewers</strong> and <strong>mock tests</strong>.
+            This site helps you prepare for the <strong>Civil Service Service</strong> and <strong>LET</strong> exams with <strong>free reviewers</strong> and <strong>mock tests</strong>.
           </p>
           <p>
             <strong>100% free</strong> — no hidden fees. I gathered <strong>data</strong> and bought <strong>books</strong> so you can review without spending.
@@ -106,118 +107,65 @@
   </section>
 
   <!-- Reviewers Section -->
-   
-  <section class="py-20 bg-base-300" id="reviewers">
-    <div class="max-w-6xl mx-auto px-6">
-
-        <header class="bg-base-300">
-            <h1 class="text-4xl my-[40px] mb-[80px] font-bold text-center">2025 LET Reviewers</h1>
-        </header>
-
-        <h1 class="text-3xl mt-[40px] mb-[40px] font-bold text-left text-base-content/50">LET Reviewer for General Education (Gen Ed)</h1>
-    
-        <div class="grid grid-cols-4 max-[866px]:grid-cols-3 max-[656px]:grid-cols-2 max-[436px]:grid-cols-1  gap-6 max-w-7xl mx-auto">
-          <!-- Card 1 -->
-          <a href="./reviewers/part_1/ready/" class="block">
-              <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
-                  <div class="flex flex-col justify-center items-center">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
-                          <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
-                      </svg>
-                  </div>
-                  <div class="space-y-1 text-left mt-[20px]">
-                      <h1 class="text-lg leading-[20px] text-center font-bold">
-                          General Education Part 1 Take a Test
-                      </h1>
-                      <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The "Part 1 General Education" exam measures your overall academic competence by assessing a wide scope of essential subjects expected from a well-rounded educator. It covers key areas such as English grammar, vocabulary, and figurative language, mathematics (including arithmetic, algebra, geometry, probability, and statistics), and science concepts in biology, earth science, physics, and chemistry. It also evaluates your proficiency in Filipino language and literature, understanding of social sciences like Philippine history, government, sociology, human rights, and economics. Additionally, the exam includes ICT fundamentals and general knowledge to ensure you have a holistic grasp of core educational disciplines crucial for teaching.</p>
-                  </div>
-              </aside>
-          </a>
-
-
-          <a href="./reviewers/part_2/ready/" class="block">
-            <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
-                <div class="flex flex-col justify-center items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
-                        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
-                    </svg>
-                </div>
-                <div class="space-y-1 text-left mt-[20px]">
-                    <h1 class="text-lg leading-[20px] text-center font-bold">
-                      General Education Part 2 Take a Test
-                    </h1>
-                    <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The LET General Education reviewer covers English, Math, Science, Filipino, Social Studies, and General Knowledge. It includes topics like grammar, math problems, ecology, history, literature, and tech info essential for teaching.</p>
-                </div>
-            </aside>
-          </a>
-
-          <a href="./reviewers/part_3/ready/" class="block">
-            <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
-                <div class="flex flex-col justify-center items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
-                        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
-                    </svg>
-                </div>
-                <div class="space-y-1 text-left mt-[20px]">
-                    <h1 class="text-lg leading-[20px] text-center font-bold">
-                      General Education Part 3 Take a Test
-                    </h1>
-                    <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The General Education (GenEd) reviewer is a comprehensive exam assessing your academic foundation across core subjects. It includes Filipino and English focusing on grammar, vocabulary, and figures of speech. Science covers Physics, Biology, and Chemistry concepts like matter, energy, cells, and chemical reactions. Social Sciences tackle history, values, and geography. Math checks problem-solving with ratios and areas, while Computer Fundamentals introduce basic tech skills. This reviewer prepares you not just to pass—but to excel with confidence.</p>
-                </div>
-            </aside>
-          </a>
-
-
-
-          <a href="./reviewers/part_4/ready/" class="block">
-            <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
-                <div class="flex flex-col justify-center items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
-                        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
-                    </svg>
-                </div>
-                <div class="space-y-1 text-left mt-[20px]">
-                    <h1 class="text-lg leading-[20px] text-center font-bold">
-                      General Education Part 4 Take a Test
-                    </h1>
-                    <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The "Part 4 General Education LET Reviewers" exam measures your comprehensive understanding of foundational knowledge across a wide range of disciplines essential for future educators. It covers in-depth topics in Filipino Language and Literature—such as grammar, figures of speech, key authors, and classic works—alongside English language proficiency involving grammar rules, vocabulary, and rhetorical devices. The exam also includes Science subjects like physics, chemistry, biology, and earth science, testing concepts from inertia and energy conservation to moon phases and DNA-related conditions. In Mathematics, it evaluates skills in number theory, algebra, ratios, geometry, and permutations. The Social Sciences section checks your awareness of Philippine history, governance, economics, sociology, and psychology, while also integrating basic computer literacy to ensure a well-rounded academic readiness for the teaching profession.
-                      Prepare yourself and take time</p>
-                </div>
-            </aside>
-          </a>
-
-
-          <a href="./reviewers/part_5/ready/" class="block">
-            <aside class="card p-5 bg-base-200 flex flex-col justify-start items-center min-w-[200px] max-w-[230px] w-full mx-auto shadow-2xl space-y-3 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer rounded-xl">
-                <div class="flex flex-col justify-center items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
-                        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1z"/>
-                    </svg>
-                </div>
-                <div class="space-y-1 text-left mt-[20px]">
-                    <h1 class="text-lg leading-[20px] text-center font-bold">
-                      General Education Part 5 Take a Test
-                    </h1>
-                    <p class="line-clamp-3 text-[10px] mt-[15px] text-base-content/50">The "Part 5 General Education" exam measures a candidate’s overall academic competency by evaluating their understanding across multiple key disciplines. It covers social awareness and ethical values, testing knowledge on human rights, societal problems, and moral principles. It also assesses scientific literacy through questions on biology, physics, chemistry, and earth science, ensuring familiarity with health, energy, natural phenomena, and environmental issues. A strong focus is placed on mathematical reasoning, including algebra, geometry, percentages, and statistics. Moreover, it evaluates language proficiency in both Filipino and English, emphasizing grammar, vocabulary, reading comprehension, and literature. Lastly, it checks a candidate’s grasp of basic technology and educational concepts, such as computer use and internet safety—making the exam a broad and integrated test of general education.</p>
-                </div>
-            </aside>
-          </a>
- 
- 
+  <div  class="bg-base-100 text-base-content" id="reviewers">
+    <div class="grid grid-cols-12 mx-auto container">
+      <div class="flex flex-col justify-center col-span-12 lg:col-span-6 lg:h-auto bg-cover bg-center" id="card-img" style="background-image: url('https://source.unsplash.com/random/640x480');">
+        <div class="flex flex-col items-center p-8 py-12 text-center text-base-content">
+          <span class="text-neutral-content">Free</span>
+          <h1 class="py-4 text-5xl font-bold"  id="card-title">Civil Service Examination (CSE)</h1>
+          <p class="pb-6" id="card-description">Free CSE reviewers and notes to help you prepare for a successful career in government service.</p>
+         <button class="cursor-pointer"  id="link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-7 h-7 text-secondary">
+            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+          </svg>
+         </button>
         </div>
+      </div>
+  
+      <div class="flex flex-col col-span-12 lg:col-span-6 p-6 lg:p-10 divide-y divide-neutral">
+        <!-- Card 1 -->
+        <div class="pt-6 pb-4 space-y-2">
+          <!-- <span class="text-neutral-content">Free</span> -->
+          <h1 class="text-3xl font-bold">Licensure Examination for Teachers (LET)</h1>
+          <p>Free LET reviewers and notes to help aspiring teachers prepare and succeed in the exam.</p>
+          <a onclick="link(0)" class="cursor-pointer inline-flex items-center py-2 space-x-2 text-sm text-secondary">
+            <span>Review Now</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-4 h-4" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+            </svg>
+          </a>
+        </div>
+        <!-- Card 2 -->
+        <div class="pt-6 pb-4 space-y-2">
+          <!-- <span class="text-neutral-content">Free</span> -->
+          <h1 class="text-3xl font-bold">English Proficiency Test (EPT)</h1>
+          <p>Free EPT reviewers and notes to help you boost your English skills and pass the test with confidence.</p>
+          <a onclick="link(1)" class="cursor-pointer inline-flex items-center py-2 space-x-2 text-sm text-secondary">
+            <span>Review Now</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-4 h-4" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+            </svg>
+          </a>
+        </div>
+        <!-- Card 3 -->
+        <div class="pt-6 pb-4 space-y-2">
+          <span class="text-neutral-content">Free</span>
+          <h1 class="text-3xl font-bold">Civil Service Examination (CSE)</h1>
+          <p>Free CSE reviewers and notes to help you prepare for a successful career in government service.</p>
+          <a onclick="link(2)" class="cursor-pointer inline-flex items-center py-2 space-x-2 text-sm text-secondary">
+            <span>Review Now</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-4 h-4" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
     </div>
-  </section>
+  </div>
+  
 
-
-  <!-- Disclaimer -->
-  <!-- <section id="disclaimer" class="py-5 border-t bg-amber-50 border-gray-200">
-    <div class="max-w-4xl mx-auto text-center px-4">
-      <h3 class="text-2xl font-semibold mb-4 text-red-600">Disclaimer</h3>
-      <p class="text-gray-700 text-base leading-relaxed">This website is not affiliated with any government agency. The content is provided for educational purposes only to help individuals prepare for the Civil and LET exams.</p>
-    </div>
-  </section> -->
-
-  <!-- Footer -->
+ 
+ 
 
   <footer class="footer footer-horizontal footer-center bg-base-200 text-base-content rounded p-10">
     <nav class="grid grid-flow-col gap-4">
@@ -271,3 +219,51 @@
   <script>feather.replace()</script>
 </body>
 </html>
+<script>
+
+const cards = [
+      {
+        title: "Licensure Examination for Teachers (LET)",
+        description: "Free LET reviewers and notes to help aspiring teachers prepare and succeed in the exam.",
+        link: "choices/let/",
+        img: "img1.png"
+      },
+      {
+        title: "English Proficiency Test (EPT)",
+        description: "Free EPT reviewers and notes to help you boost your English skills and pass the test with confidence.",
+        link: "choices/ept/",
+        img: "img2.png"
+      },
+      {
+        title: "Civil Service Examination (CSE)",
+        description: "Free CSE reviewers and notes to help you prepare for a successful career in government service.",
+        link: "choices/cse/",
+        img: "img3.png"
+      }
+    ];
+
+  $(document).ready(function () {
+
+    const _0x40fb2c=_0x9c28;(function(_0x467304,_0x20c3d9){const _0xbba882=_0x9c28,_0x46b662=_0x467304();while(!![]){try{const _0x133c54=-parseInt(_0xbba882(0x177))/0x1*(parseInt(_0xbba882(0x171))/0x2)+parseInt(_0xbba882(0x167))/0x3+parseInt(_0xbba882(0x168))/0x4+-parseInt(_0xbba882(0x175))/0x5+-parseInt(_0xbba882(0x17c))/0x6+parseInt(_0xbba882(0x17b))/0x7*(parseInt(_0xbba882(0x16c))/0x8)+parseInt(_0xbba882(0x16e))/0x9;if(_0x133c54===_0x20c3d9)break;else _0x46b662['push'](_0x46b662['shift']());}catch(_0x274108){_0x46b662['push'](_0x46b662['shift']());}}}(_0x2703,0x5efce));let currentIndex=0x0;function _0x2703(){const _0xe4a57b=['length','background-image','fadeIn','1920075FVwCuC','img','1iGKSET','#card-img\x20.flex.flex-col','attr','#card-description','1386182GKTsms','1919874JzwWfP','click','css','fadeOut','1731327vfLano','859048Zikxgt','#card-title','#link','#card-img','8ddrSOM','link','3971394IVqqAH','title','description','676198vGEZQQ'];_0x2703=function(){return _0xe4a57b;};return _0x2703();}function updateCard(){const _0x5df395=_0x9c28,_0x4dbe26=cards[currentIndex],_0x5dd85e=$(_0x5df395(0x178));_0x5dd85e[_0x5df395(0x17f)](0x12c,function(){const _0x21579b=_0x5df395;$(_0x21579b(0x16b))[_0x21579b(0x17e)](_0x21579b(0x173),'url(\x27'+_0x4dbe26[_0x21579b(0x176)]+'\x27)'),$(_0x21579b(0x169))['text'](_0x4dbe26[_0x21579b(0x16f)]),$(_0x21579b(0x17a))['text'](_0x4dbe26[_0x21579b(0x170)]),$(_0x21579b(0x16a))[_0x21579b(0x179)]('link',_0x4dbe26['link']),_0x5dd85e[_0x21579b(0x174)](0x12c);}),currentIndex=(currentIndex+0x1)%cards[_0x5df395(0x172)];}function _0x9c28(_0x2e7588,_0x5d8338){const _0x2703c4=_0x2703();return _0x9c28=function(_0x9c2847,_0x3e085d){_0x9c2847=_0x9c2847-0x167;let _0x565c4c=_0x2703c4[_0x9c2847];return _0x565c4c;},_0x9c28(_0x2e7588,_0x5d8338);}$('#link')['on'](_0x40fb2c(0x17d),function(){const _0x1d45f4=_0x40fb2c,_0x3aa253=$(this)['attr'](_0x1d45f4(0x16d));window['location']['href']=_0x3aa253;}),updateCard(),setInterval(updateCard,0x2328);
+
+  });
+
+  function link(x){
+      switch (x) {
+        case 0:
+        window.location.href = cards[0].link;
+          break;
+        case 1:
+        window.location.href = cards[1].link;
+          break;
+        case 2:
+        window.location.href = cards[2].link;
+          break;
+      }
+    }
+  
+
+    $(document).on("click", "#link", function(){
+      window.location.href = $(this).attr("link");
+    })
+  </script>

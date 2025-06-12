@@ -138,9 +138,16 @@ $(document).on("click","#gobackhome", function(){
     window.location.href = "../../../";
 })
 
+$(document).on("click","#gobackready", function(){
+    window.location.href = "../ready/";
+})
+
+
 $(document).on("click","#reloaddata", function(){
     location.reload();          // I-reload ang page
 })
+
+// 
 
 
 

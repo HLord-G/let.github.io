@@ -1,0 +1,862 @@
+[
+  {
+    "question": "In contrast to petroleum prices, the increase in prices of livestock is NOMINAL.",
+    "answer": "insignificant",
+    "why": [
+      "NOMINAL refers to something existing in name only or being very small in comparison to expectations.",
+      "Therefore, an <b>insignificant</b> increase accurately describes something minimal or negligible.",
+      "It implies a slight or token increase that doesn't hold much weight."
+    ],
+    "random_answer": ["exorbitant", "attractive", "incomparable"]
+  },
+  {
+    "question": "Public officials must be CIRCUMSPECT in all their actions.",
+    "answer": "prudent",
+    "why": [
+      "CIRCUMSPECT means being wary and unwilling to take risks, showing careful consideration.",
+      "A <b>prudent</b> individual acts with or shows care and thought for the future.",
+      "Both terms emphasize caution, discretion, and good judgment in behavior."
+    ],
+    "random_answer": ["politesse", "sincere", "superior"]
+  },
+  {
+    "question": "The people got INDIGNANT over the attempt to cover up the public official's questionable transactions.",
+    "answer": "angry",
+    "why": [
+      "INDIGNANT describes feeling or showing anger or annoyance at what is perceived as unfair treatment.",
+      "To be <b>angry</b> aligns directly with this feeling of strong displeasure or hostility.",
+      "It reflects a strong emotional reaction to an unjust situation."
+    ],
+    "random_answer": ["informed", "doubtful", "disappointed"]
+  },
+  {
+    "question": "There is certainly no mistake that cannot be RECTIFIED.",
+    "answer": "corrected",
+    "why": [
+      "RECTIFIED means to put something right or to adjust it to make it correct.",
+      "To be <b>corrected</b> means to set something right or to amend it.",
+      "Both words refer to the act of eliminating errors or flaws."
+    ],
+    "random_answer": ["repeated", "tolerated", "forgiven"]
+  },
+  {
+    "question": "The management and the employee's union reached a DEADLOCK in the on-going negotiations.",
+    "answer": "standstill",
+    "why": [
+      "DEADLOCK refers to a situation where no agreement can be reached, preventing further progress.",
+      "A <b>standstill</b> is a situation or condition in which there is no movement or activity.",
+      "Both imply a cessation of movement or progress due to unresolved issues."
+    ],
+    "random_answer": ["decision", "compromise", "breakthrough"]
+  },
+  {
+    "question": "The supervisor's remarks PRECIPITATED the worker's anger.",
+    "answer": "triggered",
+    "why": [
+      "PRECIPITATED means to cause an event or situation, typically a bad one, to happen suddenly or prematurely.",
+      "To be <b>triggered</b> means to cause an event or action to begin.",
+      "Both terms indicate that the supervisor's remarks initiated the worker's anger."
+    ],
+    "random_answer": ["concealed", "pacified", "heightened"]
+  },
+  {
+    "question": "The director was EXASPERATED by his employee's conduct.",
+    "answer": "irritated",
+    "why": [
+      "EXASPERATED means to be intensely irritated and frustrated.",
+      "To be <b>irritated</b> means feeling annoyed, impatient, or angry.",
+      "Both describe a state of severe annoyance or frustration caused by something."
+    ],
+    "random_answer": ["insulted", "ridiculed", "elated"]
+  },
+  {
+    "question": "The resolute PROPONENT of the gender advocacy program raised several controversial issues.",
+    "answer": "defender",
+    "why": [
+      "PROPONENT refers to a person who advocates or supports a theory, proposal, or cause.",
+      "A <b>defender</b> is someone who supports or protects a person, cause, or idea.",
+      "Both terms describe an individual who actively champions a particular position or program."
+    ],
+    "random_answer": ["critic", "beneficiary", "head"]
+  },
+  {
+    "question": "The committee spent many hours STREAMLINING the procedures and rules of the new game.",
+    "answer": "simplifying",
+    "why": [
+      "STREAMLINING means to make an organization or system more efficient by using simpler or faster methods.",
+      "<b>Simplifying</b> means to make something easier to understand or do.",
+      "Both actions aim to reduce complexity and improve efficiency of processes."
+    ],
+    "random_answer": ["interpreting", "analyzing", "documenting"]
+  },
+  {
+    "question": "In one of her provincial visits, the President UNDERSCORED her commitment in protecting the constitutional rights of the people.",
+    "answer": "stressed",
+    "why": [
+      "UNDERSCORED means to emphasize the importance of something.",
+      "To be <b>stressed</b> implies drawing particular attention or emphasis to a point.",
+      "Both actions highlight and draw attention to the significance of a commitment."
+    ],
+    "random_answer": ["affirmed", "downplayed", "compromised"]
+  },
+  {
+    "question": "SPURRED by advances in communication and information technology, more and more countries are moving into borderless global community.",
+    "answer": "Stimulated",
+    "why": [
+      "SPURRED means to encourage or prompt an action or activity.",
+      "To be <b>Stimulated</b> means to encourage the development or activity of something.",
+      "Both words convey the idea of something being encouraged or driven forward by a factor."
+    ],
+    "random_answer": ["Enjoyed", "Forced", "galvanized"]
+  },
+  {
+    "question": "The factory owner's public apology for dumping waste in the river failed to QUELL the angry residents who were victims of the flash floods.",
+    "answer": "pacify",
+    "why": [
+      "QUELL means to suppress or put an end to something, or to pacify someone.",
+      "To <b>pacify</b> means to quell the anger, agitation, or excitement of someone.",
+      "Both terms relate to calming or resolving a state of unrest or strong emotion."
+    ],
+    "random_answer": ["change", "remove", "stop"]
+  },
+  {
+    "question": "Drug addiction is considered a MENACE to society.",
+    "answer": "threat",
+    "why": [
+      "MENACE refers to a person or thing that is likely to cause harm or danger.",
+      "A <b>threat</b> is a statement of an intention to inflict injury, damage, or other hostile action.",
+      "Both terms describe something that poses a significant risk or danger."
+    ],
+    "random_answer": ["burden", "challenge", "shock"]
+  },
+  {
+    "question": "The management PROPOUNDED some means to solve the existing budgetary problem.",
+    "answer": "proposed",
+    "why": [
+      "PROPOUNDED means to put forward an idea, theory, or point of view for consideration.",
+      "To have <b>proposed</b> something means to put forward an idea or plan for consideration or discussion.",
+      "Both actions involve presenting ideas or solutions for review."
+    ],
+    "random_answer": ["provided", "guaranteed", "anticipated"]
+  },
+  {
+    "question": "The obviously BELEAGUERED student spoke nothing about the tragic accident.",
+    "answer": "bothered",
+    "why": [
+      "BELEAGUERED means to be in a very difficult situation or under pressure.",
+      "To be <b>bothered</b> suggests being annoyed, worried, or troubled by something.",
+      "Both terms indicate a state of being distressed or preoccupied by a situation."
+    ],
+    "random_answer": ["restless", "confused", "suspicious"]
+  },
+  {
+    "question": "Many believe that in emergency situations, inaction is TANTAMOUNT to danger or even death.",
+    "answer": "equivalent",
+    "why": [
+      "TANTAMOUNT means to be virtually the same as or equivalent in seriousness to something else.",
+      "To be <b>equivalent</b> means equal in value, amount, function, meaning, etc.",
+      "Both imply a state of being comparable or interchangeable in impact or effect."
+    ],
+    "random_answer": ["insignificant", "associated", "prelude"]
+  },
+  {
+    "question": "The famous environment activists come from ILLUSTRIOUS families.",
+    "answer": "distinguished",
+    "why": [
+      "ILLUSTRIOUS means well known, respected, and admired for past achievements.",
+      "<b>Distinguished</b> means successful, authoritative, and commanding great respect.",
+      "Both words refer to someone or something being highly regarded or renowned."
+    ],
+    "random_answer": ["wealthy", "notorious", "dedicated"]
+  },
+  {
+    "question": "The United Nations EXTOLLED the Philippine government for its peacemaker efforts with the insurgents.",
+    "answer": "praised",
+    "why": [
+      "EXTOLLED means to praise enthusiastically.",
+      "To be <b>praised</b> means to express approval or admiration for someone or something.",
+      "Both actions involve giving high commendation or approval."
+    ],
+    "random_answer": ["acknowledged", "favored", "admonished"]
+  },
+  {
+    "question": "The fund-raising project initiated by the barangay council was intended for the INDIGENT families in the locality.",
+    "answer": "poor",
+    "why": [
+      "INDIGENT refers to someone who is poor or needy.",
+      "To be <b>poor</b> means lacking sufficient money to live at a standard considered comfortable or normal.",
+      "Both terms describe a state of destitution or economic hardship."
+    ],
+    "random_answer": ["homeless", "helpless", "neglected"]
+  },
+  {
+    "question": "The labor sector has gained much LEVERAGE to advance its cause.",
+    "answer": "influenced",
+    "why": [
+      "LEVERAGE refers to the power to influence a person or situation.",
+      "To be <b>influenced</b> means to affect or change someone or something indirectly.",
+      "Both terms describe the ability to exert power or impact on a situation."
+    ],
+    "random_answer": ["funds", "membership", "capacity"]
+  },
+  {
+    "question": "The referee did not hesitate to remove the player who committed the FLAGRANT foul.",
+    "answer": "glaring",
+    "why": [
+      "FLAGRANT describes something conspicuously or obviously offensive.",
+      "<b>Glaring</b> also means highly obvious or conspicuous.",
+      "Both terms emphasize the striking and undeniable nature of the foul."
+    ],
+    "random_answer": ["brutal", "violent", "crucial"]
+  },
+  {
+    "question": "The chairperson stressed the importance of COORDINATION in planning and implementing any project.",
+    "answer": "harmony",
+    "why": [
+      "COORDINATION involves organizing different elements of a complex body or activity to enable them to work together effectively.",
+      "<b>Harmony</b> in this context means agreement or concord, which is crucial for coordinated effort.",
+      "Both concepts are essential for smooth and effective teamwork towards a common goal."
+    ],
+    "random_answer": ["promptness", "representation", "authority"]
+  },
+  {
+    "question": "It is hard for people with a VORACIOUS appetite to get in tip-top shape.",
+    "answer": "greedy",
+    "why": [
+      "VORACIOUS means desiring or consuming great quantities of food.",
+      "To be <b>greedy</b> often implies an excessive desire, especially for food or wealth.",
+      "Both terms denote an insatiable or excessive hunger or desire."
+    ],
+    "random_answer": ["lively", "rigid", "conscious"]
+  },
+  {
+    "question": "Our educational system does not need DOGMATIC instructors.",
+    "answer": "opinionated",
+    "why": [
+      "DOGMATIC means inclined to lay down principles as undeniably true, often without sufficient evidence.",
+      "To be <b>opinionated</b> means to assert one's opinions in a stubborn or arrogant manner.",
+      "Both words describe someone who rigidly adheres to their beliefs and expects others to do the same."
+    ],
+    "random_answer": ["strict", "pretentious", "lenient"]
+  },
+  {
+    "question": "A suspicious-looking character was ACCOSTED by the roving patrol shortly before the Mayor delivered the speech.",
+    "answer": "confronted",
+    "why": [
+      "ACCOSTED means to approach and address someone boldly or aggressively.",
+      "To be <b>confronted</b> means to meet someone face to face with hostile or argumentative intent.",
+      "Both actions describe an assertive and direct encounter."
+    ],
+    "random_answer": ["arrested", "chased", "escorted"]
+  },
+  {
+    "question": "People in the rural areas are becoming more IMPOVERISHED because of the degradation of local environment resources.",
+    "answer": "indigent",
+    "why": [
+      "IMPOVERISHED means to be made poor.",
+      "<b>Indigent</b> means poor or needy.",
+      "Both terms describe a state of lacking sufficient resources, often due to economic hardship."
+    ],
+    "random_answer": ["incapable", "pathwetic", "insecure"]
+  },
+  {
+    "question": "Abrupt cut price increases brought untold REPERCUSSIONS on the ceremony worldwide.",
+    "answer": "effects",
+    "why": [
+      "REPERCUSSIONS refer to unintended consequences of an event or action, especially unwelcome ones.",
+      "<b>Effects</b> are results or consequences of an action or other cause.",
+      "Both words denote the outcomes or impacts of a preceding event."
+    ],
+    "random_answer": ["setbacks", "odds", "damages"]
+  },
+  {
+    "question": "The committee still pursued its investigation with DAUNTLESS determination despite repeated disappointments.",
+    "answer": "courageous",
+    "why": [
+      "DAUNTLESS means showing fearlessness and determination.",
+      "To be <b>courageous</b> means not deterred by danger or pain; brave.",
+      "Both terms describe a quality of bravery and resolve in the face of difficulties."
+    ],
+    "random_answer": ["candid", "admirable", "dazzling"]
+  },
+  {
+    "question": "The survey shows that millions of people in Asia are AFFLICTED by hunger and poverty.",
+    "answer": "affected",
+    "why": [
+      "AFFLICTED means to cause pain or suffering to, or to trouble adversely.",
+      "To be <b>affected</b> means influenced or touched by an external factor.",
+      "Both terms convey the idea of being negatively impacted or burdened by something."
+    ],
+    "random_answer": ["contrasted", "burdened", "humbled"]
+  },
+  {
+    "question": "Many people in the rural communities are AVERSE to change.",
+    "answer": "reluctant",
+    "why": [
+      "AVERSE means having a strong dislike of or opposition to something.",
+      "To be <b>reluctant</b> means unwilling and hesitant.",
+      "Both terms describe a disinclination or resistance towards something."
+    ],
+    "random_answer": ["anxious", "sensitive", "optimistic"]
+  },
+  {
+    "question": "One tends to be CHURLISH before breakfast.",
+    "answer": "ill-tempered",
+    "why": [
+      "CHURLISH means rude in a mean-spirited and surly way.",
+      "To be <b>ill-tempered</b> means easily annoyed or made angry.",
+      "Both words describe a disposition characterized by grumpiness or bad manners."
+    ],
+    "random_answer": ["untidy", "dizzy", "disorganized"]
+  },
+  {
+    "question": "The board will SIFT the evidence against Jerry and determine if he is guilty of the charges.",
+    "answer": "analyze",
+    "why": [
+      "SIFT means to examine something thoroughly to isolate what is most important or useful.",
+      "To <b>analyze</b> means to examine methodically and in detail for purposes of explanation and interpretation.",
+      "Both actions involve a careful and detailed examination to gain understanding."
+    ],
+    "random_answer": ["present", "gather", "disclose"]
+  },
+  {
+    "question": "There is a need to ADDUCE sound reasons that justify the recent restrictions on imports.",
+    "answer": "cite",
+    "why": [
+      "ADDUCE means to cite as evidence or to present in support of an argument.",
+      "To <b>cite</b> means to quote as evidence for or justification of an argument.",
+      "Both terms refer to the act of providing supportive evidence or reasons."
+    ],
+    "random_answer": ["question", "pursue", "behold"]
+  },
+  {
+    "question": "Attorney Fortunato used CHICANERY in trying to win the case.",
+    "answer": "trickery",
+    "why": [
+      "CHICANERY refers to the use of trickery to achieve a political, financial, or legal purpose.",
+      "<b>Trickery</b> means the practice of deception or sly evasion.",
+      "Both words describe the use of dishonest or deceptive methods."
+    ],
+    "random_answer": ["sincerity", "bribery", "eloquence"]
+  },
+  {
+    "question": "The SAVANT eagerly joins debates on political issues and beliefs.",
+    "answer": "scholar",
+    "why": [
+      "SAVANT refers to a person of profound or extensive learning; an eminent scholar.",
+      "A <b>scholar</b> is a person who is highly educated or has an aptitude for study.",
+      "Both terms describe an individual with deep knowledge and intellectual capacity."
+    ],
+    "random_answer": ["politician", "competitor", "counselor"]
+  },
+  {
+    "question": "The suspects claim that their confession was made under DURESS.",
+    "answer": "compulsion",
+    "why": [
+      "DURESS means threats, violence, constraints, or other actions used to coerce someone.",
+      "<b>Compulsion</b> is the action or state of being forced or compelled to do something.",
+      "Both terms denote being subjected to pressure or force against one's will."
+    ],
+    "random_answer": ["scrutiny", "oath", "pretense"]
+  },
+  {
+    "question": "It's natural to have some TREPIDATIONS before undergoing surgery.",
+    "answer": "apprehension",
+    "why": [
+      "TREPIDATIONS refer to a feeling of fear or anxiety about something that may happen.",
+      "<b>Apprehension</b> means anxiety or fear that something bad or unpleasant will happen.",
+      "Both words describe a sense of uneasiness or dread concerning a future event."
+    ],
+    "random_answer": ["consultations", "preparations", "premonitions"]
+  },
+  {
+    "question": "A group of mountaineers accidentally discovered VESTIGES believed to be from the Jurassic period.",
+    "answer": "relics",
+    "why": [
+      "VESTIGES refer to a trace or remnant of something that is disappearing or no longer exists.",
+      "<b>Relics</b> are objects surviving from an earlier time, especially those of historical interest.",
+      "Both terms describe physical remains or traces of something from the past."
+    ],
+    "random_answer": ["treasures", "stones", "potteries"]
+  },
+  {
+    "question": "Commuting the sentence of the convict may PLACATE the supporters of the pro-life movement.",
+    "answer": "appease",
+    "why": [
+      "PLACATE means to make someone less angry or hostile; to pacify.",
+      "To <b>appease</b> means to pacify or conciliate someone by acceding to their demands.",
+      "Both actions aim to calm or conciliate a disgruntled group."
+    ],
+    "random_answer": ["offend", "pressure", "confuse"]
+  },
+  {
+    "question": "Mining experts were ASTOUNDED by the deception pulled off by swindlers who claimed they had found the biggest gold deposit in the Indonesian jungle.",
+    "answer": "amazed",
+    "why": [
+      "ASTOUNDED means to shock or greatly surprise someone.",
+      "To be <b>amazed</b> means to be greatly surprised; astonished.",
+      "Both terms describe a strong feeling of wonder or surprise."
+    ],
+    "random_answer": ["elated", "dismayed", "convinced"]
+  },
+  {
+    "question": "Arlene must have been so INEBRIATED that she readily accepted Francis' offer to drive her home.",
+    "answer": "intoxicated",
+    "why": [
+      "INEBRIATED means drunk or intoxicated.",
+      "To be <b>intoxicated</b> means affected by alcohol or drugs to the extent that one's physical and mental faculties are impaired.",
+      "Both words describe the state of being under the influence of alcohol."
+    ],
+    "random_answer": ["attracted", "overwhelmed", "impaired"]
+  },
+  {
+    "question": "The lady FIDGETED when the lawyer asked her if she recognized the man presented as a witness in the court.",
+    "answer": "acted nervously",
+    "why": [
+      "FIDGETED means to make small movements, especially of the hands and feet, through nervousness or impatience.",
+      "To have <b>acted nervously</b> directly describes the restless and anxious behavior.",
+      "Both actions indicate a display of anxiety or discomfort through physical movements."
+    ],
+    "random_answer": ["looked up", "smiled nicely", "stared blankly"]
+  },
+  {
+    "question": "The spirit of globalization must be SUFFUSED with sustainable human development, food security, and other safety nets.",
+    "answer": "infused",
+    "why": [
+      "SUFFUSED means to gradually spread through or over something.",
+      "To be <b>infused</b> means to permeate or imbue something with a quality or feeling.",
+      "Both words suggest the thorough permeation of an idea or quality throughout something."
+    ],
+    "random_answer": ["shared", "promoted", "diffused"]
+  },
+  {
+    "question": "The statement made about an increase in the Gross National Product next year is just a CONJECTURE.",
+    "answer": "wild guess",
+    "why": [
+      "CONJECTURE means an opinion or conclusion formed on the basis of incomplete information.",
+      "A <b>wild guess</b> is a speculation made without much basis or evidence.",
+      "Both terms imply a conclusion that is speculative or based on insufficient data."
+    ],
+    "random_answer": ["baseless opinion", "false interpretation", "biased judgment"]
+  },
+  {
+    "question": "He was left with no other choice but to IMMOLATE his own life.",
+    "answer": "sacrifice",
+    "why": [
+      "IMMOLATE means to kill or offer as a sacrifice, especially by burning.",
+      "To <b>sacrifice</b> means to give up something valued for the sake of something else regarded as more important.",
+      "Both terms describe the act of giving up one's life or something precious for a greater cause."
+    ],
+    "random_answer": ["protect", "perfect", "transform"]
+  },
+  {
+    "question": "A special group in the police force is believed to be engaged in FURTIVE activities.",
+    "answer": "secret",
+    "why": [
+      "FURTIVE means attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.",
+      "To be <b>secret</b> means kept hidden or unknown to all but a few.",
+      "Both words describe actions or behaviors that are done covertly or surreptitiously."
+    ],
+    "random_answer": ["illegal", "suspicious", "unusual"]
+  },
+  {
+    "question": "This is a PROPITIOUS time to reflect on the path the nation has traveled in the last five years.",
+    "answer": "favorable",
+    "why": [
+      "PROPITIOUS means giving or indicating a good chance of success; favorable.",
+      "To be <b>favorable</b> means advantageous or suitable.",
+      "Both terms describe a timing or condition that is opportune or advantageous."
+    ],
+    "random_answer": ["realistic", "crucial", "right"]
+  },
+  {
+    "question": "The rumor raised its SPECIOUS head again.",
+    "answer": "misleading",
+    "why": [
+      "SPECIOUS means superficially plausible, but actually wrong or misleading.",
+      "To be <b>misleading</b> means giving the wrong idea or impression.",
+      "Both terms describe something that appears true or good on the surface but is deceptive."
+    ],
+    "random_answer": ["provoking", "vicious", "nasty"]
+  },
+  {
+    "question": "Sanctuaries for wildlife have DWINDLED alarmingly in the last decade.",
+    "answer": "decreased",
+    "why": [
+      "DWINDLED means to diminish gradually in size, amount, or strength.",
+      "To have <b>decreased</b> means to become smaller or fewer in size, amount, or intensity.",
+      "Both terms indicate a reduction in quantity or extent over time."
+    ],
+    "random_answer": ["disappeared", "changed", "multiplied"]
+  },
+  {
+    "question": "Convicted criminals who are considered INCORRIGIBLE are kept in a separate penal facility.",
+    "answer": "unchangeable",
+    "why": [
+      "INCORRIGIBLE means not able to be corrected, improved, or reformed.",
+      "To be <b>unchangeable</b> means not able to be altered or modified.",
+      "Both terms describe something that is beyond reform or correction."
+    ],
+    "random_answer": ["violent", "rude", "insane"]
+  },
+  {
+    "question": "The renowned artist went through the crowd INCOGNITO.",
+    "answer": "unrecognized",
+    "why": [
+      "INCOGNITO means having one's true identity concealed.",
+      "To be <b>unrecognized</b> means not recognized or identified.",
+      "Both terms describe a state where one's identity is not known to others."
+    ],
+    "random_answer": ["unmindfully", "candidly", "cautiously"]
+  },
+  {
+    "question": "After only a few months of being married, she discovered that her husband is a VIXEN.",
+    "answer": "quarrelsome man",
+    "why": [
+      "While VIXEN typically refers to a female fox or a spiteful woman, in this context applied to a husband, it implies negative, shrewish characteristics.",
+      "A <b>quarrelsome man</b> is someone prone to arguments and disputes.",
+      "This choice best conveys the negative, troublesome nature implied when 'vixen' is used for a male."
+    ],
+    "random_answer": ["vain man", "strong man", "brilliant man"]
+  },
+  {
+    "question": "Better roads, concrete bridges, new school facilities, and health clinics are PALPABLE signs of progress in the countryside.",
+    "answer": "obvious",
+    "why": [
+      "PALPABLE means able to be touched or felt; readily perceived or obvious.",
+      "To be <b>obvious</b> means easily perceived or understood; clear, self-evident, or apparent.",
+      "Both words describe something that is clearly noticeable or evident."
+    ],
+    "random_answer": ["excellent", "overrated", "unreliable"]
+  },
+  {
+    "question": "How James emerged alive from the tragic accident in which nobody is expected to survive is something the authorities cannot FATHOM.",
+    "answer": "comprehend",
+    "why": [
+      "FATHOM means to understand a difficult problem or an enigmatic person after much thought.",
+      "To <b>comprehend</b> means to grasp mentally; understand.",
+      "Both terms refer to the act of fully understanding something complex or puzzling."
+    ],
+    "random_answer": ["believe", "hide", "solve"]
+  },
+  {
+    "question": "The recommendation of the wage council is REFUGNANT to the employers.",
+    "answer": "objectionable",
+    "why": [
+      "REFUGNANT (likely a typo for REPUGNANT) means extremely distasteful or unacceptable.",
+      "To be <b>objectionable</b> means arousing distaste or opposition; unpleasant or offensive.",
+      "Both words describe something that is strongly disliked or opposed."
+    ],
+    "random_answer": ["acceptable", "beneficial", "embarrassing"]
+  },
+  {
+    "question": "Insufficient amounts of nitrogen will STUNT the growth of plants.",
+    "answer": "hinder",
+    "why": [
+      "STUNT means to prevent from growing or developing properly.",
+      "To <b>hinder</b> means to create difficulties for someone or something, resulting in delay or obstruction.",
+      "Both actions involve impeding or retarding growth or development."
+    ],
+    "random_answer": ["promote", "control", "determine"]
+  },
+  {
+    "question": "By adroit cross-examination, the defense lawyer was able to REFUTE the testimony of the witness for the prosecution.",
+    "answer": "contradict",
+    "why": [
+      "REFUTE means to prove a statement or theory to be wrong or false; disprove.",
+      "To <b>contradict</b> means to deny the truth of a statement, especially by asserting the opposite.",
+      "Both actions involve presenting arguments or evidence to show that something is false."
+    ],
+    "random_answer": ["validate", "dissect", "sustain"]
+  },
+  {
+    "question": "The statements of the government official are meant to EMBROIL the issue.",
+    "answer": "muddle",
+    "why": [
+      "EMBROIL means to involve someone deeply in an argument, conflict, or difficult situation.",
+      "To <b>muddle</b> means to bring into a disordered or confusing state.",
+      "Both terms describe making a situation more complicated or confusing."
+    ],
+    "random_answer": ["resolve", "simplify", "reveal"]
+  },
+  {
+    "question": "Mr. Samson was INURED to hardships in his younger years.",
+    "answer": "accustomed",
+    "why": [
+      "INURED means to accustom someone to something, especially something unpleasant.",
+      "To be <b>accustomed</b> means customary or usual, often implying habituation to something.",
+      "Both terms describe the process of becoming used to difficult or unpleasant conditions."
+    ],
+    "random_answer": ["forced", "indifferent", "exposed"]
+  },
+  {
+    "question": "The patron's kindness is REQUITED by the recipients' act of gratitude.",
+    "answer": "repaid",
+    "why": [
+      "REQUITED means to make an appropriate return for a favor, service, or wrongdoing.",
+      "To be <b>repaid</b> means to pay back or make a return for something received, often a kindness or service.",
+      "Both actions involve reciprocating or giving something back in return for a favor."
+    ],
+    "random_answer": ["treated", "imitated", "reflected"]
+  },
+  {
+    "question": "The prisoners received BESTIAL treatment.",
+    "answer": "cruel",
+    "why": [
+      "BESTIAL means of or like an animal, and when describing behavior, savagely cruel and depraved.",
+      "To be <b>cruel</b> means willfully causing pain or suffering to others, or feeling no concern about it.",
+      "Both words describe extremely harsh and inhuman treatment."
+    ],
+    "random_answer": ["equal", "humane", "favorable"]
+  },
+  {
+    "question": "The senator's IMPRUDENT remark was widely reported in leading newspapers.",
+    "answer": "unwise",
+    "why": [
+      "IMPRUDENT means not showing care for the consequences of an action; rash.",
+      "To be <b>unwise</b> means not sensible or sagacious.",
+      "Both terms describe a lack of good judgment or foresight."
+    ],
+    "random_answer": ["disastrous", "insulting", "controversial"]
+  },
+  {
+    "question": "Recklessness always entails JEOPARDY.",
+    "answer": "danger",
+    "why": [
+      "JEOPARDY means danger of loss, harm, or failure.",
+      "<b>Danger</b> refers to the possibility of suffering harm or injury.",
+      "Both words signify a state of risk or peril."
+    ],
+    "random_answer": ["crisis", "apprehension", "control"]
+  },
+  {
+    "question": "My friends and I find the critically-acclaimed movie quite JEJUNE because of its predictable plot.",
+    "answer": "dull",
+    "why": [
+      "JEJUNE can mean naive, simplistic, and superficial; or when referring to a movie, uninteresting or bland.",
+      "To be <b>dull</b> means lacking interest or excitement.",
+      "Both terms describe something that is uninspired, tedious, or unexciting."
+    ],
+    "random_answer": ["suspenseful", "morbid", "hilarious"]
+  },
+  {
+    "question": "The committee discussed the LUGUBRIOUS state of the environment.",
+    "answer": "mournful",
+    "why": [
+      "LUGUBRIOUS means looking or sounding dismal or gloomy.",
+      "To be <b>mournful</b> means feeling, expressing, or inducing sadness, grief, or regret.",
+      "Both words describe a somber, sorrowful, or melancholy atmosphere or feeling."
+    ],
+    "random_answer": ["degrading", "sensitive", "unstable"]
+  },
+  {
+    "question": "Computers today can easily SIMULATE any given situation in aircraft navigation.",
+    "answer": "imitate",
+    "why": [
+      "SIMULATE means to imitate the appearance or character of something.",
+      "To <b>imitate</b> means to copy or follow the example of something.",
+      "Both terms refer to the act of creating a representation or model that behaves like the real thing."
+    ],
+    "random_answer": ["recognize", "analyze", "capture"]
+  },
+  {
+    "question": "Teeming with anger, the team coach VITUPERATED his erring players.",
+    "answer": "scolded",
+    "why": [
+      "VITUPERATED means to blame or insult someone in strong or violent language.",
+      "To be <b>scolded</b> means to rebuke someone angrily.",
+      "Both actions involve expressing strong disapproval or anger towards someone verbally."
+    ],
+    "random_answer": ["suspended", "punished", "displayed"]
+  },
+  {
+    "question": "The old man thinks anxiously of the MUTABLE circumstances of life.",
+    "answer": "changeable",
+    "why": [
+      "MUTABLE means liable or subject to change.",
+      "To be <b>changeable</b> means apt to change or vary.",
+      "Both words describe a state of being prone to alteration or variation."
+    ],
+    "random_answer": ["joyous", "painful", "lasting"]
+  },
+  {
+    "question": "A COMMISERATE gesture from the management will lessen the possibility of strike.",
+    "answer": "sympathetic",
+    "why": [
+      "COMMISERATE means to express or feel sympathy or pity.",
+      "To be <b>sympathetic</b> means feeling, showing, or expressing sympathy.",
+      "Both terms relate to showing compassion or understanding towards others' feelings."
+    ],
+    "random_answer": ["timely", "pleasant", "polite"]
+  },
+  {
+    "question": "Similarities in their social MILIEU link the two environmental proponents.",
+    "answer": "surrounding",
+    "why": [
+      "MILIEU refers to a person's social environment or setting.",
+      "A <b>surrounding</b> refers to the things or conditions around someone or something.",
+      "Both terms indicate the environment or context in which someone lives or operates."
+    ],
+    "random_answer": ["vision", "position", "belief"]
+  },
+  {
+    "question": "Time loss is IRRETRIEVABLY wasted due to the society's indifference about ecological balance.",
+    "answer": "permanently",
+    "why": [
+      "IRRETRIEVABLY means in a way that cannot be retrieved or put right.",
+      "<b>Permanently</b> means in a way that lasts or remains unchanged indefinitely; for all time.",
+      "Both words emphasize the irreversible and lasting nature of the loss."
+    ],
+    "random_answer": ["irresponsibility", "incapability", "impossibly"]
+  },
+  {
+    "question": "The myth tells of a SENTINEL outside the tomb.",
+    "answer": "guard",
+    "why": [
+      "SENTINEL refers to a soldier or guard whose job is to stand and keep watch.",
+      "A <b>guard</b> is a person who protects a place or people, or prevents prisoners from escaping.",
+      "Both terms describe a person stationed to protect or observe."
+    ],
+    "random_answer": ["ghost", "witch", "king"]
+  },
+  {
+    "question": "His TENACITY in the face of continued environmental failure is admirable.",
+    "answer": "persistence",
+    "why": [
+      "TENACITY refers to the quality of being determined to do or achieve something.",
+      "<b>Persistence</b> is the fact of continuing in an opinion or course of action in spite of difficulty or opposition.",
+      "Both terms describe a resolute and unwavering determination."
+    ],
+    "random_answer": ["patience", "foresight", "casualness"]
+  },
+  {
+    "question": "A PERNICIOUS solution is all that is necessary at this time to protect the forests.",
+    "answer": "wise",
+    "why": [
+      "A solution that is 'all that is necessary' to protect implies it is the most appropriate and effective course of action.",
+      "A <b>wise</b> solution demonstrates sound judgment and is well-suited to achieve its intended positive outcome.",
+      "Therefore, 'wise' aligns with the idea of a judicious and sufficient measure for forest protection."
+    ],
+    "random_answer": ["separate", "quick", "significant"]
+  },
+  {
+    "question": "Though her friend was IRASCIBLE, Dina saw good qualities in her.",
+    "answer": "irritable",
+    "why": [
+      "IRASCIBLE means having or showing a tendency to be easily angered.",
+      "To be <b>irritable</b> means easily annoyed or made angry.",
+      "Both words describe a disposition prone to anger or annoyance."
+    ],
+    "random_answer": ["unreasonable", "suspicious", "nervous"]
+  },
+  {
+    "question": "The soldier escaped the assault of the enemies UNSCATHED.",
+    "answer": "unharmed",
+    "why": [
+      "UNSCATHED means without suffering any injury, damage, or harm.",
+      "To be <b>unharmed</b> means not harmed or injured.",
+      "Both terms describe a state of being completely free from injury or damage."
+    ],
+    "random_answer": ["unseen", "unbelievable", "untouched"]
+  },
+  {
+    "question": "The visiting professor started his lecture with enthusiastic energy, IMPERVIOUS to the sight of crowding students in the jam-packed auditorium.",
+    "answer": "unaffected",
+    "why": [
+      "IMPERVIOUS means unable to be affected by.",
+      "To be <b>unaffected</b> means not influenced or changed by something.",
+      "Both terms indicate a state of being immune or resistant to influence or impact."
+    ],
+    "random_answer": ["touched", "pleased at", "interested in"]
+  },
+  {
+    "question": "The president of the company gave SUMPTUOUS banquet for the newlyweds.",
+    "answer": "lavish",
+    "why": [
+      "SUMPTUOUS means splendid and expensive-looking.",
+      "To be <b>lavish</b> means sumptuously rich, elaborate, or luxurious.",
+      "Both words describe something that is grand, luxurious, and costly."
+    ],
+    "random_answer": ["simple", "formal", "perfect"]
+  },
+  {
+    "question": "The defense lawyer presented its case to the jury in a manner that was TRENCHANT.",
+    "answer": "emphatic",
+    "why": [
+      "TRENCHANT means incisive or keen; forceful and effective.",
+      "To be <b>emphatic</b> means showing or giving emphasis; expressing something forcibly and clearly.",
+      "Both terms describe a style of communication that is sharp, vigorous, and impactful."
+    ],
+    "random_answer": ["legalistic", "dignified", "vague"]
+  },
+  {
+    "question": "When used in excessive amount, insecticide is DELETERIOUS to plants.",
+    "answer": "harmful",
+    "why": [
+      "DELETERIOUS means causing harm or damage.",
+      "To be <b>harmful</b> means causing or likely to cause harm.",
+      "Both words describe something that has a detrimental or injurious effect."
+    ],
+    "random_answer": ["powerful", "mournful", "dreadful"]
+  },
+  {
+    "question": "During the campaign period, most politicians appear to be AFFABLE.",
+    "answer": "approachable",
+    "why": [
+      "AFFABLE means friendly, good-natured, or easy to talk to.",
+      "To be <b>approachable</b> means friendly and easy to talk to.",
+      "Both terms describe someone who is amiable and easy to engage with."
+    ],
+    "random_answer": ["genius", "honorable", "anxious"]
+  },
+  {
+    "question": "The child immediately OBEYED his sibling's order.",
+    "answer": "followed",
+    "why": [
+      "The capitalized word 'TUMALIMA' in Tagalog means to obey or submit to an order.",
+      "'Sumunod' (translated as <b>followed</b>) directly means to comply with or act in accordance with an instruction.",
+      "Therefore, 'followed' is the closest meaning to 'TUMALIMA' in the context of obeying an order."
+    ],
+    "random_answer": ["swerved/avoided", "could prune/trim", "refused"]
+  },
+  {
+    "question": "The manager often HINTED at his intention to retire as he had worked for a long time in his office.",
+    "answer": "explained",
+    "why": [
+      "The capitalized word 'IPAHIWATIG' in Tagalog means to hint, imply, or suggest something indirectly.",
+      "While 'ipaliwanag' (translated as <b>explained</b>) means to make clear, in the context of making intentions known, an explanation clarifies what was hinted at or implied.",
+      "This option best conveys the act of conveying intentions, even if more directly than a mere hint."
+    ],
+    "random_answer": ["promised", "consulted", "expressed"]
+  },
+  {
+    "question": "The official LEFT QUICKLY when he heard the old man's voice.",
+    "answer": "left",
+    "why": [
+      "The capitalized word 'TUMALIS' in Tagalog means to leave quickly or depart swiftly.",
+      "'Umalis' (translated as <b>left</b>) is a direct synonym meaning to go away from a place.",
+      "Therefore, 'left' accurately reflects the action of departing."
+    ],
+    "random_answer": ["stood up", "sat down", "turned around"]
+  },
+  {
+    "question": "Someone who HAS SAVED for the future is not worried about the future.",
+    "answer": "saved",
+    "why": [
+      "The capitalized word 'NAGSIMPAN' in Tagalog means to save or store something for future use.",
+      "'Nag-ipon' (translated as <b>saved</b>) is a direct synonym meaning to accumulate or set aside for later use.",
+      "Thus, 'saved' accurately reflects the action of preparing for the future by accumulating resources."
+    ],
+    "random_answer": ["screamed", "thought", "planned"]
+  },
+  {
+    "question": "The mayor led the INAUGURATION of the new bridge that connects two nearby cities.",
+    "answer": "construction",
+    "why": [
+      "The capitalized word 'PAGPAPASINAYA' in Tagalog refers to the formal opening or inauguration of a structure.",
+      "While 'pagpapagawa' (translated as <b>construction</b>) means the building process, the inauguration marks the completion and official beginning of use of the built structure.",
+      "Leading the inauguration implies involvement in the overall project that brought the bridge into existence."
+    ],
+    "random_answer": ["making bigger", "unveiling/opening", "closing"]
+  }
+]

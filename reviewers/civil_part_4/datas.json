@@ -1,0 +1,242 @@
+[
+  {
+    "question": "1. The ratio of two numbers is 5:8. If the smaller number is 25, what is the larger number?",
+    "answer": "40",
+    "why": [
+      "The ratio 5:8 means that for every 5 units of the smaller number, there are 8 units of the larger number.",
+      "Since the smaller number is 25, which corresponds to 5 units, each unit represents 25 divided by 5, which is 5.",
+      "Therefore, the larger number, corresponding to 8 units, is found by multiplying 8 by 5, resulting in 40."
+    ],
+    "random_answer": ["Php120.00", "28", "8"]
+  },
+  {
+    "question": "2. In an office, the ratio of male employee to female employee is 1:3. If there are 12 male employees, how many employees are in that office?",
+    "answer": "48",
+    "why": [
+      "The ratio of male to female employees is 1:3, indicating that for every 1 male employee, there are 3 female employees.",
+      "Given that there are 12 male employees, this means there are 12 times 3, or 36, female employees.",
+      "The <b>total number of employees</b> in the office is the sum of male and female employees, which is 12 plus 36, equaling 48."
+    ],
+    "random_answer": ["15", "40", "30"]
+  },
+  {
+    "question": "3. If the ratio of boys to girls at City Central School is 5:8 and there are 640 girls, how many students are there?",
+    "answer": "1,040",
+    "why": [
+      "The ratio of boys to girls is 5:8, meaning that for every 8 parts of girls, there are 5 parts of boys.",
+      "Since there are 640 girls, and this corresponds to 8 parts of the ratio, each part represents 640 divided by 8, which is 80 students.",
+      "With 5 parts for boys, there are 5 multiplied by 80 boys, totaling 400 boys. The <b>total number of students</b> is the sum of boys and girls, 400 plus 640, which is 1,040."
+    ],
+    "random_answer": ["640", "1,000", "1,240"]
+  },
+  {
+    "question": "4. A commercial model lost 3 pounds after dieting for 15 days. At this rate, how many more days should the model continue dieting in order to lose a total of 20 pounds?",
+    "answer": "85",
+    "why": [
+      "The model loses 3 pounds in 15 days, meaning the rate of weight loss is 15 days for every 3 pounds, which simplifies to 5 days per pound.",
+      "To lose a <b>total of 20 pounds</b>, it would take 20 pounds multiplied by 5 days per pound, resulting in 100 days.",
+      "Since the model has already dieted for 15 days, an additional 100 minus 15 days, which is 85 days, are required."
+    ],
+    "random_answer": ["100", "90", "115"]
+  },
+  {
+    "question": "5. On an illustration chart, a line 1/2 decimeters long represents 20 000 workers. At this rate how much will be represented by 150 000 workers?",
+    "answer": "3 3/4",
+    "why": [
+      "If 1/2 decimeter represents 20,000 workers, we need to find the equivalent length for 150,000 workers.",
+      "We can set up a proportion: (1/2 dm) / 20,000 workers = X dm / 150,000 workers.",
+      "Solving for X, (1/2) * (150,000 / 20,000) = (1/2) * 7.5 = 3.75 decimeters, which is equivalent to 3 3/4 decimeters."
+    ],
+    "random_answer": ["1/2", "7 1/2", "5 1/2"]
+  },
+  {
+    "question": "6. If by working 4 days, a laborer earned P75. How many days should he work in order to earn P375?",
+    "answer": "20",
+    "why": [
+      "The laborer earns P75 for 4 days of work, establishing a <b>daily earning rate</b> of P75 divided by 4 days, which is P18.75 per day.",
+      "To determine how many days are needed to earn P375, divide the target amount by the daily rate.",
+      "P375 divided by P18.75 per day results in 20 days of work."
+    ],
+    "random_answer": ["24", "18", "16"]
+  },
+  {
+    "question": "7. A certain bag contains blue balls and green balls. If the ratio of blue balls to green balls is 3:7 and there are 40 balls in all, how many green balls are there in the bag?",
+    "answer": "28",
+    "why": [
+      "The ratio of blue balls to green balls is 3:7, which means the total number of parts in the ratio is 3 plus 7, equaling 10 parts.",
+      "Since there are 40 balls in total, and this corresponds to 10 parts, each part represents 40 divided by 10, which is 4 balls.",
+      "The number of <b>green balls</b> is 7 parts, so 7 multiplied by 4 gives a total of 28 green balls."
+    ],
+    "random_answer": ["30", "25", "12"]
+  },
+  {
+    "question": "8. A rope 45 meters long is to be cut in the ratio of 4:11. How many meters should the larger piece be?",
+    "answer": "33",
+    "why": [
+      "The rope is cut into two pieces with a ratio of 4:11, meaning there are 4 plus 11, or 15 total parts.",
+      "Given the total length of the rope is 45 meters, each part measures 45 meters divided by 15 parts, which is 3 meters per part.",
+      "The <b>larger piece</b> corresponds to 11 parts, so its length is 11 multiplied by 3 meters, resulting in 33 meters."
+    ],
+    "random_answer": ["23", "53", "41"]
+  },
+  {
+    "question": "9. A man P2.4 million among his 3 children in the ratio of 4:3:1. How much is the largest share?",
+    "answer": "1.2 M",
+    "why": [
+      "The total number of ratio parts for the children's shares is 4 plus 3 plus 1, which equals 8 parts.",
+      "With a total amount of P2.4 million to be distributed among 8 parts, each part is valued at P2.4 million divided by 8, or P0.3 million.",
+      "The <b>largest share</b> corresponds to 4 parts, so it is calculated as 4 multiplied by P0.3 million, resulting in P1.2 million."
+    ],
+    "random_answer": ["P.8 M", "1.5 M", "1.25 M"]
+  },
+  {
+    "question": "10. One million is shared among the 3 children of a widower in the ratio 10:12:18. By how much is the largest share greater than the smallest share?",
+    "answer": "200,000",
+    "why": [
+      "The total ratio parts are 10 + 12 + 18 = 40.",
+      "If P1,000,000 is divided into 40 parts, each part equals P1,000,000 / 40 = P25,000.",
+      "The largest share (18 parts) is 18 * P25,000 = P450,000, and the smallest share (10 parts) is 10 * P25,000 = P250,000. The difference is P450,000 - P250,000 = P200,000."
+    ],
+    "random_answer": ["50 000", "250 000", "450 000"]
+  },
+  {
+    "question": "11. A bagger at a grocery store placed 80 kilos of potatoes in three bags which weighed proportionally 2:3:5. How many kilos of potatoes were placed in the biggest bag?",
+    "answer": "40",
+    "why": [
+      "The total number of ratio parts for the bags is 2 plus 3 plus 5, which sums up to 10 parts.",
+      "Given that 80 kilos of potatoes are distributed among these 10 parts, each part represents 80 divided by 10, or 8 kilos.",
+      "The <b>biggest bag</b> corresponds to 5 parts, so it contains 5 multiplied by 8 kilos, resulting in 40 kilos of potatoes."
+    ],
+    "random_answer": ["30", "5", "25"]
+  },
+  {
+    "question": "12. After a four-day vacation, Mr. Lozano noticed that for every 19 employees present, 4 employees were absent. If the total number of employees was 552, how many employees were present?",
+    "answer": "456",
+    "why": [
+      "The ratio of present to absent employees is 19:4, which means the total number of ratio parts is 19 plus 4, equaling 23 parts.",
+      "With a total of 552 employees, and this corresponding to 23 parts, each part represents 552 divided by 23, which is 24 employees.",
+      "The number of <b>employees present</b> is 19 parts, so 19 multiplied by 24 gives a total of 456 employees."
+    ],
+    "random_answer": ["360", "390", "437"]
+  },
+  {
+    "question": "13. A bin containing 80 sacks of flour is 1/5 full. How many sacks will be in the bin when it is 3/4 full?",
+    "answer": "300",
+    "why": [
+      "If 1/5 of the bin's capacity is 80 sacks, then the <b>full capacity</b> of the bin is 80 sacks multiplied by 5, which equals 400 sacks.",
+      "To determine how many sacks will be in the bin when it is 3/4 full, calculate 3/4 of the full capacity.",
+      "Three-fourths of 400 sacks is 300 sacks."
+    ],
+    "random_answer": ["420", "200", "240"]
+  },
+  {
+    "question": "14. An athlete runs 7 kilometers in 1 hour and 15 minutes. At the same rate, how many hours will it take the athlete to run 21 kilometers?",
+    "answer": "3.75",
+    "why": [
+      "First, convert 1 hour and 15 minutes to hours, which is 1.25 hours (15 minutes is 0.25 of an hour).",
+      "The athlete's speed is 7 kilometers per 1.25 hours, or 5.6 kilometers per hour.",
+      "To find the time it takes to run 21 kilometers, divide 21 kilometers by the speed of 5.6 kilometers per hour, which equals 3.75 hours."
+    ],
+    "random_answer": ["2.75", "2.55", "3.58"]
+  },
+  {
+    "question": "15. If a car consumes 18.5 gallons of gasoline in 255 miles, how many gallons of gasoline will it need to run 550 miles?",
+    "answer": "39.9",
+    "why": [
+      "First, calculate the car's fuel efficiency by dividing the miles driven by the gallons consumed: 255 miles / 18.5 gallons ≈ 13.78 miles per gallon.",
+      "To find out how many gallons are needed for 550 miles, divide the desired distance by the fuel efficiency.",
+      "550 miles divided by approximately 13.78 miles per gallon yields approximately 39.9 gallons."
+    ],
+    "random_answer": ["18.5", "27.6", "25.5"]
+  },
+  {
+    "question": "16. In a certain map, 1/5 of an inch represents 10 miles of actual distance. If two towns are 2 inches apart in the map, what is the actual distance between them?",
+    "answer": "100",
+    "why": [
+      "If 1/5 of an inch on the map represents 10 miles of actual distance, then one full inch on the map represents 5 times 10 miles, which is 50 miles.",
+      "Given that two towns are 2 inches apart on the map, multiply the distance on the map by the <b>scale factor</b>.",
+      "Therefore, 2 inches multiplied by 50 miles per inch gives an actual distance of 100 miles."
+    ],
+    "random_answer": ["1 mile", "4 miles", "20 miles"]
+  },
+  {
+    "question": "17. If it takes 6 hours to finish 3/5 of a job, how many hours will it take to complete the job?",
+    "answer": "10 hours",
+    "why": [
+      "If 3/5 of a job is completed in 6 hours, then 1/5 of the job takes 6 hours divided by 3, which is 2 hours.",
+      "To complete the <b>entire job</b> (which is 5/5 or 1 whole), multiply the time for 1/5 of the job by 5.",
+      "Therefore, 5 multiplied by 2 hours equals 10 hours to complete the whole job."
+    ],
+    "random_answer": ["8 hours", "12 hours", "9 hours"]
+  },
+  {
+    "question": "18. If 7 meters of yarn cost P75.25, how much will 3 1/2 meters of the same yarn cost?",
+    "answer": "P37.63",
+    "why": [
+      "First, determine the cost per meter of yarn by dividing the total cost by the length: P75.25 divided by 7 meters equals P10.75 per meter.",
+      "Convert 3 1/2 meters to a decimal, which is 3.5 meters.",
+      "To find the cost of 3.5 meters, multiply 3.5 by P10.75, which results in P37.625, rounded to P37.63."
+    ],
+    "random_answer": ["P39.25", "P32.50", "P24.50"]
+  },
+  {
+    "question": "19. A carpenter is constructing a frame for a rectangular picture. If the sides of the picture have a ratio of 4:3 and the shorter side is 42 centimeters long, how much framing material does the carpenter need to complete the frame?",
+    "answer": "196",
+    "why": [
+      "The ratio of the sides is 4:3, and the shorter side (corresponding to 3 parts) is 42 cm, meaning each part is 42 divided by 3, which is 14 cm.",
+      "The longer side (corresponding to 4 parts) is 4 multiplied by 14 cm, resulting in 56 cm.",
+      "The amount of <b>framing material</b> needed is the perimeter of the rectangle: 2 * (length + width) = 2 * (56 cm + 42 cm) = 2 * 98 cm = 196 cm."
+    ],
+    "random_answer": ["204", "198", "196"]
+  },
+  {
+    "question": "20. The area of a rectangular field is 9 000 square meters. If the ratio to the width to the length is 5 to 8, what is the length of the rectangular field in meters?",
+    "answer": "120",
+    "why": [
+      "Let the width be 5x and the length be 8x. The area of a rectangle is width multiplied by length.",
+      "So, the area is (5x) * (8x) = 40x^2. Given the area is 9,000 square meters, we have 40x^2 = 9,000.",
+      "Solving for x, x^2 = 9,000 / 40 = 225, so x = 15. The <b>length</b> of the field is 8x = 8 * 15 = 120 meters."
+    ],
+    "random_answer": ["225", "150", "147"]
+  },
+  {
+    "question": "21. A tenant gets 4 cavans of palay for every 7 cavans of harvest. Following this ratio, how many cavans of palay would the tenant get if 560 cavans were harvested?",
+    "answer": "320",
+    "why": [
+      "The tenant's share of palay is 4 cavans for every 7 cavans harvested, establishing a ratio of 4:7.",
+      "If the total harvest is 560 cavans, and this corresponds to 7 parts of the ratio, then each part represents 560 divided by 7, which is 80 cavans.",
+      "The tenant's share (4 parts) is calculated as 4 multiplied by 80 cavans, resulting in 320 cavans of palay."
+    ],
+    "random_answer": ["280", "300", "250"]
+  },
+  {
+    "question": "22. Three tickets to a musical concert cost P741. How much will a dozen of tickets cost?",
+    "answer": "P2,964",
+    "why": [
+      "First, determine the cost of a single ticket by dividing the total cost by the number of tickets: P741 divided by 3 tickets equals P247 per ticket.",
+      "A dozen tickets means 12 tickets.",
+      "To find the cost of a dozen tickets, multiply the price per ticket by 12: P247 multiplied by 12 equals P2,964."
+    ],
+    "random_answer": ["P714", "P892", "P4 474"]
+  },
+  {
+    "question": "23. If a bag of chicken feed can be consumed by 15 chickens in 45 days, how many days can it feed 24 chickens?",
+    "answer": "28.125",
+    "why": [
+      "This is an inverse proportion problem. First, calculate the total 'chicken-days' the feed can last: 15 chickens multiplied by 45 days equals 675 chicken-days.",
+      "To find out how many days the same bag of feed can sustain 24 chickens, divide the total chicken-days by the new number of chickens.",
+      "675 chicken-days divided by 24 chickens results in 28.125 days."
+    ],
+    "random_answer": ["60 days", "72 days", "75 days"]
+  },
+  {
+    "question": "24. In a factory, a worker can make an average of 12 shoe boxes in 30 minutes. How many shoe boxes will 25 workers make in 2 3/4 hours?",
+    "answer": "1,650",
+    "why": [
+      "A single worker makes 12 shoe boxes in 30 minutes, which is 0.5 hours. This means one worker produces 12 divided by 0.5, or 24 shoe boxes per hour.",
+      "With 25 workers, the combined production rate is 25 workers multiplied by 24 shoe boxes/hour/worker, totaling 600 shoe boxes per hour.",
+      "In 2 3/4 hours (which is 2.75 hours), the 25 workers will make 600 shoe boxes/hour multiplied by 2.75 hours, resulting in 1,650 shoe boxes."
+    ],
+    "random_answer": ["1 500", "1 750", "1 600"]
+  }
+]

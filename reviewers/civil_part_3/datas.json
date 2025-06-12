@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Anna can finish a certain job in 10 hours. Together, Anna and Nina can finish the same job in 3 hours. How many hours can Nina finish the job alone?",
+    "answer": "4 2/7",
+    "why": [
+      "To find the individual work time, the product of their combined time and Anna's time is divided by the <b>difference</b> of their individual and combined times.",
+      "The calculation involves (10 hours * 3 hours) / (10 hours - 3 hours).",
+      "This results in 30 / 7 hours, which simplifies to 4 and 2/7 hours."
+    ],
+    "random_answer": ["2 3/7", "3 2/7", "3 1/7"]
+  },
+  {
+    "question": "Danny can finish a certain job in 10 days. Together, Miguel and Danny can finish the same job in 6 days. How many days will it take Miguel to finish the job alone?",
+    "answer": "15",
+    "why": [
+      "The individual work time for Miguel is found by taking the <b>product</b> of Danny's time and their combined time.",
+      "This product is then divided by the <b>difference</b> between Danny's individual time and their combined time.",
+      "The calculation is (10 days * 6 days) / (10 days - 6 days), resulting in 60 / 4 = 15 days."
+    ],
+    "random_answer": ["16 days", "12 days", "8 days"]
+  },
+  {
+    "question": "Two printers are available to print a small company's newsletter. One printer can print an issue in 4 1/2 hours while the other printer can print an issue in 6 hours. How long will it take the two printers to print an issue?",
+    "answer": "2 4/7",
+    "why": [
+      "To find the combined work time, the <b>product</b> of their individual times is divided by the <b>sum</b> of their individual times.",
+      "The calculation involves (4.5 hours * 6 hours) / (4.5 hours + 6 hours).",
+      "This simplifies to 27 / 10.5 hours, which is 2 and 4/7 hours."
+    ],
+    "random_answer": ["2 hours", "2 3/4 hours", "2 1/2 hours"]
+  },
+  {
+    "question": "Danny can do a certain job in 6 hours. If his son helps him, they can complete the job in 3 1/2 hours. How long will it take the son to do the job by himself?",
+    "answer": "8 2/5",
+    "why": [
+      "To determine the son's individual work time, the <b>product</b> of Danny's time and their combined time is used.",
+      "This product is divided by the <b>difference</b> between Danny's individual time and their combined time.",
+      "The calculation is (6 hours * 3.5 hours) / (6 hours - 3.5 hours), which results in 21 / 2.5 = 8 and 2/5 hours."
+    ],
+    "random_answer": ["4 hours", "5 3/4 hours", "6 1/2 hours"]
+  },
+  {
+    "question": "Miss Sanchez made 12 quarts of mango juice which contained 20% mango concentrate. How much water would she have to add to reduce it to 15% mango concentrate?",
+    "answer": "4",
+    "why": [
+      "The problem can be solved using the formula for concentration changes: <b>initial percentage * initial volume = final percentage * (initial volume - X)</b>, where X is the amount extracted or added.",
+      "Setting up the equation as 20 * 12 = 15 * (12 - X) and solving for X leads to the amount of water to be added.",
+      "The calculation 240 = 180 - 15X simplifies to 15X = 60, so X = 4."
+    ],
+    "random_answer": ["1", "2", "3"]
+  },
+  {
+    "question": "If 4% of 510 lbs. of sea water is salt. How much pure is to be extracted to make it contain 17% salt?",
+    "answer": "390",
+    "why": [
+      "The amount of pure substance to be extracted can be found using the relationship: <b>initial concentration * initial total = final concentration * (initial total - X)</b>.",
+      "By setting up the equation 4 * 510 = 17 * (510 - X) and solving for X, the extracted amount is determined.",
+      "The calculation 204 = 867 - 17X yields 17X = 663, which means X = 390 lbs."
+    ],
+    "random_answer": ["108", "220", "280"]
+  },
+  {
+    "question": "If 40% of 15 liters of a weed killer is water, how much water can be added to make it contain 75% water?",
+    "answer": "21",
+    "why": [
+      "The quantity of water to be added is determined by balancing the amount of water before and after addition: <b>initial percent * initial volume + X = final percent * (initial volume + X)</b>.",
+      "The equation is set as 40 * 15 + X = 75 * (15 + X).",
+      "Solving for X, the calculation 600 + X = 1125 + 75X leads to 25X = 525, so X = 21 liters."
+    ],
+    "random_answer": ["1", "32", "19"]
+  },
+  {
+    "question": "How many liters of alcohol must be added to 40 liters of a mixture which is 65% alcohol to obtain a mixture which is 80% alcohol?",
+    "answer": "30",
+    "why": [
+      "Let A be the amount of alcohol in liters. The initial amount of alcohol is 65% of 40 liters, which is 26 liters. When X liters of pure alcohol are added, the total volume becomes (40 + X) liters, and the alcohol concentration becomes 80%.",
+      "The equation representing this is 26 + X = 0.80 * (40 + X).",
+      "Solving for X, the equation 26 + X = 32 + 0.8X simplifies to 0.2X = 6, which yields X = 30 liters."
+    ],
+    "random_answer": ["20", "24", "28"]
+  },
+  {
+    "question": "A sports center has 12 gates five are on the west side and seven are on the east side. How many different ways can a person enter by a west gate and leave by an east gate?",
+    "answer": "35",
+    "why": [
+      "This is a counting principle problem where the choices for entering and leaving are independent events.",
+      "The number of ways to enter by a west gate is 5, and the number of ways to leave by an east gate is 7.",
+      "The total number of different ways is found by multiplying the number of choices for each step, resulting in 5 * 7 = 35 ways."
+    ],
+    "random_answer": ["65", "55", "45"]
+  },
+  {
+    "question": "Three stenographers will be selected from a pool of 6 equally qualified stenographers. How many different groups of three stenographers can be selected from the pool?",
+    "answer": "20",
+    "why": [
+      "This is a <b>combination</b> problem because the order in which the stenographers are selected does not matter.",
+      "The number of ways to choose 3 stenographers from 6 is calculated using the combination formula C(n, k) = n! / (k! * (n-k)!).",
+      "For 6 items taken 3 at a time, the calculation is C(6, 3) = 6! / (3! * 3!) = (6 * 5 * 4) / (3 * 2 * 1) = 20."
+    ],
+    "random_answer": ["15", "18", "10"]
+  },
+  {
+    "question": "A corporation has 3 vacancies for the positions of senior auditor. Out of 5 candidates, how many groups of three could be chosen to fill the vacancies?",
+    "answer": "10",
+    "why": [
+      "This scenario represents a <b>combination</b> problem, as the order of selecting candidates for the vacancies does not affect the composition of the group.",
+      "The number of ways to choose 3 candidates from 5 is found using the combination formula C(n, k) = n! / (k! * (n-k)!).",
+      "For 5 candidates chosen 3 at a time, the calculation is C(5, 3) = 5! / (3! * 2!) = (5 * 4) / (2 * 1) = 10."
+    ],
+    "random_answer": ["1", "36", "25"]
+  },
+  {
+    "question": "A pair of dice is rolled. How many possible outcomes are there?",
+    "answer": "36",
+    "why": [
+      "Each individual die has 6 possible outcomes, representing the numbers 1 through 6.",
+      "When rolling a <b>pair of dice</b>, the total number of possible outcomes is the product of the outcomes for each die.",
+      "Therefore, there are 6 * 6 = 36 unique possible outcomes."
+    ],
+    "random_answer": ["8", "12", "16"]
+  },
+  {
+    "question": "A security system uses a four-letter password but no letter can be used more than once. How many possible passwords are there?",
+    "answer": "358,800",
+    "why": [
+      "This is a <b>permutation</b> problem because the order of the letters in the password matters and repetition is not allowed.",
+      "Given 26 letters in the alphabet, the number of choices for the first letter is 26, for the second is 25, for the third is 24, and for the fourth is 23.",
+      "The total number of possible passwords is the product of these choices: 26 * 25 * 24 * 23 = 358,800."
+    ],
+    "random_answer": ["219,397", "576,000", "645,800"]
+  },
+  {
+    "question": "The dogs in a certain kennel are fed Brand A and Brand B dog food only. Of these dogs, 6 dogs eat Brand A and 15 dogs eat Brand B. If 4 of the dogs that eat Brand B also eat Brand A, how many dogs are in the kennel?",
+    "answer": "17",
+    "why": [
+      "This problem can be solved using the principle of <b>inclusion-exclusion</b> for two sets.",
+      "The total number of unique dogs is found by adding the number of dogs that eat Brand A and Brand B, and then subtracting the number of dogs that eat both to avoid double-counting.",
+      "The calculation is 6 (Brand A) + 15 (Brand B) - 4 (Brand A and B) = 17 dogs."
+    ],
+    "random_answer": ["1", "24", "25"]
+  },
+  {
+    "question": "An employment agency has 50 prospective employees to hire for various jobs. Of these fifty, seven are considered to be poor employment risks, since, among the seven, five are lazy while four have poor health. At least how many are both lazy and have poor health?",
+    "answer": "2",
+    "why": [
+      "This is an application of the <b>inclusion-exclusion principle</b> to find the intersection of two groups within a total.",
+      "Given that 7 employees are poor risks in total, and 5 are lazy and 4 have poor health, the number who are both lazy and have poor health can be found by (5 + 4) - 7.",
+      "The calculation 9 - 7 yields 2 employees who are both lazy and have poor health."
+    ],
+    "random_answer": ["1", "3", "4"]
+  },
+  {
+    "question": "If each employee in a certain bank will be given three ball pens from the available supply, one of them would have to be satisfied with only two. But if each employee will be given two ball pens, 8 ball pens would remain. How many ball pens are available?",
+    "answer": "20",
+    "why": [
+      "Let P be the total number of ball pens and E be the number of employees. From the first condition, the number of employees is (P - 2) / 3.",
+      "From the second condition, the number of employees is (P - 8) / 2.",
+      "Equating these expressions (P - 2) / 3 = (P - 8) / 2 and solving for P yields 2P - 4 = 3P - 24, leading to P = 20 ball pens."
+    ],
+    "random_answer": ["32", "29", "23"]
+  },
+  {
+    "question": "As a way of thanking its customers, a boutique gave away free umbrellas, fans, and bags. Of the 25 customers, 10 were given bags and 12 were given fans. If 4 customers were given all three items, how many were given umbrellas only?",
+    "answer": "7",
+    "why": [
+      "The solution provided in the source implicitly uses a total of 15 customers who received umbrellas, a value not explicitly stated in the question.",
+      "Given that 4 customers received <b>all three items</b>, subtracting this overlap (15 - 4) yields 11, which represents those who received umbrellas but not exclusively all three.",
+      "The final answer of 7 for 'umbrellas only' is derived from further implicit calculations not fully detailed in the source's provided explanation."
+    ],
+    "random_answer": ["1", "4", "10"]
+  }
+]

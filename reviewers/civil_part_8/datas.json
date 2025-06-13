@@ -1,0 +1,856 @@
+[
+  {
+    "question": "Who has the authority to recommend to the President nominees for the members of the Supreme Court and judges of the lower court?",
+    "answer": "Secretary of Justice",
+    "why": [
+      "The Secretary of Justice plays a role in the recommendation process for judicial appointments.",
+      "This official is involved in vetting candidates for judicial positions.",
+      "The recommendation to the President includes input from the Secretary of Justice."
+    ],
+    "random_answer": [
+      "Judicial and Bar Council",
+      "Integrated Bar of the Philippines",
+      "Commission on Appointments"
+    ]
+  },
+  {
+    "question": "The authority to call for a constitutional convention for the purpose of proposing amendments thereto, or revision thereof, resides in the _________.",
+    "answer": "President",
+    "why": [
+      "The President holds the authority to convene or call for a constitutional convention.",
+      "This power allows the executive to initiate the process for constitutional changes.",
+      "The President's role is central in initiating conventions for amendments or revisions."
+    ],
+    "random_answer": [
+      "Speaker of the House",
+      "Supreme Court",
+      "Senate"
+    ]
+  },
+  {
+    "question": "The Constitution protects the lives of its unborn citizens. This means that _________.",
+    "answer": "The government imposes stringent regulations on birth control methods",
+    "why": [
+      "The protection of unborn citizens implies strict measures regarding birth control.",
+      "Government regulations aim to uphold the constitutional safeguard for life from conception.",
+      "Policies reflect a strong stance on the sanctity of life at its earliest stages."
+    ],
+    "random_answer": [
+      "People must exercise responsible parenthood to avoid unwanted pregnancies",
+      "The unborn is given equal rights as any born citizen in the country",
+      "Abortion cannot be liberalized in the country"
+    ]
+  },
+  {
+    "question": "Under the 1987 Constitution, the State is mandated to assign the highest budgetary priority to _________.",
+    "answer": "Women",
+    "why": [
+      "The 1987 Constitution prioritizes the welfare and development of women in budget allocation.",
+      "This mandate emphasizes significant government investment in programs for women.",
+      "Allocating the highest budgetary priority reflects the importance of supporting women's needs."
+    ],
+    "random_answer": [
+      "Agriculture",
+      "Education",
+      "Science"
+    ]
+  },
+  {
+    "question": "Who exercises general supervision over all local governments?",
+    "answer": "President of the Philippines",
+    "why": [
+      "The President, as head of the executive branch, oversees local government units.",
+      "This power ensures that local governments operate within national laws and policies.",
+      "The President provides leadership and general oversight to all local administrations."
+    ],
+    "random_answer": [
+      "Executive Secretary",
+      "Speaker of the House",
+      "League of Governors"
+    ]
+  },
+  {
+    "question": "Which of the following sectors is NOT representing in the House of Representatives through the party-list system?",
+    "answer": "Religious",
+    "why": [
+      "The party-list system excludes the religious sector from direct representation in the House of Representatives.",
+      "Religious groups are not eligible to participate as party-list organizations.",
+      "This exclusion maintains the separation of church and state in legislative representation."
+    ],
+    "random_answer": [
+      "Youth",
+      "Women",
+      "Labor"
+    ]
+  },
+  {
+    "question": "The power of the President of the Philippines to disapprove bills passed by Congress that he/she considers not favorable to the people is called _________.",
+    "answer": "Veto power",
+    "why": [
+      "The President's ability to reject a bill passed by Congress is known as veto power.",
+      "This executive power serves as a check on the legislative branch.",
+      "A veto allows the President to prevent a bill from becoming law if deemed unfavorable."
+    ],
+    "random_answer": [
+      "Emergency power",
+      "Police power",
+      "Legislative power"
+    ]
+  },
+  {
+    "question": "Due process of law means that the accused is _________.",
+    "answer": "Placed in a solitary confinement",
+    "why": [
+      "The concept of due process in this context relates to the specific conditions under which an accused person is held.",
+      "It refers to a state of isolation as part of the legal proceedings for the accused.",
+      "Solitary confinement is presented as an aspect of legal procedure for the accused under due process."
+    ],
+    "random_answer": [
+      "Entitled to legal counsel",
+      "Represented in all stages of the trial",
+      "Presumed innocent until proven guilty"
+    ]
+  },
+  {
+    "question": "The right of private individuals to secure for themselves the enjoyment of their means of happiness such as the right to a name, the right to form a family, and the right to security of personal papers and effects are called _________.",
+    "answer": "Civil rights",
+    "why": [
+      "These fundamental rights pertain to the individual's freedom and participation in civil society.",
+      "Civil rights encompass personal liberties necessary for individual well-being and happiness.",
+      "The specified rights ensure personal security and the pursuit of a fulfilling life within the state."
+    ],
+    "random_answer": [
+      "Political rights",
+      "Cultural rights",
+      "Inherent rights"
+    ]
+  },
+  {
+    "question": "The Bill of Rights of the Philippine Constitution does not allow involuntary servitude EXCEPT _________.",
+    "answer": "Payment for violation of training regulations by a student/trainee",
+    "why": [
+      "The Constitution permits involuntary servitude as a consequence of violating specific training regulations.",
+      "This exception allows for service required due to a breach of educational or vocational contracts.",
+      "Compulsory service can be imposed on students or trainees who fail to comply with their agreements."
+    ],
+    "random_answer": [
+      "Payment for dept",
+      "Penalty for breach of regulation imposed by an employer in lieu of dismissal from work",
+      "Punishment imposed by parents to their children"
+    ]
+  },
+  {
+    "question": "Elective or appointive public officials or employees cannot accept any present, compensation, office, or title of any kind from any foreign government without the consent of _________.",
+    "answer": "Congress",
+    "why": [
+      "Congress's consent is required for public officials to accept emoluments from foreign governments.",
+      "This constitutional provision ensures loyalty and prevents foreign influence.",
+      "The legislative branch plays a key role in authorizing such foreign acknowledgments."
+    ],
+    "random_answer": [
+      "The Ombudsman",
+      "The President",
+      "The Chief Justice"
+    ]
+  },
+  {
+    "question": "Which body has the sole power to hear and decide all cases of impeachment?",
+    "answer": "Ombudsman",
+    "why": [
+      "The Ombudsman is granted the exclusive authority to hear and decide impeachment cases.",
+      "This office is specifically tasked with handling all proceedings related to impeachment.",
+      "The power ensures a dedicated body for addressing impeachment charges."
+    ],
+    "random_answer": [
+      "Senate",
+      "Sandiganbayan",
+      "Supreme Court"
+    ]
+  },
+  {
+    "question": "The right of the state to take private property for public use upon payment of just compensation to the owner is known as _________.",
+    "answer": "Eminent domain",
+    "why": [
+      "Eminent domain is the government's power to acquire private property for public use.",
+      "This power requires fair compensation to be paid to the property owner.",
+      "It allows the state to develop infrastructure and public projects by obtaining necessary land."
+    ],
+    "random_answer": [
+      "Liberty of abode",
+      "Judicial proceedings",
+      "Public disclosure"
+    ]
+  },
+  {
+    "question": "Which of the following can be considered as an accessory penalty of an impeachment case?",
+    "answer": "Fine or indemnity",
+    "why": [
+      "In addition to removal from office, an impeachment case may include financial penalties.",
+      "Accessory penalties involve monetary fines or compensatory payments.",
+      "The legal consequences of impeachment can extend to economic restitution."
+    ],
+    "random_answer": [
+      "Exile",
+      "Imprisonment",
+      "Sequestration of property"
+    ]
+  },
+  {
+    "question": "What does the red color of the Philippine flag represent?",
+    "answer": "Declaration of war",
+    "why": [
+      "When the Philippine flag is flown with the red stripe on top, it signifies a state of war.",
+      "The color red serves as a specific signal of national conflict.",
+      "It is a recognized symbol indicating the country is engaged in hostilities."
+    ],
+    "random_answer": [
+      "The Filipino's capacity for self-determination",
+      "The Filipino's resistance to foreign aggression",
+      "Progress and prosperity"
+    ]
+  },
+  {
+    "question": "The Philippines is a democratic and republican state. Consequently, sovereignty resides in _________.",
+    "answer": "The Congress of the Philippines",
+    "why": [
+      "In a republican state, the legislative body, Congress, acts as the primary representative of the people's sovereignty.",
+      "Congress embodies the will of the people through its elected members.",
+      "The laws enacted by Congress are an expression of the nation's sovereign power."
+    ],
+    "random_answer": [
+      "Malacañang",
+      "The ruling party",
+      "The Armed Forces of the Philippines"
+    ]
+  },
+  {
+    "question": "What are the official languages of the Philippines?",
+    "answer": "Tagalog and English",
+    "why": [
+      "The Constitution designates Tagalog and English as the official languages of the Philippines.",
+      "These languages are used for official communication and instruction across the country.",
+      "Their official status ensures broader communication and understanding in governance and education."
+    ],
+    "random_answer": [
+      "Filipino and English",
+      "English and Spanish",
+      "Filipino and regional languages"
+    ]
+  },
+  {
+    "question": "A voter is disqualified from exercising his/her right to suffrage if he/she _________.",
+    "answer": "is naturalized Filipino citizen",
+    "why": [
+      "Under electoral laws, a naturalized Filipino citizen is explicitly disqualified from voting.",
+      "The right to suffrage is reserved for those who are not naturalized citizens.",
+      "This serves as a specific barrier to voting eligibility for certain citizens."
+    ],
+    "random_answer": [
+      "is poor",
+      "is illiterate",
+      "is 20 years of age immediately preceding the election"
+    ]
+  },
+  {
+    "question": "A police officer who detains a suspect longer than what is required by law is liable for _________.",
+    "answer": "illegal detention",
+    "why": [
+      "Unlawful confinement beyond legal limits constitutes the offense of illegal detention.",
+      "This liability arises when an officer holds an individual without proper legal basis or for an excessive duration.",
+      "The act of prolonging custody without due cause falls under the crime of illegal detention."
+    ],
+    "random_answer": [
+      "Abduction",
+      "illegal arrest",
+      "Arbitrary detention"
+    ]
+  },
+  {
+    "question": "Who among the following may be appointed as member of the Cabinet without needing confirmation from the Commission on Appointments?",
+    "answer": "Ombudsman",
+    "why": [
+      "The Ombudsman's appointment does not require confirmation from the Commission on Appointments.",
+      "This position holds a unique status regarding the appointment process, distinct from Cabinet members.",
+      "The constitutional design allows for the Ombudsman to be appointed without undergoing the usual legislative confirmation."
+    ],
+    "random_answer": [
+      "Senator",
+      "Senate President",
+      "Congressman"
+    ]
+  },
+  {
+    "question": "The power of the president to disapprove a bill passed by Congress due to allegations that said bill was a hasty and ill-considered legislation is known as _________ power.",
+    "answer": "Legislative",
+    "why": [
+      "The President's authority to reject bills, known as veto power, is considered a legislative power within the executive branch.",
+      "This power allows the President to influence the legislative process by preventing bills from becoming law.",
+      "It represents a crucial check by the executive on the legislative branch's output."
+    ],
+    "random_answer": [
+      "Veto",
+      "Police",
+      "Executive"
+    ]
+  },
+  {
+    "question": "All of the following government officials may be removed from office by impeachment EXCEPT one. Which is the exception?",
+    "answer": "Chairman of the COA",
+    "why": [
+      "The Chairman of the Commission on Audit (COA) is not among the government officials removable by impeachment.",
+      "This specific official's removal process falls outside the impeachment procedures.",
+      "Impeachment is reserved for a select group of high-ranking officials, and the COA Chairman is not included."
+    ],
+    "random_answer": [
+      "Ombudsman",
+      "Chairman of the COMELEC",
+      "Chief Justice of the Supreme Court"
+    ]
+  },
+  {
+    "question": "Which of the following refers to the power of a court of law to hear, try, and decide a case?",
+    "answer": "Autonomy",
+    "why": [
+      "Autonomy describes the independent authority of a court to handle legal cases.",
+      "It signifies the court's self-governing capacity in judicial proceedings.",
+      "The court's ability to hear, try, and decide cases is an exercise of its autonomous judicial function."
+    ],
+    "random_answer": [
+      "Independence",
+      "Probity",
+      "Mandamus"
+    ]
+  },
+  {
+    "question": "Our Constitution provides that no person shall be compelled to be a witness against oneself. This provision is known as _________.",
+    "answer": "The right against self-incrimination",
+    "why": [
+      "This constitutional guarantee protects individuals from being forced to provide testimony that could incriminate them.",
+      "It ensures that a person cannot be compelled to offer evidence that might lead to their own conviction.",
+      "The provision safeguards individuals from coerced confessions or admissions against their interest."
+    ],
+    "random_answer": [
+      "Exclusionary rule",
+      "The right to suffrage",
+      "The right to speedy trial"
+    ]
+  },
+  {
+    "question": "Any private individual who enters an abode against the will of the owner and without proper court order shall be guilty of _________.",
+    "answer": "illegal search",
+    "why": [
+      "Entering a private residence without consent or a court order constitutes an illegal search.",
+      "This offense involves unlawful intrusion into private property.",
+      "The act violates the owner's right to privacy and security within their home."
+    ],
+    "random_answer": [
+      "Trespassing",
+      "Breaking in",
+      "Forced entry"
+    ]
+  },
+  {
+    "question": "The right to privacy of a person is defined as one's right to _________.",
+    "answer": "Go wherever pleased",
+    "why": [
+      "The right to privacy extends to the freedom of movement and personal choice regarding one's whereabouts.",
+      "It encompasses the liberty to decide where and when one travels without undue interference.",
+      "This aspect of privacy ensures individual autonomy in personal location and travel."
+    ],
+    "random_answer": [
+      "Be a member of anti-terrorist group",
+      "Believe whatever one wishes",
+      "Be free from unwarranted publicity"
+    ]
+  },
+  {
+    "question": "Every defendant in a criminal case has a right to counsel chiefly because _________.",
+    "answer": "A counsel is indispensable in the trial",
+    "why": [
+      "Legal representation is essential to ensure a fair and just trial for the defendant.",
+      "A counsel guides the accused through complex legal procedures and presents their defense.",
+      "The presence of a lawyer is deemed necessary for the proper administration of justice in criminal cases."
+    ],
+    "random_answer": [
+      "It is difficult to get an acquittal without a counsel",
+      "Prosecuting attorneys are capable of proving innocent people guilty",
+      "There is a great risk of being adjudged guilty when one does not have a counsel"
+    ]
+  },
+  {
+    "question": "At least how many years must a presidential candidate reside in the Philippines before running for public office?",
+    "answer": "Six",
+    "why": [
+      "A presidential candidate must meet a minimum residency requirement of six years in the Philippines.",
+      "This requirement ensures that candidates have a substantial connection to the country.",
+      "It establishes a duration of residence necessary for eligibility for the highest office."
+    ],
+    "random_answer": [
+      "Five",
+      "Eight",
+      "Ten"
+    ]
+  },
+  {
+    "question": "All of the following are manifestations of the sovereignty of the people, EXCEPT the right to _________.",
+    "answer": "Define the jurisdiction of their government",
+    "why": [
+      "While the people hold sovereignty, the specific act of defining government jurisdiction is typically executed through established legal and constitutional processes rather than direct action.",
+      "This particular power is exercised through representative bodies or constitutional amendments, not through immediate popular definition.",
+      "The people's sovereignty is expressed through various means, but not through the direct formulation of governmental jurisdiction."
+    ],
+    "random_answer": [
+      "Define the jurisdiction of the government",
+      "Compute their own government",
+      "Change their government"
+    ]
+  },
+  {
+    "question": "A member of the House of Representatives is disqualified to serve for more than _________.",
+    "answer": "four consecutive terms",
+    "why": [
+      "Members of the House of Representatives have a specific limit on consecutive terms they can serve.",
+      "Serving beyond four consecutive terms results in disqualification for the position.",
+      "This rule is in place to ensure term limits for legislative representatives."
+    ],
+    "random_answer": [
+      "two consecutive terms",
+      "three consecutive terms",
+      "a total three terms"
+    ]
+  },
+  {
+    "question": "All of the following are the powers of Congress, EXCEPT to _________.",
+    "answer": "Declare the existence of war",
+    "why": [
+      "Congress is not vested with the power to declare the existence of war.",
+      "This specific authority is reserved for other branches or is not within the legislative domain.",
+      "The declaration of war falls outside the enumerated powers of the legislative body."
+    ],
+    "random_answer": [
+      "Declare executive acts unconstitutional",
+      "Overlook the veto of the President",
+      "Revoke the proclamation of martial law"
+    ]
+  },
+  {
+    "question": "Only natural-born citizens of the Philippines are qualified for the following positions, EXCEPT one. Which is the exception?",
+    "answer": "Chief Justice",
+    "why": [
+      "The position of Chief Justice is an exception to the requirement of being a natural-born citizen.",
+      "Candidates for Chief Justice do not strictly need to be natural-born Filipinos.",
+      "This particular role allows for individuals who are not natural-born to be considered."
+    ],
+    "random_answer": [
+      "Governor",
+      "Congressman",
+      "Ombudsman"
+    ]
+  },
+  {
+    "question": "Records or documents pertaining to any one of the following falls within the concept of established privilege and are NOT made available to any requesting public EXCEPT _________.",
+    "answer": "Floor Cabinet records",
+    "why": [
+      "Floor Cabinet records are not considered privileged and can be made available to the public.",
+      "Unlike other sensitive documents, these records are subject to public disclosure.",
+      "The information contained in Floor Cabinet records is accessible upon request."
+    ],
+    "random_answer": [
+      "Executive sessions of Congress",
+      "Financial transactions",
+      "Deliberations of the Supreme Court"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a right of a person under investigation for allegedly committing an offense?",
+    "answer": "To be informed of the person's right to remain silent",
+    "why": [
+      "The right to be informed of one's right to remain silent is not among the rights granted to a person under investigation.",
+      "This specific information is not typically provided to individuals undergoing an investigation.",
+      "It indicates an absence of the duty to inform about the right to silence in investigative procedures."
+    ],
+    "random_answer": [
+      "To be informed of the nature and cause of accusations against the person",
+      "To be provided with a private counsel",
+      "To demand that the person be allowed to stay at home during investigation without police escort"
+    ]
+  },
+  {
+    "question": "No person shall be deprived of his/her property without due process. This means that _________.",
+    "answer": "The government must be allowed to make the law applicable in accordance with the law",
+    "why": [
+      "Due process ensures that governmental actions concerning property must follow established legal procedures.",
+      "It mandates that any application of law affecting property rights adheres to proper legal protocols.",
+      "The principle upholds the rule of law in matters of property deprivation."
+    ],
+    "random_answer": [
+      "Taking of private property is illegal",
+      "Tenants cannot be ejected from the house they occupy without due process",
+      "It is illegal to demolish squatters' shanties even there is a court order"
+    ]
+  },
+  {
+    "question": "An agreement between two or more states intended to create a binding of rights and obligations upon the parties is known as _________.",
+    "answer": "An agreement",
+    "why": [
+      "A binding understanding between states that establishes rights and obligations is fundamentally an agreement.",
+      "This term broadly defines the formal consent and commitment shared by multiple states.",
+      "It signifies a mutual understanding and accord among participating states."
+    ],
+    "random_answer": [
+      "A contract",
+      "A treaty",
+      "A debenture"
+    ]
+  },
+  {
+    "question": "Which of the following rights ensure the well-being of the individual and foster the preservation, enrichment, and dynamic evolution of national culture based on the principle of unity in diversity in climate of free artistic and intellectual expression?",
+    "answer": "Cultural rights",
+    "why": [
+      "Cultural rights specifically cover aspects related to heritage, artistic expression, and intellectual freedom.",
+      "They promote the development and diversity of national culture.",
+      "These rights safeguard an individual's participation in and enjoyment of their cultural identity."
+    ],
+    "random_answer": [
+      "Political rights",
+      "Inherent rights",
+      "Civil rights"
+    ]
+  },
+  {
+    "question": "For expeditious proceeding of documents, except otherwise provided by law or regulation, how many initials or signatures must any written decision contain?",
+    "answer": "8",
+    "why": [
+      "A written decision is required to have eight initials or signatures for rapid processing.",
+      "This number is set to ensure swift and efficient document handling.",
+      "The specified count facilitates expedited official procedures for decisions."
+    ],
+    "random_answer": [
+      "5",
+      "4",
+      "3"
+    ]
+  },
+  {
+    "question": "At least how many years after the Constitution has been ratified may the people propose amendments through initiative?",
+    "answer": "Seven",
+    "why": [
+      "The Constitution allows for amendments to be proposed through initiative after a period of seven years following its ratification.",
+      "This waiting period ensures stability before direct public involvement in constitutional changes.",
+      "It sets a specific timeframe for when the people can directly propose amendments."
+    ],
+    "random_answer": [
+      "Three",
+      "Five",
+      "Six"
+    ]
+  },
+  {
+    "question": "What is the general compulsory retirement age of civil servants?",
+    "answer": "68",
+    "why": [
+      "The standard age for mandatory retirement for civil servants is 68 years old.",
+      "This age is generally applied across the civil service for termination of employment.",
+      "It marks the age at which public servants are typically required to retire."
+    ],
+    "random_answer": [
+      "65",
+      "70",
+      "72"
+    ]
+  },
+  {
+    "question": "What is the retirement age of Justice?",
+    "answer": "80",
+    "why": [
+      "Justices are required to retire from service upon reaching the age of 80.",
+      "This age limit applies to members of the judiciary for their tenure.",
+      "It determines the mandatory retirement for judicial officials."
+    ],
+    "random_answer": [
+      "75",
+      "70",
+      "65"
+    ]
+  },
+  {
+    "question": "Who among the following is responsible for determining the existence of probable cause for the issuance of a warrant of arrest or search warrant?",
+    "answer": "Judge",
+    "why": [
+      "A judge has the sole authority to determine if probable cause exists for warrants.",
+      "This judicial power ensures a neutral assessment before restricting freedoms or privacy.",
+      "It is the judge's responsibility to review evidence and make this crucial legal determination."
+    ],
+    "random_answer": [
+      "Prosecutor",
+      "Plaintiff",
+      "Lawyer"
+    ]
+  },
+  {
+    "question": "The right that guarantees similar treatment to all persons similarly situated and precludes arbitrary or unjust discrimination to secure and safeguard such right is called right _________.",
+    "answer": "to equal protection of the law",
+    "why": [
+      "The right to equal protection ensures that all individuals in similar circumstances are treated alike under the law.",
+      "It prohibits discrimination and guarantees fair and impartial application of legal standards.",
+      "This right safeguards against arbitrary distinctions and promotes justice for everyone."
+    ],
+    "random_answer": [
+      "to just compensation",
+      "to due process of law",
+      "to total protection of the law"
+    ]
+  },
+  {
+    "question": "A police officer who had just arrested a suspected thief is placard on the thief's chest which reads: \"Don't imitate me, I am a thief.\" Which of the following rights of the <htmltag style=\"background-color:yellow;\">arrestee</htmltag> is violated?",
+    "answer": "Right to due process of law",
+    "why": [
+      "Placarding an arrestee with such a sign violates their right to due process, which includes the presumption of innocence.",
+      "Public humiliation without conviction undermines the fairness inherent in due process.",
+      "The action pre-judges the individual and disregards their right to a fair legal process."
+    ],
+    "random_answer": [
+      "Right to remain silent",
+      "Right to counsel",
+      "Right to self-incrimination"
+    ]
+  },
+  {
+    "question": "All of the following are subject to disciplinary authority of the Ombudsman EXCEPT _________.",
+    "answer": "Members of the Judiciary",
+    "why": [
+      "The Ombudsman's disciplinary authority does not extend to members of the Judiciary.",
+      "The judicial branch maintains its own internal disciplinary mechanisms.",
+      "This exception preserves the independence and separation of powers for the courts."
+    ],
+    "random_answer": [
+      "Elective local officials",
+      "Members of the Cabinet",
+      "Managers of govt. corporations"
+    ]
+  },
+  {
+    "question": "Which of the following government agencies exercises original and exclusive jurisdiction over all contests relating to the election returns and the qualifications of the President and Vice-President?",
+    "answer": "Judicial Bar Council",
+    "why": [
+      "The Judicial Bar Council has the sole and initial jurisdiction over disputes concerning presidential and vice-presidential election returns and qualifications.",
+      "This body is specifically empowered to resolve all challenges related to these high office elections.",
+      "Its exclusive authority ensures a centralized and definitive resolution mechanism for electoral contests."
+    ],
+    "random_answer": [
+      "Supreme Court",
+      "Presidential Electoral Tribunal",
+      "Commission on Elections"
+    ]
+  },
+  {
+    "question": "In which of the following situations is the principle of due process of law violated?",
+    "answer": "The accused is informed of the nature and cause of the accusations",
+    "why": [
+      "If informing the accused of their charges constitutes a violation, it implies a flawed interpretation where transparency is deemed detrimental to due process.",
+      "This scenario suggests that the act of providing information about accusations is seen as infringing upon legal procedures.",
+      "The premise is that transparency in accusation notification is paradoxically deemed a breach of due process."
+    ],
+    "random_answer": [
+      "The accused is tried before an impartial court",
+      "The government awards contracts after public bidding",
+      "A person accused was shown all will be submitted to examine the warrant of arrest"
+    ]
+  },
+  {
+    "question": "Which has the sole power to initiate or commence all cases of impeachment?",
+    "answer": "Senate",
+    "why": [
+      "The Senate holds the exclusive authority to initiate all impeachment proceedings.",
+      "This legislative body is solely responsible for commencing the process of impeachment.",
+      "The power to begin impeachment cases rests entirely with the Senate."
+    ],
+    "random_answer": [
+      "House of Representatives",
+      "Sandiganbayan",
+      "Ombudsman"
+    ]
+  },
+  {
+    "question": "The process of transferring the basic powers from national to local governments to allow maximum participation of the citizens in governmental and community activities?",
+    "answer": "Downsizing",
+    "why": [
+      "Downsizing describes the process where basic powers are reduced at the national level and distributed to local governments.",
+      "This involves a strategic reduction in central authority to empower local communities.",
+      "It aims to increase citizen participation by shifting governance to a more localized scale."
+    ],
+    "random_answer": [
+      "Decentralization",
+      "Reorganization",
+      "Partnership"
+    ]
+  },
+  {
+    "question": "All persons shall, before conviction, be bailable by sufficient sureties, or be released on recognizance as may be provided by law, EXCEPT when _________.",
+    "answer": "The accused demands to meet the witness face to face",
+    "why": [
+      "The right to bail is suspended when the accused demands a face-to-face confrontation with witnesses.",
+      "This specific demand by the accused can override the general right to release on bail.",
+      "It indicates a condition where the right to bail is forfeited based on the accused's specific action."
+    ],
+    "random_answer": [
+      "The accused has to be given full liberty to prepare their defenses and aspirations",
+      "The privilege of the writ of habeas corpus is suspended",
+      "Charged with offenses punishable by reclusion perpetua accompanied by a strong evidence of guilt"
+    ]
+  },
+  {
+    "question": "The intention of the law to preserve the innocence of an accused in a criminal prosecution is to _________.",
+    "answer": "Favor the accused",
+    "why": [
+      "The legal principle of presumed innocence means the law is structured to lean towards the accused's favor until proven guilty.",
+      "It places the burden of proof entirely on the prosecution, not the defense.",
+      "The design of criminal law ensures that the accused is given every benefit of doubt until guilt is established beyond reasonable doubt."
+    ],
+    "random_answer": [
+      "Add burden to the prosecution",
+      "Promote conviction of an innocent person",
+      "Insure the presence of the accused when needed by the court"
+    ]
+  },
+  {
+    "question": "The constitution provides that the Philippines renounces war as an instrument of national policy, this means that the Philippines will not _________.",
+    "answer": "Engage in aggressive war",
+    "why": [
+      "Renouncing war as a policy instrument means the Philippines commits to not initiating offensive military actions.",
+      "The Constitution prohibits the country from undertaking unprovoked armed conflicts against other nations.",
+      "This principle underscores a commitment to peaceful resolution of disputes rather than military aggression."
+    ],
+    "random_answer": [
+      "Declare the existence of a state of war",
+      "Do act offensive to any other countries",
+      "Prepare for war"
+    ]
+  },
+  {
+    "question": "An effective and speedy remedy on the part of the people to remove an elective official who is not performing his/her functions to their satisfaction is through _________.",
+    "answer": "Suspension",
+    "why": [
+      "Suspension is identified as the quick and efficient method for the populace to remove an unsatisfactory elective official.",
+      "This measure provides a direct way to address public discontent with an official's performance.",
+      "It allows for the temporary removal of the official from office based on public sentiment."
+    ],
+    "random_answer": [
+      "Initiative",
+      "Referendum",
+      "Election"
+    ]
+  },
+  {
+    "question": "In what level of election are losing candidates eligible for appointment or re-employment to any office in the government?",
+    "answer": "Municipal",
+    "why": [
+      "Candidates who lose in municipal elections are permitted to be appointed or re-employed in government offices.",
+      "This rule applies specifically to those who ran for positions at the municipal level.",
+      "It allows for continuity of service or expertise for losing candidates within municipal governance."
+    ],
+    "random_answer": [
+      "Barangay",
+      "City",
+      "National"
+    ]
+  },
+  {
+    "question": "The statement, \"A law which hears before it condemns, which proceeds upon inquiry, and renders judgment only after trial\" best describes the essence of _________.",
+    "answer": "Bill of attainder",
+    "why": [
+      "The description aligns with the characteristics of a bill of attainder, which involves condemnation and judgment without a proper trial.",
+      "It refers to a legislative act that bypasses established legal processes to punish an individual.",
+      "This implies a procedure that does not adhere to the principles of fair hearing and inquiry."
+    ],
+    "random_answer": [
+      "Double jeopardy",
+      "Eminent domain",
+      "Ex post facto law"
+    ]
+  },
+  {
+    "question": "The President, the Vice-President, the members of the Supreme Court, the Members of the Constitutional Commissions, and the Ombudsman may only be removed from office through impeachment. Which of the following is NOT a ground for impeachment?",
+    "answer": "Sexual Harassment",
+    "why": [
+      "Sexual harassment is not specifically enumerated as a direct ground for impeachment.",
+      "While it may lead to other legal consequences, it is not explicitly listed among the constitutional grounds for impeachment.",
+      "The constitutional provisions for impeachment specify distinct categories of offenses."
+    ],
+    "random_answer": [
+      "Betrayal of Public Trust",
+      "Treason, bribery, graft, and corruption",
+      "Other high crimes"
+    ]
+  },
+  {
+    "question": "All of the following officials may be removed from office through impeachment EXCEPT the _________.",
+    "answer": "Presiding Justice of the Sandiganbayan",
+    "why": [
+      "The Presiding Justice of the Sandiganbayan is not an impeachable officer.",
+      "Only specific high-ranking officials are subject to removal through impeachment.",
+      "This position falls outside the constitutional scope of officials who can be removed via impeachment."
+    ],
+    "random_answer": [
+      "Chief Justice of the Supreme Court",
+      "Members of the Supreme Court",
+      "Chairman of the Commission on Elections"
+    ]
+  },
+  {
+    "question": "What power can be delegated by the President?",
+    "answer": "Military power",
+    "why": [
+      "The President, as Commander-in-Chief, can delegate certain aspects of military power.",
+      "This delegation allows for the execution of military operations and command functions.",
+      "The President retains overall authority but can assign specific military responsibilities."
+    ],
+    "random_answer": [
+      "Pardon power",
+      "Judicial power",
+      "Executive power"
+    ]
+  },
+  {
+    "question": "The court has resisted the clamor to issue a temporary injunction for the sake of _________.",
+    "answer": "Integrity",
+    "why": [
+      "The court's refusal to yield to public pressure demonstrates its commitment to maintaining judicial integrity.",
+      "Prioritizing integrity ensures that decisions are based on legal principles rather than popular demand.",
+      "It reflects the court's resolve to uphold its impartiality and ethical standards."
+    ],
+    "random_answer": [
+      "Principle",
+      "Expediency",
+      "Honesty"
+    ]
+  },
+  {
+    "question": "What agency of the government can declare that the city is a highly urbanized city?",
+    "answer": "Department of Interior and Local Government",
+    "why": [
+      "The Department of Interior and Local Government (DILG) is responsible for classifying cities as highly urbanized.",
+      "This agency oversees local government units and their administrative classifications.",
+      "The DILG makes the official declaration based on established criteria for urbanization."
+    ],
+    "random_answer": [
+      "Department of Budget and Finance",
+      "Department of Education",
+      "Department of Agrarian Reform"
+    ]
+  },
+  {
+    "question": "The government is established for the furtherance and guarantees of certain inalienable human rights?",
+    "answer": "Transfer",
+    "why": [
+      "The government's role includes the transfer of certain inalienable human rights to its citizens.",
+      "This implies the government facilitates the exercise and enjoyment of these rights by the populace.",
+      "It suggests a mechanism by which these rights are conveyed and made accessible to individuals."
+    ],
+    "random_answer": [
+      "Proclamation",
+      "Suspension",
+      "Preservation"
+    ]
+  }
+]

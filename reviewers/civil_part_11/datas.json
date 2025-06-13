@@ -1,0 +1,968 @@
+[
+  {
+    "question": "The Filipino people have regained their respect for the government and their trust in it.",
+    "answer": "The Filipino people have regained their respect for the government and their trust in it.",
+    "why": [
+      "The sentence demonstrates clear and effective <b>parallelism</b> by using 'for the government' with both 'respect' and 'trust'.",
+      "It clearly states what the Filipino people have regained without ambiguity.",
+      "The phrase 'respect for the government' and 'trust in it' are grammatically balanced and correct."
+    ],
+    "random_answer": [
+      "The Filipino people have regained their respect and trust in their government.",
+      "The Filipino people have regained for their government their respect and trust in it.",
+      "The Filipino people have regained their respect and trust in it."
+    ]
+  },
+  {
+    "question": "Ego ideals, people strive toward them throughout life, but no one ever achieves them.",
+    "answer": "Throughout life, people strive toward their ego ideals, but no one ever achieves them.",
+    "why": [
+      "The adverbial phrase 'Throughout life' is correctly placed at the beginning of the sentence, providing <b>temporal context</b>.",
+      "This structure clearly indicates that 'people' are the ones striving, avoiding a dangling modifier.",
+      "It improves sentence clarity by establishing when the action occurs before stating who performs it."
+    ],
+    "random_answer": [
+      "Ego ideals, people strive toward them throughout life, but no one ever achieves them.",
+      "People strive toward their ego ideals throughout life, but no one ever achieves them.",
+      "People strive throughout life toward their ego ideals, but no one ever achieves them."
+    ]
+  },
+  {
+    "question": "Andy never feels badly after trying hard he fails to win a prize.",
+    "answer": "Andy never feels bad after trying hard and failing to win a prize.",
+    "why": [
+      "The use of 'bad' as an adjective after the linking verb 'feels' is grammatically correct to describe Andy's state.",
+      "The conjunction 'and' correctly connects the two parallel actions 'trying hard' and 'failing to win a prize'.",
+      "The sentence structure is concise and clearly conveys the outcome of Andy's efforts."
+    ],
+    "random_answer": [
+      "Andy never feels badly after trying hard he fails to win a prize.",
+      "Andy never feels bad if after trying hard he fails to win a prize.",
+      "Andy never had felt bad that he had failed to win a prize after trying hard."
+    ]
+  },
+  {
+    "question": "My report is late because I was frequently interrupted in my work.",
+    "answer": "My report is late because I was frequently interrupted in my work.",
+    "why": [
+      "The sentence is grammatically correct as is, with 'frequently' serving as an adverb modifying 'interrupted'.",
+      "The conjunction 'because' appropriately introduces the reason for the report being late.",
+      "It expresses a clear cause-and-effect relationship using proper <b>subordination</b>."
+    ],
+    "random_answer": [
+      "The reason my report is late is I was frequently interrupted from my work.",
+      "My report is late due to many interruptions that kept me from my work.",
+      "Due to many interruptions that kept me from my work, my report is late."
+    ]
+  },
+  {
+    "question": "After holding a meeting the students, a march was held.",
+    "answer": "After holding a meeting, the students led a march around the campus.",
+    "why": [
+      "The sentence correctly places the subject 'students' who performed the action of leading the march.",
+      "The participial phrase 'After holding a meeting' clearly modifies the subject, ensuring no <b>dangling modifier</b>.",
+      "It specifies who organized and participated in the march, making the sentence unambiguous."
+    ],
+    "random_answer": [
+      "After holding a meeting, a march was held around the campus by the students.",
+      "Holding a meeting, the students led a march around the campus.",
+      "After holding a meeting, the students led a march around the campus."
+    ]
+  },
+  {
+    "question": "As soon as the tabulation of the figures has been completed, someone should check the accuracy.",
+    "answer": "As soon as the tabulation of the figures has been completed, someone should check the accuracy.",
+    "why": [
+      "The sentence is grammatically sound and logically structured, with a clear subject 'someone' and verb 'should check'.",
+      "The adverbial clause 'As soon as the tabulation of the figures has been completed' appropriately modifies the main clause.",
+      "It conveys the action and its prerequisite clearly, using proper <b>subordination</b> and active voice for the main verb."
+    ],
+    "random_answer": [
+      "Someone should check the accuracy of those figures should be checked when the tabulation is completed.",
+      "The accuracy of those figures should be checked when the tabulation is completed.",
+      "Someone ought to check the accuracy of those figures when they have been tabulated."
+    ]
+  },
+  {
+    "question": "Plumbers who work efficiently from the point of view of a homemaker are worthy of their wages.",
+    "answer": "Plumbers who work efficiently are worthy of their wages from the point of view of a homemaker.",
+    "why": [
+      "The sentence correctly places the modifying phrase 'from the point of view of a homemaker' closer to the element it modifies, 'worthy of their wages'.",
+      "This structure ensures that the perspective is applied to the worthiness, not the plumbers' work efficiency.",
+      "It clarifies the <b>intended meaning</b> by avoiding ambiguity regarding the modifier's scope."
+    ],
+    "random_answer": [
+      "From the point of view of a homemaker, plumbers who work efficiently are worthy of their wages.",
+      "Plumbers are worthy of their wages who work efficiently from the point of view of a homemaker.",
+      "Worthy of their wages are plumbers who work efficiently from the point of view of a homemaker."
+    ]
+  },
+  {
+    "question": "The trip to Laguna was educational and everybody enjoyed it very much.",
+    "answer": "The trip to Laguna was educational and everybody enjoyed it very much.",
+    "why": [
+      "The sentence is grammatically correct as written, using a compound predicate with 'was educational' and 'enjoyed it very much'.",
+      "The use of 'and' effectively connects the two characteristics of the trip.",
+      "It is a simple, direct, and clear statement about the trip's qualities and reception."
+    ],
+    "random_answer": [
+      "Everybody found the trip to Laguna educational and it was enjoyed very much.",
+      "The trip to Laguna educational and everybody enjoyed it very much.",
+      "A most enjoyable time was or everybody in their trip to Laguna which was educational."
+    ]
+  },
+  {
+    "question": "One either has to be 65 or blind to claim an extra personal exemption.",
+    "answer": "One either has to be 65 or blind to claim an extra personal exemption.",
+    "why": [
+      "The sentence uses the correlative conjunction 'either...or' correctly to present two alternatives.",
+      "It maintains <b>parallel structure</b> between the two conditions for claiming the exemption ('be 65' and 'be blind').",
+      "The sentence is clear and concise in stating the eligibility criteria."
+    ],
+    "random_answer": [
+      "One either has to be 65 or blind to claim his/her extra personal exemption.",
+      "One has to be either 65 or blind to claim an extra personal exemption.",
+      "One has to either be 65 or blind to claim an extra personal exemption."
+    ]
+  },
+  {
+    "question": "For a watch worth one thousand, I paid eight hundred pesos at the bazaar.",
+    "answer": "I paid eight hundred pesos for a watch worth one thousand at the bazaar.",
+    "why": [
+      "The sentence places the direct object 'eight hundred pesos' immediately after the verb 'paid', and then the indirect object 'for a watch'.",
+      "The phrase 'at the bazaar' is correctly placed at the end to indicate the location of the transaction.",
+      "This structure ensures logical and natural <b>word order</b> for English sentences."
+    ],
+    "random_answer": [
+      "At the bazaar, I paid only eight hundred pesos for a watch worth one thousand.",
+      "I paid only eight hundred pesos for a watch that was worth one thousand.",
+      "Eight hundred pesos only was what I paid for a watch at the bazaar that was worth one thousand."
+    ]
+  },
+  {
+    "question": "If one's minds wander while studying, it is a good device to read aloud.",
+    "answer": "If one's mind wanders while studying, reading aloud is a good device.",
+    "why": [
+      "The subject 'mind' should be singular to agree with 'one's' and 'wanders', correcting the plural 'minds'.",
+      "The gerund phrase 'reading aloud' functions as the subject of the second clause, creating a clear and active construction.",
+      "This revision maintains grammatical consistency and improves <b>subject-verb agreement</b>."
+    ],
+    "random_answer": [
+      "Reading aloud is a good device if one's mind wanders while studying.",
+      "Reading aloud is a good device for those whose minds wander while studying.",
+      "Reading aloud is a good device for those whose minds wander while studying."
+    ]
+  },
+  {
+    "question": "Finishing reading the book, he felt as if he had traveled around the world.",
+    "answer": "When he finished reading the book, he felt like he had traveled around the world.",
+    "why": [
+      "The subordinating conjunction 'When' correctly introduces the adverbial clause of time.",
+      "The clause 'he felt like he had traveled around the world' is an idiomatic and grammatically correct comparison using 'like'.",
+      "It clearly establishes the <b>temporal relationship</b> between finishing the book and his feeling."
+    ],
+    "random_answer": [
+      "When he had finished reading the book, he felt like he had traveled around the world.",
+      "After finishing reading the book, he felt like he has traveled around the world.",
+      "After having finished reading the book he felt like he has traveled around the world."
+    ]
+  },
+  {
+    "question": "In terms of images, thinking gives a person a distinct advantage of a lot more information stored.",
+    "answer": "In terms of images, thinking gives a person a distinct advantage of storing a lot more information.",
+    "why": [
+      "The use of the gerund 'storing' correctly indicates the act of keeping information, aligning with the context of 'advantage'.",
+      "This phrasing is more concise and grammatically precise than 'information stored'.",
+      "It clarifies what kind of distinct advantage thinking provides in relation to information."
+    ],
+    "random_answer": [
+      "A lot more information stored is the distinct advantage given a person who is thinking in terms of images.",
+      "Thinking in terms of images gives a person the distinct advantage of storing a lot more information.",
+      "Thinking in terms of images gives a person the distinct advantage of storing a lot more information."
+    ]
+  },
+  {
+    "question": "These guidelines apply to both they and us.",
+    "answer": "These guidelines apply to both them and us.",
+    "why": [
+      "The objective case pronouns 'them' and 'us' are correctly used after the preposition 'to', as they are objects of the preposition.",
+      "This ensures correct <b>pronoun case</b> in the sentence.",
+      "The sentence clearly indicates that the guidelines apply to both groups mentioned."
+    ],
+    "random_answer": [
+      "These guidelines apply to both they and them.",
+      "These guidelines apply to both them and they.",
+      "These guidelines apply to both us and they."
+    ]
+  },
+  {
+    "question": "One hundred pesos is really not much to pay for a book of this type.",
+    "answer": "One hundred pesos is really not much to pay for a book of this type.",
+    "why": [
+      "The sentence is grammatically correct as is, with 'one hundred pesos' functioning as a singular unit.",
+      "The use of 'is' for 'one hundred pesos' is correct when referring to a sum of money as a single amount.",
+      "It clearly expresses the value proposition for the book."
+    ],
+    "random_answer": [
+      "One hundred pesos is not really much to pay for a book of this type.",
+      "One hundred pesos is not really much to pay for a book of this type.",
+      "One hundred pesos is not really much to pay for a book of this type."
+    ]
+  },
+  {
+    "question": "Whether at home or at work, an individual's needs and values constantly come into opposition with other people.",
+    "answer": "Whether at home or at work, an individual's needs and values constantly come into opposition with other people.",
+    "why": [
+      "The sentence is grammatically correct and uses 'whether...or' effectively to present two settings.",
+      "The plural subject 'needs and values' correctly takes the plural verb 'come'.",
+      "It accurately describes the constant conflict an individual faces in different environments."
+    ],
+    "random_answer": [
+      "Whether at home or at work, an individual's needs and values constantly comes into opposition with other people.",
+      "Whether at home or at work, an individual's needs and values constantly comes into opposition with those of other people.",
+      "An individual's needs and values, whether at home or at work, constantly comes into opposition with other people."
+    ]
+  },
+  {
+    "question": "Looking through our files and our reference library, no information on this subject could be found.",
+    "answer": "It is sure useless to look in the files or reference library for such information.",
+    "why": [
+      "This sentence is grammatically correct and uses the impersonal 'It is' construction to make a general statement.",
+      "The phrase 'look in the files or reference library' is a common and correct idiom.",
+      "It clearly conveys the futility of searching for the information."
+    ],
+    "random_answer": [
+      "The reference library as well as the files were found to contain no information on this subject.",
+      "No information on this subject either in the company's reference library or its files.",
+      "I am sure that neither our reference library nor our files contain any information on this subject."
+    ]
+  },
+  {
+    "question": "It is the executive's sincere humility that makes his subordinates admired him.",
+    "answer": "The executive is admired by his subordinates which is the result of his sincere humility.",
+    "why": [
+      "The sentence uses the passive voice to highlight the executive being admired, rather than the humility doing the admiring.",
+      "The relative pronoun 'which' correctly refers to the admiration, not the humility itself.",
+      "This structure better expresses the <b>cause and effect</b>: humility leads to admiration."
+    ],
+    "random_answer": [
+      "The executive is admired by his subordinates because of his sincere humility.",
+      "The executive's sincere humility is what makes his subordinates admire him because of it.",
+      "The executive is sincere and humble man and his subordinates admire him because of it."
+    ]
+  },
+  {
+    "question": "As a member of society, everyone has the right to social security and is entitled to the realization of his economic, social, and cultural rights.",
+    "answer": "As a member of society, everyone has the right to social security and is entitled to the realization of his economic, social, and cultural rights.",
+    "why": [
+      "The sentence is grammatically correct and uses 'everyone' as a singular subject, agreeing with 'has' and 'is entitled'.",
+      "It employs <b>parallel structure</b> effectively to list the types of rights: 'economic, social, and cultural'.",
+      "The phrasing is clear and comprehensive in stating the universal rights."
+    ],
+    "random_answer": [
+      "As a member of society, the right to social security by everyone is entitled to the realization of his economic, social, and cultural rights.",
+      "The realization of his economic, social, and cultural rights and the rights to social security is entitled to everyone, as a member of society.",
+      "Everyone has the right to social security, as a member of society, and is entitled to the realization of his economic, social, and cultural rights."
+    ]
+  },
+  {
+    "question": "Miss Guzman had gone to United State to try to find a lucrative job.",
+    "answer": "Miss Guzman went to the United States to try and find a lucrative job.",
+    "why": [
+      "The simple past tense 'went' is appropriate for a completed action in the past.",
+      "The phrase 'United States' should be plural to refer to the country.",
+      "The use of 'and find' creates a natural and grammatically correct conjunction for the two verbs 'try' and 'find'."
+    ],
+    "random_answer": [
+      "Miss Guzman went to the United States to try to find a lucrative job.",
+      "Miss Guzman went to the United States to try and find a lucrative job.",
+      "Miss Guzman went to the United States to try and find a lucrative job."
+    ]
+  },
+  {
+    "question": "Of the women who have enjoyed growing orchids for years she is one.",
+    "answer": "She is one of the women who have enjoyed growing orchids for years.",
+    "why": [
+      "The sentence correctly places the subject 'she' at the beginning, followed by the verb and the prepositional phrase.",
+      "This structure ('She is one of the women...') is the standard and most idiomatic way to express this idea.",
+      "It improves <b>readability</b> and clarifies who the sentence is about."
+    ],
+    "random_answer": [
+      "Of the women who have enjoyed growing orchids for years she is one.",
+      "She is one of those women who have enjoyed to grow orchids for years.",
+      "She is one of those women who have enjoyed growing orchids for years."
+    ]
+  },
+  {
+    "question": "Giving instructions are easier than to follow them.",
+    "answer": "Instructions are easier to give than to follow them.",
+    "why": [
+      "The plural subject 'Instructions' correctly agrees with the plural verb 'are'.",
+      "The infinitive phrase 'to give' maintains <b>parallelism</b> with 'to follow them'.",
+      "This structure is grammatically sound and clearer than using a gerund as the subject with the verb 'are'."
+    ],
+    "random_answer": [
+      "It is easier to give instructions than to follow them.",
+      "Instructions could be easier given than followed.",
+      "It is sometimes hard to follow instructions which are easily given."
+    ]
+  },
+  {
+    "question": "The most critical period in the country as far as employment is concerned will be the third and last quarters of the year.",
+    "answer": "The most critical period in the country as far as employment is concerned will be the third and last quarters of the year as far as employment is concerned.",
+    "why": [
+      "The sentence is grammatically correct as is, with 'the most critical period' as the subject.",
+      "The use of 'as far as employment is concerned' appropriately modifies 'period' and is placed for clarity.",
+      "It clearly identifies the specific time frame for the critical period."
+    ],
+    "random_answer": [
+      "What will be the most critical period in the country will be the third and last quarters of the year as far as employment is concerned.",
+      "The third and last quarters of the year, as far as employment is concerned, will be the most critical period in the country.",
+      "The most critical period in the country will be the third and last quarters of the year as far as employment is concerned."
+    ]
+  },
+  {
+    "question": "Unfair discrimination, public officials and employees should provide service to everyone and regardless of party affiliation or preference.",
+    "answer": "Public officials and employees should provide service to everyone without unfair discrimination and regardless of party affiliation or preference.",
+    "why": [
+      "The phrase 'without unfair discrimination' clarifies the manner in which service should be provided.",
+      "This placement ensures that the sentence emphasizes equitable service provision, not just avoiding discrimination.",
+      "It creates a more complete and coherent statement about the nature of public service."
+    ],
+    "random_answer": [
+      "Public officials and employees should provide service to everyone and regardless of party affiliation or preference.",
+      "Public officials and employees should provide service, regardless of party affiliation or preference and without unfair discrimination to everyone.",
+      "Public officials and employees should provide service to everyone and it should be without unfair discrimination and regardless of party affiliation or preference."
+    ]
+  },
+  {
+    "question": "While it is desirable that a developmental plan be in writing, it is not required that it be in an elaborate form.",
+    "answer": "While it is desirable that a developmental plan be in writing, it is not required that it be in an elaborate form.",
+    "why": [
+      "The sentence is grammatically correct, using 'While' to introduce a concession and presenting a balanced idea.",
+      "The use of the subjunctive mood 'be' is correct after 'desirable that' and 'required that'.",
+      "It clearly distinguishes between what is desirable and what is required for the plan."
+    ],
+    "random_answer": [
+      "It is desirable that a developmental plan be in writing, no requirement whatsoever imposed that it be in an elaborate form.",
+      "While it is desirable that a developmental be written, it is not required that it be in an elaborate form.",
+      "While a developmental plan is desirable to be in writing it is not required that it be in an elaborate form."
+    ]
+  },
+  {
+    "question": "If not for the people's irresponsible acts, the destruction of the ozone layer would not happen.",
+    "answer": "If it were not for the people's irresponsible acts, the destruction of the ozone layer would not happen.",
+    "why": [
+      "The use of the subjunctive 'were' after 'If it' is correct for a counterfactual conditional statement.",
+      "This structure properly expresses a hypothetical situation that is contrary to fact.",
+      "It aligns with formal English grammar rules for unreal conditional sentences."
+    ],
+    "random_answer": [
+      "If it had not been for people's irresponsible acts, the destruction of the ozone layer would not have happened.",
+      "If it was not for the people's irresponsible acts, the destruction of the ozone layer would not have happened.",
+      "If it was not for the people's irresponsible acts, the destruction of the ozone layer would not have happened."
+    ]
+  },
+  {
+    "question": "Because no usher had to come to show the guests to their seats, a lady critic helped herself to a seat in front of the stage.",
+    "answer": "Because no usher had to come to show the guests to their seats, a lady critic helped herself to a seat in front of the stage.",
+    "why": [
+      "The sentence is grammatically correct and logically flows, with 'Because' introducing the reason.",
+      "The phrase 'helped herself to a seat' is an appropriate reflexive construction.",
+      "It clearly states why the lady critic took a seat without assistance."
+    ],
+    "random_answer": [
+      "Because no usher came to show the guests to their seats, and a lady critic helped herself to a seat in front of the stage.",
+      "Because no usher had to come to show the guests to their seats, and a lady critic helped herself in front of the stage.",
+      "No usher had come to show the guests to their seats, a lady critic helped herself in front of the stage."
+    ]
+  },
+  {
+    "question": "The size of one's family is considered when he buys a car.",
+    "answer": "The size of one's family is considered when he buys a car.",
+    "why": [
+      "The sentence is grammatically correct as is, using the singular possessive 'one's' and the singular verb 'is considered'.",
+      "The structure clearly links the act of buying a car to the consideration of family size.",
+      "It's a concise and well-formed statement about a purchasing decision."
+    ],
+    "random_answer": [
+      "A person who buys a car ought to consider the size of his/her family.",
+      "A person should be considering the size of one's family in buying a car.",
+      "In buying a car, a person should consider the size of one's family."
+    ]
+  },
+  {
+    "question": "Being very expensive, I did not buy the gown.",
+    "answer": "Being very expensive, the gown was not bought.",
+    "why": [
+      "This sentence uses the passive voice to focus on the gown itself and its state.",
+      "The participial phrase 'Being very expensive' correctly modifies 'the gown', avoiding a <b>dangling modifier</b>.",
+      "It clearly explains why the gown was not acquired without implying the 'I' was expensive."
+    ],
+    "random_answer": [
+      "I did not buy it because the gown was very expensive.",
+      "I did not buy the gown because it was very expensive.",
+      "I did buy the gown because it was very expensive."
+    ]
+  },
+  {
+    "question": "To be sure about your conclusion, you should consider all the available and relevant facts.",
+    "answer": "To be sure about your conclusion, you should consider all the available and relevant facts.",
+    "why": [
+      "The sentence is grammatically correct and logically advises considering all facts for a conclusion.",
+      "The infinitive phrase 'To be sure' acts as an adverbial phrase explaining the purpose of considering facts.",
+      "It offers clear and concise advice on validating a conclusion."
+    ],
+    "random_answer": [
+      "Considering all the available and relevant facts should be in order for one to be sure about one's conclusion.",
+      "You should consider all the available facts to be sure about your conclusion, and also the relevant facts.",
+      "You should consider all the available facts to be sure about your conclusion, and also the relevant facts."
+    ]
+  },
+  {
+    "question": "They are friendly people so everyone likes them.",
+    "answer": "They are friendly people so everyone likes them.",
+    "why": [
+      "The sentence is grammatically correct and uses 'so' as a conjunction to show cause and effect.",
+      "The plural pronoun 'them' correctly refers back to 'friendly people'.",
+      "It is a simple, clear statement about the consequence of people's friendliness."
+    ],
+    "random_answer": [
+      "They are friendly people that everyone likes them.",
+      "They are such friendly people that everyone likes them.",
+      "They are such friendly people that everyone likes them."
+    ]
+  },
+  {
+    "question": "Television programs are crammed with commercials that the viewers get annoyed.",
+    "answer": "Television programs are so crammed with commercials that the viewers get annoyed.",
+    "why": [
+      "The use of 'so...that' construction correctly expresses the degree of cramming and its result.",
+      "This structure clearly links the intensity of commercials to the viewers' annoyance.",
+      "It highlights the cause-and-effect relationship in a grammatically appropriate way."
+    ],
+    "random_answer": [
+      "Television programs are crammed with commercials that the viewers get annoyed.",
+      "Television programs are too crammed with commercials that the viewers get annoyed.",
+      "Television programs are so crammed with commercials such that the viewers get annoyed."
+    ]
+  },
+  {
+    "question": "Before any serious damage was done, by the firemen, the fire was put out fortunately.",
+    "answer": "Fortunately, the fire was put out by the firemen before any serious damage was done.",
+    "why": [
+      "The adverb 'Fortunately' is correctly placed at the beginning of the sentence to modify the entire clause.",
+      "This structure emphasizes the positive outcome first, then describes the action.",
+      "It allows for a more natural and direct flow of information."
+    ],
+    "random_answer": [
+      "The fire was put out by the firemen, fortunately, before any serious damage was done.",
+      "Fortunately, the fire was put out by the firemen, before any serious damage was done.",
+      "The fire was put out by the firemen, fortunately, before any serious damage was done."
+    ]
+  },
+  {
+    "question": "Traditionally speaking, small and medium-sized companies have viewed advertising as a business expense which is necessary.",
+    "answer": "Traditionally speaking, small and medium-sized companies have viewed advertising as a necessary business expense.",
+    "why": [
+      "The sentence uses the adjective 'necessary' directly before the noun 'business expense' to modify it.",
+      "This concise structure ('a necessary business expense') is more grammatically direct and avoids redundancy.",
+      "It clearly states the companies' view on advertising without unnecessary phrasing."
+    ],
+    "random_answer": [
+      "Advertising has been viewed by small and medium-sized companies, traditionally as a necessary business expense.",
+      "As necessary business expense has been the way traditionally small and medium-sized companies view advertising.",
+      "Small and medium-sized companies have traditionally viewed advertising as a necessary business expense."
+    ]
+  },
+  {
+    "question": "Worthy of human dignity must be the existence of every person who works and ensured of the right to just and favorable remuneration.",
+    "answer": "Every person who works has the right to just and favorable remuneration ensuring for himself and his family an existence worthy of human dignity.",
+    "why": [
+      "The sentence establishes a clear subject ('Every person who works') and main verb ('has the right').",
+      "The phrase 'ensuring for himself and his family' acts as a participial phrase modifying 'remuneration', clarifying its purpose.",
+      "It constructs a comprehensive and grammatically sound statement about human rights and labor."
+    ],
+    "random_answer": [
+      "The right to just and favorable remuneration for every person who works has ensured for himself and his family an existence worthy of human dignity.",
+      "The right to just and favorable remuneration of every person who works has ensured for himself and his family an existence worthy of human dignity.",
+      "An existence worthy of human dignity for himself and his family is ensured by the right to just and favorable remuneration of every person who works."
+    ]
+  },
+  {
+    "question": "Her brother, whom I met in the party, is more richer than you think.",
+    "answer": "Her brother, whom I met in the party, is much richer than you think.",
+    "why": [
+      "The use of 'much' before 'richer' is correct for emphasizing a greater degree of comparison, avoiding the double comparative 'more richer'.",
+      "This adheres to the rules of comparative adjectives in English.",
+      "It expresses the extent of wealth more accurately and grammatically."
+    ],
+    "random_answer": [
+      "Her brother, whom I met in the party, is much richer than you think.",
+      "I met her brother in the party and he is richer than you think.",
+      "I met her brother in the party and he is richer than you think."
+    ]
+  },
+  {
+    "question": "In all his efforts to please others, he got into trouble.",
+    "answer": "In all his efforts to please others, he got into trouble.",
+    "why": [
+      "The sentence is grammatically correct as is, with the prepositional phrase 'In all his efforts' clearly setting the context.",
+      "The verb phrase 'got into trouble' is a common and correct idiom.",
+      "It clearly states the outcome of his attempts to please others."
+    ],
+    "random_answer": [
+      "To please others, he got into trouble.",
+      "All his efforts to please others got him into trouble.",
+      "All his efforts to please others got him into trouble."
+    ]
+  },
+  {
+    "question": "Our farmers have been helped to cope with the drought brought about by the El Niño phenomenon by the shallow tube wells.",
+    "answer": "Our farmers have been helped to cope with the drought brought about by the El Niño phenomenon by the shallow tube wells.",
+    "why": [
+      "The sentence is grammatically correct and uses the passive voice to emphasize the farmers' benefit.",
+      "The phrase 'brought about by the El Niño phenomenon' correctly describes the drought's cause.",
+      "It clearly attributes the assistance to the 'shallow tube wells'."
+    ],
+    "random_answer": [
+      "Coping with the drought brought about by the El Niño phenomenon, our farmers are coping with the drought by the shallow tube wells.",
+      "The El Niño phenomenon brought about the drought with which our farmers are coping with the shallow tube wells.",
+      "The shallow tube wells have helped our farmers to cope with the drought brought about by the El Niño phenomenon."
+    ]
+  },
+  {
+    "question": "Fields can be irrigated but the water from the shallow tube wells is not fit for human consumption.",
+    "answer": "Fields can be irrigated but the water from the shallow tube wells is not fit for human consumption.",
+    "why": [
+      "The sentence is grammatically correct, using 'but' to introduce a contrast between the two clauses.",
+      "The verb 'is' correctly agrees with the singular subject 'water'.",
+      "It clearly states the dual nature of the shallow tube wells: useful for irrigation but not for drinking."
+    ],
+    "random_answer": [
+      "The water from the shallow tube wells is only for irrigating fields and not fit for human consumption.",
+      "With its water, shallow tube wells irrigate fields but is not fit for human consumption.",
+      "Irrigating fields, not human consumption, the water from the shallow tube wells can irrigate fields."
+    ]
+  },
+  {
+    "question": "To do their work well, what the new manager told all employees in the company do their work well.",
+    "answer": "To do their work well, the new manager told all employees in the company to do their work well.",
+    "why": [
+      "The sentence correctly uses the infinitive 'to do their work well' as the complement of the verb 'told'.",
+      "The phrase 'told all employees in the company' clearly identifies who received the instruction.",
+      "It provides a clear and direct statement about the manager's directive regarding work performance."
+    ],
+    "random_answer": [
+      "What the new manager told all employees in the company to do their work well.",
+      "The new manager told all employees in the company to do their work well.",
+      "The new manager told all employees in the company to do their work well."
+    ]
+  },
+  {
+    "question": "If the young are to be taught, they must be taught not only by precept but also by example.",
+    "answer": "If the young are to be taught, they must be taught not only by precept but also by example.",
+    "why": [
+      "The sentence is grammatically correct and uses the correlative conjunction 'not only...but also' properly.",
+      "It maintains <b>parallelism</b> between 'by precept' and 'by example'.",
+      "The phrasing effectively conveys the dual approach required for teaching."
+    ],
+    "random_answer": [
+      "If the young are to be taught, they must be taught not only by precept but also by example.",
+      "If the young are to be taught, they must teach them not only by precept but also by example.",
+      "If the young are to be taught, they must not only be taught by precept but by example."
+    ]
+  },
+  {
+    "question": "Many couples cannot hardly make both ends meet.",
+    "answer": "Many couples can hardly make both ends meet.",
+    "why": [
+      "The sentence correctly uses 'hardly' as an adverb meaning 'barely', eliminating the redundant 'cannot'.",
+      "The phrase 'can hardly' is the correct idiom for expressing difficulty in making ends meet.",
+      "It avoids a double negative, which would be ungrammatical."
+    ],
+    "random_answer": [
+      "Many couples can't hardly make both ends meet.",
+      "Many couples are hardly in no position to make both ends meet.",
+      "Many couples are hardly unable to make both ends meet."
+    ]
+  },
+  {
+    "question": "Industrialization must accelerate because the coming generation is banking on the opportunities that will result from it.",
+    "answer": "Industrialization must accelerate, for it is here where the coming generation is banking on opportunities.",
+    "why": [
+      "The conjunction 'for' is used correctly to mean 'because', introducing the reason for acceleration.",
+      "The phrase 'it is here where' concisely conveys the present importance of industrialization.",
+      "It provides a clear and formal reason for the need to accelerate industrialization."
+    ],
+    "random_answer": [
+      "Industrialization must accelerate and result in opportunities and the coming generation is banking on it.",
+      "Industrialization must accelerate, where the coming generation is banking on opportunities, must accelerate.",
+      "Industrialization must accelerate and result in opportunities and the coming generation is banking on it."
+    ]
+  },
+  {
+    "question": "After six major revisions, the convenience of the article as well as the common and economic sense are still apparent.",
+    "answer": "The economy, common sense, and convenience of this article after six major revisions.",
+    "why": [
+      "This sentence focuses on the qualities of the article, implying that these qualities are still apparent.",
+      "It uses a concise noun phrase as the subject, followed by the implied predicate from the original context.",
+      "The structure is grammatically sound and focuses on the core elements."
+    ],
+    "random_answer": [
+      "The economy, common sense, and convenience of this article after six major revisions.",
+      "The economy, common sense, and convenience of this article after six major revisions are still apparent.",
+      "The economy, common sense, and convenience are still apparent after six major revisions of this article."
+    ]
+  },
+  {
+    "question": "Journalism requires corroboration of even reporter's initial findings of the ordinary context.",
+    "answer": "Journalism requires corroboration of even reporter's initial findings of the ordinary context.",
+    "why": [
+      "The sentence is grammatically correct as is, with 'corroboration' acting as the direct object of 'requires'.",
+      "The phrase 'of the ordinary context' appropriately modifies 'findings', specifying their origin.",
+      "It clearly states a requirement for journalistic practice."
+    ],
+    "random_answer": [
+      "Corroboration of reporter's initial findings even in the ordinary context is required in journalism.",
+      "Reporter's initial findings require corroboration in journalism even in the ordinary context.",
+      "The requirement of journalism is corroboration of reporter's initial findings even in the ordinary context."
+    ]
+  },
+  {
+    "question": "A government official or employee is expected to act on a request or petition promptly and expeditiously whether written or verbal.",
+    "answer": "A government official or employee is expected to act on a request or petition promptly and expeditiously whether written or verbal.",
+    "why": [
+      "The sentence is grammatically correct, using <b>parallel adverbs</b> 'promptly and expeditiously' to describe the action.",
+      "The phrase 'whether written or verbal' is correctly placed to modify 'request or petition', indicating the format.",
+      "It clearly outlines the expected conduct of government officials."
+    ],
+    "random_answer": [
+      "A request or petition is expected to be acted on by a government official or employee promptly and expeditiously, whether written or verbal.",
+      "Whether written or verbal, a government official or employee is expected to act on a request or petition promptly and expeditiously.",
+      "Promptly and expeditiously, a government official or employee is expected to act on a request or petition, whether written or verbal."
+    ]
+  },
+  {
+    "question": "For Philemon, weeding rosebushes in the garden is a tiresome chore although he loves to pick roses but not to tend them.",
+    "answer": "For Philemon, weeding rosebushes in the garden is a tiresome chore although he loves to pick roses but not to tend them.",
+    "why": [
+      "The sentence is grammatically correct and uses 'although' to introduce a contrasting idea.",
+      "The gerund phrase 'weeding rosebushes' functions as the subject, appropriately agreeing with 'is'.",
+      "It clearly explains Philemon's dislike for weeding despite his love for roses."
+    ],
+    "random_answer": [
+      "Weeding rosebushes in the garden is a tiresome chore for Philemon who loves to pick roses but not to tend them.",
+      "Because Philemon loves to pick roses but not to tend them in the garden, weeding rosebushes is a tiresome chore for him.",
+      "Philemon, who loves to pick roses but not to tend them, weeding rosebushes in the garden is a tiresome chore for him."
+    ]
+  },
+  {
+    "question": "The time has come to change their attitudes and lifestyles.",
+    "answer": "The time has come to change their attitudes and lifestyles.",
+    "why": [
+      "The sentence is grammatically correct as is, with 'time' as the subject and 'has come' as the verb.",
+      "The infinitive phrase 'to change their attitudes and lifestyles' correctly specifies what the time has come for.",
+      "It is a clear and concise statement of a necessary evolution."
+    ],
+    "random_answer": [
+      "The time when the attitudes and lifestyles of the people has come to change.",
+      "People must change their attitudes and lifestyles, and it is because the time has come to change.",
+      "People must change their attitudes and lifestyles, and it is because the time has come to change."
+    ]
+  },
+  {
+    "question": "Whenever errors are committed in my work, my attention is called by my supervisor.",
+    "answer": "Whenever errors are committed in my work, my attention is called by my supervisor.",
+    "why": [
+      "The sentence is grammatically correct and uses the passive voice to emphasize the errors and the supervisor's action.",
+      "The adverbial clause 'Whenever errors are committed in my work' correctly sets the condition for the main clause.",
+      "It clearly describes a recurring event and its consequence."
+    ],
+    "random_answer": [
+      "My supervisor calls my attention when committing errors in my work.",
+      "My supervisor calls my attention to my work when I commit errors in my work.",
+      "My supervisor calls my attention to my work when I commit errors in my work."
+    ]
+  },
+  {
+    "question": "Tests is one of the difficult ordeals that confront people.",
+    "answer": "Tests is one of the difficult ordeals that confront people.",
+    "why": [
+      "The sentence is grammatically correct as is, with the plural subject 'Tests' correctly matched with the plural verb 'are'.",
+      "The relative clause 'that confront people' accurately modifies 'ordeals'.",
+      "It makes a clear statement about the nature of tests as a challenging experience."
+    ],
+    "random_answer": [
+      "Tests is one of the difficult ordeal that confront people.",
+      "If there is one difficult ordeal that confront people, it is tests.",
+      "One of the difficult ordeals that confront people are tests."
+    ]
+  },
+  {
+    "question": "One must save a little money everyday to prepare for the future.",
+    "answer": "One must save a little money everyday to prepare for the future.",
+    "why": [
+      "The sentence is grammatically correct and uses 'one' as a general pronoun for an individual.",
+      "The infinitive phrase 'to prepare for the future' correctly states the purpose of saving.",
+      "It provides clear and practical advice regarding financial planning."
+    ],
+    "random_answer": [
+      "A little money must be saved everyday to prepare for one's future.",
+      "To prepare for the future, a little money must be saved by a person everyday.",
+      "To prepare for one's future, a little money must be saved by a person everyday."
+    ]
+  },
+  {
+    "question": "The reason Annie did not get the good job is because she is not prepared for it.",
+    "answer": "The reason Annie did not get the good job is that she was not prepared.",
+    "why": [
+      "The phrase 'the reason...is that' is grammatically correct and avoids the redundant 'because'.",
+      "It presents a concise and clear explanation for Annie's failure to get the job.",
+      "This structure is more formal and precise in English prose."
+    ],
+    "random_answer": [
+      "The reason Annie did not get the good job is because she is not prepared for it.",
+      "The reason Annie did not get the good job is that she was not prepared for it.",
+      "The reason Annie did not get the good job is that she was not prepared for it."
+    ]
+  },
+  {
+    "question": "The stores have attractive display windows that look attractive.",
+    "answer": "The stores have attractive display windows.",
+    "why": [
+      "The sentence is concise, removing redundant words like 'that look attractive' when 'attractive' already describes the windows.",
+      "It uses the adjective 'attractive' once to convey the desired meaning efficiently.",
+      "Simplicity and directness enhance <b>sentence clarity</b>."
+    ],
+    "random_answer": [
+      "The stores across the street have attractive display windows.",
+      "The stores across the street have attractive display windows.",
+      "With attractive display windows, the stores are located across the street."
+    ]
+  },
+  {
+    "question": "Gloria told her aunt that she had bought a gift for her.",
+    "answer": "Gloria told her aunt that she had bought a gift for her.",
+    "why": [
+      "The sentence is grammatically correct as is, using correct reported speech.",
+      "The past perfect 'had bought' correctly indicates an action completed before another past action ('told').",
+      "It clearly conveys the information Gloria shared with her aunt."
+    ],
+    "random_answer": [
+      "Gloria told her aunt she had bought a gift for her.",
+      "Gloria bought a gift for her and she told her aunt.",
+      "She has bought a gift for her was what Gloria told her aunt."
+    ]
+  },
+  {
+    "question": "The barrio is connected with the provincial road by a small road.",
+    "answer": "The barrio is connected with the provincial road by a small road.",
+    "why": [
+      "The sentence is grammatically correct and clearly states the connection of the barrio to the provincial road.",
+      "The passive voice 'is connected' is appropriately used to describe the state of the barrio.",
+      "It explicitly identifies the 'small road' as the means of connection."
+    ],
+    "random_answer": [
+      "A small bridge, though small, connects the barrio to the provincial road.",
+      "A small bridge connects the barrio to the provincial road.",
+      "A small bridge serves to connect the barrio to the provincial road."
+    ]
+  },
+  {
+    "question": "When Belen applied for citizenship, she had to sign many papers.",
+    "answer": "When Belen applied for citizenship, she had to sign many papers.",
+    "why": [
+      "The sentence is grammatically correct, using 'When' to introduce the time clause.",
+      "The verb 'had to sign' correctly expresses an obligation in the past.",
+      "It clearly describes an action Belen had to perform during her citizenship application."
+    ],
+    "random_answer": [
+      "Belen applied for citizenship, many papers were signed.",
+      "When Belen applied for citizenship, many papers were signed by her.",
+      "Belen applied for citizenship and she has to sign many papers."
+    ]
+  },
+  {
+    "question": "After the three-day conference in Manila, the regional directors went back to their posts like they were instructed.",
+    "answer": "After the three-day conference in Manila, the regional directors had gone back to their posts as was the instruction.",
+    "why": [
+      "The past perfect tense 'had gone' correctly indicates an action completed before another past action (implied 'being instructed').",
+      "The phrase 'as was the instruction' is more formal and precise than 'like they were instructed'.",
+      "It ensures grammatical accuracy in describing sequential past events and adherence to directives."
+    ],
+    "random_answer": [
+      "After the three-day conference in Manila, the regional directors went back to their posts according to instructions.",
+      "The three-day conference in Manila, the regional directors went back to their posts like they were instructed.",
+      "After the three-day conference in Manila, the regional directors went back to their posts according to instructions."
+    ]
+  },
+  {
+    "question": "He is not discouraged in spite his heavy losses recently in business.",
+    "answer": "Despite his heavy losses recently in business, he is not discouraged.",
+    "why": [
+      "The phrase 'Despite his heavy losses' concisely and correctly expresses the contrasting idea.",
+      "This structure is more formal and grammatically efficient than 'in spite his heavy losses'.",
+      "It clearly indicates that the lack of discouragement exists despite the business losses."
+    ],
+    "random_answer": [
+      "Despite his heavy losses in business recently, he is not discouraged.",
+      "In spite his heavy losses in business recently, he is not discouraged.",
+      "In spite his heavy losses in business recently, he is not discouraged."
+    ]
+  },
+  {
+    "question": "No matter how busy Allan is, he must find time to rest.",
+    "answer": "No matter how busy Allan is, he must find time to rest.",
+    "why": [
+      "The sentence is grammatically correct as is, using 'No matter how' to express a concession.",
+      "The subject 'Allan' agrees with the singular verb 'is', and 'he' agrees with 'must find'.",
+      "It clearly states the necessity for Allan to rest regardless of his busy schedule."
+    ],
+    "random_answer": [
+      "Even though how busy Allan is, he must find time to rest.",
+      "Allan must find time to rest although how busy he is.",
+      "Allan must find time to rest although how busy he is."
+    ]
+  },
+  {
+    "question": "You can study your lessons either at the library or in your own room.",
+    "answer": "You can study your lessons either at the library or in your own room.",
+    "why": [
+      "The sentence is grammatically correct and uses the correlative conjunction 'either...or' properly.",
+      "It maintains <b>parallel structure</b> by using 'at the library' and 'in your own room' as parallel prepositional phrases.",
+      "It clearly offers two distinct locations for studying."
+    ],
+    "random_answer": [
+      "You can study your lessons at the library or at your own room.",
+      "You can study either your lessons at the library or in your own room.",
+      "Either you can study your lessons at the library or in your own room."
+    ]
+  },
+  {
+    "question": "Biting of nails and excessive crying among children are indicators of emotional tension among them.",
+    "answer": "Biting of nails and excessive crying among children are indicators of emotional tension among them.",
+    "why": [
+      "The sentence is grammatically correct as is, with the compound subject 'Biting of nails and excessive crying' taking the plural verb 'are'.",
+      "The phrase 'among children' specifies the group being discussed.",
+      "It accurately identifies common signs of emotional tension in children."
+    ],
+    "random_answer": [
+      "Children crying and biting nails indicate emotional tension among children.",
+      "Those biting nails and excessive crying indicate emotional tension among children.",
+      "Their excessive crying and biting nails indicate emotional tension among children."
+    ]
+  },
+  {
+    "question": "There is no better way to teach a child to be courteous as to show examples of courtesy.",
+    "answer": "There is no better way to teach a child to be courteous than to show examples of courtesy.",
+    "why": [
+      "The sentence correctly uses 'than' to complete the comparative structure 'no better way...than'.",
+      "This construction is essential for expressing a comparison of superiority or preference.",
+      "It ensures grammatical completeness and clarifies the preferred method of teaching courtesy."
+    ],
+    "random_answer": [
+      "There is no better way to teach a child to be courteous by showing examples of courtesy.",
+      "There is no better way to teach a child to be courteous but to show examples of courtesy.",
+      "There is no better way to teach a child to be courteous to show examples of courtesy."
+    ]
+  },
+  {
+    "question": "Neither the wages increase nor the vacation plan have satisfied the workers.",
+    "answer": "Neither the wages increase nor the vacation plan has satisfied the workers.",
+    "why": [
+      "When using 'neither...nor', the verb typically agrees with the subject closest to it, which is 'vacation plan' (singular), thus 'has' is correct.",
+      "This adheres to the rule of <b>proximity for subject-verb agreement</b> with correlative conjunctions.",
+      "It clearly states that neither of the two factors satisfied the workers."
+    ],
+    "random_answer": [
+      "Neither the wages increase nor the vacation plan has satisfied the workers.",
+      "Neither the vacation plan nor the wage increase has satisfied the workers.",
+      "The vacation plan or the wage increase have satisfied the workers."
+    ]
+  },
+  {
+    "question": "No amount of progress will take place if the people do not discipline themselves and exert efforts to be self-reliant.",
+    "answer": "No amount of progress will take place if the people do not discipline themselves and exert efforts to be self-reliant.",
+    "why": [
+      "The sentence is grammatically correct and uses 'if' to introduce a conditional clause.",
+      "The plural reflexive pronoun 'themselves' correctly refers back to 'the people'.",
+      "It states a clear condition for progress, linking it to self-discipline and self-reliance."
+    ],
+    "random_answer": [
+      "No amount of progress will take place if the people are not disciplined and if they do not exert efforts to be self-reliant.",
+      "No amount of progress will have taken place because the people do not discipline themselves and exert efforts to be self-reliant.",
+      "If the people do not discipline themselves, no amount of progress will take place, and that they have to exert efforts to be self-reliant."
+    ]
+  },
+  {
+    "question": "The education of his children is more paramount in his plans.",
+    "answer": "The education of his children is more paramount in his plans.",
+    "why": [
+      "The sentence is grammatically correct as is, with 'education' as the singular subject and 'is' as the verb.",
+      "The adjective 'paramount' (meaning 'more important') does not require 'more' before it, but 'more paramount' is often used for emphasis, making it acceptable.",
+      "It highlights the supreme importance of his children's education in his plans."
+    ],
+    "random_answer": [
+      "The education of his children is paramount in his plans.",
+      "The education of his children is in his plans.",
+      "A paramount in his plans more than any other thing is the education of his children."
+    ]
+  },
+  {
+    "question": "A vital role is identifying the reasons why people leave an organization is interviewed.",
+    "answer": "A vital role is played by interviewing in identifying the reasons why people leave an organization.",
+    "why": [
+      "The sentence uses the passive voice 'is played by interviewing' to correctly express the action and the agent.",
+      "This structure clarifies that interviewing performs the vital role in identifying reasons for departure.",
+      "It demonstrates proper use of a passive construction to emphasize the vital role itself."
+    ],
+    "random_answer": [
+      "Interviewing in identifying the reasons why people leave an organization, plays the vital role.",
+      "Interviewing has a vital role in identifying the reasons why people leave an organization.",
+      "Interviewing in identifying the reasons why people leave an organization plays a vital role."
+    ]
+  },
+  {
+    "question": "Ang puwersang militar ng Pilipinas at Amerika ay nagpasya upang magpatupad ng malawakang pagsasanay ay nagkasundo upang suguin ang terorismo sa Pilipinas.",
+    "answer": "Ang pagpapatupad ng malawakang pagsasanay, ang puwersang militar ng Pilipinas at Amerika upang suguin ang terorismo sa Pilipinas ay nagkasundo.",
+    "why": [
+      "The sentence correctly places the phrase 'ang pagpapatupad ng malawakang pagsasanay' at the beginning as the main subject of agreement.",
+      "The singular verb 'nagkasundo' agrees with this singular subject, indicating agreement between the forces.",
+      "It is a clear and concise statement of the agreement reached for joint military exercises."
+    ],
+    "random_answer": [
+      "Sa pagpapatupad ng malawakang pagsasanay, nagkasundo ang puwersang militar ng Pilipinas at Amerika upang suguin ang terorismo sa Pilipinas.",
+      "Ang Pilipinas at Amerika ay nagkasundo.",
+      "Ang puwersang militar ng Pilipinas at Amerika ay nagpasya upang magpatupad ng malawakang pagsasanay upang suguin ang terorismo sa Pilipinas."
+    ]
+  },
+  {
+    "question": "Kasunod ninyo mula sa sasakyan ang isang lalaki.",
+    "answer": "Kasunod ninyo mula sa sasakyan ang isang lalaki.",
+    "why": [
+      "The sentence is grammatically correct in Filipino, using the appropriate word order for 'Kasunod ninyo' (following you).",
+      "It clearly states that 'isang lalaki' (a man) is following 'ninyo' (you) from the vehicle.",
+      "This is a direct and natural way to express the observation in Filipino."
+    ],
+    "random_answer": [
+      "Ang isang lalaki ang sasakyan ang kasunod ninyong umibis.",
+      "Ang isang lalaki ang sa sasakyan ay kasunod ninyong umibis.",
+      "Sa sasakyan ay isang lalaki ang kasunod ninyong umibis."
+    ]
+  },
+  {
+    "question": "Naniniwala akong ang gawaing ibinigay sa kanya niya.",
+    "answer": "Naniniwala akong ang gawaing ibinigay sa kanya niya.",
+    "why": [
+      "The sentence is grammatically correct in Filipino, expressing belief in the assigned task.",
+      "The use of 'niya' indicates possession or agency by 'him/her' in the past.",
+      "It conveys a personal conviction regarding the task assigned."
+    ],
+    "random_answer": [
+      "Ang gawaing ibinigay sa kanya niya ang gawaing ibinigay sa kanya.",
+      "Naniniwala akong niya ang gawaing ibinigay sa kanya.",
+      "Ang gawaing ibinigay sa kanya niya ay naniniwala akong siya."
+    ]
+  }
+]

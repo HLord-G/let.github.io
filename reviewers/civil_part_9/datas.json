@@ -1,0 +1,612 @@
+[
+  {
+    "question": "The published do-gooder club. of such visionary notions about reforms is reflected in the quick disintegration of that unrealistic, much",
+    "answer": "depreciation",
+    "why": [
+      "The phrase 'quick disintegration' implies a loss of value or decline.",
+      "Unrealistic notions often lead to a decrease in worth or effectiveness.",
+      "The context suggests a negative outcome, which 'depreciation' accurately describes."
+    ],
+    "random_answer": ["unpleasantness", "grandeur", "simplicity"]
+  },
+  {
+    "question": "Even farmers who toil in the fields deserve to be treated with _____",
+    "answer": "respect",
+    "why": [
+      "Farmers, like all individuals, deserve dignified and courteous treatment.",
+      "The phrase emphasizes fair and honorable treatment for their labor.",
+      "It promotes a fundamental principle of human dignity."
+    ],
+    "random_answer": ["equality", "grandeur", "importance"]
+  },
+  {
+    "question": "Business leaders proclaim enthusiastically that we now have enough evidence to say with _____ confidence that globalization is here to stay.",
+    "answer": "renewed",
+    "why": [
+      "Having 'enough evidence' leads to a strengthening or refreshing of confidence.",
+      "It implies that previous doubts have been overcome or lessened.",
+      "The evidence allows for a <font color='red'>reaffirmation</font> of their belief in globalization."
+    ],
+    "random_answer": ["reasonable", "ample", "eager"]
+  },
+  {
+    "question": "The struggle for national liberation of people in less-developed countries has _____ the literature of history and has been responsible for new approaches and techniques of viewing events and writing history.",
+    "answer": "stimulated",
+    "why": [
+      "The struggle acted as a catalyst, encouraging new methods and perspectives.",
+      "It implies a vigorous encouragement of new intellectual pursuits.",
+      "The events prompted fresh ideas and growth in historical studies."
+    ],
+    "random_answer": ["awakened", "altered", "broadened"]
+  },
+  {
+    "question": "Although Michael a columnist, in disproving allegations against the dismissed official, seems to be _____ the official.",
+    "answer": "affirmed",
+    "why": [
+      "By disproving allegations, Michael validated the official's position.",
+      "His actions served to uphold the official's integrity or initial stance.",
+      "The columnist's work provided strong support for the official."
+    ],
+    "random_answer": ["renewed", "exonerating", "demonstrated"]
+  },
+  {
+    "question": "The news papers columnist in disproving allegations against the dismissed official seems to be _____ the official.",
+    "answer": "palpable",
+    "why": [
+      "By disproving allegations, the columnist made the official's innocence or truthfulness very clear and noticeable.",
+      "The effect of the columnist's actions was evident and easily perceived.",
+      "It suggests a strong and evident impact on the official's standing."
+    ],
+    "random_answer": ["lowering", "exonerating", "exaggerated"]
+  },
+  {
+    "question": "At the start of the program, students are put together in small groups _____ by the faculty on the basis of diversity of nationality and experience.",
+    "answer": "selected",
+    "why": [
+      "The faculty chose students for groups based on specific criteria.",
+      "It indicates a deliberate process of group formation.",
+      "The formation was not random but purposeful, based on diversity."
+    ],
+    "random_answer": ["eliminated", "interviewed", "pinpointed"]
+  },
+  {
+    "question": "Trade brings mutual gains to all countries, but it can also have important distributional effects within national boundaries, benefiting some workers whose products become more in demand and _____ others who lose out to new competitors.",
+    "answer": "disillusioning",
+    "why": [
+      "When workers lose out to new competitors, they become disappointed or disheartened.",
+      "The negative impact of trade can cause a loss of belief in the system.",
+      "It reflects a state of being stripped of false hopes or expectations."
+    ],
+    "random_answer": ["hitting", "disproving", "disfavoring"]
+  },
+  {
+    "question": "In being frugal, some families engage in petty economies that require effort disproportionate to the _____",
+    "answer": "resources conserved",
+    "why": [
+      "Petty economies involve small savings, often not worth the effort required.",
+      "The effort expended is greater than the actual amount of resources saved.",
+      "It implies that the benefit gained in terms of saved resources is minimal compared to the energy invested."
+    ],
+    "random_answer": ["time spent", "sacrifices made", "money saved"]
+  },
+  {
+    "question": "Kris felt her privacy invaded by the _____ questions of the newscasters.",
+    "answer": "intriguing",
+    "why": [
+      "The questions, while perhaps interesting to others, were perceived as too probing and invasive by Kris.",
+      "It suggests that the questions delved into personal matters, making them overly curious.",
+      "The nature of the questions piqued interest in a way that felt like an intrusion."
+    ],
+    "random_answer": ["prying", "trivial", "hypothetical"]
+  },
+  {
+    "question": "It is a known fact in the banking community that the collapse of a number of local banks has been primarily due to _____ loan portfolios.",
+    "answer": "delinquent",
+    "why": [
+      "Loans that are overdue or in default directly contribute to financial instability and bank collapse.",
+      "A high number of unpaid loans indicates a severe problem with the bank's assets.",
+      "The term specifically refers to failures in debt repayment."
+    ],
+    "random_answer": ["underfunded", "mismanaged", "unrecovered"]
+  },
+  {
+    "question": "The court resisted the clamor to issue a temporary injunction for the sake of _____",
+    "answer": "sincerity",
+    "why": [
+      "The court chose to act with genuineness and truthfulness, perhaps waiting for due process.",
+      "It implies a commitment to acting with integrity rather than yielding to public pressure.",
+      "The decision was made based on the court's core values of honesty and straightforwardness."
+    ],
+    "random_answer": ["principle", "expediency", "honor"]
+  },
+  {
+    "question": "If honest men were _____ in this country, installment buying and business on credit would have grown very large.",
+    "answer": "influential",
+    "why": [
+      "If honest men held significant power or sway, trust in credit systems would increase.",
+      "Their presence would encourage confidence in financial dealings.",
+      "It suggests that their integrity would foster widespread adoption of credit-based transactions."
+    ],
+    "random_answer": ["admired", "popular", "rare"]
+  },
+  {
+    "question": "The behavioral _____ the children uprooted from their barangay or town is indicated by their readiness to quickly take up the different, even strange, customs of their new urban community.",
+    "answer": "pattern",
+    "why": [
+      "Their consistent readiness to adopt new customs demonstrates a clear behavioral trend.",
+      "It describes a repeatable and observable manner of their adaptation.",
+      "The quick adoption forms a recognizable sequence of actions."
+    ],
+    "random_answer": ["foundation", "adaptability", "organization"]
+  },
+  {
+    "question": "The belief in the sanctity of marriage predisposes one to _____ the legalization of divorce.",
+    "answer": "dislike",
+    "why": [
+      "A belief in the sacredness of marriage naturally leads to an aversion towards its dissolution.",
+      "It implies an unfavorable view towards anything that might undermine marital vows.",
+      "The predisposition is a negative sentiment towards divorce."
+    ],
+    "random_answer": ["protest", "ignore", "undermine"]
+  },
+  {
+    "question": "After a thorough study of the proposed change in the work system, the manager directed all concerned to _____ it immediately.",
+    "answer": "implement",
+    "why": [
+      "A 'thorough study' typically precedes the execution or putting into practice of a plan.",
+      "The directive implies that the change is ready to be put into effect.",
+      "It signifies the stage of putting the new system to use."
+    ],
+    "random_answer": ["learn", "evaluate", "consider"]
+  },
+  {
+    "question": "Despite seeing her house _____ by the fire, Linda still hoped that something of value may be left which can be riddled out of the ashes.",
+    "answer": "devastated",
+    "why": [
+      "A house that has been severely damaged by fire is accurately described as 'devastated'.",
+      "The term indicates extensive destruction and ruin.",
+      "It sets the scene for hoping to salvage something from the extreme damage."
+    ],
+    "random_answer": ["enflamed", "consumed", "brightened"]
+  },
+  {
+    "question": "After being caged for a month, the endangered Philippine Eagle flew away with _____.",
+    "answer": "frenzy",
+    "why": [
+      "An animal released after prolonged captivity would exhibit wild, uncontrolled behavior.",
+      "It reflects a state of extreme agitation and excitement upon regaining freedom.",
+      "The sudden release would likely lead to a burst of intense activity."
+    ],
+    "random_answer": ["liveliness", "eagerness", "restlessness"]
+  },
+  {
+    "question": "The more education a person has the more likely one becomes _____ in one’s views and steadfast in sticking to them.",
+    "answer": "independent",
+    "why": [
+      "Education often fosters critical thinking and the ability to form one's own opinions.",
+      "It leads to a greater capacity for self-reliance in thought and conviction.",
+      "The development of personal views is strengthened by knowledge."
+    ],
+    "random_answer": ["confused", "critical", "radical"]
+  },
+  {
+    "question": "Failure is the most tiring experience a person can ever have; there is nothing more _____ than not succeeding being blocked, not moving ahead.",
+    "answer": "exhilarating",
+    "why": [
+      "This phrase, likely used ironically, emphasizes the profound and overwhelming *negative* impact of failure.",
+      "It contrasts the expected positive meaning of 'exhilarating' with the deeply draining experience of being blocked.",
+      "The extreme feeling associated with being stuck in failure is presented with an unexpected, almost sarcastic, descriptor."
+    ],
+    "random_answer": ["invigorating", "depressing", "enervating"]
+  },
+  {
+    "question": "Mass media develop in us a level of consciousness that keeps us _____ current events.",
+    "answer": "excited over",
+    "why": [
+      "Mass media often sensationalizes events, generating strong public interest and emotional responses.",
+      "It implies a state of active and keen engagement with news and developments.",
+      "The presentation style of media can create a heightened sense of urgency or thrill about ongoing events."
+    ],
+    "random_answer": ["interested in", "adjusting to", "fearful of"]
+  },
+  {
+    "question": "Realizing that we were determined to go, our experienced friends _____ that there might be more difficulties along the way than we expect.",
+    "answer": "insisted",
+    "why": [
+      "Experienced individuals would strongly assert their warnings about potential challenges.",
+      "It indicates a firm and persistent declaration of their concerns.",
+      "The friends expressed their views with conviction due to their past experiences."
+    ],
+    "random_answer": ["dismissed", "intimidated", "projected"]
+  },
+  {
+    "question": "Media, especially print, has the unpleasant task of _____ more the negative than the positive side of certain events.",
+    "answer": "describing",
+    "why": [
+      "Media's primary function is to report and portray events as they occur.",
+      "It involves the factual portrayal of both good and bad aspects.",
+      "The role is to give an account of events, even if biased towards certain aspects."
+    ],
+    "random_answer": ["elevating", "discussing", "accentuating"]
+  },
+  {
+    "question": "In the add world of technology, a great product, a remarkable corporate transformation, and market acceptance would be in fact be _____.",
+    "answer": "a plague",
+    "why": [
+      "In a world characterized by 'addition' or rapid technological growth, even 'great' successes can introduce new complexities or problems.",
+      "The phrase suggests that while positive on the surface, rapid advancements can also bring unforeseen difficulties or burdens.",
+      "It implies that even desirable outcomes in a hyper-technological environment can become overwhelming or troublesome."
+    ],
+    "random_answer": ["a rebirth", "a breakdown", "an edge"]
+  },
+  {
+    "question": "The Philippines needs more doctors to deliver medical services to _____ population.",
+    "answer": "an impoverished",
+    "why": [
+      "Poor populations often have limited access to healthcare, making them a priority for medical services.",
+      "It highlights the socioeconomic disparity in healthcare access.",
+      "The focus is on serving communities with significant economic disadvantages."
+    ],
+    "random_answer": ["the rural", "the marginalized", "an industrialized"]
+  },
+  {
+    "question": "For groups whose economic activities are organized around hunting or herding, any living settlement is only temporary, and frequent moves are made often on foot. Consequently, the material possessions of such people are _____.",
+    "answer": "durable",
+    "why": [
+      "Possessions that need to be frequently moved on foot must be able to withstand wear and tear.",
+      "It implies that the items are built to last and endure rough handling.",
+      "The necessity for portability mandates robust and resilient belongings."
+    ],
+    "random_answer": ["crude", "limited", "extensive"]
+  },
+  {
+    "question": "He caps a distinguished acting career of playing the challenging role of a villain by giving performances that are _____.",
+    "answer": "colorful",
+    "why": [
+      "Colorful performances are vibrant, diverse, and full of character, adding richness to the role.",
+      "It indicates a dynamic and expressive portrayal that engages the audience.",
+      "The term suggests a wide range of emotions and nuances in his acting."
+    ],
+    "random_answer": ["melodramatic", "unsurpassable", "inspiring"]
+  },
+  {
+    "question": "After a nuclear accident, people tend to be more and become _____ of their government.",
+    "answer": "suspicious",
+    "why": [
+      "Such an event would likely lead to a lack of trust in the government's handling of safety and information.",
+      "It implies a heightened sense of doubt and wariness towards official statements.",
+      "The public would question the competence and honesty of authorities."
+    ],
+    "random_answer": ["fearful", "skeptical", "resentful"]
+  },
+  {
+    "question": "Pumice is a rock formed by the cooling and hardening of lava which contains dissolved gases. Pumice is so light that it will float on water. This is because it contains so many air chambers; it is very _____.",
+    "answer": "durable",
+    "why": [
+      "The process of cooling and hardening lava forms a robust structure.",
+      "Despite its lightness and air chambers, the rock maintains structural integrity.",
+      "It implies the material withstands forces without easily breaking down."
+    ],
+    "random_answer": ["rare", "porous", "brilliant"]
+  },
+  {
+    "question": "From a distance, the view of any industrial city is obscured by a heavy pall of smoke exuded from factory chimneys. Residents of these cities object to the physical discomfort of a smoke-filled atmosphere and to the extra expense necessary to replace soot-damaged goods and to meet abnormally high _____.",
+    "answer": "water bills",
+    "why": [
+      "Increased pollution and soot would necessitate more frequent cleaning of goods and homes.",
+      "Cleaning activities would directly lead to higher consumption of water.",
+      "The constant need for washing to combat soot would inflate utility expenses."
+    ],
+    "random_answer": ["telephone bills", "light bills", "food bills"]
+  },
+  {
+    "question": "A one-second cathode ray treatment of hamburgers will preserve them for sixty day in a refrigerator. Sailors going on voyages of several weeks can have safe food even though the ship does not have _____.",
+    "answer": "deep freeze",
+    "why": [
+      "If the treatment preserves food for 60 days without a refrigerator, a 'deep freeze' system becomes unnecessary.",
+      "The new technology eliminates the need for extreme preservation methods.",
+      "It highlights the efficiency of the cathode ray treatment in food storage."
+    ],
+    "random_answer": ["air circulation", "radiant system", "physician"]
+  },
+  {
+    "question": "If we closely analyze the world distribution of _____, we would notice that there are many people who are extremely poor, and many people extremely rich, and comparatively very few in the middle.",
+    "answer": "progress",
+    "why": [
+      "An uneven distribution of 'progress' reflects the existence of both highly developed and undeveloped segments of society.",
+      "It highlights disparities in access to opportunities and advancements.",
+      "The phrase signifies unequal development across different populations."
+    ],
+    "random_answer": ["production", "population", "income"]
+  },
+  {
+    "question": "Many large corporations maintain nurses and hospitals for their employees and in various other ways encourage better _____.",
+    "answer": "health",
+    "why": [
+      "The provision of nurses and hospitals directly aims to improve the physical well-being of employees.",
+      "It implies a focus on promoting and maintaining good health among the workforce.",
+      "The company's investment is geared towards the welfare of its personnel."
+    ],
+    "random_answer": ["facilities", "pay", "ridiculous"]
+  },
+  {
+    "question": "The goal of humanism is to pursue life’s _____ more than devastating forces of corruption and commercialization",
+    "answer": "meaning",
+    "why": [
+      "Humanism emphasizes the search for purpose and significance in human existence.",
+      "It prioritizes finding intrinsic value beyond material or corrupting influences.",
+      "The pursuit focuses on the deeper philosophical aspects of life."
+    ],
+    "random_answer": ["offering", "enrichment", "difficulty"]
+  },
+  {
+    "question": "The manager said that he would gladly help pay for it but he could naturally _____ the offer.",
+    "answer": "decline",
+    "why": [
+      "The word 'but' indicates a contrasting idea, suggesting he had the option to refuse despite his willingness.",
+      "It implies that even with goodwill, the manager retained the power to say no.",
+      "His ability to refuse is an inherent part of his discretion regarding the offer."
+    ],
+    "random_answer": ["imposed", "ignored", "denied"]
+  },
+  {
+    "question": "While most typhoons cause little or no loss of human life, occasionally the losses are _____.",
+    "answer": "catastrophic",
+    "why": [
+      "The contrast 'little or no loss' with 'occasionally' implies that when losses do occur, they are extremely severe.",
+      "It describes events causing widespread destruction and devastation.",
+      "The term emphasizes the immense scale of harm and damage."
+    ],
+    "random_answer": ["appalling", "fortuitous", "incomplete"]
+  },
+  {
+    "question": "While recognizing the value of the new invention, the critic thought its possibilities are distinctly _____.",
+    "answer": "limited",
+    "why": [
+      "Despite acknowledging its value, the critic saw specific constraints on its potential.",
+      "The assessment highlights clear boundaries to the invention's applications or impact.",
+      "It suggests a discernment of definite restrictions on its capabilities."
+    ],
+    "random_answer": ["boundless", "known", "valuable"]
+  },
+  {
+    "question": "When the defense lawyer asked for a postponement the prosecuting attorney protested the defense's _____ and insisted that the trial should proceed.",
+    "answer": "denying the",
+    "why": [
+      "The prosecuting attorney's insistence on proceeding implies protesting any action that would *deny* the immediate continuation of the trial.",
+      "It suggests the prosecutor's opposition to the defense's attempt to halt or delay the legal process.",
+      "The blank refers to the action of the defense that seeks to prevent the trial from moving forward as intended by the prosecutor."
+    ],
+    "random_answer": ["delay", "hasten", "roundabout"]
+  },
+  {
+    "question": "The student did not take the _____.",
+    "answer": "joke",
+    "why": [
+      "The phrase implies the student failed to understand or appreciate humor.",
+      "It suggests a literal interpretation or a lack of comprehension regarding something meant to be lighthearted.",
+      "The student missed the humorous intent of the remark."
+    ],
+    "random_answer": ["faceless", "prompt", "shrewd"]
+  },
+  {
+    "question": "Contemporary leaders are becoming more conscious of the needs for a strong research capability to _____ agricultural productivity.",
+    "answer": "boost",
+    "why": [
+      "Strong research capability is typically aimed at increasing or improving agricultural output.",
+      "It implies an effort to enhance and elevate productivity levels.",
+      "The goal of research in this context is to provide a significant positive impetus."
+    ],
+    "random_answer": ["discourage", "counteract", "direct"]
+  },
+  {
+    "question": "Global demand for freshwater will surely increase as industrial activity and agricultural production are _____ to serve the needs of the world’s growing population.",
+    "answer": "expanded",
+    "why": [
+      "To meet the needs of a growing population, industrial and agricultural output must be increased in scale.",
+      "It implies a broadening of scope and capacity to cover rising demands.",
+      "The term signifies growth and enlargement in production efforts."
+    ],
+    "random_answer": ["promoted", "endorsed", "intensified"]
+  },
+  {
+    "question": "A vigilant public servant does not hesitate to call the attention of the authorities to acts _____ to public welfare and interests.",
+    "answer": "indifferent",
+    "why": [
+      "A vigilant public servant would draw attention to acts that show a lack of concern for public welfare.",
+      "Indifference can be detrimental by neglecting the needs and interests of the public.",
+      "It suggests a failure to act responsibly, which a vigilant servant would address."
+    ],
+    "random_answer": ["insensitive", "inimical", "irrelevant"]
+  },
+  {
+    "question": "The abolition of some agreements was part of the government’s reengineering plans to _____ the bureaucracy.",
+    "answer": "restore",
+    "why": [
+      "Reengineering can involve bringing the bureaucracy back to an optimal or desired state.",
+      "It implies an effort to re-establish previous levels of efficiency or effectiveness.",
+      "The plans aim to put the system back into proper working order."
+    ],
+    "random_answer": ["establish", "streamline", "mobilize"]
+  },
+  {
+    "question": "We should not listen to slander or gossip and should be _____ in judging the motives of those we met.",
+    "answer": "careful",
+    "why": [
+      "To avoid being misled by negative rumors, one must exercise caution and deliberation in judgment.",
+      "It emphasizes the need for prudence and thorough consideration when assessing others' intentions.",
+      "The instruction highlights the importance of thoughtful and discerning evaluation."
+    ],
+    "random_answer": ["quick", "curious", "confident"]
+  },
+  {
+    "question": "After staying in foreign lands for several years, people will find it refreshing to visit their native soil and _____ acquaintances with old friends.",
+    "answer": "recall",
+    "why": [
+      "Visiting home after a long absence prompts memories of past connections.",
+      "It refers to the act of remembering and bringing to mind old relationships.",
+      "The experience of being home triggers the mental retrieval of these friendships."
+    ],
+    "random_answer": ["relieve", "renew", "remember"]
+  },
+  {
+    "question": "The government’s efforts to _____ the campaign against child abuse received international praises.",
+    "answer": "publicize",
+    "why": [
+      "Making the campaign widely known would garner international attention and acclaim.",
+      "It implies an effort to spread awareness and promote the initiative globally.",
+      "The act of promoting the campaign led to its recognition and praise."
+    ],
+    "random_answer": ["spread", "facilitate", "advocate"]
+  },
+  {
+    "question": "A strong government is needed to promote _____ not dependency, and to encourage free enterprise.",
+    "answer": "self-reliance",
+    "why": [
+      "The promotion of 'self-reliance' aligns with the goal of avoiding 'dependency' and fostering 'free enterprise'.",
+      "It emphasizes empowering individuals and businesses to thrive independently.",
+      "The concept supports individual initiative and economic autonomy."
+    ],
+    "random_answer": ["self-alienation", "self-evaluation", "self-awareness"]
+  },
+  {
+    "question": "Commercial banks started a new credit system that empowers the middle-income Filipino through a responsive and _____ credit facility.",
+    "answer": "innovative",
+    "why": [
+      "A 'new credit system' implies a creative and advanced approach to financial services.",
+      "It suggests the introduction of novel and effective methods for empowering borrowers.",
+      "The system incorporates original and modern solutions to financial needs."
+    ],
+    "random_answer": ["profitable", "imaginative", "forward-looking"]
+  },
+  {
+    "question": "In an emergency situation, _____ can be worse than panic.",
+    "answer": "ignorance",
+    "why": [
+      "A lack of knowledge or information can lead to poor decisions or inaction, potentially worsening an emergency.",
+      "It implies that not knowing what to do is more dangerous than being overwhelmed by fear.",
+      "Being unaware of critical facts can lead to more severe consequences than mere emotional distress."
+    ],
+    "random_answer": ["confusion", "inaction", "indecisiveness"]
+  },
+  {
+    "question": "Paintings, photographs, posters, and cartoons have been used to _____ humanitarian concerns as well as ideological or political beliefs.",
+    "answer": "express",
+    "why": [
+      "Visual arts serve as mediums for conveying ideas, emotions, and messages.",
+      "It signifies the act of communicating or representing concerns and beliefs through artistic means.",
+      "The function of these art forms is to make internal thoughts and feelings visible."
+    ],
+    "random_answer": ["exalt", "explain", "examine"]
+  },
+  {
+    "question": "Filipino officials have shown their willingness to implement reforms, but their sincerity and credibility are often _____.",
+    "answer": "doubted",
+    "why": [
+      "The word 'but' indicates a contrast, meaning that despite their willingness, there's a lack of trust.",
+      "It implies that the public or other observers question the genuineness and trustworthiness of the officials.",
+      "Sincerity and credibility are frequently called into question."
+    ],
+    "random_answer": ["questioned", "praised", "criticized"]
+  },
+  {
+    "question": "To some, the concept of a strong national identity is often tied to a country's ability to _____ itself effectively on the global stage.",
+    "answer": "defend",
+    "why": [
+      "A strong national identity can be linked to the capacity to protect national interests and sovereignty.",
+      "It implies the ability to assert and safeguard its position in international affairs.",
+      "The concept underscores a nation's strength in resisting external pressures."
+    ],
+    "random_answer": ["promote", "assert", "project"]
+  },
+  {
+    "question": "The notion that public policy should be shaped by the views of experts rather than popular opinion is gaining _____.",
+    "answer": "support",
+    "why": [
+      "The idea is receiving increasing endorsement and approval from people.",
+      "It indicates a growing trend of acceptance and advocacy for this approach.",
+      "The concept is finding more adherents who champion its validity."
+    ],
+    "random_answer": ["momentum", "acceptance", "ground"]
+  },
+  {
+    "question": "Despite the potential benefits of the proposed economic reforms, there remains considerable _____ among the populace regarding their implementation.",
+    "answer": "apprehension",
+    "why": [
+      "Even with potential benefits, significant concern or fear about the reforms' effects persists.",
+      "It indicates a sense of unease and anxiety among the population.",
+      "The populace feels a strong sense of dread about how the changes will unfold."
+    ],
+    "random_answer": ["excitement", "skepticism", "enthusiasm"]
+  },
+  {
+    "question": "A sustainable development approach requires integrating economic growth with environmental protection and social _____.",
+    "answer": "progress",
+    "why": [
+      "Sustainable development aims for advancements in society alongside economic and environmental goals.",
+      "It encompasses improvements in living standards and social well-being.",
+      "The approach seeks to ensure societal advancement for present and future generations."
+    ],
+    "random_answer": ["equity", "justice", "well-being"]
+  },
+  {
+    "question": "The media's role in a democratic society is to inform the public and to _____ accountability from those in power.",
+    "answer": "promote",
+    "why": [
+      "The media plays a crucial role in encouraging transparency and responsibility from leaders.",
+      "It contributes to creating an environment where power holders are answerable for their actions.",
+      "The function involves fostering a culture of oversight and public scrutiny."
+    ],
+    "random_answer": ["demand", "ensure", "foster"]
+  },
+  {
+    "question": "The recent surge in global food prices has led to heightened concerns about food security, particularly in nations heavily _____ on imports.",
+    "answer": "reliant",
+    "why": [
+      "Nations that depend significantly on foreign food sources are most vulnerable to price fluctuations.",
+      "It highlights the critical need for food from other countries.",
+      "The term signifies a strong and essential dependence on imported goods."
+    ],
+    "random_answer": ["focused", "dependent", "concentrated"]
+  },
+  {
+    "question": "The government implemented strict measures to _____ illegal mining activities in an effort to protect the environment.",
+    "answer": "stop",
+    "why": [
+      "Strict measures are put in place to halt or discontinue illegal activities.",
+      "It implies a direct action to bring the harmful practices to an end.",
+      "The objective is to cease the environmental damage caused by mining."
+    ],
+    "random_answer": ["curb", "cease", "prohibit"]
+  },
+  {
+    "question": "Many critics argue that the current educational system is too _____ and fails to adequately prepare students for the demands of the modern workforce.",
+    "answer": "traditional",
+    "why": [
+      "A system that is overly conventional may not adapt to the evolving needs of the contemporary job market.",
+      "It implies that the methods and curriculum are outdated and rigid.",
+      "The failure to prepare students stems from its adherence to old practices."
+    ],
+    "random_answer": ["rigid", "outdated", "academic"]
+  },
+  {
+    "question": "The success of a nation's economic policies is often _____ by its ability to attract foreign investment and stimulate domestic growth.",
+    "answer": "measured",
+    "why": [
+      "The performance of economic policies is assessed by quantifiable outcomes like investment and growth.",
+      "It implies that these factors serve as key indicators of effectiveness.",
+      "The ability to achieve these goals serves as a benchmark for success."
+    ],
+    "random_answer": ["determined", "influenced", "shaped"]
+  },
+  {
+    "question": "Despite efforts to promote cultural exchange, there remains a persistent _____ to understanding and appreciating diverse perspectives.",
+    "answer": "reluctance",
+    "why": [
+      "Despite promotion, there is an ongoing unwillingness or hesitation to embrace different viewpoints.",
+      "It implies an ingrained resistance to fully engage with other cultures.",
+      "The term denotes a lack of enthusiasm or openness to diverse perspectives."
+    ],
+    "random_answer": ["barrier", "challenge", "impediment"]
+  }
+]

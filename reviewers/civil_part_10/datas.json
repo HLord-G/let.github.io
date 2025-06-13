@@ -1,0 +1,839 @@
+[
+  {
+    "question": "A supervisor should pay more attention to their employees' welfare than to their performance.",
+    "answer": "than to their performance.",
+    "why": [
+      "The phrase creates an <b>illogical comparison</b> if 'their performance' refers to the supervisor's performance, as the primary focus is the employees' welfare.",
+      "To ensure clarity and avoid ambiguity, comparisons should clearly relate to the <b>intended subjects</b>.",
+      "The potential for misinterpretation makes this a less precise construction in formal English."
+    ],
+    "random_answer": ["A supervisor should pay", "more attention", "to their employees' welfare"]
+  },
+  {
+    "question": "The President, as well as the Cabinet members, refuse to endorse the bill.",
+    "answer": "refuse to",
+    "why": [
+      "The subject of the sentence is 'The President', which is singular, requiring a singular verb. Therefore, 'refuse' should be '<b>refuses</b>' to maintain subject-verb agreement.",
+      "Phrases like 'as well as' do not change the number of the subject, so the verb must agree with the principal subject 'The President'."
+    ],
+    "random_answer": ["The President", "as well as the Cabinet members", "endorse the bill"]
+  },
+  {
+    "question": "One of the crucial issues taken on at the conference is the transfer of technology of the industrialized nations to be the developing countries.",
+    "answer": "to be the developing countries.",
+    "why": [
+      "The incorrect prepositional phrase 'to be the' should be replaced with '<b>to</b>' to correctly indicate the destination of the technology transfer.",
+      "The phrase 'to be the' implies an identity or purpose that does not fit the context of technology transfer between nations."
+    ],
+    "random_answer": ["One of the crucial issues", "taken on at the conference is the transfer of technology", "of the industrialized nations"]
+  },
+  {
+    "question": "If anybody objects, let them think of a better scheme rather than make fun.",
+    "answer": "make fun.",
+    "why": [
+      "To maintain <b>parallelism</b>, 'make fun' should be in a form that matches 'think of a better scheme', such as the gerund 'making fun'.",
+      "When comparing actions or ideas using 'rather than', the grammatical form following 'rather than' should mirror the form of the initial action or idea."
+    ],
+    "random_answer": ["If anybody objects", "let them think of a better scheme", "rather than"]
+  },
+  {
+    "question": "As an ambassador, he knows that whenever he is assigned he goes with his family and make friends for his countries.",
+    "answer": "and make friends for his countries.",
+    "why": [
+      "The verb 'make' does not agree with the singular subject 'he'; it should be '<b>makes</b>' to ensure subject-verb agreement and parallelism with 'he goes'.",
+      "Both actions in the compound predicate ('goes' and 'makes friends') must correctly reflect the singular third-person subject."
+    ],
+    "random_answer": ["As an ambassador", "he knows that whenever he is assigned", "he goes with his family"]
+  },
+  {
+    "question": "An organization is comprised by a set of officers and subordinates including goals to achieve and resources to use in attaining these goals.",
+    "answer": "is comprised by",
+    "why": [
+      "The correct idiom is 'comprised <b>of</b>', indicating what something is made of, rather than 'comprised by'.",
+      "'Comprise' means to include or contain, and is often used without a preposition or with 'of' when describing components."
+    ],
+    "random_answer": ["An organization", "a set of officers and subordinates", "including goals to achieve and resources"]
+  },
+  {
+    "question": "According to a United Nations report, many victims of human rights violations remain uncompensated for the sufferings they experienced during the dictatorship.",
+    "answer": "for the sufferings they experienced",
+    "why": [
+      "The word 'sufferings' is generally used in its uncountable form '<b>suffering</b>' in this context.",
+      "While 'sufferings' can be plural, 'the suffering they experienced' is the more common and natural phrasing for the collective hardship."
+    ],
+    "random_answer": ["According to a United Nations report", "many victims of human rights violations", "remain uncompensated"]
+  },
+  {
+    "question": "Neither Elisa nor per her mother collided with an army truck when the car they were riding in.",
+    "answer": "when the car they were riding in.",
+    "why": [
+      "This phrase is awkwardly constructed and lacks proper sentence structure; it should be rephrased to '<b>when they were riding in the car</b>' for clarity.",
+      "The original phrasing is incomplete and does not form a coherent dependent clause."
+    ],
+    "random_answer": ["Neither Elisa nor", "per her mother", "collided with an army truck"]
+  },
+  {
+    "question": "If statistics is not selected, then Analytical Geometry is selected.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and uses a logical conditional structure.",
+      "The conjunction 'then' correctly follows the 'if' clause.",
+      "All parts of the sentence contribute to a clear and coherent statement."
+    ],
+    "random_answer": ["If statistics is not selected", "then Analytical Geometry", "is selected."]
+  },
+  {
+    "question": "If Trigonometry is selected, Calculus is selected.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence correctly employs a conditional 'If...then' structure, even with 'then' implied.",
+      "The relationship between the two selected subjects is clearly stated.",
+      "No grammatical errors are present in subject-verb agreement or tense."
+    ],
+    "random_answer": ["If Trigonometry is selected", "Calculus", "is selected."]
+  },
+  {
+    "question": "If Calculus is selected, Analytical Geometry is selected.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically sound, forming a valid conditional statement.",
+      "The implied 'then' in the 'If...then' structure is correctly understood.",
+      "Subject-verb agreement is maintained throughout the sentence."
+    ],
+    "random_answer": ["If Calculus is selected", "Analytical Geometry", "is selected."]
+  },
+  {
+    "question": "The average working individual is the first to suffer when the take-home pay isn't barely enough to meet the daily needs of one's family.",
+    "answer": "isn't barely enough to meet",
+    "why": [
+      "The phrase 'isn't barely' creates a <b>double negative</b>, which should be avoided in standard English.",
+      "It should be rephrased to 'is barely enough' or 'is not enough' to convey the intended meaning without the redundancy.",
+      "The use of two negative terms makes the statement confusing and grammatically incorrect."
+    ],
+    "random_answer": ["The average working individual is the first", "to suffer when the take-home pay", "the daily needs of one's family."]
+  },
+  {
+    "question": "Alexander the Great was at the height of power when he died, thus are the mighty lain in low.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using proper historical context and phrasing.",
+      "The use of 'thus' correctly introduces a consequence or result.",
+      "All parts of the sentence contribute to a coherent and meaningful statement about Alexander the Great."
+    ],
+    "random_answer": ["Alexander the Great was", "at the height of power when he died", "thus are the mighty lain in low."]
+  },
+  {
+    "question": "There have been recent additions to the library such as new books and magazines dealing with science.",
+    "answer": "dealing with science.",
+    "why": [
+      "The modifying phrase 'dealing with science' should clearly and unambiguously modify 'new books and magazines'. However, its placement creates slight <b>ambiguity</b>.",
+      "For clearer modification, it should ideally be placed immediately after the nouns it modifies, such as 'new books and magazines that deal with science'."
+    ],
+    "random_answer": ["There have been recent additions", "to the library", "such as new books and magazines"]
+  },
+  {
+    "question": "Rafael wishes to be employed, but neither the salary nor the work itself offer any inducement to him.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and logically constructed.",
+      "The 'neither...nor' construction correctly governs the singular verb 'offer', as 'salary' and 'work' are singular subjects taken individually.",
+      "All elements of the sentence are used appropriately."
+    ],
+    "random_answer": ["Rafael wishes to be employed", "but neither the salary", "nor the work itself offer any inducement to him."]
+  },
+  {
+    "question": "The Labor Secretary will meet representatives of the entertainment industry tomorrow to discuss problems affecting the working conditions of Filipino workers abroad.",
+    "answer": "to discuss problems affecting the working conditions",
+    "why": [
+      "The phrase 'affecting the working conditions' is grammatically imprecise; it should be 'affecting the <b>working conditions</b>' or 'affecting the workers' conditions'.",
+      "While 'working conditions' is a common phrase, 'affecting the working conditions' could be seen as slightly redundant or awkwardly phrased, favoring a more direct object of 'affecting'."
+    ],
+    "random_answer": ["The Labor Secretary will meet representatives", "of the entertainment industry tomorrow", "of Filipino workers abroad."]
+  },
+  {
+    "question": "The people are willing to pay their taxes as long as they see that such payments result to better service.",
+    "answer": "result to better service.",
+    "why": [
+      "The correct preposition to use with 'result' when indicating an outcome is '<b>in</b>', not 'to'. Therefore, it should be 'result <b>in</b> better service'.",
+      "The phrase 'result to' is an incorrect idiom; 'result in' signifies the outcome or consequence of an action."
+    ],
+    "random_answer": ["The people are willing", "to pay their taxes", "as long as they see that"]
+  },
+  {
+    "question": "We his friends, did not learn about that he is being promoted until this morning.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and uses appropriate phrasing.",
+      "The clause 'that he is being promoted' correctly functions as the object of 'learn about'.",
+      "The time phrase 'until this morning' is correctly placed."
+    ],
+    "random_answer": ["We his friends", "did not learn about", "that he is being promoted until this morning."]
+  },
+  {
+    "question": "He is the kind of a statesman who distinguishes himself when called upon in difficult situations.",
+    "answer": "the kind of a statesman",
+    "why": [
+      "The indefinite article 'a' is redundant after 'kind of' when referring to a general category; it should be 'the kind of <b>statesman</b>'.",
+      "The phrase 'kind of' implies a general type, so 'a' before 'statesman' is unnecessary."
+    ],
+    "random_answer": ["He is", "who distinguishes himself", "when called upon in difficult situations."]
+  },
+  {
+    "question": "The bright fiberglass sculptures of Luis Jimenez not only in his home state, New Mexico, but also in New York has received critical claim.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with the verb 'has received' correctly agreeing with the singular subject 'sculptures'.",
+      "The 'not only...but also' construction is used correctly to show two locations.",
+      "The sentence is clear and well-structured."
+    ],
+    "random_answer": ["The bright fiberglass sculptures of Luis Jimenez", "not only in his home state, New Mexico", "but also in New York has received critical claim."]
+  },
+  {
+    "question": "The decision that has just been agreed with by the committee members should serve as a basis for their work in the years to come.",
+    "answer": "agreed with by the committee members",
+    "why": [
+      "The passive construction 'agreed with by' is wordy and can be more concisely expressed as '<b>agreed upon by</b>' or simply 'agreed to by'.",
+      "The verb 'agree' when followed by 'with' usually refers to a person, not a decision. 'Agree upon' or 'agree to' is more suitable for decisions or proposals."
+    ],
+    "random_answer": ["The decision that has just been", "should serve as a basis for their work", "in the years to come."]
+  },
+  {
+    "question": "The year-long conflict among the two student factions remains unsettled despite the warnings from school authorities.",
+    "answer": "among the two student factions",
+    "why": [
+      "When referring to exactly two items, the correct preposition is '<b>between</b>', not 'among'.",
+      "'Among' is used for three or more items, while 'between' is specifically for two."
+    ],
+    "random_answer": ["The year-long conflict", "remains unsettled", "despite the warnings from school authorities."]
+  },
+  {
+    "question": "Transportation, the vital link that brings people and places together is one of the factors that speed up a country's progress.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically sound, with correct subject-verb agreement for 'Transportation' and 'is'.",
+      "The phrase 'that brings people and places together' correctly modifies 'link'.",
+      "The sentence clearly expresses a complete thought."
+    ],
+    "random_answer": ["Transportation, the vital link", "that brings people and places together", "is one of the factors that speed up a country's progress."]
+  },
+  {
+    "question": "The importance of broadening the base of participation at the local level is recognized and the structure of local governments are now undergoing study and revision.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with appropriate subject-verb agreement and logical flow.",
+      "The plural subject 'the structure of local governments' correctly takes the plural verb 'are'.",
+      "The phrases are well-constructed and contribute to a clear statement."
+    ],
+    "random_answer": ["The importance of broadening the base", "of participation at the local level is recognized", "and the structure of local governments are now undergoing study and revision."]
+  },
+  {
+    "question": "The latest technology has to do with two rice croppings where before only one crop is grown during the rainy season.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, describing the relationship between technology and agricultural practices.",
+      "The use of 'has to do with' is an appropriate idiom.",
+      "The temporal and spatial references are clear and correctly placed."
+    ],
+    "random_answer": ["The latest technology has to do", "with two rice croppings", "where before only one crop is grown during the rainy season."]
+  },
+  {
+    "question": "Government officials and employees are expected to lead modest lives appropriate to their positions don't they?",
+    "answer": "don't they?",
+    "why": [
+      "The tag question 'don't they?' is inappropriate in a formal statement like this and should be removed.",
+      "Tag questions are generally used in conversational speech for confirmation, not in formal prose which requires a declarative statement."
+    ],
+    "random_answer": ["Government officials and employees are expected", "to lead modest lives", "appropriate to their positions"]
+  },
+  {
+    "question": "Some social programs are design to affect individuals others to affect communities or an entire region.",
+    "answer": "are design",
+    "why": [
+      "The verb 'design' should be in the past participle form '<b>designed</b>' because it is part of a passive voice construction.",
+      "When forming the passive voice, the auxiliary verb 'to be' (are) is followed by the past participle of the main verb."
+    ],
+    "random_answer": ["Some social programs", "to affect individuals", "others to affect communities or an entire region."]
+  },
+  {
+    "question": "The reason he was dismissed is because he was habitually late in reporting for work.",
+    "answer": "is because",
+    "why": [
+      "The phrase 'the reason is because' is redundant; it should be 'the reason is <b>that</b>' or simply 'because'.",
+      "Using 'because' after 'the reason is' creates an unnecessary repetition of meaning, as 'reason' already implies 'because'."
+    ],
+    "random_answer": ["The reason he was dismissed", "he was habitually late", "in reporting for work."]
+  },
+  {
+    "question": "The heightened competition from foreign films and the increase in production costs is pushing the Philippine movie industry into hard times.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with the compound subject 'competition and increase' correctly taking the singular verb 'is pushing'.",
+      "The phrasing accurately describes the challenges faced by the industry.",
+      "No errors in subject-verb agreement, tense, or word usage are present."
+    ],
+    "random_answer": ["The heightened competition from foreign films", "and the increase in production costs", "is pushing the Philippine movie industry into hard times."]
+  },
+  {
+    "question": "My purse, together with my gloves and keys, were stolen from my locker last night.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'My purse' as the singular subject and 'were' correctly agreeing with the collective sense of items stolen.",
+      "Although 'purse' is singular, 'together with' introduces additional items that make the 'were stolen' logical, referring to all items as a group.",
+      "No grammatical errors are present regarding subject-verb agreement or sentence structure."
+    ],
+    "random_answer": ["My purse", "together with my gloves and keys", "stolen from my locker last night."]
+  },
+  {
+    "question": "The five-year old girl is one of the most valuable witness in the murder of her mother.",
+    "answer": "witness",
+    "why": [
+      "The noun 'witness' should be in its plural form, '<b>witnesses</b>', as the girl is 'one of the most valuable' among a group.",
+      "When using the phrase 'one of the' followed by a superlative, the noun that follows must be plural."
+    ],
+    "random_answer": ["The five-year old girl is", "one of the most valuable", "in the murder of her mother."]
+  },
+  {
+    "question": "Who did you said wrote the book on the life of the first Filipino saint?",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using 'who' as the subject of the clause 'who wrote the book'.",
+      "The direct question structure is properly formed.",
+      "The phrasing is clear and accurately poses a question."
+    ],
+    "random_answer": ["Who did you said", "wrote the book", "on the life of the first Filipino saint?"]
+  },
+  {
+    "question": "With more and more people born each year, the need for food, fuel, and other natural resources have likewise grown.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'the need' as the subject, agreeing with the singular verb 'have grown'.",
+      "The list of resources correctly functions as compound objects of the preposition 'for'.",
+      "The sentence effectively conveys the growing demand for resources."
+    ],
+    "random_answer": ["With more and more people born each year", "the need for food, fuel", "and other natural resources have likewise grown."]
+  },
+  {
+    "question": "The manager wanted to know why I was there, how I got there and what I intend to do.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and uses parallel structure for the series of indirect questions.",
+      "Each 'wh-' clause functions properly as an object of 'wanted to know'.",
+      "The conjunction 'and' correctly connects the final item in the series."
+    ],
+    "random_answer": ["The manager wanted to know", "why I was there", "how I got there and what I intend to do."]
+  },
+  {
+    "question": "It was so dark in the room that I couldn't hardly see your hand before your face.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using 'so...that' to express cause and effect.",
+      "The adverb 'hardly' is correctly used to mean 'barely' or 'scarcely'.",
+      "The description of the darkness and its effect is clear."
+    ],
+    "random_answer": ["It was so dark in the room", "that I couldn't hardly", "see your hand before your face."]
+  },
+  {
+    "question": "Nature lovers who feel the serenity of tropical forests will certainly welcome the resort's lush forest reserves.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'Nature lovers' as the subject agreeing with 'will welcome'.",
+      "The relative clause 'who feel the serenity of tropical forests' correctly modifies 'Nature lovers'.",
+      "The possessive 'resort's' is correctly formed and used."
+    ],
+    "random_answer": ["Nature lovers", "who feel the serenity of tropical forests", "will certainly welcome the resort's lush forest reserves."]
+  },
+  {
+    "question": "Recent increases in wages may not mean additional purchasing power since prices have increase along with them.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, expressing a cautious relationship between wages and purchasing power.",
+      "The verb 'increase' is correctly used as a noun here.",
+      "The phrase 'along with them' is appropriate."
+    ],
+    "random_answer": ["Recent increases in wages may not mean", "additional purchasing power", "since prices have increase along with them."]
+  },
+  {
+    "question": "The best thing about vitamins lies not in the diseases it prevents but in its ability to add to longevity.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and uses the 'not in...but in' construction appropriately.",
+      "The verb 'lies' correctly agrees with the singular subject 'thing'.",
+      "The sentence effectively conveys the dual benefits of vitamins."
+    ],
+    "random_answer": ["The best thing about vitamins", "lies not in the diseases it prevents", "but in its ability to add to longevity."]
+  },
+  {
+    "question": "He has neither the personality nor has he the background for the job which offers a good pay.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using the 'neither...nor' construction to indicate two lacking qualities.",
+      "The clause 'which offers a good pay' correctly modifies 'job'.",
+      "The sentence is clear and well-structured."
+    ],
+    "random_answer": ["He has neither the personality", "nor has he the background", "for the job which offers a good pay."]
+  },
+  {
+    "question": "The time will come when consumers will realize that everytime they buy imported goods they helped worsen our employment situation.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, conveying a cause-and-effect relationship.",
+      "The use of 'everytime' (more commonly 'every time') as a conjunction is acceptable here.",
+      "The verb 'helped worsen' is correctly formed."
+    ],
+    "random_answer": ["The time will come when consumers will realize", "that everytime they buy imported goods", "they helped worsen our employment situation."]
+  },
+  {
+    "question": "It is important to know the real source of a problem if a satisfactory solution is to be achieve.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and expresses a logical condition.",
+      "The infinitive phrase 'to know' is correctly used.",
+      "The conditional clause is well-formed."
+    ],
+    "random_answer": ["It is important to know", "the real source of a problem", "if a satisfactory solution is to be achieve."]
+  },
+  {
+    "question": "Virgin forests are characterized by a very dense canopy of trees which make the forest floor very damp and humid.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, providing a description of virgin forests.",
+      "The verb 'make' correctly agrees with 'canopy' and its effect.",
+      "The adjectives 'damp' and 'humid' accurately describe the forest floor."
+    ],
+    "random_answer": ["Virgin forests are characterized", "by a very dense canopy of trees", "which make the forest floor very damp and humid."]
+  },
+  {
+    "question": "Neither the manager nor the salespersons knows what the confusion in the store is all about.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using the 'neither...nor' construction with the verb agreeing with the closer subject, 'salespersons', which is plural, requiring 'know'.",
+      "The phrase 'is all about' is idiomatically correct.",
+      "The sentence clearly communicates uncertainty about the confusion."
+    ],
+    "random_answer": ["Neither the manager", "nor the salespersons knows", "what the confusion in the store is all about."]
+  },
+  {
+    "question": "Now that Clarence has suggested solutions to the greening problem whose going to execute his simplified reforestation plan?",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, forming a complete and coherent thought.",
+      "The conditional clause 'Now that Clarence has suggested solutions' sets the context correctly.",
+      "The question 'whose going to execute' is grammatically sound, asking about the executor of the plan."
+    ],
+    "random_answer": ["Now that Clarence has", "suggested solutions to the greening problem", "whose going to execute his simplified reforestation plan?"]
+  },
+  {
+    "question": "Speech practice helps us express our ideas more forcefully and enable us to converse intelligently with other people.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using parallel verb phrases 'express' and 'enable' after 'helps us'.",
+      "The adverbs 'more forcefully' and 'intelligently' are correctly used.",
+      "The sentence effectively conveys the benefits of speech practice."
+    ],
+    "random_answer": ["Speech practice helps us", "express our ideas more forcefully", "and enable us to converse intelligently with other people."]
+  },
+  {
+    "question": "A boy gave us the directions to the village, but they were so confusing we couldn't hardly follow them.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'hardly' properly used as a negative adverb.",
+      "The conjunction 'but' correctly introduces a contrast.",
+      "The sentence clearly describes the difficulty in following directions."
+    ],
+    "random_answer": ["A boy gave us the directions", "to the village, but they were so confusing", "we couldn't hardly follow them."]
+  },
+  {
+    "question": "The Board of Directors have approved salary increase for all deserving office employees.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'Board of Directors' as the subject and 'have approved' as the verb.",
+      "The phrasing 'salary increase' is standard and clear.",
+      "The sentence accurately describes the board's action."
+    ],
+    "random_answer": ["The Board of Directors have", "approved salary increase", "for all deserving office employees."]
+  },
+  {
+    "question": "My grandmother enjoyed reminiscing in her early married life and the rearing in her ten children.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'reminiscing' and 'rearing' forming parallel gerund phrases.",
+      "The preposition 'in' is correctly applied to both 'married life' and 'rearing'.",
+      "The sentence clearly describes the grandmother's enjoyment."
+    ],
+    "random_answer": ["My grandmother enjoyed", "reminiscing in her early married life", "and the rearing in her ten children."]
+  },
+  {
+    "question": "Dr. Del Mundo is one of the women doctors who is cited for providing valuable services to the community.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'Dr. Del Mundo' as the singular subject and 'is' as the verb.",
+      "The phrase 'one of the women doctors' correctly uses the plural noun 'doctors'.",
+      "The relative clause 'who is cited for providing valuable services to the community' properly modifies 'women doctors'."
+    ],
+    "random_answer": ["Dr. Del Mundo is", "one of the women doctors", "who is cited for providing valuable services to the community."]
+  },
+  {
+    "question": "Being with friends who you have known all your life is a blessing.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'Being with friends' as the gerund phrase subject.",
+      "The relative clause 'who you have known all your life' correctly modifies 'friends'.",
+      "The sentence expresses a complete and meaningful thought."
+    ],
+    "random_answer": ["Being with friends", "who you have known all your life", "is a blessing."]
+  },
+  {
+    "question": "Children are good imitators therefore, adults should demonstrate desirable forms of behavior in dealing on them.",
+    "answer": "dealing on them.",
+    "why": [
+      "The correct preposition to use after 'dealing' in this context is '<b>with</b>', not 'on'. It should be 'dealing with them'.",
+      "The phrase 'dealing on them' is an incorrect prepositional usage, implying a problematic action rather than interaction or handling."
+    ],
+    "random_answer": ["Children are good imitators", "therefore, adults should demonstrate", "desirable forms of behavior in"]
+  },
+  {
+    "question": "Our civil servants get paid especially on time.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with the subject 'civil servants' and verb 'get paid' in agreement.",
+      "The adverb 'especially' correctly modifies 'on time'.",
+      "The phrase 'on time' is a correct idiom for punctuality."
+    ],
+    "random_answer": ["Our civil servants", "get paid", "especially on time."]
+  },
+  {
+    "question": "The boys had swam in almost every pool around here both large and small ones when they were taking swimming lessons.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using the past perfect verb 'had swam' appropriately.",
+      "The phrase 'both large and small ones' correctly describes the pools.",
+      "The temporal clause 'when they were taking swimming lessons' is well-placed and clear."
+    ],
+    "random_answer": ["The boys had swam", "in almost every pool around here", "both large and small ones when they were taking swimming lessons."]
+  },
+  {
+    "question": "The editor scanned the pages I handed him and told me the article would be printed in the next day's paper.",
+    "answer": "in the next day's paper.",
+    "why": [
+      "The possessive form 'day's' is incorrect; it should be '<b>day</b>' for a singular day or 'days'' for multiple days in the phrase 'next day paper'.",
+      "The more common and grammatically correct phrasing is 'in the next day's paper' or 'in tomorrow's paper'."
+    ],
+    "random_answer": ["The editor scanned the pages", "I handed him and told me", "the article would be printed"]
+  },
+  {
+    "question": "Language is indeed the subtlest but at the same time the more effective means of transmitting wisdom and civilization.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct and uses appropriate superlative and comparative forms ('subtlest', 'more effective').",
+      "The conjunction 'but at the same time' correctly links two contrasting qualities.",
+      "The sentence clearly expresses the significant role of language."
+    ],
+    "random_answer": ["Language is indeed", "the subtlest", "but at the same time the more effective means of transmitting wisdom and civilization."]
+  },
+  {
+    "question": "Neither Maria nor her parents were present to receive her award, but everyone else who graduated with honors was there to receive his.",
+    "answer": "to receive his.",
+    "why": [
+      "The pronoun 'his' does not agree in number with the antecedent 'everyone else' (which implies a group), nor does it agree in gender with the implicit mixed-gender group; it should be '<b>theirs</b>' or 'their awards'.",
+      "When 'everyone' or 'everyone else' refers to an unspecified group, a plural possessive pronoun is often preferred for agreement and inclusivity."
+    ],
+    "random_answer": ["Neither Maria nor her parents were present", "to receive her award", "but everyone else who graduated with honors was there"]
+  },
+  {
+    "question": "After so many years, it seems as if we have successfully avoided the worst possible prospects.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using appropriate tense and adverbs.",
+      "The phrase 'it seems as if' is a correct conjunction.",
+      "The sentence accurately reflects a sense of relief regarding avoided negative outcomes."
+    ],
+    "random_answer": ["After so many years", "it seems as if", "we have successfully avoided the worst possible prospects."]
+  },
+  {
+    "question": "The successful person is one who is industrious and who take advantage of opportunities.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using parallel relative clauses 'who is industrious' and 'who take advantage'.",
+      "The verb 'take' correctly agrees with the plural implied subject ('those who').",
+      "The sentence concisely describes traits of a successful person."
+    ],
+    "random_answer": ["The successful person is one", "who is industrious", "and who take advantage of opportunities."]
+  },
+  {
+    "question": "To solve the country's acute housing problem, the government has launched a systematic housing program that aims to provide the people with dwellings that we can afford to pay.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with clear subject-verb agreement and logical flow.",
+      "The phrase 'that aims to provide' correctly modifies 'program'.",
+      "The sentence effectively describes the government's housing initiative and its goal."
+    ],
+    "random_answer": ["To solve the country's acute housing problem", "the government has launched a systematic housing program", "that aims to provide the people with dwellings that we can afford to pay."]
+  },
+  {
+    "question": "It is observed that the triumph achieved in the struggle against killer diseases are allowing more children to survive and more people to live longer.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'triumph' as the singular subject and 'are allowing' as the verb.",
+      "The phrasing 'allowing more children to survive' is clear and direct.",
+      "The sentence accurately conveys the positive outcome of medical advancements."
+    ],
+    "random_answer": ["It is observed that the triumph achieved", "in the struggle against killer diseases", "are allowing more children to survive and more people to live longer."]
+  },
+  {
+    "question": "One of these days Jo-Ann and me will enroll ourselves in a rock climbing class.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with the compound subject 'Jo-Ann and me' properly taking the plural verb 'will enroll'.",
+      "The reflexive pronoun 'ourselves' correctly refers back to the subject.",
+      "The sentence clearly states the future action."
+    ],
+    "random_answer": ["One of these days", "Jo-Ann and me", "will enroll ourselves in a rock climbing class."]
+  },
+  {
+    "question": "The success of a leader lays not only on the leader's ability to influence people but also in the sincerity of the purpose that the leader desires to achieve.",
+    "answer": "lays",
+    "why": [
+      "The verb 'lays' (to put or place something) is misused here; the correct verb is '<b>lies</b>' (to rest or be situated), meaning 'depends on'.",
+      "The sentence discusses where success is based, which requires the intransitive verb 'lie', not the transitive verb 'lay'."
+    ],
+    "random_answer": ["The success of a leader", "not only on the leader's ability to influence people", "but also in the sincerity of the purpose that the leader desires to achieve."]
+  },
+  {
+    "question": "Because we wanted to finish our rush work, Ronnie and myself decided to stay after office hours.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with the subject 'Ronnie and myself' appropriately taking the plural verb 'decided'.",
+      "The phrase 'after office hours' is a correct temporal modifier.",
+      "The sentence clearly explains the reason for staying late."
+    ],
+    "random_answer": ["Because we wanted", "to finish our rush work", "Ronnie and myself decided to stay after office hours."]
+  },
+  {
+    "question": "Seas and oceans help in in moderating land climates and to maintain favorable concentration of carbon dioxide and oxygen in the atmosphere.",
+    "answer": "in in moderating land climates and",
+    "why": [
+      "The repetition of the preposition 'in' ('in in') is a <b>redundant error</b> and should be corrected to a single 'in'.",
+      "The phrase should simply be 'in moderating land climates' to be grammatically correct."
+    ],
+    "random_answer": ["Seas and oceans help", "to maintain favorable concentration of carbon dioxide", "and oxygen in the atmosphere."]
+  },
+  {
+    "question": "Voice mail is one of the latest communication tools designed to people who demand more sophisticated telecommunications services.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, describing voice mail as a communication tool.",
+      "The passive participle 'designed' correctly modifies 'tools'.",
+      "The sentence flows well and conveys its meaning effectively."
+    ],
+    "random_answer": ["Voice mail is one of the latest", "communication tools designed to", "people who demand more sophisticated telecommunications services."]
+  },
+  {
+    "question": "Overcrowding of and within houses is an unhealthful factor which favor the spread of many diseases.",
+    "answer": "which favor the spread of many diseases.",
+    "why": [
+      "The verb 'favor' should be '<b>favors</b>' to agree with the singular subject 'unhealthful factor'.",
+      "The relative pronoun 'which' refers to the singular antecedent 'factor', requiring a singular verb for subject-verb agreement."
+    ],
+    "random_answer": ["Overcrowding of and within houses", "is an unhealthful factor", "the spread of many diseases."]
+  },
+  {
+    "question": "He is one of the few candidates who has confined his discussion to issues of the day.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using 'one of the few candidates' with a relative clause that agrees in number.",
+      "The verb 'has confined' correctly agrees with the singular 'who' (referring to 'one').",
+      "The phrasing is concise and accurate."
+    ],
+    "random_answer": ["He is one of the few candidates", "who has confined his discussion", "to issues of the day."]
+  },
+  {
+    "question": "We were discussing about political issues so her remarks about clothes and fashion were completely beside the point.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using 'discussing about' which is acceptable in informal contexts, though 'discussing' alone is preferred.",
+      "The conjunction 'so' correctly introduces a consequence.",
+      "The phrase 'beside the point' is an appropriate idiom."
+    ],
+    "random_answer": ["We were discussing about political issues", "so her remarks about clothes and fashion", "were completely beside the point."]
+  },
+  {
+    "question": "Our culture, family upbringing, and education often work together to prevent us to accept new ways of thinking and doing things.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'culture, upbringing, and education' as the compound subject and 'work' as the verb.",
+      "The infinitive 'to prevent' correctly states the purpose.",
+      "The phrasing 'new ways of thinking and doing things' is clear and accurate."
+    ],
+    "random_answer": ["Our culture, family upbringing, and education", "often work together", "to prevent us to accept new ways of thinking and doing things."]
+  },
+  {
+    "question": "Here comes the lovely candidates for the most popular beauty contest in their very attractive and elegant evening gowns.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using an inverted subject-verb order 'Here comes' with the plural subject 'candidates'.",
+      "The descriptions of the contest and gowns are appropriate.",
+      "The sentence effectively sets a scene."
+    ],
+    "random_answer": ["Here comes the lovely candidates", "for the most popular beauty contest", "in their very attractive and elegant evening gowns."]
+  },
+  {
+    "question": "The forum, which will be composed of experts from various fields of endeavors, are expected to tackle studies made on the effects of television programs on children.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'forum' as the subject and 'are expected' as the verb.",
+      "The modifying clause 'which will be composed of experts from various fields of endeavors' correctly describes the forum.",
+      "The phrasing 'tackle studies made on the effects' is clear and accurate."
+    ],
+    "random_answer": ["The forum", "which will be composed of experts from various fields of endeavors", "are expected to tackle studies made on the effects of television programs on children."]
+  },
+  {
+    "question": "The best consultants are those who can suggest or apply an array of methods aim at helping their clients understand and diagnose a situation, and act accordingly under that given situation.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, describing the qualities of effective consultants.",
+      "The verbs 'suggest' and 'apply' are used in parallel form.",
+      "The phrases 'understand and diagnose' and 'act accordingly' correctly express the consultants' actions."
+    ],
+    "random_answer": ["The best consultants are those who can", "suggest or apply an array of methods aim at helping their clients", "understand and diagnose a situation, and act accordingly under that given situation."]
+  },
+  {
+    "question": "I have frequently observed that those who pride themselves in refinement and independence of taste, especially in the manner dressing, often reveals a remarkable sameness of choice.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'those' as the plural subject and 'often reveals' as the verb.",
+      "The phrase 'in the manner dressing' is an appropriate descriptive clause.",
+      "The sentence effectively conveys a social observation."
+    ],
+    "random_answer": ["I have frequently observed that those who pride themselves", "in refinement and independence of taste, especially in the manner dressing", "often reveals a remarkable sameness of choice."]
+  },
+  {
+    "question": "The ability to resolve conflicts successfully is probably one of the most important social skill that an individual can possess.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, with 'ability' as the singular subject and 'is' as the verb.",
+      "The phrase 'one of the most important social skill' is correctly structured.",
+      "The relative clause 'that an individual can possess' correctly modifies 'skill'."
+    ],
+    "random_answer": ["The ability to resolve conflicts successfully is probably", "one of the most important social skill", "that an individual can possess."]
+  },
+  {
+    "question": "Ernest is more happy to welcome back old friends and make new ones now that he is enjoying the fruits of his endeavor.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, using the comparative form 'more happy'.",
+      "The infinitives 'to welcome' and 'make' are correctly used in parallel.",
+      "The sentence clearly describes Ernest's current state and activities."
+    ],
+    "random_answer": ["Ernest is more happy", "to welcome back old friends and make new ones", "now that he is enjoying the fruits of his endeavor."]
+  },
+  {
+    "question": "Learners set goals as motivation for learning, and their successes or failures in achieving these goals determine how he sets his future goals.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, describing the relationship between setting goals and future aspirations.",
+      "The noun phrases 'successes or failures' correctly function as the subject of 'determine'.",
+      "The sentence is well-structured and conveys a clear message."
+    ],
+    "random_answer": ["Learners set goals", "as motivation for learning", "and their successes or failures in achieving these goals determine how he sets his future goals."]
+  },
+  {
+    "question": "Our government is trying hard to improve the health services in the country, but statistics show that these services have not keep pace with the rapid increase in population.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, accurately describing efforts and challenges in health services.",
+      "The verb 'have not keep' is in the present perfect tense and agrees with 'services'.",
+      "The phrase 'keep pace with' is an appropriate idiom."
+    ],
+    "random_answer": ["Our government is trying hard", "to improve the health services in the country", "but statistics show that these services have not keep pace with the rapid increase in population."]
+  },
+  {
+    "question": "Management is slowly coming to realized that it has no monopoly on brains and that employees may have good and valid reasons for their opinions.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, describing management's realization and employees' reasons.",
+      "The verb 'coming to realized' is in the past participle form and is appropriately used.",
+      "The conjunction 'and that' correctly connects the two dependent clauses."
+    ],
+    "random_answer": ["Management is slowly coming to realized", "that it has no monopoly on brains", "and that employees may have good and valid reasons for their opinions."]
+  },
+  {
+    "question": "With cities unable to house the entire working population, roads must be constructed to accommodate people who drive to work from the suburbs.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, explaining the need for road construction.",
+      "The infinitive 'to accommodate' correctly expresses purpose.",
+      "The sentence is logically structured and clear."
+    ],
+    "random_answer": ["With cities unable to house the entire working population", "roads must be constructed", "to accommodate people who drive to work from the suburbs."]
+  },
+  {
+    "question": "The fact that is anybody who overexpose himself to the sun is aptly to contract skin cancer.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, stating a known health risk.",
+      "The phrase 'aptly to contract' is an appropriate way to express susceptibility.",
+      "The sentence is concise and accurate in its medical observation."
+    ],
+    "random_answer": ["The fact that is anybody who overexpose himself", "to the sun is aptly", "to contract skin cancer."]
+  },
+  {
+    "question": "It was the auditor, not the accountants, who were dissatisfied with the method of preparing the payroll.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct, identifying who was dissatisfied.",
+      "The verb 'were dissatisfied' agrees with the plural subject 'accountants', as 'not the accountants' modifies the subject.",
+      "The phrase 'of preparing the payroll' correctly describes the method."
+    ],
+    "random_answer": ["It was the auditor", "not the accountants", "who were dissatisfied with the method of preparing the payroll."]
+  },
+  {
+    "question": "Pumanhik siya sa bahay at tuloy-tuloy sa kusina upang humingi ng pagkain sa kanyang kapatid.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct in Filipino, describing movement and purpose.",
+      "The verbs and prepositions are used appropriately.",
+      "The sentence conveys a clear narrative."
+    ],
+    "random_answer": ["Pumanhik siya sa bahay", "at tuloy-tuloy sa kusina", "upang humingi ng pagkain sa kanyang kapatid."]
+  },
+  {
+    "question": "Isinasanaysay ng guro ang mga aklat sa isang taguan at ipinipini ang pintuan.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct in Filipino, describing actions related to books.",
+      "The verbs and prepositions are used appropriately.",
+      "The sentence is clear and descriptive."
+    ],
+    "random_answer": ["Isinasanaysay ng guro", "ang mga aklat sa isang taguan", "at ipinipini ang pintuan."]
+  },
+  {
+    "question": "Magkakaroon ng kapayapaan kung ang buong daigdig magkakaunawaan.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct in Filipino, stating a condition for peace.",
+      "The conditional structure 'kung' (if) is correctly used.",
+      "The sentence is a clear and complete thought."
+    ],
+    "random_answer": ["Magkakaroon ng kapayapaan", "kung ang buong daigdig", "magkakaunawaan."]
+  },
+  {
+    "question": "Ang mga nakakatandang panauhin ay nagkakainan habang ang mga kabataan ay masayang magsasayaw.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct in Filipino, describing simultaneous actions.",
+      "The conjunction 'habang' (while) correctly links the two clauses.",
+      "The sentence accurately portrays the scene."
+    ],
+    "random_answer": ["Ang mga nakakatandang panauhin", "ay nagkakainan habang", "ang mga kabataan ay masayang magsasayaw."]
+  },
+  {
+    "question": "Nakikigalaw kami sa mga tagumpay nila Fernan at Victor.",
+    "answer": "NO ERROR",
+    "why": [
+      "The sentence is grammatically correct in Filipino, expressing participation in success.",
+      "The verb 'nakikigalaw' is used appropriately.",
+      "The sentence clearly states the shared experience."
+    ],
+    "random_answer": ["Nakikigalaw kami", "sa mga tagumpay", "nila Fernan at Victor."]
+  }
+]

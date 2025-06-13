@@ -1,0 +1,552 @@
+[
+  {
+    "question": "STRIKE : DRUM AS ___",
+    "answer": "strum : guitar",
+    "why": [
+      "The relationship is an <b>action</b> performed on a musical <b>instrument</b>.",
+      "To strike a drum describes how it is played, similar to how one strums a guitar.",
+      "It represents a characteristic method of playing a specific instrument."
+    ],
+    "random_answer": ["blow : whistle", "play : piano", "pluck : string"]
+  },
+  {
+    "question": "ACCIDENT : INJURY AS ___",
+    "answer": "violation : punishment",
+    "why": [
+      "An injury is a common <b>consequence</b> or outcome of an accident.",
+      "A punishment is a typical <b>consequence</b> or outcome of a violation.",
+      "The relationship between the pairs is cause and effect."
+    ],
+    "random_answer": ["captive : rebellion", "training : carelessness", "jaywalking : law"]
+  },
+  {
+    "question": "DRAWBRIDGE : CASTLE AS ___",
+    "answer": "gangway : ship",
+    "why": [
+      "A drawbridge is a movable <b>entrance</b> or access point to a castle.",
+      "A gangway is a movable bridge or ramp that provides <b>access</b> to a ship.",
+      "Both pairs represent a movable access point to a larger structure or vessel."
+    ],
+    "random_answer": ["aisle : stage", "lawn : house", "sidewalk : gauge"]
+  },
+  {
+    "question": "UNIQUE : COMMON AS MINUTE : ___",
+    "answer": "ordinary",
+    "why": [
+      "Unique is an <b>antonym</b> of common.",
+      "Minute (meaning very small) has an <b>antonym</b> in ordinary (referring to a typical or average size/amount).",
+      "The relationship between the pairs is antonymy."
+    ],
+    "random_answer": ["majestic", "timely", "vast"]
+  },
+  {
+    "question": "CORRODED : ALLOY AS OUTDATED : ___",
+    "answer": "rule",
+    "why": [
+      "Corroded describes the state of an alloy that has <b>deteriorated</b> over time.",
+      "Outdated describes the state of a rule that is no longer <b>current</b> or effective.",
+      "The relationship describes a state of decline or obsolescence."
+    ],
+    "random_answer": ["book", "morality", "control"]
+  },
+  {
+    "question": "HOT : BOILING AS TRICKY : ___",
+    "answer": "cunning",
+    "why": [
+      "Boiling is an <b>extreme</b> form or heightened state of being hot.",
+      "Cunning is a heightened or more <b>intense</b> form of being tricky.",
+      "The relationship between the pairs is one of degree or intensity."
+    ],
+    "random_answer": ["confusing", "embarrassing", "thrilling"]
+  },
+  {
+    "question": "COGNITION : KNOWLEDGE AS VOLITION : ___",
+    "answer": "will power",
+    "why": [
+      "Cognition is the mental process of acquiring <b>knowledge</b>.",
+      "Volition is the faculty or power of using one's <b>will</b>, which is associated with will power.",
+      "The relationship is a mental process or faculty and its associated outcome or power."
+    ],
+    "random_answer": ["experience", "obligation", "imagination"]
+  },
+  {
+    "question": "REMORSE : GUILT AS CONTRITE : ___",
+    "answer": "repentant",
+    "why": [
+      "Remorse is a feeling of deep regret or <b>guilt</b>.",
+      "Contrite means feeling or expressing remorse, and <b>repentant</b> is a synonym for this state.",
+      "The relationship is a type of feeling and an adjective describing that state."
+    ],
+    "random_answer": ["rudiment", "regretful", "resolute"]
+  },
+  {
+    "question": "FORE : AFT AS BOW is to ___",
+    "answer": "stern",
+    "why": [
+      "Fore and Aft are <b>opposite</b> directions on a ship (front and back).",
+      "Bow and Stern are <b>opposite</b> ends of a ship (front and back).",
+      "The relationship between the pairs is antonymy representing opposing ends or directions on a vessel."
+    ],
+    "random_answer": ["paddle", "boat", "arrow"]
+  },
+  {
+    "question": "PERJURY is to LIE AS LARCENY is to ___",
+    "answer": "steal",
+    "why": [
+      "Perjury is a <b>specific type</b> of lie (lying under oath).",
+      "Larceny is a <b>specific type</b> of stealing (theft of personal property).",
+      "The relationship is a specific act within a broader category of action."
+    ],
+    "random_answer": ["conspire", "kill", "trespass"]
+  },
+  {
+    "question": "BOOK is to LIBRARY AS ISLAND is to ___",
+    "answer": "archipelago",
+    "why": [
+      "A library is a <b>collection</b> of books.",
+      "An archipelago is a <b>collection</b> or group of islands.",
+      "The relationship is an item and a collection of those items."
+    ],
+    "random_answer": ["continent", "united nations", "setting"]
+  },
+  {
+    "question": "MIND is to PSYCHOLOGY AS BODY is to ___",
+    "answer": "physiology",
+    "why": [
+      "Psychology is the <b>study</b> of the mind.",
+      "Physiology is the <b>study</b> of the body's functions and processes.",
+      "The relationship is a subject of study and its corresponding field of study."
+    ],
+    "random_answer": ["history", "psychiatry", "chiropody"]
+  },
+  {
+    "question": "BREWING is to BEER AS TANNING is to ___",
+    "answer": "leather",
+    "why": [
+      "Brewing is the <b>process</b> used to make beer.",
+      "Tanning is the <b>process</b> used to make leather (from animal hides).",
+      "The relationship is a process and the product created by that process."
+    ],
+    "random_answer": ["rubber", "cotton", "glass"]
+  },
+  {
+    "question": "SALARY is to SERVICE AS INDEMNITY is to ___",
+    "answer": "injury",
+    "why": [
+      "Salary is <b>payment</b> received for a service performed.",
+      "Indemnity is <b>compensation</b> or security against loss or damage, often for an injury.",
+      "The relationship is compensation for an action or an event."
+    ],
+    "random_answer": ["inheritance", "information", "influence"]
+  },
+  {
+    "question": "COMPASS is to DIRECTION AS CALIPER is to ___",
+    "answer": "diameter",
+    "why": [
+      "A compass is a <b>tool</b> used to determine direction.",
+      "A caliper is a <b>tool</b> used to measure diameter (or thickness).",
+      "The relationship is a tool and what it measures."
+    ],
+    "random_answer": ["speed", "pitch", "volume"]
+  },
+  {
+    "question": "VICINITY is to PLACE AS CONTEMPORARY is to ___",
+    "answer": "age",
+    "why": [
+      "Vicinity refers to the proximity or a nearby <b>place</b>.",
+      "Contemporary refers to something existing or occurring at the same time, relating to <b>age</b> or period.",
+      "The relationship is a specific descriptor related to a broader category."
+    ],
+    "random_answer": ["period", "comrade", "foe"]
+  },
+  {
+    "question": "CORN is to EAR AS CABBAGE is to ___",
+    "answer": "head",
+    "why": [
+      "An ear is the characteristic part of a corn plant where the kernels grow.",
+      "A head is the tightly-packed leafy part of a cabbage.",
+      "The relationship is a plant and its <b>characteristic</b> edible part."
+    ],
+    "random_answer": ["bunch", "seed", "flower"]
+  },
+  {
+    "question": "ABSOLUTE is to PERFECT AS INCONSONANT is to ___",
+    "answer": "incompatible",
+    "why": [
+      "Absolute and perfect are <b>synonyms</b> or closely related concepts implying completeness or flawlessness.",
+      "Inconsonant and incompatible are <b>synonyms</b>, both meaning not in agreement or harmony.",
+      "The relationship between the pairs is synonymy."
+    ],
+    "random_answer": ["parallel", "common", "distinct"]
+  },
+  {
+    "question": "CERTIFY is to ATTEST AS CAPTIVATE is to ___",
+    "answer": "fascinate",
+    "why": [
+      "Certify and attest are <b>synonyms</b>, both meaning to confirm or declare something true.",
+      "Captivate and fascinate are <b>synonyms</b>, both meaning to attract and hold the interest of.",
+      "The relationship between the pairs is synonymy."
+    ],
+    "random_answer": ["seize", "arrest", "admire"]
+  },
+  {
+    "question": "SAFETY VALVE is to BOILER AS FUSE is to ___",
+    "answer": "electricity",
+    "why": [
+      "A safety valve <b>protects</b> a boiler from excessive pressure.",
+      "A fuse <b>protects</b> an electrical circuit from excessive current.",
+      "The relationship is a safety device and the system it protects."
+    ],
+    "random_answer": ["wire", "socket", "factory"]
+  },
+  {
+    "question": "STATUE is to SCULPTURE AS BALLET is to ___",
+    "answer": "choreographer",
+    "why": [
+      "A sculpture is the <b>art form</b> or process of creating a statue.",
+      "A choreographer is the <b>person</b> who creates and arranges the movements for a ballet.",
+      "The relationship is an art piece and the agent who creates it in that art form."
+    ],
+    "random_answer": ["director", "prima-donna", "composer"]
+  },
+  {
+    "question": "AUTOMOBILE is to CONVEYANCE AS PRINTING PRESS is to ___",
+    "answer": "newspaper",
+    "why": [
+      "An automobile is a <b>type</b> of conveyance (means of transport).",
+      "A printing press is a <b>machine</b> used to produce printed materials, such as a newspaper.",
+      "The relationship is an example of a broader category, or a tool and its primary product."
+    ],
+    "random_answer": ["book", "duplication", "machine"]
+  },
+  {
+    "question": "ARCHAEOLOGIST is to ANTIQUITIES AS ICHTHYOLOGIST is to ___",
+    "answer": "fishes",
+    "why": [
+      "An archaeologist is a <b>scientist</b> who studies antiquities (ancient artifacts).",
+      "An ichthyologist is a <b>scientist</b> who studies fishes.",
+      "The relationship is a specialist and their field of study or subject matter."
+    ],
+    "random_answer": ["ruins", "shells", "artifacts"]
+  },
+  {
+    "question": "LIQUID is to SIPHON AS SMOKE is to ___",
+    "answer": "chimney",
+    "why": [
+      "A siphon is a <b>device</b> used to draw off liquid.",
+      "A chimney is a <b>structure</b> through which smoke is drawn off or escapes.",
+      "The relationship is a substance and the channel or device used to draw it off."
+    ],
+    "random_answer": ["tobacco", "fuel", "fire"]
+  },
+  {
+    "question": "DEGRADATION is to RANK AS DECELERATION is to ___",
+    "answer": "speed",
+    "why": [
+      "Degradation is a <b>reduction</b> in rank or quality.",
+      "Deceleration is a <b>reduction</b> in speed.",
+      "The relationship is a process of reduction and the quantity being reduced."
+    ],
+    "random_answer": ["volume", "income", "form"]
+  },
+  {
+    "question": "DISQUISITION is to DISSERTATION AS INQUISITION is to ___",
+    "answer": "investigation",
+    "why": [
+      "A disquisition is a long and elaborate essay, similar to a dissertation, indicating a deeper study.",
+      "An inquisition involves prolonged and intensive questioning or <b>investigation</b>.",
+      "The relationship implies a detailed examination or formal inquiry."
+    ],
+    "random_answer": ["disqualification", "inspiration", "implication"]
+  },
+  {
+    "question": "SMILE is to AMOUSEMENT AS YAWN is to ___",
+    "answer": "boredom",
+    "why": [
+      "A smile is an <b>expression</b> often associated with amusement.",
+      "A yawn is an <b>expression</b> often associated with boredom.",
+      "The relationship is an expressive action and the emotion it signifies."
+    ],
+    "random_answer": ["analogy", "loneliness", "withdrawal"]
+  },
+  {
+    "question": "ADEPT is to MASTERY AS ARDENT is to ___",
+    "answer": "impassioned",
+    "why": [
+      "Adept means very skilled, implying <b>mastery</b>.",
+      "Ardent means enthusiastic or passionate, implying being <b>impassioned</b>.",
+      "The relationship describes a high degree of a quality."
+    ],
+    "random_answer": ["persistent", "abnormal", "skillful"]
+  },
+  {
+    "question": "REIN is to CHECK AS SPUR is to ___",
+    "answer": "urge",
+    "why": [
+      "Reins are used to <b>check</b> or control a horse.",
+      "Spurs are used to <b>urge</b> or make a horse go faster.",
+      "The relationship is a device used to elicit a specific action from an animal."
+    ],
+    "random_answer": ["impede", "free", "control"]
+  },
+  {
+    "question": "ENERGY is to DISSIPATE AS MONEY is to ___",
+    "answer": "squander",
+    "why": [
+      "To dissipate energy means to <b>waste</b> or scatter it.",
+      "To squander money means to <b>waste</b> it in a foolish or extravagant way.",
+      "The relationship is a resource and the act of wasting it."
+    ],
+    "random_answer": ["economize", "exploit", "buy"]
+  },
+  {
+    "question": "PRICE is to REDUCTION AS BULK is to ___",
+    "answer": "shrinkage",
+    "why": [
+      "Reduction is a <b>decrease</b> in price.",
+      "Shrinkage is a <b>decrease</b> in bulk or quantity.",
+      "The relationship is a process of diminishing and the quantity being diminished."
+    ],
+    "random_answer": ["bargain", "mass", "economy"]
+  },
+  {
+    "question": "AEGIS is to SPONSORSHIP AS GENRE is to ___",
+    "answer": "classification",
+    "why": [
+      "Aegis refers to protection or backing, similar to sponsorship.",
+      "Genre refers to a category or type, implying <b>classification</b>.",
+      "The relationship is synonymy or a closely related concept representing categorization or support."
+    ],
+    "random_answer": ["gender", "setting", "generation"]
+  },
+  {
+    "question": "PECULIAR is to DISTINCTIVE AS UNTOWARD is to ___",
+    "answer": "unfavorable",
+    "why": [
+      "Peculiar and distinctive are <b>synonyms</b>, both meaning characteristic of something and serving to distinguish it.",
+      "Untoward means unexpected and inappropriate or inconvenient, which is often <b>unfavorable</b>.",
+      "The relationship is synonymy or a strong association."
+    ],
+    "random_answer": ["fortuitous", "unexpected", "indirect"]
+  },
+  {
+    "question": "METHODIC is to ORDERLY AS BODACIOUS is to ___",
+    "answer": "outstanding",
+    "why": [
+      "Methodic means acting in a systematic and <b>orderly</b> way.",
+      "Bodacious is a slang term meaning excellent or admirable, implying something <b>outstanding</b>.",
+      "The relationship is synonymy, describing a characteristic."
+    ],
+    "random_answer": ["patent", "ordinary", "noteworthy"]
+  },
+  {
+    "question": "SLAVE is to FEUDALISM AS ENTREPRENEUR is to ___",
+    "answer": "capitalism",
+    "why": [
+      "Feudalism is a social system where slaves or serfs were a fundamental part of the labor force.",
+      "Capitalism is an economic system characterized by private ownership and <b>entrepreneurs</b> who organize and manage businesses.",
+      "The relationship is a key role or person within an economic or social system."
+    ],
+    "random_answer": ["production", "radical", "agriculture"]
+  },
+  {
+    "question": "IRREFUTABLE is to DISPROVED AS IRREPARABLE is to ___",
+    "answer": "irremediable",
+    "why": [
+      "Irrefutable means impossible to deny or disprove.",
+      "Irreparable means impossible to repair, which is <b>synonymous</b> with irremediable.",
+      "The relationship is one of impossibility, where the first term is an antonym to 'disproved' and the second is a synonym to 'irreparable'."
+    ],
+    "random_answer": ["inevitable", "possible", "insoluble"]
+  },
+  {
+    "question": "ACADEMIC is to PEDANTIC AS DEFUNCT is to ___",
+    "answer": "dead",
+    "why": [
+      "Pedantic describes someone excessively concerned with academic learning.",
+      "Defunct means no longer existing or functioning, which is <b>synonymous</b> with dead.",
+      "The relationship is a quality or state and its associated extreme or defining condition."
+    ],
+    "random_answer": ["alive", "inactive", "surviving"]
+  },
+  {
+    "question": "CLANDESTINE is to SECRET AS ENIGMA is to ___",
+    "answer": "riddle",
+    "why": [
+      "Clandestine means kept <b>secret</b> or done secretly.",
+      "An enigma is a person or thing that is mysterious or puzzling, similar to a <b>riddle</b>.",
+      "The relationship is synonymy, indicating a state of being hidden or mysterious."
+    ],
+    "random_answer": ["surprise", "consolation", "mirage"]
+  },
+  {
+    "question": "CERTIFY is to ATTEST AS CAPTIVATE is to ___",
+    "answer": "fascinate",
+    "why": [
+      "Certify and attest are <b>synonyms</b>, both meaning to formally declare or confirm something as true or valid.",
+      "Captivate and fascinate are <b>synonyms</b>, both meaning to attract and hold the interest and attention of.",
+      "The relationship between the pairs is synonymy."
+    ],
+    "random_answer": ["arrest", "seize", "admire"]
+  },
+  {
+    "question": "SPONTANEOUS is to UNBIDDEN AS URGENT is to ___",
+    "answer": "pressing",
+    "why": [
+      "Spontaneous means occurring as a result of an inner impulse, hence <b>unbidden</b>.",
+      "Urgent means requiring immediate action, which describes a <b>pressing</b> matter.",
+      "The relationship is a quality and its defining characteristic or a closely related concept."
+    ],
+    "random_answer": ["unimportant", "unreasonable", "trivial"]
+  },
+  {
+    "question": "ABSOLUTE is to PERFECT AS INCONSONANT is to ___",
+    "answer": "incompatible",
+    "why": [
+      "Absolute implies complete and perfect implies flawlessness, suggesting a high degree of quality.",
+      "Inconsonant means not in agreement or harmony, which is <b>synonymous</b> with incompatible.",
+      "The relationship is synonymy."
+    ],
+    "random_answer": ["common", "contrary", "reserved"]
+  },
+  {
+    "question": "CONSANGUINITY is to BLOOD AS AFFINITY is to ___",
+    "answer": "marriage",
+    "why": [
+      "Consanguinity refers to a relationship by <b>blood</b> (descent from a common ancestor).",
+      "Affinity refers to a relationship by <b>marriage</b> (or a natural liking/sympathy).",
+      "The relationship is a type of familial or social connection and the basis of that connection."
+    ],
+    "random_answer": ["race", "occupation", "faith"]
+  },
+  {
+    "question": "CORN is to EAR AS CABBAGE is to ___",
+    "answer": "head",
+    "why": [
+      "An ear is the characteristic part of a corn plant from which the grain is harvested.",
+      "A head is the characteristic, compact leafy part of a cabbage.",
+      "The relationship is a plant and its principal edible or recognizable <b>part</b>."
+    ],
+    "random_answer": ["bunch", "seed", "flower"]
+  },
+  {
+    "question": "HAPPINESS is to PROSPERITY AS CONDOLENCE is to ___",
+    "answer": "contend",
+    "why": [
+      "Happiness can be a state associated with prosperity (well-being, success).",
+      "Condolence is an expression of sympathy, typically offered to someone who is <b>contending</b> with grief or sorrow.",
+      "The relationship is a state or feeling and a related situation or response."
+    ],
+    "random_answer": ["loneliness", "awkward", "vigorous"]
+  },
+  {
+    "question": "FISH is to SCHOOL AS ___ is to ___",
+    "answer": "star : galaxy",
+    "why": [
+      "A school is a <b>group</b> of fish.",
+      "A galaxy is a <b>group</b> of stars.",
+      "The relationship is an individual and the collective noun for a group of them."
+    ],
+    "random_answer": ["bee : honey", "thesis : adviser", "bird : tree"]
+  },
+  {
+    "question": "___ is to SWORD AS HOLSTER is to ___",
+    "answer": "scabbard : pistol",
+    "why": [
+      "A scabbard is a <b>sheath</b> or case for a sword.",
+      "A holster is a <b>sheath</b> or case for a pistol.",
+      "The relationship is a weapon and its protective covering or carrying case."
+    ],
+    "random_answer": ["blade : spin", "duel : bolo", "sheath : shot"]
+  },
+  {
+    "question": "___ is to OPPOSE AS HALT is to ___",
+    "answer": "object : stop",
+    "why": [
+      "To object means to express <b>opposition</b> to something.",
+      "To halt means to <b>stop</b> moving or doing something.",
+      "The relationship is a verb and its synonym."
+    ],
+    "random_answer": ["argue : cut", "reject : break", "accept : push"]
+  },
+  {
+    "question": "___ is to SCHOOL AS STAR is to ___",
+    "answer": "fish : constellation",
+    "why": [
+      "A school is a <b>group</b> of fish.",
+      "A constellation is a <b>group</b> of stars.",
+      "The relationship is an individual and the collective noun for a group of them."
+    ],
+    "random_answer": ["student : rock", "principal : dancer", "bird : tree"]
+  },
+  {
+    "question": "___ is to OBLIGATION AS PREROGATIVE is to ___",
+    "answer": "duty : right",
+    "why": [
+      "An obligation is a <b>duty</b> or commitment.",
+      "A prerogative is a special <b>right</b> or privilege.",
+      "The relationship is a concept and its synonym."
+    ],
+    "random_answer": ["role : function", "law : status", "freedom : advantage"]
+  },
+  {
+    "question": "___ is to TRIPOD AS STATUE is to ___",
+    "answer": "camera : pedestal",
+    "why": [
+      "A tripod is a three-legged stand used to <b>support</b> a camera.",
+      "A pedestal is a base or <b>support</b> on which a statue stands.",
+      "The relationship is an object and its supporting base."
+    ],
+    "random_answer": ["studio : park", "exhibit : figurine", "beaker : podium"]
+  },
+  {
+    "question": "___ is to WEAVER AS CANDLE is to ___",
+    "answer": "cloth : glass",
+    "why": [
+      "A weaver creates <b>cloth</b> as their product.",
+      "Glass can be a <b>material</b> or component associated with candles (e.g., as a container or holder).",
+      "The analogy connects a producer with their product, and a product with an associated material."
+    ],
+    "random_answer": ["wheel : barrel", "dress : paper", "jug : chandler"]
+  },
+  {
+    "question": "___ is to DEFINITE AS UNCLEAR is to ___",
+    "answer": "ambiguous : incongruous",
+    "why": [
+      "Ambiguous means open to more than one interpretation, thus lacking <b>definiteness</b>.",
+      "Unclear means not easy to understand, and incongruous means not in harmony, linking them as concepts related to a lack of clarity or coherence.",
+      "The relationship signifies a state of not being clear or fitting well."
+    ],
+    "random_answer": ["definable : visible", "certain : vague", "doubtful : insightful"]
+  },
+  {
+    "question": "___ is to QUICK AS GRACIOUS is to ___",
+    "answer": "agile : courteous",
+    "why": [
+      "Agile means able to move <b>quickly</b> and easily.",
+      "Courteous means polite or respectful, which is <b>synonymous</b> with gracious.",
+      "The relationship is synonymy."
+    ],
+    "random_answer": ["funny : typical", "initial : gallant", "trained : polite"]
+  },
+  {
+    "question": "___ is to LIMP AS BREADTHE is to ___",
+    "answer": "crutch : suffocate",
+    "why": [
+      "A crutch is an <b>aid</b> used when someone limps (walks with difficulty).",
+      "Suffocate describes the <b>inability to breathe</b>, relating to breadth (the act of breathing).",
+      "The relationship connects a cause or aid for a condition, and a state related to a fundamental bodily function."
+    ],
+    "random_answer": ["knee : lungs", "walk : asthma", "leg : oxygen"]
+  },
+  {
+    "question": "___ is to HARMONIOUS AS HARMONIOUS is to ___",
+    "answer": "fearsome : compatible",
+    "why": [
+      "The second pair, 'harmonious' and 'compatible', are <b>synonyms</b>, implying a state of agreement or fit.",
+      "The first pair, 'fearsome' and 'harmonious', represents a <b>contrast</b> or antonymous relationship.",
+      "This analogy combines an antonymous relationship in the first pair with a synonymous one in the second."
+    ],
+    "random_answer": ["poor : opulent", "wise : dominant", "restive : happy"]
+  }
+]

@@ -1,968 +1,688 @@
 [
   {
-    "question": "The Filipino people have regained their respect for the government and their trust in it.",
-    "answer": "The Filipino people have regained their respect for the government and their trust in it.",
+    "question": "Some researchers explain that this unequal men-women authority is the result of biological inheritance. <br>A. Although the degree of masculine authority may vary from one group to another, generally, men always have more power. <br>B. These researchers theorize that men are naturally more aggressive while women more docile. <br>C. However, other researchers claim that the difference between men and women are shaped by culture, not by inherited predispositions. <br>D. Many anthropologists claim that men hold formal authority over women in every society. <br>The paragraph best supports the statement that",
+    "answer": "Some researchers explain that this unequal men-women authority is the result of biological inheritance.",
     "why": [
-      "The sentence demonstrates clear and effective <b>parallelism</b> by using 'for the government' with both 'respect' and 'trust'.",
-      "It clearly states what the Filipino people have regained without ambiguity.",
-      "The phrase 'respect for the government' and 'trust in it' are grammatically balanced and correct."
+      "The introductory sentence establishes the main topic and the specific explanation for unequal authority.",
+      "The subsequent sentences elaborate on and discuss different aspects or contrasting views of this initial statement.",
+      "This indicates that the paragraph's primary purpose is to explore and support the central idea presented in the first sentence."
     ],
     "random_answer": [
-      "The Filipino people have regained their respect and trust in their government.",
-      "The Filipino people have regained for their government their respect and trust in it.",
-      "The Filipino people have regained their respect and trust in it."
+      "Men and women are equally powerful.",
+      "The degree of masculine authority may vary.",
+      "Many anthropologists claim that men hold formal authority over women in every society."
     ]
   },
   {
-    "question": "Ego ideals, people strive toward them throughout life, but no one ever achieves them.",
-    "answer": "Throughout life, people strive toward their ego ideals, but no one ever achieves them.",
+    "question": "An education ready to suit the rural environment can become both real opportunity and genuinely functional only when that environment begins to offer real opportunities and acquire skills and knowledge on a large scale. As long as opportunity lies only in the urban economy, education will remain in servitude too. <br>The paragraph best supports the statement that",
+    "answer": "Urban education is of more importance than rural education.",
     "why": [
-      "The adverbial phrase 'Throughout life' is correctly placed at the beginning of the sentence, providing <b>temporal context</b>.",
-      "This structure clearly indicates that 'people' are the ones striving, avoiding a dangling modifier.",
-      "It improves sentence clarity by establishing when the action occurs before stating who performs it."
+      "The paragraph explicitly states that rural education remains 'in servitude' if opportunities are confined to the urban economy.",
+      "This implies that, due to the availability of opportunities, urban education currently holds a more significant or functional role.",
+      "The functionality of rural education is directly linked to the presence of opportunities, which are currently described as lacking outside urban areas."
     ],
     "random_answer": [
-      "Ego ideals, people strive toward them throughout life, but no one ever achieves them.",
-      "People strive toward their ego ideals throughout life, but no one ever achieves them.",
-      "People strive throughout life toward their ego ideals, but no one ever achieves them."
+      "Rural occupational opportunities give meaning to rural education.",
+      "Our educational system caters mainly to the needs of the urban sector.",
+      "The rural environment has opportunities that need to be developed."
     ]
   },
   {
-    "question": "Andy never feels badly after trying hard he fails to win a prize.",
-    "answer": "Andy never feels bad after trying hard and failing to win a prize.",
+    "question": "It seems that the greatest barrier to understanding lies in our inability to communicate effectively with others. It is a truism that some people articulate better than others. Some have facility for self-expression, some do not. Some know what to communicate but don't know how. <br>The paragraph best supports the statement that",
+    "answer": "People who have something to communicate readily express themselves.",
     "why": [
-      "The use of 'bad' as an adjective after the linking verb 'feels' is grammatically correct to describe Andy's state.",
-      "The conjunction 'and' correctly connects the two parallel actions 'trying hard' and 'failing to win a prize'.",
-      "The sentence structure is concise and clearly conveys the outcome of Andy's efforts."
+      "The paragraph describes a core issue in communication where some individuals struggle to express what they know.",
+      "It highlights the contrast between having knowledge and the ability to articulate it effectively.",
+      "The statement refers to the ease of expression when one possesses clear ideas or messages to convey."
     ],
     "random_answer": [
-      "Andy never feels badly after trying hard he fails to win a prize.",
-      "Andy never feels bad if after trying hard he fails to win a prize.",
-      "Andy never had felt bad that he had failed to win a prize after trying hard."
+      "Effective communication requires knowledge of what to say and how to say it.",
+      "Some people do not have the ability to understand others.",
+      "Misunderstanding is basically the result of people's differences in trainings and interests."
     ]
   },
   {
-    "question": "My report is late because I was frequently interrupted in my work.",
-    "answer": "My report is late because I was frequently interrupted in my work.",
+    "question": "Many people who consider themselves music lovers go to concerts in order to unwind themselves. There they enter an ideal world where one does not have think of the realities of everyday life. <br>The paragraph best supports the statement that",
+    "answer": "Requires high degree of concentration from the listener.",
     "why": [
-      "The sentence is grammatically correct as is, with 'frequently' serving as an adverb modifying 'interrupted'.",
-      "The conjunction 'because' appropriately introduces the reason for the report being late.",
-      "It expresses a clear cause-and-effect relationship using proper <b>subordination</b>."
+      "The paragraph depicts concerts as an 'ideal world' for unwinding and escaping daily realities.",
+      "Entering and immersing oneself in such an 'ideal world' often implies a focus that can be interpreted as a high degree of concentration on the musical experience.",
+      "To fully disengage from external thoughts and 'unwind' through music, an intense engagement with the performance is usually required."
     ],
     "random_answer": [
-      "The reason my report is late is I was frequently interrupted from my work.",
-      "My report is late due to many interruptions that kept me from my work.",
-      "Due to many interruptions that kept me from my work, my report is late."
+      "Needs to express only one emotion or meaning.",
+      "Often liked as an escape.",
+      "Listener derives pure pleasure from understanding the meaning of musical theme."
     ]
   },
   {
-    "question": "After holding a meeting the students, a march was held.",
-    "answer": "After holding a meeting, the students led a march around the campus.",
+    "question": "While the office concerned with community development does its attention to the building of material projects, it has not neglected to follow through the main objective to change the people's attitude from too much dependence on the government to self-reliance and resourcefulness. <br>The paragraph best supports the statement that",
+    "answer": "Community development consists mainly of building material projects.",
     "why": [
-      "The sentence correctly places the subject 'students' who performed the action of leading the march.",
-      "The participial phrase 'After holding a meeting' clearly modifies the subject, ensuring no <b>dangling modifier</b>.",
-      "It specifies who organized and participated in the march, making the sentence unambiguous."
+      "The paragraph explicitly states that the office 'does its attention to the building of material projects'.",
+      "This indicates a significant, foundational focus on tangible infrastructure as a primary component of community development efforts.",
+      "Although attitude change is also pursued, the initial mention of material projects suggests their central role in the development work."
     ],
     "random_answer": [
-      "After holding a meeting, a march was held around the campus by the students.",
-      "Holding a meeting, the students led a march around the campus.",
-      "After holding a meeting, the students led a march around the campus."
+      "The office concerned with community development is both self-reliant and resourceful.",
+      "Community development means more than the building of material projects for the people.",
+      "The people's attitude toward community development is one of the indifferences."
     ]
   },
   {
-    "question": "As soon as the tabulation of the figures has been completed, someone should check the accuracy.",
-    "answer": "As soon as the tabulation of the figures has been completed, someone should check the accuracy.",
+    "question": "And since this ideology must be a common undertaking for all, public leaders should be ever responsive and keenly attuned to the needs and sentiments of the people. <br>The paragraph best supports the statement that",
+    "answer": "We need to be able to overcome the colonial legacy.",
     "why": [
-      "The sentence is grammatically sound and logically structured, with a clear subject 'someone' and verb 'should check'.",
-      "The adverbial clause 'As soon as the tabulation of the figures has been completed' appropriately modifies the main clause.",
-      "It conveys the action and its prerequisite clearly, using proper <b>subordination</b> and active voice for the main verb."
+      "The paragraph emphasizes the need for public leaders to be responsive to the people's needs for a common ideology to be a 'common undertaking'.",
+      "This collective undertaking for progress often implies addressing historical challenges, such as the lingering effects of a colonial legacy.",
+      "The call for leaders to be 'keenly attuned to the needs and sentiments of the people' suggests a necessary evolution from past influences towards self-determination."
     ],
     "random_answer": [
-      "Someone should check the accuracy of those figures should be checked when the tabulation is completed.",
-      "The accuracy of those figures should be checked when the tabulation is completed.",
-      "Someone ought to check the accuracy of those figures when they have been tabulated."
+      "And since this ideology must be a common undertaking for all, public leaders should be ever responsive and keenly attuned to the needs and sentiments of the people.",
+      "The immense problems of our colonial legacy and the political stints of our past cannot be rectified in a few years.",
+      "For these deep rooted in our social cultures that can only be diminished and passed on by a dynamic and dedicated leadership and a committed citizenry."
     ]
   },
   {
-    "question": "Plumbers who work efficiently from the point of view of a homemaker are worthy of their wages.",
-    "answer": "Plumbers who work efficiently are worthy of their wages from the point of view of a homemaker.",
+    "question": "The Philippines, as a developing nation, is not exempted from the influence of this worldwide movement. <br>The paragraph best supports the statement that",
+    "answer": "Community development is a worldwide movement in both the developed and the developing nations.",
     "why": [
-      "The sentence correctly places the modifying phrase 'from the point of view of a homemaker' closer to the element it modifies, 'worthy of their wages'.",
-      "This structure ensures that the perspective is applied to the worthiness, not the plumbers' work efficiency.",
-      "It clarifies the <b>intended meaning</b> by avoiding ambiguity regarding the modifier's scope."
+      "The paragraph states that the Philippines, a 'developing nation,' is 'not exempted' from a 'worldwide movement'.",
+      "This implies that if a developing nation is affected, then the movement's scope must encompass both developing and, by extension, developed nations globally.",
+      "The term 'worldwide movement' inherently includes all types of nations within its influence."
     ],
     "random_answer": [
-      "From the point of view of a homemaker, plumbers who work efficiently are worthy of their wages.",
-      "Plumbers are worthy of their wages who work efficiently from the point of view of a homemaker.",
-      "Worthy of their wages are plumbers who work efficiently from the point of view of a homemaker."
+      "But the main challenge and the most important of all is to be able to change the attitude of the people to want for better life through their own effort.",
+      "With about 75% of its population living in the rural areas, a national program of community development becomes imperative.",
+      "Poverty, ignorance, and low production levels, which continue to plague the rural areas, are the challenges to the community development program."
     ]
   },
   {
-    "question": "The trip to Laguna was educational and everybody enjoyed it very much.",
-    "answer": "The trip to Laguna was educational and everybody enjoyed it very much.",
+    "question": "Because of pollution, the ecosystem is disturbed; in some areas, even thrown out of balance. <br>The paragraph best supports the statement that",
+    "answer": "With these poisons on land, air, and water, food is getting scarcer.",
     "why": [
-      "The sentence is grammatically correct as written, using a compound predicate with 'was educational' and 'enjoyed it very much'.",
-      "The use of 'and' effectively connects the two characteristics of the trip.",
-      "It is a simple, direct, and clear statement about the trip's qualities and reception."
+      "The paragraph describes how 'pollution' disturbs the 'ecosystem' and throws it 'out of balance'.",
+      "Pollution, often involving harmful substances ('poisons'), directly impacts environmental health, which can lead to a decline in natural resources and food production.",
+      "A disturbed and imbalanced ecosystem often results in decreased availability of essential resources like food."
     ],
     "random_answer": [
-      "Everybody found the trip to Laguna educational and it was enjoyed very much.",
-      "The trip to Laguna educational and everybody enjoyed it very much.",
-      "A most enjoyable time was or everybody in their trip to Laguna which was educational."
+      "One of the things that come to mind when we talk about the environment is pollution.",
+      "It is easy now to imagine that without clean food and air, humankind will surely perish.",
+      "Many living creatures die because of the habitat change."
     ]
   },
   {
-    "question": "One either has to be 65 or blind to claim an extra personal exemption.",
-    "answer": "One either has to be 65 or blind to claim an extra personal exemption.",
+    "question": "This information may be a warning; hence, it contributes to our survival. <br>The paragraph best supports the statement that",
+    "answer": "This information is available and therefore helps us survive.",
     "why": [
-      "The sentence uses the correlative conjunction 'either...or' correctly to present two alternatives.",
-      "It maintains <b>parallel structure</b> between the two conditions for claiming the exemption ('be 65' and 'be blind').",
-      "The sentence is clear and concise in stating the eligibility criteria."
+      "The paragraph explicitly states that information 'contributes to our survival'.",
+      "For information to serve as a warning and aid survival, it must necessarily be accessible or 'available'.",
+      "The statement directly synthesizes the idea that information's existence and utility are linked to human survival."
     ],
     "random_answer": [
-      "One either has to be 65 or blind to claim his/her extra personal exemption.",
-      "One has to be either 65 or blind to claim an extra personal exemption.",
-      "One has to either be 65 or blind to claim an extra personal exemption."
+      "The information may also contribute to our convenience or well being.",
+      "The fundamental purpose of communication is to transmit information.",
+      "When flash a friend to help us search for a lost wallet, we are in effect employing communication as a convenience."
     ]
   },
   {
-    "question": "For a watch worth one thousand, I paid eight hundred pesos at the bazaar.",
-    "answer": "I paid eight hundred pesos for a watch worth one thousand at the bazaar.",
+    "question": "However, humans have a tendency to go against impositions or prohibitions of any kind and therefore are likely to go into excess. <br>The paragraph best supports the statement that",
+    "answer": "In short, the care of the heart for moderation in everything one says and does.",
     "why": [
-      "The sentence places the direct object 'eight hundred pesos' immediately after the verb 'paid', and then the indirect object 'for a watch'.",
-      "The phrase 'at the bazaar' is correctly placed at the end to indicate the location of the transaction.",
-      "This structure ensures logical and natural <b>word order</b> for English sentences."
+      "The paragraph identifies humanity's inclination towards 'excess' when faced with rules or restrictions.",
+      "This tendency implies a need for a counterbalance, which is 'moderation' in actions and words.",
+      "The phrase 'care of the heart' can be interpreted as cultivating inner discipline to achieve balance and avoid extremes."
     ],
     "random_answer": [
-      "At the bazaar, I paid only eight hundred pesos for a watch worth one thousand.",
-      "I paid only eight hundred pesos for a watch that was worth one thousand.",
-      "Eight hundred pesos only was what I paid for a watch at the bazaar that was worth one thousand."
+      "Any person who wants to live life to the fullest and enjoy it should take care of one's heart.",
+      "Caring for the heart means watching one's diet and bodily motions, as well as keeping cool and on the state of equilibrium at all times.",
+      "This is why there is an increasing incidence of heart disease in the country and in other parts of the world."
     ]
   },
   {
-    "question": "If one's minds wander while studying, it is a good device to read aloud.",
-    "answer": "If one's mind wanders while studying, reading aloud is a good device.",
+    "question": "These skills will enable one to communicate with other people. <br>The paragraph best supports the statement that",
+    "answer": "If one is to cope with all the forces that shape one's life in this modern age, this God-given gift must be developed.",
     "why": [
-      "The subject 'mind' should be singular to agree with 'one's' and 'wanders', correcting the plural 'minds'.",
-      "The gerund phrase 'reading aloud' functions as the subject of the second clause, creating a clear and active construction.",
-      "This revision maintains grammatical consistency and improves <b>subject-verb agreement</b>."
+      "The paragraph highlights the importance of communication skills for interacting with others.",
+      "In a complex and rapidly changing modern world, these skills become essential tools for navigating life's challenges.",
+      "The development of such fundamental human capacities is presented as crucial for effective functioning in contemporary society."
     ],
     "random_answer": [
-      "Reading aloud is a good device if one's mind wanders while studying.",
-      "Reading aloud is a good device for those whose minds wander while studying.",
-      "Reading aloud is a good device for those whose minds wander while studying."
+      "Ultimately, one will be at ease in this world where communication plays a vital role.",
+      "A person's unique resource is the mind.",
+      "This can be done by learning how to read and write."
     ]
   },
   {
-    "question": "Finishing reading the book, he felt as if he had traveled around the world.",
-    "answer": "When he finished reading the book, he felt like he had traveled around the world.",
+    "question": "While an occasional about anxiety and tension may be unpleasant, it is quite normal and need not be a cause for concern. <br>The paragraph best supports the statement that",
+    "answer": "Emotional disturbance becomes very distressing, it should be dealt with as an illness requiring professional treatment.",
     "why": [
-      "The subordinating conjunction 'When' correctly introduces the adverbial clause of time.",
-      "The clause 'he felt like he had traveled around the world' is an idiomatic and grammatically correct comparison using 'like'.",
-      "It clearly establishes the <b>temporal relationship</b> between finishing the book and his feeling."
+      "The statement emphasizes distinguishing between normal anxiety and more severe 'emotional disturbance'.",
+      "It suggests that when emotional states become significantly distressing, they warrant treatment as a legitimate illness.",
+      "Seeking 'professional treatment' is advocated for conditions that are beyond normal unpleasantness."
     ],
     "random_answer": [
-      "When he had finished reading the book, he felt like he had traveled around the world.",
-      "After finishing reading the book, he felt like he has traveled around the world.",
-      "After having finished reading the book he felt like he has traveled around the world."
+      "The time to be watchful is when emotional upsets come frequently, shake us severely, and fail to wear off after a while.",
+      "They are self-protected reactions when we are confronted by threats to our safety, well-being, happiness, or self-esteem.",
+      "Anxiety and tensions are essential of living, and everybody experiences them."
     ]
   },
   {
-    "question": "In terms of images, thinking gives a person a distinct advantage of a lot more information stored.",
-    "answer": "In terms of images, thinking gives a person a distinct advantage of storing a lot more information.",
+    "question": "Some of the customs we acquire as members of a society have a curious effect on us. <br>The paragraph best supports the statement that",
+    "answer": "That is why, many of us are no conscious of the customs that guide our behavior.",
     "why": [
-      "The use of the gerund 'storing' correctly indicates the act of keeping information, aligning with the context of 'advantage'.",
-      "This phrasing is more concise and grammatically precise than 'information stored'.",
-      "It clarifies what kind of distinct advantage thinking provides in relation to information."
+      "The paragraph indicates that societal customs have a 'curious effect' on individuals.",
+      "This 'curious effect' can imply that their influence is subtle or ingrained, leading to a lack of conscious awareness regarding their impact on behavior.",
+      "Many customs are internalized over time, operating implicitly rather than through explicit thought."
     ],
     "random_answer": [
-      "A lot more information stored is the distinct advantage given a person who is thinking in terms of images.",
-      "Thinking in terms of images gives a person the distinct advantage of storing a lot more information.",
-      "Thinking in terms of images gives a person the distinct advantage of storing a lot more information."
+      "In time, the explicit rules for customary behavior fade our awareness.",
+      "But with experience we learn to conform and eventually come to feel that these customs are right and natural.",
+      "Our society is rigidly tied by many beliefs and traditions which largely determine our cultural pattern of behavior."
     ]
   },
   {
-    "question": "These guidelines apply to both they and us.",
-    "answer": "These guidelines apply to both them and us.",
+    "question": "Nobody can develop him more than he is willing to develop himself. <br>The paragraph best supports the statement that",
+    "answer": "That man is a wasted man in terms of human potential.",
     "why": [
-      "The objective case pronouns 'them' and 'us' are correctly used after the preposition 'to', as they are objects of the preposition.",
-      "This ensures correct <b>pronoun case</b> in the sentence.",
-      "The sentence clearly indicates that the guidelines apply to both groups mentioned."
+      "The paragraph asserts that self-development is limited by an individual's own willingness.",
+      "This implies that if one is unwilling to develop, their inherent human potential remains untapped.",
+      "An unutilized or dormant potential can be viewed as a 'wasted' opportunity for growth."
     ],
     "random_answer": [
-      "These guidelines apply to both they and them.",
-      "These guidelines apply to both them and they.",
-      "These guidelines apply to both us and they."
+      "The work, in connection with delivering the service to the public, must encourage that growth.",
+      "Man is a potential and in a possession, the human potential.",
+      "Development in this sense is growth which always stems from within."
     ]
   },
   {
-    "question": "One hundred pesos is really not much to pay for a book of this type.",
-    "answer": "One hundred pesos is really not much to pay for a book of this type.",
+    "question": "Today, the community worker not only strives to relay development plans but also undertakes all efforts to make the community participate in the acceptance and implementation of these plans. <br>The paragraph best supports the statement that",
+    "answer": "The traditional concept of the \"grassroots\" the worker is that of being the liaison between the agency and the community and between the government and the people.",
     "why": [
-      "The sentence is grammatically correct as is, with 'one hundred pesos' functioning as a singular unit.",
-      "The use of 'is' for 'one hundred pesos' is correct when referring to a sum of money as a single amount.",
-      "It clearly expresses the value proposition for the book."
+      "The paragraph describes the community worker's evolving role beyond simply relaying information.",
+      "It emphasizes active engagement to ensure community participation in adopting and executing plans.",
+      "This highlights the worker's function as a crucial link, fostering two-way involvement between external agencies and the local community."
     ],
     "random_answer": [
-      "One hundred pesos is not really much to pay for a book of this type.",
-      "One hundred pesos is not really much to pay for a book of this type.",
-      "One hundred pesos is not really much to pay for a book of this type."
+      "Thus as a communication the community, the worker's effectiveness can only be determined by the extent to which one is able to harness popular participation towards a program of action.",
+      "The community worker's effectiveness can only be determined by the extent to which one is able to harness popular participation towards a program of action.",
+      "The present emphasis is popular participation has, however, altered this traditional role."
     ]
   },
   {
-    "question": "Whether at home or at work, an individual's needs and values constantly come into opposition with other people.",
-    "answer": "Whether at home or at work, an individual's needs and values constantly come into opposition with other people.",
+    "question": "It also provides a means of getting the affected parties together in a calm, problem-solving atmosphere. <br>The paragraph best supports the statement that",
+    "answer": "In the kind of atmosphere, meaningful dialogue is made possible and grievances are made aware that they do not have to create confrontation in order to be heard.",
     "why": [
-      "The sentence is grammatically correct and uses 'whether...or' effectively to present two settings.",
-      "The plural subject 'needs and values' correctly takes the plural verb 'come'.",
-      "It accurately describes the constant conflict an individual faces in different environments."
+      "The paragraph describes the creation of a 'calm, problem-solving atmosphere' for affected parties.",
+      "This environment is conducive to 'meaningful dialogue,' allowing grievances to be expressed constructively.",
+      "The goal is to ensure that concerns are heard and addressed without escalating into confrontation."
     ],
     "random_answer": [
-      "Whether at home or at work, an individual's needs and values constantly comes into opposition with other people.",
-      "Whether at home or at work, an individual's needs and values constantly comes into opposition with those of other people.",
-      "An individual's needs and values, whether at home or at work, constantly comes into opposition with other people."
+      "Errors have found that a formal grievance procedure has several useful effects.",
+      "However, they are assured that they may raise a complaint without jeopardizing their status in the office.",
+      "It gives them a chance to voice their complaints and thereby warns management of problem areas."
     ]
   },
   {
-    "question": "Looking through our files and our reference library, no information on this subject could be found.",
-    "answer": "It is sure useless to look in the files or reference library for such information.",
+    "question": "The environmental consequences have been overlooked in most industrial projects implemented in the past. <br>The paragraph best supports the statement that",
+    "answer": "The Philippines government's concern now is to reconcile productivity with the improvement and protection of the environment.",
     "why": [
-      "This sentence is grammatically correct and uses the impersonal 'It is' construction to make a general statement.",
-      "The phrase 'look in the files or reference library' is a common and correct idiom.",
-      "It clearly conveys the futility of searching for the information."
+      "The paragraph acknowledges past oversight regarding environmental impacts in industrial projects.",
+      "This historical context implies a current need for a more balanced approach.",
+      "The statement suggests that the government is now focused on integrating economic productivity with ecological protection."
     ],
     "random_answer": [
-      "The reference library as well as the files were found to contain no information on this subject.",
-      "No information on this subject either in the company's reference library or its files.",
-      "I am sure that neither our reference library nor our files contain any information on this subject."
+      "The environmental consequences have been overlooked in most industrial projects implemented in the past.",
+      "Little attention, if not none at all, has been given to the possible effects of industrialization outside of the monetary profit they could bring.",
+      "In the Philippines, this problem is receiving the attention it rightfully deserves as an integral part of the industrialization policies and processes."
     ]
   },
   {
-    "question": "It is the executive's sincere humility that makes his subordinates admired him.",
-    "answer": "The executive is admired by his subordinates which is the result of his sincere humility.",
+    "question": "But the world of books lives on. <br>The paragraph best supports the statement that",
+    "answer": "The world of books is the most remarkable creation of humankind.",
     "why": [
-      "The sentence uses the passive voice to highlight the executive being admired, rather than the humility doing the admiring.",
-      "The relative pronoun 'which' correctly refers to the admiration, not the humility itself.",
-      "This structure better expresses the <b>cause and effect</b>: humility leads to admiration."
+      "The phrase 'But the world of books lives on' implies their enduring nature and significant impact.",
+      "Longevity and continued relevance suggest a profound and unique contribution to human civilization.",
+      "Books serve as lasting repositories of knowledge, culture, and thought, making them exceptional human creations."
     ],
     "random_answer": [
-      "The executive is admired by his subordinates because of his sincere humility.",
-      "The executive's sincere humility is what makes his subordinates admire him because of it.",
-      "The executive is sincere and humble man and his subordinates admire him because of it."
+      "An ever-new ark of darkness, new races build others.",
+      "Nothing else that human builds ever lasts.",
+      "Moments fall, nations perish, and civilizations grow old and die out."
     ]
   },
   {
-    "question": "As a member of society, everyone has the right to social security and is entitled to the realization of his economic, social, and cultural rights.",
-    "answer": "As a member of society, everyone has the right to social security and is entitled to the realization of his economic, social, and cultural rights.",
+    "question": "Filipino values that are naturally good should be preserved and values that are corrupt should be rejected. <br>The paragraph best supports the statement that",
+    "answer": "Our society is rigidly tied by many beliefs and traditions which largely determine our cultural pattern of behavior.",
     "why": [
-      "The sentence is grammatically correct and uses 'everyone' as a singular subject, agreeing with 'has' and 'is entitled'.",
-      "It employs <b>parallel structure</b> effectively to list the types of rights: 'economic, social, and cultural'.",
-      "The phrasing is clear and comprehensive in stating the universal rights."
+      "The paragraph advocates for maintaining positive values and discarding negative ones, directly related to a society's cultural framework.",
+      "Values are intrinsically linked to beliefs and traditions, which shape the collective behavior of a society.",
+      "The process of preserving and rejecting values implies an active engagement with the elements that define a cultural pattern."
     ],
     "random_answer": [
-      "As a member of society, the right to social security by everyone is entitled to the realization of his economic, social, and cultural rights.",
-      "The realization of his economic, social, and cultural rights and the rights to social security is entitled to everyone, as a member of society.",
-      "Everyone has the right to social security, as a member of society, and is entitled to the realization of his economic, social, and cultural rights."
+      "But the fact that there exists in the Philippines today a plurality of attitudes and customs does not mean that Filipinos should accept all of them without question.",
+      "To do so, the Filipinos themselves must make the sense that makes them true Filipinos—the sense of value.",
+      "The process of preserving and rejecting values implies an active engagement with the elements that define a cultural pattern."
     ]
   },
   {
-    "question": "Miss Guzman had gone to United State to try to find a lucrative job.",
-    "answer": "Miss Guzman went to the United States to try and find a lucrative job.",
+    "question": "This condition has been brought about by many factors which include industrial plants belching out smoke, emissions from vehicles, and improperly burned fuel in private residences. <br>The paragraph best supports the statement that",
+    "answer": "To counteract such factors, state health departments now measure the amount of pollution in the air as well as the kind of pollutants.",
     "why": [
-      "The simple past tense 'went' is appropriate for a completed action in the past.",
-      "The phrase 'United States' should be plural to refer to the country.",
-      "The use of 'and find' creates a natural and grammatically correct conjunction for the two verbs 'try' and 'find'."
+      "The paragraph describes various sources of pollution contributing to 'this condition'.",
+      "To address such problems, the logical and necessary first step is to quantify and identify the pollutants responsible.",
+      "Measurement by health departments is a direct action to understand and manage the pollution problem described."
     ],
     "random_answer": [
-      "Miss Guzman went to the United States to try to find a lucrative job.",
-      "Miss Guzman went to the United States to try and find a lucrative job.",
-      "Miss Guzman went to the United States to try and find a lucrative job."
+      "And if conditions warrant, all traffic may be halted, the burning of trash may be forbidden and in extreme cases, factories may be shut down.",
+      "Pollution is becoming a serious problem throughout the world.",
+      "Warning is also given to the public when pollution becomes a real menace to health."
     ]
   },
   {
-    "question": "Of the women who have enjoyed growing orchids for years she is one.",
-    "answer": "She is one of the women who have enjoyed growing orchids for years.",
+    "question": "The only way to have a true friend is to be one yourself. <br>The paragraph best supports the statement that",
+    "answer": "Likewise, sacrifices need to be made to maintain and strengthen friendships, but few human pursuits make sacrifice a pleasure.",
     "why": [
-      "The sentence correctly places the subject 'she' at the beginning, followed by the verb and the prepositional phrase.",
-      "This structure ('She is one of the women...') is the standard and most idiomatic way to express this idea.",
-      "It improves <b>readability</b> and clarifies who the sentence is about."
+      "The paragraph emphasizes the principle of reciprocity in friendship, stating one must embody the qualities they seek.",
+      "True friendship often requires effort and giving, which can be seen as personal sacrifices.",
+      "The statement extends this idea by noting that while such sacrifices are necessary, they are not always inherently pleasurable."
     ],
     "random_answer": [
-      "Of the women who have enjoyed growing orchids for years she is one.",
-      "She is one of those women who have enjoyed to grow orchids for years.",
-      "She is one of those women who have enjoyed growing orchids for years."
+      "The only way to have a true friend is to be one yourself.",
+      "This is not easy to do because a friend must have the qualities of the best physician, the best nurse, and the best parent.",
+      "However, making sacrifices is one way by which one can reach spiritual nobility."
     ]
   },
   {
-    "question": "Giving instructions are easier than to follow them.",
-    "answer": "Instructions are easier to give than to follow them.",
+    "question": "This is so because what people construct nature can destroy. <br>The paragraph best supports the statement that",
+    "answer": "The other half depends upon the disposition of nature.",
     "why": [
-      "The plural subject 'Instructions' correctly agrees with the plural verb 'are'.",
-      "The infinitive phrase 'to give' maintains <b>parallelism</b> with 'to follow them'.",
-      "This structure is grammatically sound and clearer than using a gerund as the subject with the verb 'are'."
+      "The paragraph highlights nature's power to destroy human constructs.",
+      "This implies a dual influence, where human creation is one part, and nature's disposition forms the 'other half' determining outcomes.",
+      "The statement suggests that despite human efforts, natural forces play a decisive role in the fate of what is built."
     ],
     "random_answer": [
-      "It is easier to give instructions than to follow them.",
-      "Instructions could be easier given than followed.",
-      "It is sometimes hard to follow instructions which are easily given."
+      "The destinies of nations depend upon people.",
+      "Every good work done for another lightens the hardships of modern life.",
+      "People have varied ways of looking at different things."
     ]
   },
   {
-    "question": "The most critical period in the country as far as employment is concerned will be the third and last quarters of the year.",
-    "answer": "The most critical period in the country as far as employment is concerned will be the third and last quarters of the year as far as employment is concerned.",
+    "question": "Habits are built up slowly, but once established, they are difficult to break. <br>The paragraph best supports the statement that",
+    "answer": "A bad person has bad habits cannot be said to have a good character.",
     "why": [
-      "The sentence is grammatically correct as is, with 'the most critical period' as the subject.",
-      "The use of 'as far as employment is concerned' appropriately modifies 'period' and is placed for clarity.",
-      "It clearly identifies the specific time frame for the critical period."
+      "The paragraph emphasizes the persistence of habits once formed.",
+      "If habits are difficult to break, then negative or 'bad' habits can profoundly shape and detract from one's overall character.",
+      "Character is often defined by consistent behaviors, which are heavily influenced by ingrained habits."
     ],
     "random_answer": [
-      "What will be the most critical period in the country will be the third and last quarters of the year as far as employment is concerned.",
-      "The third and last quarters of the year, as far as employment is concerned, will be the most critical period in the country.",
-      "The most critical period in the country will be the third and last quarters of the year as far as employment is concerned."
+      "A good person is a person who has a good character.",
+      "Character, either good or bad, is a matter of habit.",
+      "Any person that is performed regularly becomes a habit, that is, it is done without conscious effort."
     ]
   },
   {
-    "question": "Unfair discrimination, public officials and employees should provide service to everyone and regardless of party affiliation or preference.",
-    "answer": "Public officials and employees should provide service to everyone without unfair discrimination and regardless of party affiliation or preference.",
+    "question": "Advance warning, however, can do a great deal in reducing oppositions. <br>The paragraph best supports the statement that",
+    "answer": "New changes are introduced and their acceptance by employees.",
     "why": [
-      "The phrase 'without unfair discrimination' clarifies the manner in which service should be provided.",
-      "This placement ensures that the sentence emphasizes equitable service provision, not just avoiding discrimination.",
-      "It creates a more complete and coherent statement about the nature of public service."
+      "The paragraph states that 'advance warning' helps in 'reducing oppositions'.",
+      "This principle directly applies to situations where 'new changes' are introduced within an organization.",
+      "Providing forewarning facilitates the smoother 'acceptance by employees' and minimizes resistance to change."
     ],
     "random_answer": [
-      "Public officials and employees should provide service to everyone and regardless of party affiliation or preference.",
-      "Public officials and employees should provide service, regardless of party affiliation or preference and without unfair discrimination to everyone.",
-      "Public officials and employees should provide service to everyone and it should be without unfair discrimination and regardless of party affiliation or preference."
+      "To illustrate, sudden change will inevitably meet with great employee resistance.",
+      "It also gives a person time to adjust to the new framework and to the personal and domestic changes that go along with it.",
+      "Improved alterations can lead to dissatisfaction, absenteeism, and inefficiency."
     ]
   },
   {
-    "question": "While it is desirable that a developmental plan be in writing, it is not required that it be in an elaborate form.",
-    "answer": "While it is desirable that a developmental plan be in writing, it is not required that it be in an elaborate form.",
+    "question": "But most poignant of all perhaps is the loneliness of the aged individual who feels useless and unwanted. <br>The paragraph best supports the statement that",
+    "answer": "There is the loneliness of the aged individuals who feels useless and unwanted.",
     "why": [
-      "The sentence is grammatically correct, using 'While' to introduce a concession and presenting a balanced idea.",
-      "The use of the subjunctive mood 'be' is correct after 'desirable that' and 'required that'.",
-      "It clearly distinguishes between what is desirable and what is required for the plan."
+      "The paragraph identifies the 'loneliness of the aged individual who feels useless and unwanted' as the 'most poignant' aspect.",
+      "This statement is a direct restatement and highlights the central theme and emotional focus of the paragraph.",
+      "The paragraph emphasizes this specific experience as a significant and affecting concern."
     ],
     "random_answer": [
-      "It is desirable that a developmental plan be in writing, no requirement whatsoever imposed that it be in an elaborate form.",
-      "While it is desirable that a developmental be written, it is not required that it be in an elaborate form.",
-      "While a developmental plan is desirable to be in writing it is not required that it be in an elaborate form."
+      "Then, there is the loneliness of teenagers, more powerful than ever before, who feel misunderstood and alienated from their parents.",
+      "Further on, there is the loneliness within the marriage bond where many spouses feel estranged from their partners even while living together in the most intimate relationship.",
+      "Loneliness strikes without regard for age, place or condition."
     ]
   },
   {
-    "question": "If not for the people's irresponsible acts, the destruction of the ozone layer would not happen.",
-    "answer": "If it were not for the people's irresponsible acts, the destruction of the ozone layer would not happen.",
+    "question": "This important role of camera in recording events keeps the people's minds busy in exploring new systems and techniques to improve invention. <br>The paragraph best supports the statement that",
+    "answer": "In fact, many companies have set aside funds for research and study on how this particular line of endeavor can be improved.",
     "why": [
-      "The use of the subjunctive 'were' after 'If it' is correct for a counterfactual conditional statement.",
-      "This structure properly expresses a hypothetical situation that is contrary to fact.",
-      "It aligns with formal English grammar rules for unreal conditional sentences."
+      "The paragraph highlights the camera's function in inspiring new systems, techniques, and inventions.",
+      "This innovative potential naturally leads to investment in research and development to enhance and improve camera-related technologies.",
+      "The pursuit of improvement in this 'line of endeavor' is a logical consequence of its 'important role'."
     ],
     "random_answer": [
-      "If it had not been for people's irresponsible acts, the destruction of the ozone layer would not have happened.",
-      "If it was not for the people's irresponsible acts, the destruction of the ozone layer would not have happened.",
-      "If it was not for the people's irresponsible acts, the destruction of the ozone layer would not have happened."
+      "The result of these research activities is a camera that can now measure the time it takes to send ultrasonic waves from the camera and receive an echo from the subject.",
+      "Aside from printed works, the camera is undoubtedly one of the most fascinating inventions of human beings.",
+      "It captures the right moods at the right moment and tells exactly what happens at a particular occasion by means of the pictures that it produces."
     ]
   },
   {
-    "question": "Because no usher had to come to show the guests to their seats, a lady critic helped herself to a seat in front of the stage.",
-    "answer": "Because no usher had to come to show the guests to their seats, a lady critic helped herself to a seat in front of the stage.",
+    "question": "Thinking creatively allows us to let our thoughts run free, leading to the birth of new ideas and making greater the probability of finding an effective solution to problem. <br>The paragraph best supports the statement that",
+    "answer": "We must engage in those two types of thinking separately, we need both for efficient problem solving.",
     "why": [
-      "The sentence is grammatically correct and logically flows, with 'Because' introducing the reason.",
-      "The phrase 'helped herself to a seat' is an appropriate reflexive construction.",
-      "It clearly states why the lady critic took a seat without assistance."
+      "The paragraph focuses on 'thinking creatively' and its role in generating new ideas and effective problem solutions.",
+      "This implies that creative thought is a distinct and valuable approach to problem-solving.",
+      "The statement suggests that a comprehensive and effective problem-solving strategy often integrates different modes of thinking."
     ],
     "random_answer": [
-      "Because no usher came to show the guests to their seats, and a lady critic helped herself to a seat in front of the stage.",
-      "Because no usher had to come to show the guests to their seats, and a lady critic helped herself in front of the stage.",
-      "No usher had come to show the guests to their seats, a lady critic helped herself in front of the stage."
+      "Critical thinking is an examination or testing of suggested solutions to see whether they will work.",
+      "Critical judgment selects or refines the most ideas, picking the most effective solution out of the available possibilities.",
+      "Creative thinking is thinking that results in the discovery of new or improved solution to a problem."
     ]
   },
   {
-    "question": "The size of one's family is considered when he buys a car.",
-    "answer": "The size of one's family is considered when he buys a car.",
+    "question": "They throw their garbage on the streets. <br>The paragraph best supports the statement that",
+    "answer": "Everyone knows that \"Health is wealth.\"",
     "why": [
-      "The sentence is grammatically correct as is, using the singular possessive 'one's' and the singular verb 'is considered'.",
-      "The structure clearly links the act of buying a car to the consideration of family size.",
-      "It's a concise and well-formed statement about a purchasing decision."
+      "The action of throwing garbage on the streets directly contrasts with public health and cleanliness.",
+      "This practice implies a disregard for environmental well-being, which is fundamental to the concept of 'health is wealth'.",
+      "The statement serves as a common adage that underscores the importance of maintaining a healthy environment for overall prosperity."
     ],
     "random_answer": [
-      "A person who buys a car ought to consider the size of his/her family.",
-      "A person should be considering the size of one's family in buying a car.",
-      "In buying a car, a person should consider the size of one's family."
+      "They do not cooperate in keeping clean our communities clean.",
+      "They also litter public parks and public buildings.",
+      "There is enough space and facilities to dispose of garbage."
     ]
   },
   {
-    "question": "Being very expensive, I did not buy the gown.",
-    "answer": "Being very expensive, the gown was not bought.",
+    "question": "In some of these activities led to serious criminal offense. <br>The paragraph best supports the statement that",
+    "answer": "As an preventive measure against crime. These young people's energy must be directed.",
     "why": [
-      "This sentence uses the passive voice to focus on the gown itself and its state.",
-      "The participial phrase 'Being very expensive' correctly modifies 'the gown', avoiding a <b>dangling modifier</b>.",
-      "It clearly explains why the gown was not acquired without implying the 'I' was expensive."
+      "The paragraph notes that certain activities culminate in 'serious criminal offense'.",
+      "This negative outcome underscores the necessity of implementing preventative measures.",
+      "Directing the energy of young people towards constructive activities can serve as an effective strategy to deter criminal behavior."
     ],
     "random_answer": [
-      "I did not buy it because the gown was very expensive.",
-      "I did not buy the gown because it was very expensive.",
-      "I did buy the gown because it was very expensive."
+      "The youth of today are facing a drastically changing culture.",
+      "As an aggressive measure to meet them.",
+      "This is a pressing social concern."
     ]
   },
   {
-    "question": "To be sure about your conclusion, you should consider all the available and relevant facts.",
-    "answer": "To be sure about your conclusion, you should consider all the available and relevant facts.",
+    "question": "This is because for a nation to have an effective economy, a great deal of national coordination of its economic activities is needed. <br>The paragraph best supports the statement that",
+    "answer": "What where system are nonexistent or deficient, there can be no real economic progress.",
     "why": [
-      "The sentence is grammatically correct and logically advises considering all facts for a conclusion.",
-      "The infinitive phrase 'To be sure' acts as an adverbial phrase explaining the purpose of considering facts.",
-      "It offers clear and concise advice on validating a conclusion."
+      "The paragraph highlights the critical role of 'national coordination' for an 'effective economy'.",
+      "This implies that without well-established or adequate systems, genuine economic advancement is unattainable.",
+      "A lack of effective coordination or functioning systems directly hinders economic progress and stability."
     ],
     "random_answer": [
-      "Considering all the available and relevant facts should be in order for one to be sure about one's conclusion.",
-      "You should consider all the available facts to be sure about your conclusion, and also the relevant facts.",
-      "You should consider all the available facts to be sure about your conclusion, and also the relevant facts."
+      "Such coordination is provided by public administrative systems.",
+      "Many authorities say the reason for the economic paralysis of a developing nation is the almost nonexistence of an effective public administration.",
+      "What is at once the nation's economy is in ruins; it can further fall into political and social shambles."
     ]
   },
   {
-    "question": "They are friendly people so everyone likes them.",
-    "answer": "They are friendly people so everyone likes them.",
+    "question": "There is much to be said in defense of the youth. <br>The paragraph best supports the statement that",
+    "answer": "The most important of all is to destroy the enemy of young people, their sensitivity, and compassion, and the fact that they are not resigned to their society's discouraging imperfections.",
     "why": [
-      "The sentence is grammatically correct and uses 'so' as a conjunction to show cause and effect.",
-      "The plural pronoun 'them' correctly refers back to 'friendly people'.",
-      "It is a simple, clear statement about the consequence of people's friendliness."
+      "The paragraph introduces the need to defend the youth.",
+      "The statement lists admirable qualities of young people, such as sensitivity and resilience against societal flaws.",
+      "These positive attributes serve as arguments to counter negative perceptions and justify support for the youth."
     ],
     "random_answer": [
-      "They are friendly people that everyone likes them.",
-      "They are such friendly people that everyone likes them.",
-      "They are such friendly people that everyone likes them."
+      "The community receives benefits from many of their voluntary activities.",
+      "Sincere, passionate involvement in community life is another striking quality of a large segment of the youth.",
+      "They are interesting in their attempt to destroy the enemy of young people."
     ]
   },
   {
-    "question": "Television programs are crammed with commercials that the viewers get annoyed.",
-    "answer": "Television programs are so crammed with commercials that the viewers get annoyed.",
+    "question": "With peoples' use of these tools and machines, the chances for accidents increased considerably <br>The paragraph best supports the statement that",
+    "answer": "Furthermore, accidents are consigned to a life misery, making them a burden to their families, employees, and as a whole.",
     "why": [
-      "The use of 'so...that' construction correctly expresses the degree of cramming and its result.",
-      "This structure clearly links the intensity of commercials to the viewers' annoyance.",
-      "It highlights the cause-and-effect relationship in a grammatically appropriate way."
+      "The paragraph notes a significant increase in accidents due to the widespread use of tools and machines.",
+      "This rise in accidents leads to severe personal suffering and imposes burdens on families.",
+      "The consequences extend beyond individuals, affecting employees and society at large due to injuries and disruptions."
     ],
     "random_answer": [
-      "Television programs are crammed with commercials that the viewers get annoyed.",
-      "Television programs are too crammed with commercials that the viewers get annoyed.",
-      "Television programs are so crammed with commercials such that the viewers get annoyed."
+      "These accidents are often the result of ignorance of the safe and effective operation of these machines.",
+      "These accidents always bring about a loss to the economy in terms of unearned wages and damages to property.",
+      "The increase in accidents leads to lost production and unearned wages."
     ]
   },
   {
-    "question": "Before any serious damage was done, by the firemen, the fire was put out fortunately.",
-    "answer": "Fortunately, the fire was put out by the firemen before any serious damage was done.",
+    "question": "But the rapid population growth makes environmental pollution a prime concern of people in the modern world. <br>The paragraph best supports the statement that",
+    "answer": "Smokes and ashes from the huge forest fires were the first human-made pollutants.",
     "why": [
-      "The adverb 'Fortunately' is correctly placed at the beginning of the sentence to modify the entire clause.",
-      "This structure emphasizes the positive outcome first, then describes the action.",
-      "It allows for a more natural and direct flow of information."
+      "The paragraph establishes rapid population growth as a driver for environmental pollution concerns.",
+      "This concern often leads to an examination of the historical origins of pollution, including early human-made sources.",
+      "The statement connects the broad issue of pollution to specific, historical forms of human-generated contaminants."
     ],
     "random_answer": [
-      "The fire was put out by the firemen, fortunately, before any serious damage was done.",
-      "Fortunately, the fire was put out by the firemen, before any serious damage was done.",
-      "The fire was put out by the firemen, fortunately, before any serious damage was done."
+      "The discovery and use of fire marked the beginning of environmental pollution by humans.",
+      "Likewise, silt and ashes from the burned forests produced the first human-made water pollutants.",
+      "The problem of environmental pollution is widespread and affects everyone."
     ]
   },
   {
-    "question": "Traditionally speaking, small and medium-sized companies have viewed advertising as a business expense which is necessary.",
-    "answer": "Traditionally speaking, small and medium-sized companies have viewed advertising as a necessary business expense.",
+    "question": "Most of all remember that patients with early Alzheimer's disease can still make good decisions about future care. <br>The paragraph best supports the statement that",
+    "answer": "Don't give up even if you or a loved one is diagnosed with Alzheimer's disease.",
     "why": [
-      "The sentence uses the adjective 'necessary' directly before the noun 'business expense' to modify it.",
-      "This concise structure ('a necessary business expense') is more grammatically direct and avoids redundancy.",
-      "It clearly states the companies' view on advertising without unnecessary phrasing."
+      "The paragraph provides a hopeful message by confirming that early Alzheimer's patients retain the ability to make important decisions.",
+      "This capacity for rational thought means there is still agency and potential for planning, which discourages despair.",
+      "The ability to make 'good decisions about future care' directly supports the idea that hope and effort should not be abandoned."
     ],
     "random_answer": [
-      "Advertising has been viewed by small and medium-sized companies, traditionally as a necessary business expense.",
-      "As necessary business expense has been the way traditionally small and medium-sized companies view advertising.",
-      "Small and medium-sized companies have traditionally viewed advertising as a necessary business expense."
+      "Also, designate someone as a health-care proxy to make sure those plans are carried out.",
+      "Start by having a frank conversation about end-of-life options.",
+      "It is important to secure the financial future for patients."
     ]
   },
   {
-    "question": "Worthy of human dignity must be the existence of every person who works and ensured of the right to just and favorable remuneration.",
-    "answer": "Every person who works has the right to just and favorable remuneration ensuring for himself and his family an existence worthy of human dignity.",
+    "question": "Moreover, a command of the past through reading gives perspective to anyone who must view present concerns and make decisions for the future. <br>The paragraph best supports the statement that",
+    "answer": "The past gives one a defense against the pettiness of life which fast communication plasters on our thinking today.",
     "why": [
-      "The sentence establishes a clear subject ('Every person who works') and main verb ('has the right').",
-      "The phrase 'ensuring for himself and his family' acts as a participial phrase modifying 'remuneration', clarifying its purpose.",
-      "It constructs a comprehensive and grammatically sound statement about human rights and labor."
+      "The paragraph highlights that understanding the past provides 'perspective' for current and future decisions.",
+      "This historical perspective allows individuals to discern between significant matters and trivialities, offering a 'defense against the pettiness of life'.",
+      "By anchoring oneself in the past, one can filter the overwhelming and superficial information often found in 'fast communication' today."
     ],
     "random_answer": [
-      "The right to just and favorable remuneration for every person who works has ensured for himself and his family an existence worthy of human dignity.",
-      "The right to just and favorable remuneration of every person who works has ensured for himself and his family an existence worthy of human dignity.",
-      "An existence worthy of human dignity for himself and his family is ensured by the right to just and favorable remuneration of every person who works."
+      "Thus, the person who has learned to continue his/her reading and to make it significant is rich.",
+      "No one has ever come across a book that is poor, but is not aware of his/her poverty.",
+      "Reading types far beyond the limits of a job."
     ]
   },
   {
-    "question": "Her brother, whom I met in the party, is more richer than you think.",
-    "answer": "Her brother, whom I met in the party, is much richer than you think.",
+    "question": "While the prices of our export fall, American tariffs against imports from the Philippines continue to increase. <br>The paragraph best supports the statement that",
+    "answer": "Inevitably, however, these prices will go down.",
     "why": [
-      "The use of 'much' before 'richer' is correct for emphasizing a greater degree of comparison, avoiding the double comparative 'more richer'.",
-      "This adheres to the rules of comparative adjectives in English.",
-      "It expresses the extent of wealth more accurately and grammatically."
+      "The paragraph notes both falling export prices and increasing import tariffs.",
+      "These combined economic pressures suggest a continued downward trend for prices.",
+      "The confluence of these factors makes further price decreases a highly probable outcome."
     ],
     "random_answer": [
-      "Her brother, whom I met in the party, is much richer than you think.",
-      "I met her brother in the party and he is richer than you think.",
-      "I met her brother in the party and he is richer than you think."
+      "American tariffs against imports from the Philippines continue to increase.",
+      "The Philippines, an increasing Philippine population and rising living standard make necessary an increase of many imports into the country.",
+      "World prices of the commodities that the Philippines exports are presently very high."
     ]
   },
   {
-    "question": "In all his efforts to please others, he got into trouble.",
-    "answer": "In all his efforts to please others, he got into trouble.",
+    "question": "A more rapid, and therefore, effective economic development is a task that challenges both the private and public sectors of our nation. <br>The paragraph best supports the statement that",
+    "answer": "The huge addition calls for more provision for food, clothing, shelter, education, and the other needs of our children.",
     "why": [
-      "The sentence is grammatically correct as is, with the prepositional phrase 'In all his efforts' clearly setting the context.",
-      "The verb phrase 'got into trouble' is a common and correct idiom.",
-      "It clearly states the outcome of his attempts to please others."
+      "The paragraph emphasizes the challenge of achieving rapid and effective economic development.",
+      "This development is fundamentally linked to a nation's capacity to meet the growing demands of its population, including future generations.",
+      "Providing basic necessities and education for children is a crucial aspect of sustainable economic progress and societal well-being."
     ],
     "random_answer": [
-      "To please others, he got into trouble.",
-      "All his efforts to please others got him into trouble.",
-      "All his efforts to please others got him into trouble."
+      "The only way to meet these increasing needs is for the economy to be placed on a firm foundation.",
+      "Our problems assume enormous proportions in the light of our rapid population growth.",
+      "With approximately three percent increase in the birth rate, about a million more human beings are added to our society every year."
     ]
   },
   {
-    "question": "Our farmers have been helped to cope with the drought brought about by the El Niño phenomenon by the shallow tube wells.",
-    "answer": "Our farmers have been helped to cope with the drought brought about by the El Niño phenomenon by the shallow tube wells.",
+    "question": "The transformation of economy is more obvious to inhabitants in provinces that are affected to dwellers in metropolitan areas. <br>The paragraph best supports the statement that",
+    "answer": "There is no doubt that one of the most enduring milestones in Philippine political and socio-economic history is the land reform program.",
     "why": [
-      "The sentence is grammatically correct and uses the passive voice to emphasize the farmers' benefit.",
-      "The phrase 'brought about by the El Niño phenomenon' correctly describes the drought's cause.",
-      "It clearly attributes the assistance to the 'shallow tube wells'."
+      "The paragraph points to visible economic transformation in provincial areas.",
+      "Land reform programs are often pivotal in rural economic changes and development, making them significant historical achievements.",
+      "These programs reshape economic structures and have lasting impacts on both society and economy."
     ],
     "random_answer": [
-      "Coping with the drought brought about by the El Niño phenomenon, our farmers are coping with the drought by the shallow tube wells.",
-      "The El Niño phenomenon brought about the drought with which our farmers are coping with the shallow tube wells.",
-      "The shallow tube wells have helped our farmers to cope with the drought brought about by the El Niño phenomenon."
+      "Boundaries, they believe that time would come when they would enjoy a life of peace, tranquility, and contentment.",
+      "It is changing the outlook of society and the face of the land.",
+      "This is so because rural inhabitants are many farmers who are direct recipients of the benefits of the program."
     ]
   },
   {
-    "question": "Fields can be irrigated but the water from the shallow tube wells is not fit for human consumption.",
-    "answer": "Fields can be irrigated but the water from the shallow tube wells is not fit for human consumption.",
+    "question": "One only feeds to think of one's own experiences. <br>The paragraph best supports the statement that",
+    "answer": "Moreover, one learns how well an economist can make how many pesos that person can get and how many good and services each peso will buy.",
     "why": [
-      "The sentence is grammatically correct, using 'but' to introduce a contrast between the two clauses.",
-      "The verb 'is' correctly agrees with the singular subject 'water'.",
-      "It clearly states the dual nature of the shallow tube wells: useful for irrigation but not for drinking."
+      "The paragraph emphasizes deriving understanding from personal experiences.",
+      "Individual experiences often involve practical economic decisions, such as managing money and assessing value.",
+      "The statement suggests that through personal experience, one can gain insight into economic principles like purchasing power."
     ],
     "random_answer": [
-      "The water from the shallow tube wells is only for irrigating fields and not fit for human consumption.",
-      "With its water, shallow tube wells irrigate fields but is not fit for human consumption.",
-      "Irrigating fields, not human consumption, the water from the shallow tube wells can irrigate fields."
+      "From these experiences, one discovers that the process of earning a living is a process of earning and spending money.",
+      "Finally, one realizes that the buying power of each peso has varied widely, sometimes to one's own benefit and sometimes not.",
+      "One needs not be an economist to be accurately aware that money plays an important role in modern life."
     ]
   },
   {
-    "question": "To do their work well, what the new manager told all employees in the company do their work well.",
-    "answer": "To do their work well, the new manager told all employees in the company to do their work well.",
+    "question": "In all societies from the most primitive to the most modern, self-discipline is a necessary ingredient of behavior. <br>The paragraph best supports the statement that",
+    "answer": "If a person behaves controls an inner coherence or order, then the actions of that person is not only dependable but also predictable.",
     "why": [
-      "The sentence correctly uses the infinitive 'to do their work well' as the complement of the verb 'told'.",
-      "The phrase 'told all employees in the company' clearly identifies who received the instruction.",
-      "It provides a clear and direct statement about the manager's directive regarding work performance."
+      "The paragraph states that 'self-discipline' is a 'necessary ingredient of behavior' across all societies.",
+      "Self-discipline implies an internal order and control, which leads to consistent and reliable actions.",
+      "Behaviors rooted in this 'inner coherence' make an individual's actions more dependable and therefore predictable."
     ],
     "random_answer": [
-      "What the new manager told all employees in the company to do their work well.",
-      "The new manager told all employees in the company to do their work well.",
-      "The new manager told all employees in the company to do their work well."
+      "It is so because the nature of social order is directly linked to the individual's sense of order.",
+      "Because of self-discipline, other people can easily anticipate the action of such a person, making reciprocal relationship possible.",
+      "Consequently, what is observed is not only self-discipline, but when received in the larger setting, it is reciprocal discipline."
     ]
   },
   {
-    "question": "If the young are to be taught, they must be taught not only by precept but also by example.",
-    "answer": "If the young are to be taught, they must be taught not only by precept but also by example.",
+    "question": "Ang pinakanakakarelaks na gawain ay ang pagmasid ng mga tao sa lansangan. <br>The paragraph best supports the statement that",
+    "answer": "Ngunit hindi na nakalilibang ang magmasid ng mga tao sa simbahan kung araw ng Linggo.",
     "why": [
-      "The sentence is grammatically correct and uses the correlative conjunction 'not only...but also' properly.",
-      "It maintains <b>parallelism</b> between 'by precept' and 'by example'.",
-      "The phrasing effectively conveys the dual approach required for teaching."
+      "The paragraph identifies observing people on the street as the most relaxing activity.",
+      "The correct statement introduces a contrasting scenario, indicating that observing people in church on Sundays is no longer relaxing.",
+      "This implies an exception to the general rule of finding relaxation in people-watching, highlighting a specific context where it does not apply."
     ],
     "random_answer": [
-      "If the young are to be taught, they must be taught not only by precept but also by example.",
-      "If the young are to be taught, they must teach them not only by precept but also by example.",
-      "If the young are to be taught, they must not only be taught by precept but by example."
+      "Mayroong lamang mga taong magdadala ay naman ng nguni't porma.",
+      "Sila ang mga magpapatuloy sa mga pamamayan, naturan ng ang batas ng tagumpay.",
+      "Magsama ang surod-surod na panahon will be and with the many baya ay sumisipag sa ating pagtiliwala sa sarili."
     ]
   },
   {
-    "question": "Many couples cannot hardly make both ends meet.",
-    "answer": "Many couples can hardly make both ends meet.",
+    "question": "Ang mga nakakatawang gawaing ay kakayahan: gupit, damdamin, at katipsian depende sa kinamulatan ng tao. <br>The paragraph best supports the statement that",
+    "answer": "Mayroong lamang mga taong magdadala ay naman ng nguni't porma.",
     "why": [
-      "The sentence correctly uses 'hardly' as an adverb meaning 'barely', eliminating the redundant 'cannot'.",
-      "The phrase 'can hardly' is the correct idiom for expressing difficulty in making ends meet.",
-      "It avoids a double negative, which would be ungrammatical."
+      "The paragraph describes 'funny acts' and traits like 'bluntness' as abilities influenced by human nature.",
+      "The statement suggests that while the outward expression may vary, the fundamental human form or essence persists.",
+      "It implies a distinction between the specific manifestation of an act and the inherent human capacity that underpins it."
     ],
     "random_answer": [
-      "Many couples can't hardly make both ends meet.",
-      "Many couples are hardly in no position to make both ends meet.",
-      "Many couples are hardly unable to make both ends meet."
+      "And it's a good thing because in Tagalog, emotion, and bluntness are also based on character.",
+      "In fact, the blunt person is the one who will eventually get used to it.",
+      "This is a common thing."
     ]
   },
   {
-    "question": "Industrialization must accelerate because the coming generation is banking on the opportunities that will result from it.",
-    "answer": "Industrialization must accelerate, for it is here where the coming generation is banking on opportunities.",
+    "question": "Ang mga kabataan ay mga lider ng bansa sa kinabukasan. <br>The paragraph best supports the statement that",
+    "answer": "Sila ang mga magpapatuloy sa mga pamamayan, naturan ng ang batas ng tagumpay.",
     "why": [
-      "The conjunction 'for' is used correctly to mean 'because', introducing the reason for acceleration.",
-      "The phrase 'it is here where' concisely conveys the present importance of industrialization.",
-      "It provides a clear and formal reason for the need to accelerate industrialization."
+      "The paragraph designates the youth as 'leaders of the nation in the future'.",
+      "This role inherently means they will be responsible for continuing the work and progress within communities.",
+      "The phrase 'taught the law of success' implies that they are prepared and equipped to fulfill these future leadership responsibilities effectively."
     ],
     "random_answer": [
-      "Industrialization must accelerate and result in opportunities and the coming generation is banking on it.",
-      "Industrialization must accelerate, where the coming generation is banking on opportunities, must accelerate.",
-      "Industrialization must accelerate and result in opportunities and the coming generation is banking on it."
+      "Ang magiging lider ay may malaking responsibilidad.",
+      "Ang kabataan ay may kakayahan na magbago.",
+      "Ang pagiging lider ay nangangailangan ng kaalaman."
     ]
   },
   {
-    "question": "After six major revisions, the convenience of the article as well as the common and economic sense are still apparent.",
-    "answer": "The economy, common sense, and convenience of this article after six major revisions.",
+    "question": "Sa ating mga Filipino, waring ang panahon in iyan ay magkakaiba na. <br>The paragraph best supports the statement that",
+    "answer": "Magsama ang surod-surod na panahon will be and with the many baya ay sumisipag sa ating pagtiliwala sa sarili.",
     "why": [
-      "This sentence focuses on the qualities of the article, implying that these qualities are still apparent.",
-      "It uses a concise noun phrase as the subject, followed by the implied predicate from the original context.",
-      "The structure is grammatically sound and focuses on the core elements."
+      "The paragraph observes that 'time seems to be different now' for Filipinos.",
+      "This perceived change implies a need for collective action and a shift towards self-reliance to adapt to new circumstances.",
+      "The statement suggests a national effort where people strive for independence in response to evolving times."
     ],
     "random_answer": [
-      "The economy, common sense, and convenience of this article after six major revisions.",
-      "The economy, common sense, and convenience of this article after six major revisions are still apparent.",
-      "The economy, common sense, and convenience are still apparent after six major revisions of this article."
+      "Ang Filipino ay kilala sa pagiging 'late' sa mga appointment.",
+      "Hindi lahat ng Filipino ay naniniwala sa 'Filipino time'.",
+      "Ang pagbabago ng panahon ay normal."
     ]
   },
   {
-    "question": "Journalism requires corroboration of even reporter's initial findings of the ordinary context.",
-    "answer": "Journalism requires corroboration of even reporter's initial findings of the ordinary context.",
+    "question": "Unahin ang pagkakahalaga sa kaalaman upang magkaroon ng maliway na pamumuhay. <br>The paragraph best supports the statement that",
+    "answer": "Sa pagtatapos ng mga nakakatawang gawaing ito, isantabi ang mga emosyon at pairalin ang determinasyon.",
     "why": [
-      "The sentence is grammatically correct as is, with 'corroboration' acting as the direct object of 'requires'.",
-      "The phrase 'of the ordinary context' appropriately modifies 'findings', specifying their origin.",
-      "It clearly states a requirement for journalistic practice."
+      "The paragraph prioritizes knowledge for achieving a 'good life'.",
+      "This pursuit often requires discipline, including the ability to manage emotions and maintain determination.",
+      "The statement implies that overcoming internal obstacles like strong emotions is crucial for personal improvement and success, aligning with the goal of a better life."
     ],
     "random_answer": [
-      "Corroboration of reporter's initial findings even in the ordinary context is required in journalism.",
-      "Reporter's initial findings require corroboration in journalism even in the ordinary context.",
-      "The requirement of journalism is corroboration of reporter's initial findings even in the ordinary context."
+      "Mahalaga ang kaalaman sa lahat ng aspeto ng buhay.",
+      "Ang kaalaman ay susi sa magandang kinabukasan.",
+      "Hindi sapat ang kaalaman kung walang determinasyon."
     ]
   },
   {
-    "question": "A government official or employee is expected to act on a request or petition promptly and expeditiously whether written or verbal.",
-    "answer": "A government official or employee is expected to act on a request or petition promptly and expeditiously whether written or verbal.",
+    "question": "Ang pagtutulungan ay mahalaga sa pagtulong ng buong bayan. <br>The paragraph best supports the statement that",
+    "answer": "Subalit ang mga suliraning ilo ay madaling malulunasan sa pamamagitan ng pagtutulungan at pagkakaiasa.",
     "why": [
-      "The sentence is grammatically correct, using <b>parallel adverbs</b> 'promptly and expeditiously' to describe the action.",
-      "The phrase 'whether written or verbal' is correctly placed to modify 'request or petition', indicating the format.",
-      "It clearly outlines the expected conduct of government officials."
+      "The paragraph highlights the importance of cooperation for national assistance.",
+      "This principle suggests that specific regional problems, such as those in 'Ilo,' can be readily resolved through collective effort and unity.",
+      "The statement reinforces the idea that shared effort and solidarity are effective tools for overcoming challenges."
     ],
     "random_answer": [
-      "A request or petition is expected to be acted on by a government official or employee promptly and expeditiously, whether written or verbal.",
-      "Whether written or verbal, a government official or employee is expected to act on a request or petition promptly and expeditiously.",
-      "Promptly and expeditiously, a government official or employee is expected to act on a request or petition, whether written or verbal."
+      "Ang pagtutulungan ay dapat magsimula sa pamilya.",
+      "Ang bayanihan ay isang tradisyon ng Filipino.",
+      "Ang suliranin ng bayan ay malulutas kung magtutulungan ang lahat."
     ]
   },
   {
-    "question": "For Philemon, weeding rosebushes in the garden is a tiresome chore although he loves to pick roses but not to tend them.",
-    "answer": "For Philemon, weeding rosebushes in the garden is a tiresome chore although he loves to pick roses but not to tend them.",
+    "question": "Sa unang tingin, ang pagdagsa ng mga manggagawa ng Filipino sa ibang bansa ay kapaki-pakinabang sapagkat maghatid ito ng maraming dolyar sa bansa. <br>The paragraph best supports the statement that",
+    "answer": "Subalit ang maraming industriya na nakapagpabagal sa kaunlaran ng buong bansa.",
     "why": [
-      "The sentence is grammatically correct and uses 'although' to introduce a contrasting idea.",
-      "The gerund phrase 'weeding rosebushes' functions as the subject, appropriately agreeing with 'is'.",
-      "It clearly explains Philemon's dislike for weeding despite his love for roses."
+      "The paragraph acknowledges the financial benefits of overseas Filipino workers (OFWs) bringing dollars to the country.",
+      "However, the statement implies a contrasting negative effect, where the outflow of labor hinders the growth of domestic industries.",
+      "This suggests a trade-off where the immediate financial gain might come at the cost of overall national development due to slowed industrial progress."
     ],
     "random_answer": [
-      "Weeding rosebushes in the garden is a tiresome chore for Philemon who loves to pick roses but not to tend them.",
-      "Because Philemon loves to pick roses but not to tend them in the garden, weeding rosebushes is a tiresome chore for him.",
-      "Philemon, who loves to pick roses but not to tend them, weeding rosebushes in the garden is a tiresome chore for him."
+      "Ang pagdagsa ng mga manggagawa ng Filipino sa ibang bansa ay masamang balita.",
+      "Ang industriya ng Pilipinas ay nangangailangan ng maraming manggagawa.",
+      "Dahil sa mga OFW, lumalaki ang ekonomiya ng bansa."
     ]
   },
   {
-    "question": "The time has come to change their attitudes and lifestyles.",
-    "answer": "The time has come to change their attitudes and lifestyles.",
+    "question": "Manapa'y higit na kailangan malapait sa buong mundo na ang demokrasya ay ginagamit sa tamang paraan upang matamo ang katagang pulitikal at pangkabuhayan. <br>The paragraph best supports the statement that",
+    "answer": "Dito matatagalan ang uri ng mga kandidato mong mahalal at kung hanggang saan ang kamulatang pulitikal ng mamamayan.",
     "why": [
-      "The sentence is grammatically correct as is, with 'time' as the subject and 'has come' as the verb.",
-      "The infinitive phrase 'to change their attitudes and lifestyles' correctly specifies what the time has come for.",
-      "It is a clear and concise statement of a necessary evolution."
+      "The paragraph stresses the proper application of democracy for global political and economic stability.",
+      "The effectiveness of democracy is closely tied to the quality of elected officials and the informed participation of citizens.",
+      "This implies that the long-term stability and success of a democratic system depend on both the integrity of its leaders and the awareness of its populace."
     ],
     "random_answer": [
-      "The time when the attitudes and lifestyles of the people has come to change.",
-      "People must change their attitudes and lifestyles, and it is because the time has come to change.",
-      "People must change their attitudes and lifestyles, and it is because the time has come to change."
+      "Mahalaga ang tamang pagpili ng kandidato.",
+      "Ang kamulatang pulitikal ay dapat palawakin.",
+      "Ang demokrasya ay nangangailangan ng aktibong pakikilahok ng mamamayan."
     ]
   },
   {
-    "question": "Whenever errors are committed in my work, my attention is called by my supervisor.",
-    "answer": "Whenever errors are committed in my work, my attention is called by my supervisor.",
+    "question": "Kailangan ang magamit din nila iyan upang matulungang umunlad, lalo na ang pinakamahirap na tao sa Pilipinas; yaong mayroong kakulangan sa edukasyon o karunungan. <br>The paragraph best supports the statement that",
+    "answer": "Ang mayroong kakulangan sa edukasyon o karunungan ay mas mahirap umunlad.",
     "why": [
-      "The sentence is grammatically correct and uses the passive voice to emphasize the errors and the supervisor's action.",
-      "The adverbial clause 'Whenever errors are committed in my work' correctly sets the condition for the main clause.",
-      "It clearly describes a recurring event and its consequence."
+      "The paragraph states that the poorest people, specifically those lacking 'education or knowledge,' need help to 'develop'.",
+      "This directly implies a correlation between a deficit in education and the difficulty in achieving personal or societal advancement.",
+      "The statement highlights education as a crucial factor in facilitating development, especially for the disadvantaged."
     ],
     "random_answer": [
-      "My supervisor calls my attention when committing errors in my work.",
-      "My supervisor calls my attention to my work when I commit errors in my work.",
-      "My supervisor calls my attention to my work when I commit errors in my work."
-    ]
-  },
-  {
-    "question": "Tests is one of the difficult ordeals that confront people.",
-    "answer": "Tests is one of the difficult ordeals that confront people.",
-    "why": [
-      "The sentence is grammatically correct as is, with the plural subject 'Tests' correctly matched with the plural verb 'are'.",
-      "The relative clause 'that confront people' accurately modifies 'ordeals'.",
-      "It makes a clear statement about the nature of tests as a challenging experience."
-    ],
-    "random_answer": [
-      "Tests is one of the difficult ordeal that confront people.",
-      "If there is one difficult ordeal that confront people, it is tests.",
-      "One of the difficult ordeals that confront people are tests."
-    ]
-  },
-  {
-    "question": "One must save a little money everyday to prepare for the future.",
-    "answer": "One must save a little money everyday to prepare for the future.",
-    "why": [
-      "The sentence is grammatically correct and uses 'one' as a general pronoun for an individual.",
-      "The infinitive phrase 'to prepare for the future' correctly states the purpose of saving.",
-      "It provides clear and practical advice regarding financial planning."
-    ],
-    "random_answer": [
-      "A little money must be saved everyday to prepare for one's future.",
-      "To prepare for the future, a little money must be saved by a person everyday.",
-      "To prepare for one's future, a little money must be saved by a person everyday."
-    ]
-  },
-  {
-    "question": "The reason Annie did not get the good job is because she is not prepared for it.",
-    "answer": "The reason Annie did not get the good job is that she was not prepared.",
-    "why": [
-      "The phrase 'the reason...is that' is grammatically correct and avoids the redundant 'because'.",
-      "It presents a concise and clear explanation for Annie's failure to get the job.",
-      "This structure is more formal and precise in English prose."
-    ],
-    "random_answer": [
-      "The reason Annie did not get the good job is because she is not prepared for it.",
-      "The reason Annie did not get the good job is that she was not prepared for it.",
-      "The reason Annie did not get the good job is that she was not prepared for it."
-    ]
-  },
-  {
-    "question": "The stores have attractive display windows that look attractive.",
-    "answer": "The stores have attractive display windows.",
-    "why": [
-      "The sentence is concise, removing redundant words like 'that look attractive' when 'attractive' already describes the windows.",
-      "It uses the adjective 'attractive' once to convey the desired meaning efficiently.",
-      "Simplicity and directness enhance <b>sentence clarity</b>."
-    ],
-    "random_answer": [
-      "The stores across the street have attractive display windows.",
-      "The stores across the street have attractive display windows.",
-      "With attractive display windows, the stores are located across the street."
-    ]
-  },
-  {
-    "question": "Gloria told her aunt that she had bought a gift for her.",
-    "answer": "Gloria told her aunt that she had bought a gift for her.",
-    "why": [
-      "The sentence is grammatically correct as is, using correct reported speech.",
-      "The past perfect 'had bought' correctly indicates an action completed before another past action ('told').",
-      "It clearly conveys the information Gloria shared with her aunt."
-    ],
-    "random_answer": [
-      "Gloria told her aunt she had bought a gift for her.",
-      "Gloria bought a gift for her and she told her aunt.",
-      "She has bought a gift for her was what Gloria told her aunt."
-    ]
-  },
-  {
-    "question": "The barrio is connected with the provincial road by a small road.",
-    "answer": "The barrio is connected with the provincial road by a small road.",
-    "why": [
-      "The sentence is grammatically correct and clearly states the connection of the barrio to the provincial road.",
-      "The passive voice 'is connected' is appropriately used to describe the state of the barrio.",
-      "It explicitly identifies the 'small road' as the means of connection."
-    ],
-    "random_answer": [
-      "A small bridge, though small, connects the barrio to the provincial road.",
-      "A small bridge connects the barrio to the provincial road.",
-      "A small bridge serves to connect the barrio to the provincial road."
-    ]
-  },
-  {
-    "question": "When Belen applied for citizenship, she had to sign many papers.",
-    "answer": "When Belen applied for citizenship, she had to sign many papers.",
-    "why": [
-      "The sentence is grammatically correct, using 'When' to introduce the time clause.",
-      "The verb 'had to sign' correctly expresses an obligation in the past.",
-      "It clearly describes an action Belen had to perform during her citizenship application."
-    ],
-    "random_answer": [
-      "Belen applied for citizenship, many papers were signed.",
-      "When Belen applied for citizenship, many papers were signed by her.",
-      "Belen applied for citizenship and she has to sign many papers."
-    ]
-  },
-  {
-    "question": "After the three-day conference in Manila, the regional directors went back to their posts like they were instructed.",
-    "answer": "After the three-day conference in Manila, the regional directors had gone back to their posts as was the instruction.",
-    "why": [
-      "The past perfect tense 'had gone' correctly indicates an action completed before another past action (implied 'being instructed').",
-      "The phrase 'as was the instruction' is more formal and precise than 'like they were instructed'.",
-      "It ensures grammatical accuracy in describing sequential past events and adherence to directives."
-    ],
-    "random_answer": [
-      "After the three-day conference in Manila, the regional directors went back to their posts according to instructions.",
-      "The three-day conference in Manila, the regional directors went back to their posts like they were instructed.",
-      "After the three-day conference in Manila, the regional directors went back to their posts according to instructions."
-    ]
-  },
-  {
-    "question": "He is not discouraged in spite his heavy losses recently in business.",
-    "answer": "Despite his heavy losses recently in business, he is not discouraged.",
-    "why": [
-      "The phrase 'Despite his heavy losses' concisely and correctly expresses the contrasting idea.",
-      "This structure is more formal and grammatically efficient than 'in spite his heavy losses'.",
-      "It clearly indicates that the lack of discouragement exists despite the business losses."
-    ],
-    "random_answer": [
-      "Despite his heavy losses in business recently, he is not discouraged.",
-      "In spite his heavy losses in business recently, he is not discouraged.",
-      "In spite his heavy losses in business recently, he is not discouraged."
-    ]
-  },
-  {
-    "question": "No matter how busy Allan is, he must find time to rest.",
-    "answer": "No matter how busy Allan is, he must find time to rest.",
-    "why": [
-      "The sentence is grammatically correct as is, using 'No matter how' to express a concession.",
-      "The subject 'Allan' agrees with the singular verb 'is', and 'he' agrees with 'must find'.",
-      "It clearly states the necessity for Allan to rest regardless of his busy schedule."
-    ],
-    "random_answer": [
-      "Even though how busy Allan is, he must find time to rest.",
-      "Allan must find time to rest although how busy he is.",
-      "Allan must find time to rest although how busy he is."
-    ]
-  },
-  {
-    "question": "You can study your lessons either at the library or in your own room.",
-    "answer": "You can study your lessons either at the library or in your own room.",
-    "why": [
-      "The sentence is grammatically correct and uses the correlative conjunction 'either...or' properly.",
-      "It maintains <b>parallel structure</b> by using 'at the library' and 'in your own room' as parallel prepositional phrases.",
-      "It clearly offers two distinct locations for studying."
-    ],
-    "random_answer": [
-      "You can study your lessons at the library or at your own room.",
-      "You can study either your lessons at the library or in your own room.",
-      "Either you can study your lessons at the library or in your own room."
-    ]
-  },
-  {
-    "question": "Biting of nails and excessive crying among children are indicators of emotional tension among them.",
-    "answer": "Biting of nails and excessive crying among children are indicators of emotional tension among them.",
-    "why": [
-      "The sentence is grammatically correct as is, with the compound subject 'Biting of nails and excessive crying' taking the plural verb 'are'.",
-      "The phrase 'among children' specifies the group being discussed.",
-      "It accurately identifies common signs of emotional tension in children."
-    ],
-    "random_answer": [
-      "Children crying and biting nails indicate emotional tension among children.",
-      "Those biting nails and excessive crying indicate emotional tension among children.",
-      "Their excessive crying and biting nails indicate emotional tension among children."
-    ]
-  },
-  {
-    "question": "There is no better way to teach a child to be courteous as to show examples of courtesy.",
-    "answer": "There is no better way to teach a child to be courteous than to show examples of courtesy.",
-    "why": [
-      "The sentence correctly uses 'than' to complete the comparative structure 'no better way...than'.",
-      "This construction is essential for expressing a comparison of superiority or preference.",
-      "It ensures grammatical completeness and clarifies the preferred method of teaching courtesy."
-    ],
-    "random_answer": [
-      "There is no better way to teach a child to be courteous by showing examples of courtesy.",
-      "There is no better way to teach a child to be courteous but to show examples of courtesy.",
-      "There is no better way to teach a child to be courteous to show examples of courtesy."
-    ]
-  },
-  {
-    "question": "Neither the wages increase nor the vacation plan have satisfied the workers.",
-    "answer": "Neither the wages increase nor the vacation plan has satisfied the workers.",
-    "why": [
-      "When using 'neither...nor', the verb typically agrees with the subject closest to it, which is 'vacation plan' (singular), thus 'has' is correct.",
-      "This adheres to the rule of <b>proximity for subject-verb agreement</b> with correlative conjunctions.",
-      "It clearly states that neither of the two factors satisfied the workers."
-    ],
-    "random_answer": [
-      "Neither the wages increase nor the vacation plan has satisfied the workers.",
-      "Neither the vacation plan nor the wage increase has satisfied the workers.",
-      "The vacation plan or the wage increase have satisfied the workers."
-    ]
-  },
-  {
-    "question": "No amount of progress will take place if the people do not discipline themselves and exert efforts to be self-reliant.",
-    "answer": "No amount of progress will take place if the people do not discipline themselves and exert efforts to be self-reliant.",
-    "why": [
-      "The sentence is grammatically correct and uses 'if' to introduce a conditional clause.",
-      "The plural reflexive pronoun 'themselves' correctly refers back to 'the people'.",
-      "It states a clear condition for progress, linking it to self-discipline and self-reliance."
-    ],
-    "random_answer": [
-      "No amount of progress will take place if the people are not disciplined and if they do not exert efforts to be self-reliant.",
-      "No amount of progress will have taken place because the people do not discipline themselves and exert efforts to be self-reliant.",
-      "If the people do not discipline themselves, no amount of progress will take place, and that they have to exert efforts to be self-reliant."
-    ]
-  },
-  {
-    "question": "The education of his children is more paramount in his plans.",
-    "answer": "The education of his children is more paramount in his plans.",
-    "why": [
-      "The sentence is grammatically correct as is, with 'education' as the singular subject and 'is' as the verb.",
-      "The adjective 'paramount' (meaning 'more important') does not require 'more' before it, but 'more paramount' is often used for emphasis, making it acceptable.",
-      "It highlights the supreme importance of his children's education in his plans."
-    ],
-    "random_answer": [
-      "The education of his children is paramount in his plans.",
-      "The education of his children is in his plans.",
-      "A paramount in his plans more than any other thing is the education of his children."
-    ]
-  },
-  {
-    "question": "A vital role is identifying the reasons why people leave an organization is interviewed.",
-    "answer": "A vital role is played by interviewing in identifying the reasons why people leave an organization.",
-    "why": [
-      "The sentence uses the passive voice 'is played by interviewing' to correctly express the action and the agent.",
-      "This structure clarifies that interviewing performs the vital role in identifying reasons for departure.",
-      "It demonstrates proper use of a passive construction to emphasize the vital role itself."
-    ],
-    "random_answer": [
-      "Interviewing in identifying the reasons why people leave an organization, plays the vital role.",
-      "Interviewing has a vital role in identifying the reasons why people leave an organization.",
-      "Interviewing in identifying the reasons why people leave an organization plays a vital role."
-    ]
-  },
-  {
-    "question": "Ang puwersang militar ng Pilipinas at Amerika ay nagpasya upang magpatupad ng malawakang pagsasanay ay nagkasundo upang suguin ang terorismo sa Pilipinas.",
-    "answer": "Ang pagpapatupad ng malawakang pagsasanay, ang puwersang militar ng Pilipinas at Amerika upang suguin ang terorismo sa Pilipinas ay nagkasundo.",
-    "why": [
-      "The sentence correctly places the phrase 'ang pagpapatupad ng malawakang pagsasanay' at the beginning as the main subject of agreement.",
-      "The singular verb 'nagkasundo' agrees with this singular subject, indicating agreement between the forces.",
-      "It is a clear and concise statement of the agreement reached for joint military exercises."
-    ],
-    "random_answer": [
-      "Sa pagpapatupad ng malawakang pagsasanay, nagkasundo ang puwersang militar ng Pilipinas at Amerika upang suguin ang terorismo sa Pilipinas.",
-      "Ang Pilipinas at Amerika ay nagkasundo.",
-      "Ang puwersang militar ng Pilipinas at Amerika ay nagpasya upang magpatupad ng malawakang pagsasanay upang suguin ang terorismo sa Pilipinas."
-    ]
-  },
-  {
-    "question": "Kasunod ninyo mula sa sasakyan ang isang lalaki.",
-    "answer": "Kasunod ninyo mula sa sasakyan ang isang lalaki.",
-    "why": [
-      "The sentence is grammatically correct in Filipino, using the appropriate word order for 'Kasunod ninyo' (following you).",
-      "It clearly states that 'isang lalaki' (a man) is following 'ninyo' (you) from the vehicle.",
-      "This is a direct and natural way to express the observation in Filipino."
-    ],
-    "random_answer": [
-      "Ang isang lalaki ang sasakyan ang kasunod ninyong umibis.",
-      "Ang isang lalaki ang sa sasakyan ay kasunod ninyong umibis.",
-      "Sa sasakyan ay isang lalaki ang kasunod ninyong umibis."
-    ]
-  },
-  {
-    "question": "Naniniwala akong ang gawaing ibinigay sa kanya niya.",
-    "answer": "Naniniwala akong ang gawaing ibinigay sa kanya niya.",
-    "why": [
-      "The sentence is grammatically correct in Filipino, expressing belief in the assigned task.",
-      "The use of 'niya' indicates possession or agency by 'him/her' in the past.",
-      "It conveys a personal conviction regarding the task assigned."
-    ],
-    "random_answer": [
-      "Ang gawaing ibinigay sa kanya niya ang gawaing ibinigay sa kanya.",
-      "Naniniwala akong niya ang gawaing ibinigay sa kanya.",
-      "Ang gawaing ibinigay sa kanya niya ay naniniwala akong siya."
+      "Ang edukasyon ay susi sa pag-unlad.",
+      "Ang mahihirap ay nangangailangan ng tulong sa edukasyon.",
+      "Ang kaalaman ay kapangyarihan."
     ]
   }
 ]

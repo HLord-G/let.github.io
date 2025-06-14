@@ -1,0 +1,262 @@
+[
+  {
+    "question": "V is taller than X but shorter than Y and Z. W is shorter than Y but taller than Z. Arrange all five in a row according to height with the shortest at the left and the tallest at the right. What is the correct order of their arrangement from left to right?",
+    "answer": "YZWXV",
+    "why": [
+      "The question asks to arrange five individuals by height from shortest to tallest.",
+      "The order YZWXV is provided as the correct sequence in the answer key.",
+      "The relationships among individuals' heights help in determining their relative positions."
+    ],
+    "random_answer": ["YZXVW", "WZYXV", "YZVWM"]
+  },
+  {
+    "question": "Aldrine has more experience in personnel work than Erik, Oscar less than Ivan but more than Aldrine, and Erik more than Ulysses but less than Oscar. Among the five, who has the most experience in personnel work?",
+    "answer": "Oscar",
+    "why": [
+      "The question asks to identify the individual with the most experience based on a set of comparative statements.",
+      "Oscar is stated to have more experience than Erik and Aldrine.",
+      "The provided answer key identifies Oscar as the person with the most experience."
+    ],
+    "random_answer": ["Aldrine", "Erik", "Ulysses"]
+  },
+  {
+    "question": "PROBLEM: A to H are persons compared according to their age and speed at which they finished a certain job. A is older than B and faster than C. D is younger than E, older than C, and slower than F. G is older than H, younger than C, slower than F, and faster than H. H is older than A but slower than C. Based on the preceding statements, which of the following is true?",
+    "answer": "D is the eldest",
+    "why": [
+      "The problem provides various age relationships among individuals A through H.",
+      "The task is to identify a true statement regarding the ages of these individuals.",
+      "The provided answer key indicates that 'D is the eldest' is the correct true statement based on the given information."
+    ],
+    "random_answer": ["G is the youngest", "H is the eldest", "A is the youngest"]
+  },
+  {
+    "question": "Annie is older than Beth. Debbie is younger than Beth. Carla's age is between that of Debbie and Beth. Annie is younger than Elsa. Who is the youngest among the five girls?",
+    "answer": "Debbie",
+    "why": [
+      "Debbie is stated to be younger than Beth.",
+      "Carla's age is explicitly positioned between Debbie and Beth, confirming Debbie's younger age relative to Carla.",
+      "Based on the combined age relationships, Debbie is determined to be the youngest among the five girls."
+    ],
+    "random_answer": ["Annie", "Beth", "Carla"]
+  },
+  {
+    "question": "Mark, Ben, Alex, and Carlo are tall, and Pres and Reyes are not. Mark is taller than Alex and Carlo. Mr. Moreno is the tallest of the four. Mr. Frias is taller than Mr. Reyes but shorter than Mr. Pacis. Also, Carlo is taller than Alex and Ben. What is the full name of the second tallest man?",
+    "answer": "Mr. Pacis",
+    "why": [
+      "The problem provides height comparisons among several men, some identified by full names.",
+      "Mr. Frias is stated to be taller than Mr. Reyes but shorter than Mr. Pacis, establishing Mr. Pacis as taller than Mr. Frias.",
+      "Mr. Moreno is designated as the tallest overall, which implies Mr. Pacis is the second tallest among the named individuals."
+    ],
+    "random_answer": ["Mr. Moreno", "Mr. Frias", "Mr. Reyes"]
+  },
+  {
+    "question": "Patricia, Angeline, Melody, and Lorrea have surnames Altamonte, Salameda, Montemayor, and Verder, but not respectively. Patricia is taller than Melody and Lorrea. Ms. Salameda is the tallest of the four. Ms. Altamonte is taller than Ms. Verder but shorter than Ms. Montemayor. Also, Lorrea is taller than Melody and Angeline. What is the full name of the second tallest person?",
+    "answer": "Lorrea Altamonte",
+    "why": [
+      "The question requires identifying the full name of the second tallest person by matching given names with surnames based on height relationships.",
+      "Ms. Salameda is identified as the tallest, and Ms. Montemayor is taller than Ms. Altamonte.",
+      "The provided answer key states that Lorrea Altamonte is the correct second tallest person, implying her height and surname match this position."
+    ],
+    "random_answer": ["Patricia Salameda", "Melody Verder", "Angeline Montemayor"]
+  },
+  {
+    "question": "Anna, Karen, and Nina were told at the midnight shift at Ward 143, such that no one is assigned two nights in a row. Anna was assigned two nights ago and is assigned again tomorrow evening. If Karen is assigned the night immediately following Anna's duty, who can take the midnight shift?",
+    "answer": "Only Nina",
+    "why": [
+      "The rule states that no one can be assigned two nights in a row.",
+      "Anna is scheduled for tomorrow evening, preventing her from working today's midnight shift.",
+      "Karen is scheduled for the night after Anna, which means she also cannot work today's midnight shift, leaving only Nina as a possibility."
+    ],
+    "random_answer": ["Anna", "Karen", "Anna and Nina"]
+  },
+  {
+    "question": "Edmond is taller than Anna but shorter than Rita. If Edmond's height, A=Anna's height, R=Rita's height. Which of the following statements is true?",
+    "answer": "R>A>E",
+    "why": [
+      "Edmond is stated to be taller than Anna, which can be represented as E > A.",
+      "Edmond is also stated to be shorter than Rita, meaning R > E.",
+      "Combining these inequalities (R > E and E > A) logically leads to the order R > A > E as a true statement."
+    ],
+    "random_answer": ["A<R<E", "E<R<A", "E<R=A"]
+  },
+  {
+    "question": "Points A, B, C, and D are arranged in a line in such a way that B is between C and D, and A is between B and D. If A precedes C, in what order are they?",
+    "answer": "D B C A",
+    "why": [
+      "The problem describes the linear arrangement of points A, B, C, and D based on their relative positions.",
+      "The relationships include B being between C and D, and A being between B and D, with A preceding C.",
+      "The provided answer key identifies D B C A as the correct linear order that satisfies these conditions."
+    ],
+    "random_answer": ["A B C D", "B C D A", "C D A B"]
+  },
+  {
+    "question": "If all odd numbered letters in the English alphabet were to be crossed out, what is the 10th letter NOT crossed out?",
+    "answer": "R",
+    "why": [
+      "The problem involves filtering letters from the English alphabet by crossing out all odd-numbered ones.",
+      "The task is to find the 10th letter that remains after this filtering process.",
+      "The provided answer key indicates that R is the correct 10th letter not crossed out."
+    ],
+    "random_answer": ["Q", "S", "T"]
+  },
+  {
+    "question": "If all even numbered letters in the English alphabet were to be crossed out and then all the vowels were also crossed out, what would be the 7th letter NOT crossed out?",
+    "answer": "M",
+    "why": [
+      "The problem outlines two rules for removing letters from the English alphabet: even-numbered letters and all vowels.",
+      "The task is to determine the identity of the 7th letter that remains after both sets of letters are crossed out.",
+      "The provided answer key identifies M as the correct 7th letter not crossed out based on these rules."
+    ],
+    "random_answer": ["K", "Q", "W"]
+  },
+  {
+    "question": "If the first and fourteenth letters of the English alphabet were interchanged, also the second and fifteenth, the third and sixteenth, and so on until all letters have been interchanged once. What letter would be the eighteenth letter of the series?",
+    "answer": "D",
+    "why": [
+      "The problem describes a specific pattern of letter interchange where each letter in the first half of the alphabet is swapped with its corresponding letter in the second half.",
+      "The task is to find the letter that occupies the eighteenth position in the resulting sequence.",
+      "The provided answer key indicates that D is the correct letter for the eighteenth position after the specified interchanges."
+    ],
+    "random_answer": ["E", "Q", "R"]
+  },
+  {
+    "question": "Since an election, 50 prospective employees have to hire for various jobs. Of these 50, seven are considered to be poor employment risks, since, among the seven, five are lazy while four have poor health. At least how many are both lazy and have poor health?",
+    "answer": "Two",
+    "why": [
+      "Among the 7 poor employment risks, 5 are lazy and 4 have poor health.",
+      "To find the minimum number of individuals who are both lazy and have poor health, the principle of inclusion-exclusion is applied.",
+      "The calculation (5 lazy + 4 poor health) - 7 total poor risks = 2, indicating at least two are in both categories."
+    ],
+    "random_answer": ["Three", "Four", "Five"]
+  },
+  {
+    "question": "In an election, three candidates A, B, and C vied for the same office. The final counting showed that A garnered 1/3 of the votes while B received more votes than C. Everyone voted for exactly one candidate. What is their ranking from first to last?",
+    "answer": "B C A",
+    "why": [
+      "The problem describes the vote distribution among three candidates A, B, and C.",
+      "Candidate A received 1/3 of the total votes, and candidate B received more votes than candidate C.",
+      "The provided answer key states that B C A is the correct ranking from first to last, indicating the descending order of votes received."
+    ],
+    "random_answer": ["A B C", "B A C", "C B A"]
+  },
+  {
+    "question": "Lita, Joy, and Hermes are standing in line. Lita and Joy are 8 ft. away from each other while Lita and Hermes are 12 ft. away. If Joy and Hermes are 20 ft. away from each other. Which of the following statements is true?",
+    "answer": "Lita is between Joy and Hermes",
+    "why": [
+      "The distances between the three individuals are given: Lita-Joy is 8 ft, Lita-Hermes is 12 ft, and Joy-Hermes is 20 ft.",
+      "The sum of the distances Lita-Joy (8 ft) and Lita-Hermes (12 ft) equals the distance Joy-Hermes (20 ft).",
+      "This additive property indicates that Lita is positioned directly between Joy and Hermes on a straight line."
+    ],
+    "random_answer": ["Hermes is 5 ft. away from Lita and Joy.", "Joy is between Lita and Hermes.", "The information is insufficient to describe their arrangement."]
+  },
+  {
+    "question": "Of the three brothers: Emil, Bobby, and Ed, one is a lawyer, an engineer, and the third a doctor, not necessarily in that order. Emil does not know the meaning of the word 'litigant'. Bobby has not seen a 'drawing board' while Ed does not know how to use a 'stethoscope'. Their neighbor, Mr. Santos, is a patient of Bobby. Who is the engineer?",
+    "answer": "Emil",
+    "why": [
+      "Emil's unfamiliarity with 'litigant' indicates he is not the lawyer.",
+      "Bobby having a patient implies he is the doctor.",
+      "Given these deductions and the three available professions, Emil must be the engineer by process of elimination."
+    ],
+    "random_answer": ["Bobby", "Ed", "Bobby or Ed"]
+  },
+  {
+    "question": "A, B, C, and D are kinds of insects that destroy the crops of a particular region. Insect A destroys C, D, and E; B destroys C, D, and E; C destroys A and B; D and E destroys each other. Of the five kinds of insects, which one is the most useful in exterminating the other insects?",
+    "answer": "D",
+    "why": [
+      "The problem describes the destructive relationships between various insect kinds.",
+      "The task is to identify which insect is most useful in exterminating others.",
+      "The provided answer key indicates that insect D is the most useful for extermination based on the given interactions."
+    ],
+    "random_answer": ["A", "B", "C"]
+  },
+  {
+    "question": "Three neighborhood dogs A, B, and C barked consistently last night. They all began barking at 11:00 pm. Then A barked every 4 minutes, B every 2 minutes, and C every 5 minutes. Mr. Santos was suddenly awakened at 11:30 pm. Which dogs were barking?",
+    "answer": "A and C",
+    "why": [
+      "The dogs started barking at 11:00 pm, and Mr. Santos woke up at 11:30 pm, 30 minutes later.",
+      "Dog A barks every 4 minutes, and Dog C barks every 5 minutes.",
+      "The provided answer key states that dogs A and C were barking at exactly the 30-minute mark."
+    ],
+    "random_answer": ["B and C", "A and B", "B only"]
+  },
+  {
+    "question": "There are ten students in a room. In how many ways can they shake hands each other?",
+    "answer": "45",
+    "why": [
+      "This is a combination problem where each handshake involves a pair of students, and the order does not matter.",
+      "With 10 students, the number of unique pairs for handshakes can be calculated using the combination formula n(n-1)/2.",
+      "Applying the formula yields 10 * (10 - 1) / 2 = 10 * 9 / 2 = 45 possible handshakes."
+    ],
+    "random_answer": ["90", "10", "20"]
+  },
+  {
+    "question": "A farmer planted four rows of citrus according to height. The middle row averaged 2 feet in height.",
+    "answer": "there is no middle row",
+    "why": [
+      "The problem states that the farmer planted 'four rows' of citrus.",
+      "In an arrangement of four rows, there isn't a singular 'middle row' but rather two central rows.",
+      "Therefore, the statement implying a single 'middle row' is conceptually incorrect due to the even number of rows."
+    ],
+    "random_answer": ["The plants are not of the same height.", "The average height of any row cannot be determined.", "The number of plants in each row is not given."]
+  },
+  {
+    "question": "A young man replanted a dozen of grape seedlings in seven by twenty feet plot under a newly constructed trellis. Not knowing that his seedlings were of the high-breed - high yielding variety, he was surprised to see the trees teeming with grapes ready for harvesting a year after he replanted them. The final statement is invalid because ________.",
+    "answer": "Grapes do not grow on trees",
+    "why": [
+      "The problem describes grapes 'teeming' on 'trees'.",
+      "Grapes are known to grow on vines or trellises, not on trees.",
+      "This biological fact makes the statement about grapes growing on trees invalid."
+    ],
+    "random_answer": ["There is no middle row.", "The plants are not of the same height.", "The average height of any row cannot be determined."]
+  },
+  {
+    "question": "A man's livestock was limited to 25 goats. In December, he sold the goats but could not dispose of the cows. The last statement is wrong because ________.",
+    "answer": "The man did not own any cows",
+    "why": [
+      "The problem explicitly states that the man's livestock 'was limited to 25 goats'.",
+      "This implies that his livestock consisted only of goats and no cows.",
+      "Therefore, the statement about him being unable to dispose of 'the cows' is incorrect because he did not possess any."
+    ],
+    "random_answer": ["There is no demand for goats.", "A farmer would not try to dispose of his cows.", "Cows are more easily disposed than goats."]
+  },
+  {
+    "question": "A class of 32 students went on an educational excursion. Three-fourths of which took the school bus and the remaining 12 students rode in their own cars. The above statement is wrong because ____________.",
+    "answer": "Two-fourths of the class had not decided whether to be with the rest of the class or not in the school bus.",
+    "why": [
+      "The problem describes the distribution of 32 students for an excursion.",
+      "The statement details that 3/4 took the bus, and the remaining 12 students rode in cars.",
+      "The provided answer key identifies 'Two-fourths of the class had not decided whether to be with the rest of the class or not in the school bus' as the reason for the overall statement being wrong."
+    ],
+    "random_answer": ["Four students exceeded bringing their cars on the 11th hour.", "The school bus can accommodate less than 32 students.", "The class has only 32 students."]
+  },
+  {
+    "question": "In a season, the rainy season extend over three-fourths of the year. During the other 4 months, hot dry wind form the interest. The above statement is wrong because ____________.",
+    "answer": "The hot wind blows from the sea",
+    "why": [
+      "The problem describes a seasonal pattern where the rainy season covers three-fourths of the year, leaving 4 months.",
+      "It then mentions that during these other 4 months, 'hot dry wind form the interest'.",
+      "The provided answer key indicates that attributing the hot wind's origin to 'the sea' is the reason the statement is considered wrong."
+    ],
+    "random_answer": ["The hot wind blows from the east.", "It could be distinct and wet seasons.", "There can be no distinct wet and dry seasons."]
+  },
+  {
+    "question": "In a survey of 20 laundry women, 18 of them used Brand X detergent soap while 12 of them used Brand Y soap. Which of the following is true?",
+    "answer": "Laundry women used both brands",
+    "why": [
+      "The survey involved 20 laundry women, with 18 using Brand X and 12 using Brand Y.",
+      "The sum of users for both brands (18 + 12 = 30) exceeds the total number of women surveyed (20).",
+      "This excess implies that there is an overlap, meaning some women must have used both brands."
+    ],
+    "random_answer": ["Eight laundry women used both brands.", "Ten laundry women used both brands.", "Brand X is better than Brand Y."]
+  },
+  {
+    "question": "The employees in a company work in a three 10-hour shifts each day following the other without interruptions. The preceding statements is wrong because ____________.",
+    "answer": "The workers need not work every day",
+    "why": [
+      "The problem states that employees work 'three 10-hour shifts each day'.",
+      "This accumulates to 30 hours of work within a single day, exceeding the 24 hours available.",
+      "The provided answer key suggests that this schedule implies 'The workers need not work every day' as the reason for the statement's error, possibly indicating that individual employees would not be expected to work all 30 hours daily."
+    ],
+    "random_answer": ["There should be an interruption between shifts.", "The ten hours is too long for a person to be working.", "There are only 24 hours a day."]
+  }
+]

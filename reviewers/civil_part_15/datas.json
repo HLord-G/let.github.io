@@ -1,0 +1,202 @@
+[
+  {
+    "question": "If you're smart, then why aren't you rich?",
+    "answer": "All rich people are smart.",
+    "why": [
+      "The question implies that if one is smart, one should be rich, leading to the assumption that all rich people possess intelligence.",
+      "This statement connects intelligence with wealth as a universal characteristic.",
+      "It suggests that being smart should naturally lead to being rich."
+    ],
+    "random_answer": ["To become rich is difficult.", "Only the rich are smart.", "Only smart are rich."]
+  },
+  {
+    "question": "Classical opera is not for me. I am not the old-fashioned type.",
+    "answer": "Classical opera appeals to old-fashioned type.",
+    "why": [
+      "The speaker distances themselves from classical opera by stating they are not the 'old-fashioned type,' implying a link between opera and this type of person.",
+      "The statement directly associates classical opera with an 'old-fashioned' sensibility.",
+      "It assumes that people who enjoy classical opera fit a specific 'old-fashioned' profile."
+    ],
+    "random_answer": ["I have never listen to classical opera.", "Old-fashioned types are too limited in their tastes.", "Classical opera is old-fashioned."]
+  },
+  {
+    "question": "In order to improve admission process and get better students, we have decided to include an interview of the applicants as an admission criterion.",
+    "answer": "An interview of the applicants will draw better students.",
+    "why": [
+      "The decision to add interviews is based on the expectation that this new criterion will result in the selection of better students.",
+      "The stated purpose of the interview is to achieve an improvement in student quality.",
+      "It assumes a direct positive outcome from the implementation of the interview process."
+    ],
+    "random_answer": ["An interview of the applicants will be less time consuming.", "Current admission procedures are greatly inadequate.", "Current admission criteria need to be updated."]
+  },
+  {
+    "question": "Four competing basketball teams play at the town plaza every Saturday from 2 pm to 8 pm. The games are scheduled in such a way that only the winning teams continue to play until the champion is proclaimed after the final game. Many avid basketball fans stay throughout the four games.",
+    "answer": "The total number of games is four.",
+    "why": [
+      "The statement mentions fans staying throughout 'the four games,' directly implying that there are four games in total.",
+      "The phrasing 'the four games' indicates a specific number of games are played.",
+      "It refers to a predetermined set of games, specifically four."
+    ],
+    "random_answer": ["The winning team could not have continued playing throughout the four games.", "The four games are not played one after the other.", "Basketball does not have avid fans."]
+  },
+  {
+    "question": "Narcotics are dangerous since their effects include extensive brain damage.",
+    "answer": "Anything that causes extensive brain damage is dangerous.",
+    "why": [
+      "The argument links narcotics' danger directly to their effect of causing brain damage, implying this effect is the reason for their danger.",
+      "The statement establishes a causal relationship where brain damage signifies danger.",
+      "It assumes that any substance leading to extensive brain damage is inherently considered perilous."
+    ],
+    "random_answer": ["Brain damage is a cause of narcotics.", "All substance abuse leads to brain damage.", "Extensive brain damage is a sign of drug abuse."]
+  },
+  {
+    "question": "Pepe is probably a pianist. He can really stretch his hands and fingers.",
+    "answer": "Pianists can really stretch their hands and fingers.",
+    "why": [
+      "The conclusion that Pepe is a pianist is drawn from his ability to stretch his hands and fingers, indicating this is a characteristic assumed of pianists.",
+      "The statement connects Pepe's physical attribute directly to a common skill or trait of pianists.",
+      "It assumes a specific physical capability is indicative of being a pianist."
+    ],
+    "random_answer": ["Only people with big hands and long fingers can be pianists.", "Playing the piano helps Pepe stretch his hands and fingers.", "Stretching helps pianists perform better."]
+  },
+  {
+    "question": "Paeng is a responsible man. He takes good care of his family.",
+    "answer": "Responsible people take good care of their families.",
+    "why": [
+      "The statement uses 'takes good care of his family' as evidence of Paeng's responsibility, assuming this is a defining trait of responsible individuals.",
+      "It implies that showing care for one's family is a characteristic inherent to responsible individuals.",
+      "The statement connects the action of family care with the quality of being responsible."
+    ],
+    "random_answer": ["Taking good care of the family is the responsibility of men.", "Family is responsible for taking care of their families.", "A good family produces responsible people."]
+  },
+  {
+    "question": "Going beyond speed limit is foolhardy since it puts people's lives at risk.",
+    "answer": "Speeding is dangerous.",
+    "why": [
+      "The statement equates 'foolhardy' behavior (speeding) with 'putting people's lives at risk,' implying that such risk-taking is inherently dangerous.",
+      "It assumes that any action that endangers lives is considered perilous.",
+      "The logic presented links the act of speeding directly to a dangerous outcome."
+    ],
+    "random_answer": ["Foolhardy people should not be allowed to drive.", "Only the foolhardy put the lives of people at risk.", "Putting the lives of people at risk is necessary at times."]
+  },
+  {
+    "question": "John is not qualified to run for public office. He is an honest person.",
+    "answer": "Only dishonest people are qualified to run for public office.",
+    "why": [
+      "The statement creates a paradox where honesty disqualifies John for public office, which can only be true if the assumption is that only dishonest individuals are deemed qualified.",
+      "It implies an inverse relationship between honesty and qualification for public office.",
+      "The reasoning suggests that integrity is seen as a barrier rather than an asset for public service."
+    ],
+    "random_answer": ["Running for public office is an easy task.", "The requirements for running for public office are unreasonable.", "Not enough honest persons run for public office."]
+  },
+  {
+    "question": "Nuclear power must be forbidden because wastes from nuclear reactors are highly fatal to life and unfriendly to the environment.",
+    "answer": "Anything that has ill-effects on the ecosystem must be prohibited.",
+    "why": [
+      "The argument to forbid nuclear power is based on its negative environmental impact and danger to life, indicating an assumption that such harmful effects warrant prohibition.",
+      "The statement presumes that environmental harm and danger to life are sufficient reasons for outright prohibition.",
+      "It connects significant negative ecological and health impacts directly to the need for prohibition."
+    ],
+    "random_answer": ["Nuclear scientists have not exerted enough effort to control and safely dispose of wastes from nuclear reactors.", "Wastes from nuclear reactors can be disposed of safely and efficiently.", "Measures taken to control or dispose of wastes from nuclear reactors have been fruitless."]
+  },
+  {
+    "question": "If Mario seems stronger than Luigi, then Luigi must really be very weak.",
+    "answer": "Both Mario and Luigi competed in a contest of strength.",
+    "why": [
+      "For a comparison of strength to lead to a definitive conclusion about one person's weakness based on another's perceived strength, they must have been evaluated in the same context, like a contest.",
+      "The statement implies a direct comparison of their strength levels, suggesting a common assessment scenario.",
+      "It assumes a shared event where their strengths were directly measured against each other."
+    ],
+    "random_answer": ["Mario is weak.", "Luigi is pretending to be weak.", "Luigi considers himself strong."]
+  },
+  {
+    "question": "Randy should move to the other TV stations. With his bigotry and lack of taste, he would be assured success as a talk-show host.",
+    "answer": "Talk-show hosts in the other TV stations are mostly bigots who lack taste.",
+    "why": [
+      "The statement suggests Randy's bigotry and lack of taste would ensure his success at other TV stations, implying these traits are common or desired in those environments.",
+      "It links Randy's negative traits directly to a path of success in a specific media role, assuming those traits are prevalent there.",
+      "The reasoning relies on the premise that the 'other TV stations' value or are characterized by bigotry and lack of taste among their hosts."
+    ],
+    "random_answer": ["Bigots and those who lack taste have no place in this TV station.", "Talk-show hosts are transferees from other TV stations.", "Randy wants to leave his present employer and move to the other TV stations."]
+  },
+  {
+    "question": "The government cannot tax the practice of religion. That would be unconstitutional.",
+    "answer": "The government cannot do what is unconstitutional.",
+    "why": [
+      "The statement asserts that taxing religion 'would be unconstitutional,' and implicitly concludes that the government 'cannot' do it, based on the assumption that the government operates within constitutional bounds.",
+      "It assumes that the government is inherently restricted from performing unconstitutional actions.",
+      "The reasoning relies on the principle that unconstitutionality is a barrier to governmental action."
+    ],
+    "random_answer": ["The government is unconstitutional to tax the practice of religion.", "The Constitution supports the practice of religion.", "The Constitution does not provide for the practice of religion."]
+  },
+  {
+    "question": "Letecia should not be a part of the volleyball team because she does not even trust her teammates.",
+    "answer": "Teammates should have faith in each other.",
+    "why": [
+      "The reason given for Letecia's exclusion is her lack of trust in teammates, indicating that mutual trust is an expected and necessary condition for team membership.",
+      "It highlights the importance of reciprocal faith among team members for effective participation.",
+      "The statement implies that trust is a fundamental requirement for team cohesion and performance."
+    ],
+    "random_answer": ["Letecia's teammates are not trustworthy.", "Letecia's teammates do not have faith in the team.", "Letecia is better than her teammates."]
+  },
+  {
+    "question": "Only the poor are assisted by the present administration in acquiring basic necessities for living. The present administration helps Mang Tomas acquire basic necessities for living because he is a squatter dweller.",
+    "answer": "Squatter dwellers are considered poor people.",
+    "why": [
+      "The first sentence states only the poor are helped, and the second explains Mang Tomas is helped as a squatter dweller, thus linking squatter dwellers to the category of 'poor people.'",
+      "It implies that the administration classifies squatter dwellers as impoverished individuals.",
+      "The reasoning directly connects Mang Tomas's status as a squatter dweller to his eligibility for aid, based on the 'only the poor' policy."
+    ],
+    "random_answer": ["Mang Tomas asked help from the present administration.", "The present administration hates rich people.", "Squatter dwellers intend to be poor."]
+  },
+  {
+    "question": "Digital effects are not for me. I do not belong to the present <i>generator</i>.",
+    "answer": "Digital effects appeal to the present generation.",
+    "why": [
+      "The speaker disassociates themselves from digital effects by stating they 'do not belong to the present <i>generator</i>,' implying that the current generation *does* find digital effects appealing.",
+      "It assumes a prevailing preference for digital effects within the contemporary generation.",
+      "The statement suggests that a fondness for digital effects is characteristic of the current era."
+    ],
+    "random_answer": ["The present generation is not realistic.", "The past generation does not like digital effects.", "Digital effects do not appeal to the new generation."]
+  },
+  {
+    "question": "High levels of education do not guarantee rapid economic growth; but it is probably a necessary condition. A World Bank study shows that newly industrialized countries commonly have low inflation rates and high education levels.",
+    "answer": "Education is one of the determining factors of economic progress.",
+    "why": [
+      "The statement explicitly says high education is 'probably a necessary condition' for economic growth, directly indicating its role as a determining factor.",
+      "It highlights education as a crucial element in achieving economic development.",
+      "The World Bank study provides evidence for the link between high education and industrialized economic success."
+    ],
+    "random_answer": ["Rapid economic growth brings about low inflation rates.", "The World Bank is committed to helping countries lower inflation rates and raise education levels.", "The World Bank is committed to studying how many industrialized countries raised their status."]
+  },
+  {
+    "question": "Joel's poems are modernistic since they deal with complicated subject matters.",
+    "answer": "Modernistic poetry deals with complicated subject matters.",
+    "why": [
+      "The reason given for Joel's poems being 'modernistic' is their 'complicated subject matters,' assuming this is a defining characteristic of modernistic poetry.",
+      "It implies that the nature of the subject matter determines the classification of the poetry as modernistic.",
+      "The statement connects the complexity of themes directly to the genre of modernistic poetry."
+    ],
+    "random_answer": ["Complicated subject matters are intellectually stimulating.", "Complicated subject matters are suited to modernistic poetry.", "Modernistic poetry is intellectually pretentious."]
+  },
+  {
+    "question": "Wise men learn by other men's mistakes; fools by their own.\" What does this quotation imply?",
+    "answer": "Experience is a dear teacher.",
+    "why": [
+      "The quote emphasizes that learning, whether from one's own or others' mistakes, is a valuable but sometimes costly process, aligning with the idea that experience serves as a profound teacher.",
+      "It suggests that lessons gained through trials or observations are potent educators.",
+      "The phrasing implies that direct or indirect exposure to mistakes provides significant learning opportunities."
+    ],
+    "random_answer": ["Mistakes can never be avoided.", "Fools commit more mistakes than the wise.", "We learn to do by doing."]
+  },
+  {
+    "question": "Some exceptionally physically-fit men tested in our laboratory were middle-aged type with slight builds. Some of the most unfit men we have ever seen were husky young men with cardiac conditions. The speaker in the paragraph gives proof to the middle-age that __________. ",
+    "answer": "Looks are deceitful.",
+    "why": [
+      "The paragraph contrasts 'physically-fit men' having 'slight builds' with 'unfit men' being 'husky,' demonstrating that physical appearance can be misleading regarding actual fitness.",
+      "It provides examples where outward appearance does not accurately reflect underlying physical condition.",
+      "The evidence presented challenges the assumption that one's physique always indicates their health status."
+    ],
+    "random_answer": ["Exercise is necessary.", "Middle-aged men usually have trouble with physical exercises.", "Heart trouble is becoming common among young men."]
+  }
+]

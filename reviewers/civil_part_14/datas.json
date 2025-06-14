@@ -1,0 +1,324 @@
+[
+  {
+    "question": "Subscribing to Cable TV is luxury. All luxuries are needless expenditures. Having a cellular phone is not a luxury. Dining in a five-star hotel is a needless expenditure.",
+    "answer": "Subscribing to Cable TV is a needless expenditure.",
+    "why": [
+      "The first premise states that 'Subscribing to Cable TV is <b>luxury</b>'.",
+      "The second premise states that 'All <b>luxuries</b> are needless expenditures'.",
+      "Therefore, subscribing to Cable TV, being a luxury, is a needless expenditure."
+    ],
+    "random_answer": [
+      "Subscribing to Cable TV is not a needless expenditure.",
+      "Dining in a five-star hotel is a luxury.",
+      "Dining in a five-star hotel is not a luxury."
+    ]
+  },
+  {
+    "question": "If you pay your taxes, then more roads are built. If more roads are built, then all farmers will be self-reliant.",
+    "answer": "If you pay your taxes, then more farmers will be self-reliant.",
+    "why": [
+      "This conclusion follows a direct conditional relationship: If A then B, and If B then C, implies If A then C.",
+      "Paying taxes leads to more roads, and more roads lead to farmers being <b>self-reliant</b>.",
+      "It establishes a direct logical chain from tax payment to farmer self-reliance."
+    ],
+    "random_answer": [
+      "Roads are built if you pay your taxes.",
+      "If Mang Nardo is a farmer, then he is self-reliant.",
+      "If more farmers are self-reliant, then you pay your taxes."
+    ]
+  },
+  {
+    "question": "If all fruit-bearing plants are flowering plants and all flowering plants attract insects.",
+    "answer": "All fruit-bearing plants attract insects.",
+    "why": [
+      "The premises state that 'All fruit-bearing plants are <b>flowering plants</b>' and 'all flowering plants <b>attract insects</b>'.",
+      "This forms a transitive property where the characteristic of 'attracting insects' is passed to fruit-bearing plants.",
+      "It directly connects fruit-bearing plants to the property of attracting insects."
+    ],
+    "random_answer": [
+      "Some flowering plants do not attract insects.",
+      "All flowering plants are fruit-bearing.",
+      "Some flowering plants are fruit-bearing."
+    ]
+  },
+  {
+    "question": "Claudia will go to the party if her mother will permit her. Tony will go to the party if Claudia will go to the party. Claudia is permitted by her mother to go to the party.",
+    "answer": "Tony will go to the party.",
+    "why": [
+      "Claudia's mother permitted her, which means Claudia will go to the party.",
+      "Tony's attendance is conditional on Claudia's attendance, so he will also go.",
+      "This is a straightforward deductive conclusion based on the given sequence of events."
+    ],
+    "random_answer": [
+      "Tony will go to the party if Claudia's mother will not permit him to accompany Claudia to the party.",
+      "Claudia will not go to the party.",
+      "Claudia will go to the party if Tony will go to the party."
+    ]
+  },
+  {
+    "question": "All detectives are scientific persons. All inventors are creative persons. Francis is a scientific person. Christian is not a creative person.",
+    "answer": "Francis is not a detective.",
+    "why": [
+      "The premise 'All <b>detectives</b> are scientific persons' means that being a scientific person does not automatically make one a detective.",
+      "Francis is a scientific person, but the given information does not provide a definitive link for him to be a detective.",
+      "The statement only specifies a characteristic of detectives, not a rule that all scientific persons are detectives."
+    ],
+    "random_answer": [
+      "Francis is an inventor.",
+      "Christian is an inventor.",
+      "Christian is not a detective."
+    ]
+  },
+  {
+    "question": "An old lady asked a trusted locksmith to install special locks at the doors of her house before she left for a three-day visit to her daughter next town. The locksmith did a good job of bolting the front door which could be opened from inside. When the old lady came back, the locksmith helped her carefully to unlock the front door and open all the windows.",
+    "answer": "The front door could not be opened from outside.",
+    "why": [
+      "The locksmith 'did a good job of <b>bolting the front door</b>'.",
+      "The old lady needed the locksmith's help to 'unlock the front door' upon her return.",
+      "This implies the door was securely locked and inaccessible from the exterior."
+    ],
+    "random_answer": [
+      "The locksmith did not install special locks at the door.",
+      "The windows were not all closed when the old lady left.",
+      "The style of locks at the door of the house was obsolete."
+    ]
+  },
+  {
+    "question": "From the extensive data gathered in the Philippines for the period 1990-1995 there are indications that some rivers are still relatively clean, particularly in Mindanao.",
+    "answer": "Not all rivers in the Philippines are polluted.",
+    "why": [
+      "The source explicitly states that 'some rivers are still <b>relatively clean</b>'.",
+      "This direct statement contradicts the idea that all rivers are polluted.",
+      "The conclusion directly reflects the partial cleanliness mentioned in the data."
+    ],
+    "random_answer": [
+      "The overall quality of all rivers has deteriorated.",
+      "Rivers in the Philippines are polluted.",
+      "Philippine rivers could no longer sustain life."
+    ]
+  },
+  {
+    "question": "If fishes cannot breed, they will die. Coral reefs are the only breeding places of fishes. All coral reefs will be destroyed by humans twenty years from now.",
+    "answer": "Fishes will cease to exist.",
+    "why": [
+      "The premises state that if fishes cannot breed, they will die, and that coral reefs are the <b>only breeding places</b> for fish.",
+      "All coral reefs are predicted to be destroyed, which means fish will lose their sole breeding grounds.",
+      "Without breeding grounds, fish will eventually die out and cease to exist."
+    ],
+    "random_answer": [
+      "New species of fishes will appear.",
+      "Coral reefs will form in the deepest sea.",
+      "Seas and oceans will have higher salt content."
+    ]
+  },
+  {
+    "question": "Submitting a good term paper is a necessary condition for passing the course.",
+    "answer": "Myra did not pass the course; hence, she had not submitted a good term paper.",
+    "why": [
+      "A '<b>necessary condition</b>' means that if the condition is not met, the outcome cannot occur.",
+      "If submitting a good term paper is necessary to pass, then not passing implies that the paper was not submitted properly.",
+      "The conclusion logically reverses the implication for a failed outcome."
+    ],
+    "random_answer": [
+      "Myra had submitted a good term paper; hence she passed the course.",
+      "Myra passed the course; hence, she had submitted a good term paper.",
+      "Myra did not submit a good term paper or she passed the course."
+    ]
+  },
+  {
+    "question": "Some managers are not analytical. All managers are ruthless. Daniel is ruthless.",
+    "answer": "Not analytical managers are ruthless.",
+    "why": [
+      "The premise states that 'All <b>managers</b> are ruthless'.",
+      "This means that any individual categorized as a manager, regardless of other attributes like being analytical, is ruthless.",
+      "Therefore, if a manager is not analytical, they still retain the characteristic of being ruthless."
+    ],
+    "random_answer": [
+      "All ruthless people are analytical.",
+      "Some managers are not analytical.",
+      "Daniel is analytical but is not a manager."
+    ]
+  },
+  {
+    "question": "Some computer programmers are nearsighted. All nearsighted people are inefficient workers. Veronica is an inefficient worker. Lourdes is a computer programmer.",
+    "answer": "Lourdes is an inefficient worker.",
+    "why": [
+      "The premises establish that 'All <b>nearsighted people</b> are inefficient workers'.",
+      "While it is not explicitly stated that Lourdes is nearsighted, as a computer programmer, she belongs to a group of which some members are nearsighted and thus inefficient.",
+      "This conclusion posits Lourdes as one of the computer programmers who are inefficient based on the given traits."
+    ],
+    "random_answer": [
+      "Veronica is nearsighted.",
+      "Some computer programmers are inefficient workers.",
+      "All inefficient workers are nearsighted."
+    ]
+  },
+  {
+    "question": "All diamonds are elegant. Some pearls are not elegant. The Black Heart is a pearl. The Heart of the Deep is not elegant.",
+    "answer": "The Black Heart is not elegant.",
+    "why": [
+      "The premise states 'The <b>Black Heart</b> is a pearl' and also 'Some pearls are not elegant'.",
+      "Given that some pearls are not elegant, and the Black Heart is a pearl, it logically implies that the Black Heart could be one of those non-elegant pearls.",
+      "This conclusion directly connects the Black Heart to the characteristic of lacking elegance within the category of pearls."
+    ],
+    "random_answer": [
+      "All diamonds are elegant.",
+      "The Heart of the Deep is a pearl.",
+      "Diamonds are more expensive than pearls."
+    ]
+  },
+  {
+    "question": "All illusions and deceptions are believable. This news report is not believable. This annual report is believable.",
+    "answer": "This news report is not an illusion and deception.",
+    "why": [
+      "The premise states 'All <b>illusions and deceptions</b> are believable'.",
+      "Since this news report 'is not believable', it cannot be an illusion or deception by contrapositive logic.",
+      "The conclusion directly negates the possibility of the news report being an illusion or deception."
+    ],
+    "random_answer": [
+      "This annual report is amusing.",
+      "This news report is an illusion and deception.",
+      "This news report is amusing."
+    ]
+  },
+  {
+    "question": "All of my friends believe in marriage. Bea is a new friend. She lives with an officemate in an apartment downtown.",
+    "answer": "Bea believes in marriage.",
+    "why": [
+      "The first premise states 'All of my <b>friends</b> believe in marriage'.",
+      "Since Bea is introduced as 'a new friend', she is included in the group that believes in marriage.",
+      "The conclusion applies a general rule to a specific instance."
+    ],
+    "random_answer": [
+      "Her housemates are almost likely a good friend.",
+      "Bea is not married yet.",
+      "She is living-in with her boyfriend."
+    ]
+  },
+  {
+    "question": "People need guns for security. Students in the university are protected by the university police while on campus. Jordan is a student in the university.",
+    "answer": "Jordan does not need to carry a gun on campus.",
+    "why": [
+      "The premise clearly states that 'Students in the university are <b>protected by the university police</b> while on campus'.",
+      "Since Jordan is a student, he is covered by this existing security measure.",
+      "Therefore, he does not require a personal gun for security on campus."
+    ],
+    "random_answer": [
+      "Jordan wants to carry a gun on campus but it is prohibited.",
+      "Jordan needs a gun to protect him.",
+      "Jordan had a gun but discarded it when he entered the university."
+    ]
+  },
+  {
+    "question": "People who love the Philippines believe that their children must be taught everything by using the Filipino language. School administrators mandate that English be the language of instruction for Science and Math.",
+    "answer": "School administrators do not love the Philippines.",
+    "why": [
+      "The definition given is that people who 'love the Philippines' support teaching in the Filipino language.",
+      "School administrators contradict this by mandating English for Science and Math.",
+      "Their actions do not align with the stated characteristic of those who love the Philippines."
+    ],
+    "random_answer": [
+      "School administrators believe we can learn Science and Math better in English.",
+      "School administrators are pressured by parent to teach in English.",
+      "Children understand Science and Math better in English."
+    ]
+  },
+  {
+    "question": "Foods rich in fat are rich in cholesterol. Some types of cholesterol are bad for the heart. Chicken skin is rich in fat.",
+    "answer": "Chicken skin is bad for the heart.",
+    "why": [
+      "The premises establish that foods rich in fat are 'rich in cholesterol' and some cholesterol types are 'bad for the heart'.",
+      "Chicken skin is stated to be 'rich in fat', linking it to the cholesterol content.",
+      "Therefore, by inference, chicken skin can be detrimental to heart health."
+    ],
+    "random_answer": [
+      "Foods rich in fat are cholesterol.",
+      "Chicken skin is rich in fat.",
+      "Chicken skin is rich in the heart."
+    ]
+  },
+  {
+    "question": "Styrofoam releases a chemical that destroys the ozone layer. The container that Alou uses is not harmful to the ozone layer.",
+    "answer": "Alou uses containers that are not made of Styrofoam.",
+    "why": [
+      "Styrofoam is explicitly stated to 'destroy the ozone layer'.",
+      "Alou's container is explicitly stated as 'not harmful to the ozone layer'.",
+      "This direct contradiction implies Alou's container cannot be made of Styrofoam."
+    ],
+    "random_answer": [
+      "Alou uses a different way to prevent styrofoam from releasing chemicals into the air.",
+      "Alou uses a high-quality Styrofoam as a container.",
+      "Styrofoam can be used in containers that are not harmful to ozone."
+    ]
+  },
+  {
+    "question": "There are fewer juvenile delinquents in communities where the youth participate actively in different socio-civic and religious clubs. Barangay X has a number of youth clubs.",
+    "answer": "Barangay X has fewer juvenile delinquents than other barangays.",
+    "why": [
+      "The premise links active youth participation in clubs to 'fewer juvenile delinquents'.",
+      "Barangay X is noted for having 'a number of youth clubs', implying such participation.",
+      "This indicates Barangay X meets the condition for a reduced rate of juvenile delinquency."
+    ],
+    "random_answer": [
+      "Parents of Barangay X exert great effort to prevent juvenile delinquency.",
+      "Municipal officials encourage the organization of youth clubs.",
+      "All young people in Barangay X are members of at least two youth clubs."
+    ]
+  },
+  {
+    "question": "Cross-country marathon is a popular sports event. Popular sports events are not televised. Triathlon is a popular-sports event. Some cross-country marathons are televised.",
+    "answer": "Some cross-country marathons are televised.",
+    "why": [
+      "This statement is directly provided as a premise in the problem: 'Some <b>cross-country marathons</b> are televised'.",
+      "As a conclusion, it is a factual restatement that is explicitly supported by the given information.",
+      "It highlights a specific aspect of the event's broadcast status."
+    ],
+    "random_answer": [
+      "Triathlon is televised.",
+      "Triathlon is properly supervised.",
+      "Triathlon is not properly supervised."
+    ]
+  },
+  {
+    "question": "Artists are never ham-handed. All artists are inquisitive. Joey is not ham-handed. Judith is not inquisitive.",
+    "answer": "Judith is not an artist.",
+    "why": [
+      "The premise states that 'All <b>artists</b> are inquisitive'.",
+      "Judith is stated to be 'not inquisitive'.",
+      "By contrapositive logic, if someone is not inquisitive, they cannot be an artist."
+    ],
+    "random_answer": [
+      "Joey is an artist.",
+      "Joey is not an artist.",
+      "Judith is an artist."
+    ]
+  },
+  {
+    "question": "All flowers are fragrant. Some flowers are brightly colored. Gumamela is a kind of flower. Sabita is not a kind of flower.",
+    "answer": "Gumamela is fragrant.",
+    "why": [
+      "The premise states that 'All <b>flowers</b> are fragrant'.",
+      "Gumamela is explicitly identified as 'a kind of flower'.",
+      "Therefore, Gumamela must possess the characteristic of being fragrant."
+    ],
+    "random_answer": [
+      "Some brightly-colored flowers are fragrant.",
+      "Sabita is not brightly-colored.",
+      "Gumamela is brightly-colored."
+    ]
+  },
+  {
+    "question": "All games of chance are prohibited. Lotto is a game of chance. Poker is not a game of chance.",
+    "answer": "Lotto is prohibited.",
+    "why": [
+      "The premise clearly states that 'All <b>games of chance</b> are prohibited'.",
+      "Lotto is identified as 'a game of chance'.",
+      "Therefore, it logically follows that Lotto falls under the category of prohibited activities."
+    ],
+    "random_answer": [
+      "Game cards are prohibited.",
+      "Game cards are not game of chance.",
+      "Jueteng is a game of chance."
+    ]
+  }
+]

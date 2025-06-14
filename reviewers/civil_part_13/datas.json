@@ -1,0 +1,1445 @@
+[
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The past way of doing things does not always bring about progress.",
+    "why": [
+      "The passage states that <b>Change and progress are not necessarily synonymous</b>, indicating that change does not always lead to progress.",
+      "It also notes that <b>Some old ways of doing things may be as good as, or superior to new</b>, implying change isn't inherently better."
+    ],
+    "random_answer": [
+      "Change is always progress.",
+      "Mistakes are part of progress.",
+      "Present problems are best solved through introducing change."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The rural environment has opportunities that need to be developed.",
+    "why": [
+      "The passage states education becomes functional only when that environment begins to offer <b>real opportunity</b>.",
+      "This implies that existing rural opportunities must be developed to make education meaningful there."
+    ],
+    "random_answer": [
+      "Rural occupational opportunities give meaning to rural education.",
+      "Our educational system caters mainly to the needs of the urban sector.",
+      "Migration to the cities results from lack of real opportunities in the rural areas."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Effective communication requires knowledge of what to say and how to say it.",
+    "why": [
+      "The passage identifies the <b>greatest barrier to understanding</b> as the inability to <b>communicate effectively</b>.",
+      "It highlights that some <b>know what to communicate but don't know how</b>, indicating the need for both content and delivery."
+    ],
+    "random_answer": [
+      "People who have something to communicate readily express themselves.",
+      "Some people do not have the ability to understand others.",
+      "Misunderstanding is basically the result of people's differences in trainings and interests."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that music ____",
+    "answer": "Listner derives pure pleasure from understanding the meaning of musical theme.",
+    "why": [
+      "The passage indicates listeners <b>unwind themselves</b> and enter an <b>ideal world</b>, suggesting a pleasurable experience.",
+      "While the text doesn't explicitly mention <b>understanding the meaning of musical theme</b>, the context implies a positive and perhaps deep engagement leading to pleasure."
+    ],
+    "random_answer": [
+      "Needs to express only one emotion or meaning.",
+      "Is often used as an escape.",
+      "Requires high degree of concentration from the listener."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Community development is dependent on the government's self-reliance and resourcefulness.",
+    "why": [
+      "The passage states that the office's efforts to improve material projects were <b>neglected</b>.",
+      "It emphasizes that <b>government should be self-reliant and resourceful</b> for community development."
+    ],
+    "random_answer": [
+      "The office concerned with community development is both self-reliant and resourceful.",
+      "Community development needs more than the building of material projects for the people.",
+      "The people's attitude toward community development is one of the indifferences."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "To keep a free society free, the competent and slovenly should work together.",
+    "why": [
+      "The passage states, <b>To keep a free society free is no job for the half-educated and the slovenly</b>.",
+      "This implies that those who are competent (not half-educated) and diligent (not slovenly) are necessary for maintaining a free society, and their combined effort is essential."
+    ],
+    "random_answer": [
+      "There is no job for the slovenly in a free society.",
+      "A free society has for its members, the janitor, the judge, the surgeon and the technician.",
+      "People who do their work well help keep a free society going."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The use of force is unnecessary in a democratic state.",
+    "why": [
+      "The passage describes the democratic idea as being about <b>man's emphasis on cooperation rather than coercion</b>.",
+      "It states that the power and greatness of the idea stems from this emphasis on cooperation, not force."
+    ],
+    "random_answer": [
+      "The practice of democracy makes the people powerful.",
+      "The use of force is unnecessary in a democratic state.",
+      "Powerful and great men conceive the democratic idea."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "A child's personality mirrors the kind of environment around which he grows.",
+    "why": [
+      "The passage states that <b>Children should be provided with a consistent environment</b>... because this character will be unpredictable and peculiar otherwise.",
+      "This highlights the direct influence of the environment on a child's personality development."
+    ],
+    "random_answer": [
+      "Parents should always keep a close watch over their children.",
+      "A sound personality may develop in a child who grows in any kind of environment.",
+      "Children should not be deprived of the basic necessities for their growth."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Probationary period is a must for all government employees.",
+    "why": [
+      "The passage describes a system where it is <b>customary in public employment for new appointees to serve a probationary period</b>.",
+      "It emphasizes that this period helps determine suitability and allows for the dismissal of inefficient officers, making it a necessary step."
+    ],
+    "random_answer": [
+      "Trial appointments protect the appointee from unfair dismissal practices.",
+      "Government employees need experience and instruction before permanent appointment.",
+      "Tests for determining the ability of employees should be practiced."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "At most of the poor countries in the world today still depend on \"upper\" rich countries for support.",
+    "why": [
+      "The passage emphasizes that freedom and human rights without <b>food</b> are meaningless, implying a dependency on others for basic needs.",
+      "It highlights that these countries are still living under hunger and poverty, suggesting ongoing reliance on others for support."
+    ],
+    "random_answer": [
+      "The satisfaction of one's basic needs is a prerequisite to the enjoyment of freedom.",
+      "A country that cannot feed its people with its own resources could never be free.",
+      "A country that could not be free unless it could prove to the world that it could stand on its own feet."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The nature of their work.",
+    "why": [
+      "The passage attributes the success of inventors of intricate mechanical devices to <b>curious scientific fact</b> and <b>originality</b>.",
+      "These characteristics relate directly to the intrinsic nature of their work and how they approach it."
+    ],
+    "random_answer": [
+      "The knowledge of mechanical principles.",
+      "The success of their inventions.",
+      "Personal convictions about life."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The desire for credit among government institutions has made national efforts effective.",
+    "why": [
+      "The passage states that <b>Government institutions... have made national efforts effective</b> by working together and fighting for credit.",
+      "This indicates that the competition or <b>fighting for credit</b> among institutions can drive effective national efforts."
+    ],
+    "random_answer": [
+      "The national efforts of government institutions have been ineffective.",
+      "Separation of powers and functions of different government institutions is a necessity.",
+      "Cooperation among government institutions will improve national efforts."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Science is currently concerning itself to a greater degree with the ways of promoting the welfare of mankind.",
+    "why": [
+      "The passage states that science is <b>not interested exclusively in the material aspects</b> but <b>is increasingly concerning itself with problems involving the human element</b>.",
+      "This directly indicates a shift towards humanitarian aspects and the welfare of mankind."
+    ],
+    "random_answer": [
+      "Science is now geared toward introducing a new technology which will lessen the inconveniences of man.",
+      "Science is concerned with giving individual equal opportunities for living.",
+      "The human element, being complex as it is, may somehow hinder the development of science."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "All youth have a liking for certain crafts.",
+    "why": [
+      "The passage mentions that vocational guidance should consider <b>the chief skills and crafts which underlies current reputable modes of obtaining a living</b>.",
+      "It also refers to <b>youth according to individual likings and social needs</b>, implying that youth have preferences for certain crafts."
+    ],
+    "random_answer": [
+      "Society should expect each youth to obtain vocational information.",
+      "Society must anticipate future vocational requirements.",
+      "The number of skilled craftsmen is insufficient."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "National endeavors for development should be spearheaded by the government.",
+    "why": [
+      "The passage states, <b>We must build our own road with the genius, the sacrifice, the work, and the sweat of a handful of leaders</b>, but of each and every one of the millions of our countrymen.",
+      "This implies that leaders (often associated with government) play a crucial role in spearheading national development."
+    ],
+    "random_answer": [
+      "Government projects get the full support of the people.",
+      "The leaders will have a sense of self-sacrifice.",
+      "The leaders will work as industriously as the common people do."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "People tend to influence one another's view of things.",
+    "why": [
+      "The proverb describes two different perceptions of the same reality (<b>one sees mud, and the other, the stars</b>).",
+      "While not explicitly stating influence, the existence of different views implies that individual perspectives are shaped, and in a social context, these perspectives can be influenced by others."
+    ],
+    "random_answer": [
+      "People see things differently depending on their own perspective.",
+      "People have varied ways of looking at different things.",
+      "Some people are blinder than others."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Business enterprises are now given social obligations.",
+    "why": [
+      "The passage states that business was concerned with profit but now <b>education, health and welfare, and community social development projects are becoming the concerns of a number of legitimate businesses</b>.",
+      "This shows a shift to social obligations beyond mere profit."
+    ],
+    "random_answer": [
+      "Business activities are mostly concerned with making big profit.",
+      "Business activities and motives used to create a negative impression on the people.",
+      "Business enterprises are now given social obligations."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The outbreak of war is caused by the lack of goodwill among nations.",
+    "why": [
+      "The passage states that war ceases <b>not because of an increase of human goodwill</b>.",
+      "This implies that the absence of war is linked to goodwill, and therefore, the presence of war is linked to its absence."
+    ],
+    "random_answer": [
+      "Eventually, man will stop fighting because war is becoming more expensive.",
+      "Fighting among nations will not affect the quest for development.",
+      "To invest in peace is much more expensive than to invest in war."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that internet _____",
+    "answer": "Creates human bonding.",
+    "why": [
+      "The passage states the internet enables <b>thousands of people who can communicate... without much direct contact before that</b>.",
+      "This implies that the internet facilitates communication and connection, fostering human bonding."
+    ],
+    "random_answer": [
+      "Creates music.",
+      "Offers art and writing crafts.",
+      "Encourages creativity and socialization."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "People of high moral standards should formulate constitution to make them effective.",
+    "why": [
+      "The passage emphasizes that the <b>quality of laws</b> and their effectiveness come from the <b>quality of men and women</b> who <b>give our lives to heart</b>.",
+      "This suggests that individuals with high moral standards are essential for creating effective laws and a constitution."
+    ],
+    "random_answer": [
+      "The quality of law in a country depends upon the prevailing land therein.",
+      "Every citizen must abide by the fundamental laws of the land.",
+      "The worth and effect of the laws depends on how the people make use of them."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Educated people often disregard the social norm of good and bad to earn a living.",
+    "why": [
+      "The passage states that training for a living is not enough; one also needs <b>standards of personal behavior and social norms of good and bad</b>.",
+      "This implies that education alone might not instill these moral guidelines, and sometimes people might disregard them to earn a living."
+    ],
+    "random_answer": [
+      "Uneducated people often disregard the social norm of good and bad to earn a living.",
+      "A little knowledge is more dangerous than a complete illiteracy.",
+      "Education should aim at developing a morally upright citizenry."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Keep busy during office hours.",
+    "why": [
+      "The passage discusses <b>business activities</b>, stating that <b>First must come work but in the proper order</b> and <b>business is to be attended during office hours</b>.",
+      "This emphasizes the importance of working diligently during designated work times."
+    ],
+    "random_answer": [
+      "Have superior intelligence.",
+      "Accomplish tasks without question.",
+      "Spend working hours wisely."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Technological innovations become useful if they are product of man on the job.",
+    "why": [
+      "The passage states that inventions <b>are stimulated by a technical opportunity... or product or process</b> and are <b>made by men 'on the job'</b>.",
+      "This highlights that practical application by those working is what makes technological innovations useful."
+    ],
+    "random_answer": [
+      "Scientific advances do not initiate important inventions.",
+      "Inventions arise out of necessity, not out of the desire to convert scientific discoveries into technological innovations.",
+      "The significance of inventions depends on whether they would be economically useful or not."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Developing youth potentialities will produce good results.",
+    "why": [
+      "The passage suggests that delinquency stems from <b>the need for recognition</b> and <b>unchanneled energies</b>.",
+      "This implies that if youth potential is developed and channeled positively, it will lead to good outcomes, preventing delinquency."
+    ],
+    "random_answer": [
+      "Youth development is an intrinsic responsibility of society.",
+      "Youth are positive if they are towards nation-building.",
+      "Delinquency takes place as a defiance of authoritarian practices."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "War can bring progress in natural resources.",
+    "why": [
+      "The passage states that war <b>would only cause the channeling of all efforts toward destruction</b>.",
+      "This statement directly contradicts the idea that war brings progress in natural resources, making the validity of this answer based on the provided text highly questionable."
+    ],
+    "random_answer": [
+      "No nation which has emerged victorious in war has ever progressed.",
+      "The program can be delayed through amenable development of natural resources.",
+      "The economically deprived nations involved in war will surely be defeated."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Man's basic needs are food, clothing, shelter, and good health.",
+    "why": [
+      "The passage implies that <b>families do not eat three square meals a day</b> and lack <b>necessary medicines</b>.",
+      "This directly highlights the fundamental importance of food and health (medicines) as basic needs for development."
+    ],
+    "random_answer": [
+      "Development is to be authentic, it has to promote the good every man.",
+      "Development must bring about an environment of equality, happiness, and peace.",
+      "Development refers to the people's development of the basic necessities of life."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Procedures directly involving the people are the most complicated and offensive.",
+    "why": [
+      "The passage states that <b>public relations program is critical</b> for both government and private institutions.",
+      "It implies that <b>red tape</b> and <b>offensive</b> elements are what people encounter in both, pointing to procedural issues."
+    ],
+    "random_answer": [
+      "Government agencies are usually guilty of complicated procedures than the private offices.",
+      "Red tape and dissimilation are barriers to good public relations.",
+      "A public relations program is affected by the inconvenience of the public."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "To be truly true and independent, a person should build his education and skills.",
+    "why": [
+      "The passage states that <b>personal freedom can be expanded by education and training</b>.",
+      "It emphasizes that these tools <b>open up a wide range of professional opportunities</b>, allowing a person to be <b>truly true and independent</b>."
+    ],
+    "random_answer": [
+      "To stay on a job, a person should possess the needed skills.",
+      "Education is a doorway to the job opportunities of man.",
+      "Personal freedom offers person wider opportunities for work."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Corruption means having power and influence.",
+    "why": [
+      "The passage links corruption to <b>high places or positions of power and influence</b>.",
+      "This directly implies that corruption is associated with, and perhaps even defined by, the misuse of power and influence."
+    ],
+    "random_answer": [
+      "Corruption among high government officials is so widespread that our courts cannot stop it.",
+      "Anti-graft against high government officials have been filed in our courts.",
+      "The country's fight against corruption in the government will succeed under a strong leadership."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "All new individuals must do their share in assisting the administration that affects the needed changes in the country.",
+    "why": [
+      "The passage states that <b>the success of the administration... rely on the commitment, dedication, and participation of the people</b>.",
+      "It specifies that <b>old and undesirable processes must be changed to new and better ones</b>, requiring broad involvement."
+    ],
+    "random_answer": [
+      "Government officials should work hard for economic recovery.",
+      "Cooperation among government officials will bring economic progress.",
+      "New government programs that emphasize labor-intensive industries."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "People should respect laws that protect them.",
+    "why": [
+      "The passage indicates that legislation changing attitudes <b>must come with adequate enforcement measures and machinery</b>.",
+      "It also states that people <b>should respect laws that protect them</b>, implying a reciprocal relationship between enforcement and respect."
+    ],
+    "random_answer": [
+      "The effectiveness of laws lies in adequate education of the people about them and their proper enforcement.",
+      "Laws lose their effectiveness if people do not respect them.",
+      "Ignorance of the law does not excuse anyone."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Abuse taking in countries is widely differing ideologies demand and international response.",
+    "why": [
+      "The passage states that <b>governments are now publicly accountable to the world community</b> for protecting rights.",
+      "It mentions that international organizations promote human rights, implying that responses vary based on different ideologies and international efforts."
+    ],
+    "random_answer": [
+      "The protection of human rights is an international responsibility and queries to that effect are not considered interference in the country's internal affairs.",
+      "Whenever human rights are violated, people are the victims; they and their families need practical help.",
+      "It is often implied that human rights are universal."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Much of the people's energies are expended on unproductive pursuits.",
+    "why": [
+      "The passage states that these qualities <b>constitute our greatest wealth, but much of the people's energies are dissipated owing to lack of coordination and direction</b>.",
+      "This directly supports that a significant portion of efforts are wasted due to disorganization."
+    ],
+    "random_answer": [
+      "The skills and capacities of human resources have been neglected.",
+      "The Filipinos are well-known for their resourcefulness and ingenuity.",
+      "Our people's natural capacities need little in the way of power and direction."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Wrong judgment arises from the lack of data about a person.",
+    "why": [
+      "The passage states that <b>snap judgments are likely to be wrong</b> and emphasizes <b>the longer one takes to put up final judgment... the more accurate the judgment will be</b>.",
+      "This implies that rushing to judgment, without sufficient information, leads to errors."
+    ],
+    "random_answer": [
+      "An evaluation of a person must be based on verifiable evidence.",
+      "Not all people would make good judges.",
+      "It takes time to make a correct appraisal of an individual."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "It takes time to make a correct appraisal of an individual.",
+    "why": [
+      "The passage stresses that <b>snap judgments are likely to be wrong</b> and that <b>the longer one takes to put up final judgment... the more accurate the judgment will be</b>.",
+      "This implies that careful consideration over time is necessary for accurate assessment of individuals."
+    ],
+    "random_answer": [
+      "Wrong judgment arises from the lack of data about a person.",
+      "An evaluation of a person must be based on verifiable evidence.",
+      "Not all people would make good judges."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Worker's participation in production-oriented programs provides a means of reducing resistance to change.",
+    "why": [
+      "The passage states that work simplification programs aim to reduce <b>resistance to change</b>.",
+      "This implies that involving workers in production-oriented programs helps achieve these goals, including reducing resistance."
+    ],
+    "random_answer": [
+      "Many organizations have adopted total work simplification program.",
+      "Excessive movements and delays at work stations are greatly reduced when the work simplification program is simplified.",
+      "A work simplification program enables workers to perform efficiently and economically."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The strength of the government emanates from the people.",
+    "why": [
+      "The passage states that the government <b>must exact efforts in it and must govern well for a government obedience and the moral obedience of the people</b>.",
+      "This implies that the government's power and effectiveness are derived from the moral consent and obedience of its citizens."
+    ],
+    "random_answer": [
+      "A weak government breeds chaos and preventable disease among the people.",
+      "A government has to be strong and dependable to command loyalty and support of the people.",
+      "A government protects the citizen's rights and promotes their welfare."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "A high per capita income in a country promotes total development.",
+    "why": [
+      "The passage asserts that economic growth alone is a <b>misleading yardstick</b>.",
+      "It emphasizes that development should raise <b>levels of subsistence, human dignity, and freedom</b>, implying that per capita income, if it leads to these, contributes to total development."
+    ],
+    "random_answer": [
+      "The government of a country services raises the standard of living in a community.",
+      "The quality of life of families in a country determines the development programs of government.",
+      "Progress is equated with infrastructure projects for the people's inconvenience."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "In the youth lie the responsibilities in shaping the destiny of the nation.",
+    "why": [
+      "The passage refers to youth as <b>propagators of new, relevant, and progressive ideas</b> and being <b>crucial</b>.",
+      "This strongly suggests that the youth hold significant responsibility in shaping the nation's future."
+    ],
+    "random_answer": [
+      "The authorities acknowledge the potentials of the youth.",
+      "Young people will get a taste of freedom and idealism.",
+      "The youth give what they believe is good for the people."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Religious individuals make good leaders.",
+    "why": [
+      "The passage states that <b>Criteria for leaders are not to be found in the birm of their social stats</b>, which would include religious status.",
+      "This statement directly contradicts the idea that religious individuals inherently make good leaders, making the validity of this answer based on the provided text highly questionable."
+    ],
+    "random_answer": [
+      "Leadership is born out of doing well for others.",
+      "Only the best qualities of man should lead his people.",
+      "Most of the social status determine the building up of leaders."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The food crisis is more pronounced in countries with meager resources.",
+    "why": [
+      "The passage states that <b>if the world's agricultural resources were distributed at all equitably or at all rationally, there would be enough food for the growing population</b>.",
+      "This indicates that the problem is distribution rather than meager resources, making the direct support for this answer from the text questionable."
+    ],
+    "random_answer": [
+      "The food crisis is more pronounced in countries with meager resources.",
+      "The world food crisis is a result of the uneven distribution of the world's resources.",
+      "Some countries produce food more than what they themselves consume."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Development can be attained by creating good living conditions.",
+    "why": [
+      "The passage states that development <b>is not solely on the improvement of material living conditions</b> but includes <b>essential though this is</b>.",
+      "This implies that while material conditions are part of development, they are not the sole factor."
+    ],
+    "random_answer": [
+      "Development is geared towards the achievement of material comforts of man.",
+      "Development has the advancement and satisfaction of man as the focal point.",
+      "Development makes possible the progress of nations."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Strict enforcement of penal laws discourages possible offenders to commit crimes.",
+    "why": [
+      "The passage states that <b>strict criminal justice and jurisprudence</b> is needed to address crime.",
+      "It also mentions <b>firm and determined beforehand</b> and <b>systematic punishment of offenders</b>, implying that clear laws and enforcement are deterrents."
+    ],
+    "random_answer": [
+      "Crime should be dealt with not according to estimation penal rules but in consideration of individual persons and cases.",
+      "Competent courts are not totally eradicated but they can be minimized through a systematic punishment of offenders.",
+      "Criminals cannot be totally eradicated but they can be minimized through a systematic punishment of offenders."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Communication problems do not only stem from the verbalization of ideas but also arise as a result of different cultures and backgrounds.",
+    "why": [
+      "The passage attributes communication difficulties to people belonging to <b>different social and intellectual levels</b>.",
+      "While it does not explicitly mention <b>different cultures and backgrounds</b>, these factors are often associated with variations in social and intellectual levels and can contribute to communication challenges."
+    ],
+    "random_answer": [
+      "Humans cannot be considered the most intelligent creatures when it comes to communication skills.",
+      "Communication is a simple process of relaying and receiving messages.",
+      "The ability to communicate is one of human's most outstanding faculties."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Common characteristics and values among group members are necessary.",
+    "why": [
+      "The passage states that individuals <b>differ one another in personal values, attitudes, personality, and roles</b> and that <b>they are yet at the same time, the members of a group must possess certain common values and characteristics</b>.",
+      "This directly supports the necessity of shared values and characteristics within a group."
+    ],
+    "random_answer": [
+      "Group members seldom possess common characteristics and values.",
+      "Differences in personal values, attitudes, personalities, and roles make it difficult for group members for a common cause.",
+      "Individuals differ from one another mainly because of the differences in their values and characteristics."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "New approaches bring about new knowledge.",
+    "why": [
+      "The passage notes that ignorance <b>may be a fruitful stimulus to ingenious new methods</b>.",
+      "This implies that facing unknowns can lead to the creation of new approaches and, by extension, new knowledge."
+    ],
+    "random_answer": [
+      "New techniques insure successes of development plans.",
+      "Ignorance sometimes gives birth to new knowledge.",
+      "Lack of knowledge in economic ventures may lead to better and improved results."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The desire for material gain must be limited to the requirements for spiritual development.",
+    "why": [
+      "The passage emphasizes that developmental ideology should relate <b>the elements of hope and the human's earnings for better material conditions</b> to <b>spiritual development</b>.",
+      "It states that these should exist <b>in one consistent structure of thought and perspective</b>, implying a balance where material pursuits serve spiritual growth."
+    ],
+    "random_answer": [
+      "Development efforts may be based on, and seasoned by the hopes and aspirations of the people.",
+      "Confident persons take advantage of new opportunities for their personal advancement.",
+      "People can overcome any obstacles to progress through their cooperation and self-reliance."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The mental training for any occupation is always related to the use of physical tools.",
+    "why": [
+      "The passage states that training aims to <b>acquaint the worker with principles and practices by means of imparting a thorough knowledge of the tools of the trade</b>.",
+      "It specifies that training should focus on the <b>mental and manual development</b> of a worker and how to <b>correct work habits</b>, encompassing both cognitive and physical aspects of using tools."
+    ],
+    "random_answer": [
+      "Training should be concerned with the development of both skills and work habits vital to the performance of the job.",
+      "The worker must acquire knowledge not connected with the tools of his trade.",
+      "All the workers who undergo proper training perform their jobs satisfactorily."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "A natural catastrophe is in the offing.",
+    "why": [
+      "The passage states that the <b>end of the world won't come from falling asteroid or a raging virus</b> but <b>by human hand</b>.",
+      "This directly contradicts the idea that a natural catastrophe is impending, making the validity of this answer based on the provided text highly questionable."
+    ],
+    "random_answer": [
+      "An asteroid or a virus will attack the earth.",
+      "The world will end through the people's own doing.",
+      "Movies are accurate renditions of the apocalyptic scenario."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The chief concern of a government is to provide education for its citizens.",
+    "why": [
+      "The passage states that education <b>determines their behavior, the manner of meeting problems, and the achievements that will mark their future</b>.",
+      "It identifies <b>a government</b> as having a <b>negligent of the educational system</b> as a <b>significant problem</b>, implying that providing education is a key concern."
+    ],
+    "random_answer": [
+      "The state of the nation determines the kind of education that the people will get.",
+      "Progressive countries have modern school systems.",
+      "Educational opportunities are varied in developed countries."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The older we get, the more we forget what we have learned.",
+    "why": [
+      "The opening line <b>Sixty years ago I know everything; now I know nothing</b> reflects a realization that as one ages, prior certainties diminish, implying a loss of detailed knowledge or a recognition of its limitations.",
+      "This suggests that with age, what one initially believed to <b>know everything</b> fades into a broader understanding of one's limited knowledge, which can be interpreted as forgetting specifics."
+    ],
+    "random_answer": [
+      "The older we get, the more we realize that there's more we need to know.",
+      "We learn more as we grow old.",
+      "Ignorance is a lifelong experience."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "An expanding technology is highly grabbing to an educated workforce.",
+    "why": [
+      "The passage states that <b>An expanding technology creates an increasing need for educated persons</b>.",
+      "This indicates that such technology requires or <b>grabs</b> a skilled workforce to develop and utilize it effectively."
+    ],
+    "random_answer": [
+      "Human development should have priority over the technological growth of society.",
+      "Every society should give emphasis on training the youth in science and technology.",
+      "Mutual relationships exist between technological growth and a highly trained workforce."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The greatest achievement a person can have is the ability to master oneself.",
+    "why": [
+      "The passage emphasizes that <b>nothing ever accomplish without self-discipline</b>.",
+      "This highlights that self-discipline, which involves mastering oneself, is fundamental to any great achievement."
+    ],
+    "random_answer": [
+      "With or without discipline, a lucky person attains success in life.",
+      "People of character constitute the pillars of great societies.",
+      "Greatness is the product of hard work and a regulated life."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Recreation is purely for enjoyment is not productive.",
+    "why": [
+      "The passage explicitly states, <b>Recreation that is purely for enjoyment is not productive</b>.",
+      "This directly supports the idea that recreation focused solely on enjoyment does not yield productive outcomes."
+    ],
+    "random_answer": [
+      "It is difficult to discover's own innate assets.",
+      "An occasion in which one is intellectual is true recreation.",
+      "Too much pleasure soon becomes monotonous."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "People will destroy themselves because of deadly inventions.",
+    "why": [
+      "The passage mentions the need for <b>peoples to overcome their prejudice</b> to <b>prevent ultimate destruction by the powerful, the fearful weapons they have invented</b>.",
+      "This directly implies that if these differences are not overcome, people will use their <b>deadly inventions</b> to destroy themselves."
+    ],
+    "random_answer": [
+      "Common problems unite nations to improve and protect human mankind.",
+      "A developed nation can afford not to have any relation with the rest of the world.",
+      "Societies continue to have differences in political systems."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that plagiarism is a crime that can be attributed to ____",
+    "answer": "Computer bugs.",
+    "why": [
+      "The passage describes plagiarism as a <b>dumbest crime</b> related to academic dishonesty and sanction, without any mention of <b>computer bugs</b>.",
+      "This answer lacks direct textual support and appears to be entirely unrelated to the content of the passage."
+    ],
+    "random_answer": [
+      "The effort evading sanction.",
+      "Someone acknowledging another writer's work.",
+      "The imposition of sanctions against it."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "To maintain order in society, special machineries are put up.",
+    "why": [
+      "The passage states that <b>All societies have some form of machineries for maintaining an orderly life in the community</b>.",
+      "This directly supports that societies establish specific mechanisms or <b>machineries</b> to ensure order."
+    ],
+    "random_answer": [
+      "There can be no order in society unless machineries are put up.",
+      "Some system for keeping order is found in all societies.",
+      "Social order is produced by some form of machineries."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Family planning is gaining acceptance in developing countries.",
+    "why": [
+      "The passage discusses <b>high rate of population growth</b> and problems arising from it, suggesting a need to manage it.",
+      "The context implies that such measures as family planning would be beneficial, thus gaining acceptance."
+    ],
+    "random_answer": [
+      "The family resources should determine the size of the family.",
+      "Economic progress cannot catch up with population growth.",
+      "To control population growth, family planning should be adopted."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "In cities, charitable institutions are established for the poor.",
+    "why": [
+      "The passage talks about social relations becoming <b>more impersonal</b> as populations increase and urbanize.",
+      "It states that <b>People's concern for humankind has been institutionalized</b>, which refers to the formalization of care for the needy, often through charitable institutions."
+    ],
+    "random_answer": [
+      "There are more needy people in urban areas than in rural areas.",
+      "People in urban areas are too easy to have concern for others.",
+      "Urbanization and increases in population lead to increased poverty."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Money and proper knowledge are both necessary for the solution of our main health problems.",
+    "why": [
+      "The passage identifies health problems related to <b>nutrition, sanitation, and infectious diseases</b>.",
+      "It implies that addressing these issues requires resources (<b>money</b>) and understanding (<b>proper knowledge</b>)."
+    ],
+    "random_answer": [
+      "Our health problems challenged the cooperation of the people.",
+      "The government is in the best position to solve the people's health problems.",
+      "Health problems are more costly than the other problems."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The rich should share their wealth to the poor.",
+    "why": [
+      "The passage discusses the importance of wealth and its responsible use, referring to acquiring it for <b>what you do to acquire it</b> and for <b>sharing it with others</b>.",
+      "This directly supports the idea that wealth should be shared."
+    ],
+    "random_answer": [
+      "What is done to and for wealth counts more than merely possessing it or not.",
+      "Everyone knows what to do with one's wealth.",
+      "The rich should share their wealth with the poor."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Technical competence gained over the years makes a worker superior to other workers.",
+    "why": [
+      "The passage states that a workman with <b>superior technical knowledge</b> or <b>better trained and more experienced</b> will be superior.",
+      "This directly supports that acquired technical competence contributes to a worker's superiority."
+    ],
+    "random_answer": [
+      "Different jobs require different technical expertise.",
+      "Technical information can be gained overnight by the superior worker.",
+      "All workers are expected to gain technical knowledge to be able to perform well."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Changes are undesirable in a traditional social group.",
+    "why": [
+      "The passage states that society is not so structured that changes occur easily; rather, they are <b>slow</b> and <b>usually, unwelcome</b>.",
+      "This directly supports that changes are generally undesirable in established societal structures or groups."
+    ],
+    "random_answer": [
+      "Changes in fashion, morals, social or political assumptions assumgrees in society.",
+      "An organized group cannot progress without leaders possessing bold and presive ideas.",
+      "It takes time and people of courage to introduce changes in any organized socup."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "One cannot respect the law to maintain order, a court arbiter must set a gempile.",
+    "why": [
+      "The passage argues that if a judge <b>does not observe judicial norms</b>, then <b>a contempt for the rule of law</b> spreads.",
+      "It implies that judicial figures must uphold norms (likely an example) to maintain respect for the law and order."
+    ],
+    "random_answer": [
+      "The judge who attempts to compel obedience to the law has to use force.",
+      "In order to uphold the law to maintain order, a court arbiter must set a gempile.",
+      "Law practitioners can be charged contempt of court."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "A man will work hard if his work offers satisfaction of a fair standard of living.",
+    "why": [
+      "The passage states that people <b>will work hard for long unless he is rewarded with adequate income and opportunities for a life of decency and dignity</b>.",
+      "This directly links hard work to the expectation of a decent standard of living and satisfaction."
+    ],
+    "random_answer": [
+      "A man who prompts a decent work can face the world with dignity and pride.",
+      "A man who continuously works hard will find many advancement opportunities.",
+      "A man will have to work hard to be able to live a life of decency and dignity."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Unpredictable national planning is an obstacle to a nation's prosperity.",
+    "why": [
+      "The passage states that national planning depends on <b>the future value of money</b> and <b>the ability then to predict the value of money is the key to economic progress</b>.",
+      "This implies that unpredictability in planning would hinder progress, therefore an unpredictable planning is an obstacle."
+    ],
+    "random_answer": [
+      "Financial planning is indispensable in modern economy.",
+      "The value of money is an unpredictable asset that fluctuates with time.",
+      "Economic progress is facilitated by properly controlling budgetary expenses."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "It is too little understood to be consciously directed.",
+    "why": [
+      "The passage states that social evolution is a process <b>neither clearly understood nor agreed upon</b> and <b>its importance is not to be discounted</b>.",
+      "This suggests that its lack of clear understanding means it cannot be consciously guided or directed."
+    ],
+    "random_answer": [
+      "It is a desirable automatic process.",
+      "Is now considered to be subject to conscious direction.",
+      "Can be regulated until authorities agree upon the direction it has to take."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The attitude of a society towards life is indicative of its socio-economic development.",
+    "why": [
+      "The passage argues that society's attitude towards life <b>must have strong faith in its capacity to improve</b>.",
+      "This implies that a society's outlook and belief in progress are reflective of its developmental stage."
+    ],
+    "random_answer": [
+      "Success in life starts from one's dissatisfaction with the existing state of affairs.",
+      "A society is committed to the pursuit for a better life.",
+      "A person develops a healthy attitude towards life through constant efforts to improve oneself."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "An economy designed to produce rapidly is essential to the speedy socio-economic development of a country.",
+    "why": [
+      "The passage states that a country's development depends on <b>its ability to direct its growing resources to investment rather than to consumption</b>.",
+      "It emphasizes that such redirection leads to <b>rapid production</b>, which is key for speedy socio-economic development."
+    ],
+    "random_answer": [
+      "A satisfied workforce is essential to the speedy socio-economic development of a country.",
+      "For a country to progress, it is necessary for its people to form habits of thriftiness.",
+      "The economic progress development of a country involves a choice between present and future fulfillment."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The abundance of resources motivates the people to make innovations for progress.",
+    "why": [
+      "The passage asks <b>Why one province or region offers greater productivity and opportunity</b>, implying a cause.",
+      "It then states that <b>the ingenuity of its people who develop appropriate technologies make full use of local resources</b>, linking innovation and progress to resource utilization."
+    ],
+    "random_answer": [
+      "The progress or advancement of a locality depends much on the resourcefulness and creativity of its people.",
+      "Certain areas in the country have progressed at a much faster pace while others lag behind because of the uneven distribution of natural resources.",
+      "Modern technologies should be applied to tap local resources for the benefit of the people."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Faulty building structures rather than earthquakes cause people's death.",
+    "why": [
+      "The passage states that it's <b>not earthquakes, but buildings people construct that kill people</b>.",
+      "This directly supports that structural flaws in buildings, rather than the natural phenomenon of earthquakes, are the cause of fatalities."
+    ],
+    "random_answer": [
+      "Faulty structures can lead to the death of many people.",
+      "Few building sites are safe.",
+      "Engineers have not been able to build buildings that are earthquake proof."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Human progress has given rise to a greater mutual responsibility among the people.",
+    "why": [
+      "The passage states that <b>as civilization becomes more complex, people are becoming more and more dependent upon others</b>.",
+      "This increased interdependence implies a heightened <b>mutual responsibility</b> among people for the good of all."
+    ],
+    "random_answer": [
+      "The complexity of life has turned the world into a human family.",
+      "Modern is a great arrangement wherein every person has a role to play.",
+      "In all types of civilization, charity to one another is in existence."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Politics continues to exert its influence on the world as it did in the past.",
+    "why": [
+      "The passage states that <b>we are far from one world politically</b>, and this is <b>unfortunately, we cannot rely on the political habits of the past to save our environment for the future</b>.",
+      "This indicates that political habits from the past still influence the present state, suggesting continuity of political influence."
+    ],
+    "random_answer": [
+      "The conservation of the environment is a concern that goes beyond national sovereignities.",
+      "Politics plays a part in the environmental development of the world.",
+      "Our efforts to save the environment for the future will bring us closer to one world politically."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Highly developed countries offer the best guide for the development of needy countries.",
+    "why": [
+      "The passage states that researchers in needy countries are <b>directed towards meeting the country's own development needs</b>, using the <b>thinking and approach of the highly developed Western world</b>.",
+      "This implies that the Western world's approach is considered a valuable guide for development."
+    ],
+    "random_answer": [
+      "Most researchers done in needy countries are missing their objectives.",
+      "Needy countries need researchers to help them reach the status of the Western world.",
+      "Needy countries spend so much time for conducting researchers."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that Einstein's discovery ____",
+    "answer": "Proclaims only the glory of the universe.",
+    "why": [
+      "The passage states that Einstein's revolution <b>produced a paradox</b> by both <b>vastly extending mankind's reach</b> and exposing <b>the essentially finite nature of the human scale</b>.",
+      "This answer only addresses the <b>glory</b> aspect and fails to capture the paradox of human finitude explicitly mentioned in the text, making its selection as the <i>best</i> supported statement questionable."
+    ],
+    "random_answer": [
+      "Devalues humanity and science.",
+      "Involves a real but not obvious contradiction.",
+      "Reveals a contradiction between God and his people."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that wealth ____",
+    "answer": "Is indispensable to achieve a purpose in life.",
+    "why": [
+      "The passage states that money is <b>the instrument of an important public and private purpose</b>.",
+      "It emphasizes that money serves as a means to achieve various objectives, thus being indispensable for fulfilling purposes in life."
+    ],
+    "random_answer": [
+      "Money should be used for public and private good.",
+      "A person who only possesses money is wealthy.",
+      "The owner of any necessities is wealthy."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Curtailment of individual liberty is dangerous.",
+    "why": [
+      "The passage states that <b>individual liberty must not be curtailed in the name of freedom</b>.",
+      "This directly supports that curtailing liberty, even for a perceived greater good, is problematic or dangerous."
+    ],
+    "random_answer": [
+      "Democracy does not allow the control of individual liberty.",
+      "Individual liberty means freedom to do what one pleases.",
+      "Individual liberty is guaranteed only in a democracy."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Intelligent persons are expected to give their best in any undertaking.",
+    "why": [
+      "The passage states that an organization must <b>recognize the principle of individual differences and provide opportunity for individuals to develop their abilities and to do what they can do best</b>.",
+      "This implies that by recognizing these differences and providing opportunities, intelligent persons are enabled and expected to perform optimally in their roles."
+    ],
+    "random_answer": [
+      "The best asset of an organization is human resource.",
+      "No two human beings are exactly alike in mental and physical abilities.",
+      "Some individuals never had the chance to develop their potentials."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Parents nowadays are not as strict as they were several years ago.",
+    "why": [
+      "The passage states that people who achieved success <b>the hard way</b> often try to make things <b>as easy as possible for their children, thus denying them the discipline of struggle and self-establishment</b>.",
+      "This directly supports the idea that parents' current approach is less strict, leading to a lack of discipline for their children."
+    ],
+    "random_answer": [
+      "Children can be taught the value of discipline even without undergoing hardships.",
+      "Some parents do not want their children to undergo the sacrifices they went through in life.",
+      "People who are successful in life went through numerous difficulties in the past."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that procrastination is a habit that ____",
+    "answer": "Routine chores weary us.",
+    "why": [
+      "The passage states that <b>Procrastination not only wastes minutes but also saps our emotional energy by adding fear and dislike to chores which are but routine</b>.",
+      "This directly supports that routine chores, when procrastinated, become emotionally draining and contribute to weariness."
+    ],
+    "random_answer": [
+      "One should not begin what one cannot finish.",
+      "We tend to dislike doing things we do every day.",
+      "A postponed job can be done during one's leisure time."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Very few people declare correct tax returns.",
+    "why": [
+      "The passage states that tax collection <b>can only be improved if there is public awareness of how public funds are spent</b>.",
+      "This implies that a lack of public trust and understanding currently hinders compliance, suggesting people are not filing correctly."
+    ],
+    "random_answer": [
+      "People should be informed on the accurate returns of the government.",
+      "The state of tax collections is a reflection of the people's trust in the government.",
+      "The government should be honest and sincere in spending public funds."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Human resource is the greatest asset of any modern society.",
+    "why": [
+      "The passage highlights the <b>educated person</b> as <b>the most productive resource</b> and <b>physical capital is the only true measure of a nation's economic potential</b>.",
+      "This directly supports the idea that human capital, particularly educated individuals, is the most valuable asset for a modern society's economic potential."
+    ],
+    "random_answer": [
+      "Human capital is harnessed through education.",
+      "In a modern society, education is development.",
+      "Natural resources are the most powerful factor of industrialization."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Education must be geared towards the kind of society that is to be built.",
+    "why": [
+      "The passage states that education <b>must emphasize cooperative endeavor</b> and <b>must stress concepts of equality and the responsibility to give service which goes with any special ability</b>.",
+      "This implies that education should be structured to contribute to the type of society it aims to create, one based on cooperation and service."
+    ],
+    "random_answer": [
+      "Equal educational opportunity should be given to all members of society.",
+      "The training of the youth must be a cooperative endeavor of the whole society.",
+      "Education should aim at training the people in social consciousness and responsibility."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Freedom cannot flourish in an atmosphere of divisive interests and goals.",
+    "why": [
+      "The passage advocates striving for <b>community</b> and <b>all the rich variety and mutual tolerance</b>, contrasting this with <b>power</b> which often leads to conflict.",
+      "This implies that freedom requires an environment free of divisive interests, promoting unity and tolerance."
+    ],
+    "random_answer": [
+      "Love of freedom characterizes powerful nations.",
+      "The survival of humankind requires a world community of nations.",
+      "A nation must be strong to defend and preserve its freedom."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "A person wishes his/her good deeds to be appreciated.",
+    "why": [
+      "The passage discusses the universal feeling of gratitude and the desire for <b>thanks</b> and that <b>being denied of it can do much to stifle the spirit of human kindness and cooperation</b>.",
+      "This implies that people desire appreciation for their good deeds."
+    ],
+    "random_answer": [
+      "An ungrateful person loses the respect of people around him/her.",
+      "Gratitude is a request of the simplest act of goodwill.",
+      "A well-bred person does not fail to acknowledge a good act."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The human settlement program is geared towards the development of the country.",
+    "why": [
+      "The passage states the human settlement program <b>regards a person as the center of all developmental efforts</b> and aims to uplift the economic status and measure human activities.",
+      "These efforts, centered on individuals, collectively contribute to the development of the country."
+    ],
+    "random_answer": [
+      "The development of the total well-being of a person is the focal point of the human settlement program.",
+      "The human settlement program aims to develop and uplift the economic status of a person.",
+      "The human settlement program is measurement measure which develops a person's activities."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Wealth is necessary for human success.",
+    "why": [
+      "The passage argues that success should be measured not by <b>financial reward</b> but by <b>one's usefulness to society, contribute to community welfare, and human progress</b>.",
+      "This implies that financial reward (wealth) is <i>not</i> the true measure or a necessary condition for true success, directly contradicting the answer from the text."
+    ],
+    "random_answer": [
+      "Great wealth is not necessarily the measure of one's success.",
+      "Financial rewards come to persons who are successful in their endeavors.",
+      "It is easy for a rich person to contribute to community welfare."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Progress is more rapidly attained in a democratic form of society.",
+    "why": [
+      "The passage states that a <b>free society is hospitable to new ideas and to change, and encourages the unfettered search for truth</b>.",
+      "This environment of openness and encouragement of new ideas fosters progress more quickly than in societies that suppress change."
+    ],
+    "random_answer": [
+      "A society will not progress unless it welcomes new ideas and changes.",
+      "Social progress is based on the free and peaceful intention of people.",
+      "Social progress is not inherent in a democratic form of society."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The Filipino custom of giving \"pasalubong\" and \"pabalong\" to relatives and friends is gaining popularity.",
+    "why": [
+      "The passage describes the Filipino tradition of giving <b>pasalubong</b> or small packages to guests leaving, and to <b>co-workers and neighbors</b>.",
+      "This tradition is presented as existing and common, implying its popularity."
+    ],
+    "random_answer": [
+      "Travelers enjoy their trip because of the different delicacies they buy along the way.",
+      "Different places in the country provide many different delicacies for their visitors.",
+      "Giveraways so much are a part of Filipino hospitality and visiting norms."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Deprives workers of better opportunities.",
+    "why": [
+      "The passage states that good eyesight <b>is a big help in many ways</b> because it enables one to <b>do many kinds of work better and more easily</b>.",
+      "Therefore, poor eyesight would logically limit opportunities, making this inverse statement directly supported."
+    ],
+    "random_answer": [
+      "Causes accidents among workers.",
+      "Is detrimental to a person's health.",
+      "Affects the quality of a person's work."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Human happiness is enhanced only by the increase of material wants.",
+    "why": [
+      "The passage states that business increases <b>the wealth of the country and the value of happiness</b> by supplying <b>material needs of men and women</b>.",
+      "It implies that meeting material needs is key to happiness and public value."
+    ],
+    "random_answer": [
+      "All businesses that render public service are successful.",
+      "The material needs of men and women are supplied by well-conducted business.",
+      "The value of life is increased only by an increase in wealth."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The youth involved in public affairs early in life is the best way to train them to become leaders.",
+    "why": [
+      "The passage states that the <b>best way to prepare the country's youth for leadership is to train them at young age, to manage their own affairs, and speak out on relevant issues affecting the nation</b>.",
+      "This directly supports that early involvement in public affairs trains youth for leadership."
+    ],
+    "random_answer": [
+      "The youth are more vocal in uttering their opinions on matters affecting the nation.",
+      "Leadership comes from the youth factor.",
+      "Young people should be encouraged to become leaders."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "A person will experience personal fulfillment if the person takes part in running his/her own life.",
+    "why": [
+      "The passage states that <b>self-realization is intimately bound up with the degree to which people have an effective voice in determining the rules and conditions under which and the plans according to which they live and work</b>.",
+      "This directly supports that having a say in one's life leads to personal fulfillment."
+    ],
+    "random_answer": [
+      "The joy of living is a matter of getting satisfaction in the performance of one's work.",
+      "A person who follows a life-and-work plan is likely to achieve personal growth.",
+      "Self-realization requires a strong determination to improve one's life through hard work."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "The effectiveness of an organization depends on the people who comprise it.",
+    "why": [
+      "The passage states that people should not <b>condemn</b> an institution they are part of, and suggests that if they do condemn it, they should not <b>injure it</b>.",
+      "It implies that the well-being of the institution depends on the positive involvement and support of its members."
+    ],
+    "random_answer": [
+      "Those who are disloyal to their organization are eventually laid off.",
+      "What people say about their own organization is also directed to themselves.",
+      "Disloyalty is an injury to the organization."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Wise people are best able to achieve the most in their lifetime.",
+    "why": [
+      "The passage states that <b>healthy thing to accept the inevitability of death</b> and that <b>only a certain amount of time is left to accomplish one's goal</b>.",
+      "This implies that a clear understanding of life's finitude leads to more focused and effective action, enabling greater achievement."
+    ],
+    "random_answer": [
+      "People who live long remembered after death for their achievements in life.",
+      "Healthy people have more chances of accomplishing their goals and enjoying life.",
+      "People who have lived good lives and have achieved their goals are no afraid to die."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that physical examinations ____",
+    "answer": "Benetfit the employer.",
+    "why": [
+      "The passage states that physical examinations yielded <b>small benefits to employers</b>.",
+      "This directly supports that these examinations provide some benefit to the employer."
+    ],
+    "random_answer": [
+      "Will reveal some serious physical defects of employees.",
+      "Are always worth more than the cost.",
+      "Serve to step up employees output."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Environmental problems is a major focus of urban planning.",
+    "why": [
+      "The passage describes the negative effects of rapid technology increase, leading to <b>unplanned social change and environmental problem</b>.",
+      "This implies that urban planning must now focus on these environmental challenges that arose from technological growth."
+    ],
+    "random_answer": [
+      "Environmental hygiene is a major focus of urban planning.",
+      "Most social problems people face today pertain to technology and the environment.",
+      "Technology can be developed without giving rise to environmental problems."
+    ]
+  },
+  {
+    "question": "The paragraph best supports the statement that",
+    "answer": "Attitudes can be measured directly using valid and reliable instruments.",
+    "why": [
+      "The passage states that to use the concept of attitude for understanding and predicting action, <b>we need reliable and valid measures</b>.",
+      "This directly implies that attitudes can be accurately measured if the instruments used are both reliable and valid."
+    ],
+    "random_answer": [
+      "Attitudes are measured differently from all other psychological determinants.",
+      "Attitudes can be measured only on the basis of inferences.",
+      "Valid and reliable measures are hard to find."
+    ]
+  },
+  {
+    "question": "Ang paragraph best supports the statement na",
+    "answer": "Dapat taglayin ng isang pinuno ang kalangiang mamuno, una sa sarili bago sa iba.",
+    "why": [
+      "The provided passage for Question 99 discusses the past of man, endless dreams, and life having unity, with no direct information about leadership qualities.",
+      "Therefore, this answer, which pertains to leadership, is not directly supported by the specific text associated with the question."
+    ],
+    "random_answer": [
+      "Hindi gayong tao ang maging isang pinuno.",
+      "Ang pagiging matalino ay higit na makatulong sa pag-alalay ng kanyang buhay para sa lahat.",
+      "Ang tunay na pinuno ay may totoong pagmamalasakit sa kapakanan ng lahat."
+    ]
+  },
+  {
+    "question": "Ang isinasaad ng talata ay",
+    "answer": "Nararapat na maging matatag ang mga mamamayan tulad ng isang molave sa mga oras ng kagipitan.",
+    "why": [
+      "The passage expresses a desire for citizens to be <b>matakas at matatag, nakatindig sa gulod, walang takot sa sagasa ng baha, sa mga kidlat at bagyo</b> (strong and firm, standing on the ridge, fearless of flood, lightning and storm).",
+      "This directly compares the desired strength and resilience of the people to a molave tree, especially in challenging times (<b>kagipitan</b> or times of crisis)."
+    ],
+    "random_answer": [
+      "Dapat matulad sa isang molave ang mga mamamayan upang mabuhay nang matagal.",
+      "Ang molave sa pagpatong sa mga bagyo, at baha kaya ay ginagamit na sa pagpapatayo ng mga gusali.",
+      "Nararapat na maging matatag ang mga mamamayan tulad ng isang molave sa mga oras ng kagipitan."
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pangunahing diwa ng talata?",
+    "answer": "Sinusunod ng lipunan sa paaralan ang lubusang paghuhubog sa mga kabataan.",
+    "why": [
+      "The passage describes the school as an <b>important institution</b> where youth get education, and that <b>society grants schools the sacred duty of properly shaping the minds of the youth</b>.",
+      "This strongly supports that society relies on schools for the comprehensive development and shaping of young minds."
+    ],
+    "random_answer": [
+      "Hindi makakatulong ang mga paaralan sa paghuhubog sa mga kabataan para sa matatag na lipunan.",
+      "Tungkol sa papel ng mga paaralan sa paghubog ng mga kabataan para sa kanilang kinabukasan.",
+      "Ang mga paaralan ay nagbibigay ng edukasyon para sa lahat ng mag-aaral."
+    ]
+  },
+  {
+    "question": "Ang isinasaad ng talata ay",
+    "answer": "Bilang bahagi ng kultura ng isang bansa, ang musika ay kaliangang tangkilikin at paunlarin ng mga mamamayan.",
+    "why": [
+      "The passage states that music is <b>bahagi ng ating buhay</b> (part of our lives) and that <b>bawat bansa ay may dinadakilang tugtugin o awitin</b> (every country has its own great music or song).",
+      "It emphasizes that music allows people to express <b>ugali, damdamin, at kaisipan</b> (customs, feelings, and thoughts), implying its cultural significance and need for preservation/development."
+    ],
+    "random_answer": [
+      "Ang mga tao sa daigdig ay likas na nagmamahal sa musika, katulad man o makabago.",
+      "Ang pinakamaliit mang tribu sa daigdig ay may musika para sa kanilang mga ritwal at kasayahan.",
+      "Ang musika ay ginagamit upang maghatid ng mensahe."
+    ]
+  },
+  {
+    "question": "Ang pangunahing diwa ng talata na",
+    "answer": "Ang ehersisyo ay nakakatulong sa pag-alis o pagbabawas ng nadaramang tensiyon na upang nagpapatanda sa isang tao.",
+    "why": [
+      "The provided passage for Question 103 discusses general <b>expertise in strengthening and need</b> and helping people, without explicitly mentioning <b>exercise</b> or <b>tension making one old</b>.",
+      "Therefore, this answer is not directly supported by the specific text associated with the question."
+    ],
+    "random_answer": [
+      "Hindi ang ehersisyo at walang pagbabago ay nakakatulong sa pagpapababa ng presyon ng dugo.",
+      "Ang isang ehersisyo ay may iba’t ibang uri ng pagpapalakas at kailangan.",
+      "Ang pinakamatagumpay na ehersisyo ay ang pagsasanay."
+    ]
+  },
+  {
+    "question": "Ang talata ay nagsasaad na",
+    "answer": "Ang pamamahinga ng isang tao ay maaaring gawin sa pamamagitan ng paglilibang.",
+    "why": [
+      "The passage directly states: <b>Ang pamumuhay ay sadyang kailangan ng pamamahinga sa pamamagitan ng paglilibang.</b> (Living truly needs rest through recreation.).",
+      "This clearly supports that recreation is a means for a person to rest."
+    ],
+    "random_answer": [
+      "Ang pagpapahinga ay dapat na mayaman sa diwa ng tao.",
+      "Ang pagpapahinga ay dapat na mayaman sa diwa ng tao, ngunit hindi naman dapat na maging labis.",
+      "Ang paglilibang ay dapat na mayaman sa diwa ng tao, ngunit hindi naman dapat na maging labis."
+    ]
+  },
+  {
+    "question": "Ang talata ay nagsasaad na",
+    "answer": "Ang paglilibang ay dapat na mayaman sa diwa ng tao, ngunit hindi naman dapat na maging labis.",
+    "why": [
+      "The provided passage for Question 105 discusses the necessity of <b>continuous study of lessons to develop knowledge</b> for a person's growth.",
+      "This answer, however, pertains to recreation and enriching the spirit, which is unrelated to the content of the passage provided."
+    ],
+    "random_answer": [
+      "Ang laging pag-aaral ng mga aralin ay isang susi sa pagtuklas ng mga bagong kaalaman.",
+      "Ang pag-aaral ay nakakatulong sa paglago ng kaalaman at pagkatao ng isang tao.",
+      "Ang pag-aaral ay mahalaga sa pagpapaunlad ng isang tao."
+    ]
+  },
+  {
+    "question": "Ang talata ay nagsasaad na",
+    "answer": "Ang pagpapahalaga sa moralidad ay ang batayan ng ating pagkatao.",
+    "why": [
+      "The passage states that <b>Ang pagpapahalaga ng moralidad ay isang mahalagang bahagi ng ating pagkatao. Ito ang batayan ng ating mga desisyon at kilos sa buhay.</b> (The appreciation of morality is an important part of our being. It is the basis of our decisions and actions in life.).",
+      "This directly supports that morality forms the foundation of our character and actions."
+    ],
+    "random_answer": [
+      "Ang pagpapahalaga sa moralidad ay isang mahalagang bahagi ng ating pagkatao.",
+      "Ang ating mga desisyon at kilos ay batay sa ating moralidad.",
+      "Ang pagpapahalaga sa moralidad ay ang susi sa pagkakaroon ng isang mabuting buhay."
+    ]
+  },
+  {
+    "question": "Ang talata ay nagsasaad na",
+    "answer": "Ang lumang henerasyon ay mas makaluma kaysa sa bagong henerasyon.",
+    "why": [
+      "The passage states that <b>Ang makaluma at bagong henerasyon ng Pilipino ay may iba’t ibang pananaw sa buhay.</b> (The old and new generations of Filipinos have different views on life.).",
+      "The term <b>makaluma</b> (old-fashioned/traditional) itself implies that the older generation would naturally be more traditional compared to the new generation."
+    ],
+    "random_answer": [
+      "Ang Pilipino ay may iba’t ibang pananaw sa buhay.",
+      "Ang dalawang lungsod ay magkalapit.",
+      "Ang mga pagpapahalaga ay nag-uugnay sa dalawang lungsod."
+    ]
+  },
+  {
+    "question": "Ang talata ay nagsasaad na",
+    "answer": "Nakahubog lamang ang pagpapahalaga ng mga kabataan sa salapi sa pamamagitan ng mga sinasabi at ginagawa ng mga nakakatanda.",
+    "why": [
+      "The provided passage for Question 108 focuses on <b>love for God</b> as the most important lesson, providing strength and guidance.",
+      "This answer, however, discusses how youth's values are shaped by money and elders, which is entirely unrelated to the content of the passage."
+    ],
+    "random_answer": [
+      "Ang pagmamahal sa Diyos ay ang pinakamahalagang aral sa buhay.",
+      "Ang pagmamahal sa Diyos ay nagbibigay ng lakas at gabay.",
+      "Ang pagmamahal sa Diyos ay dapat matutuhan ng bawat isa."
+    ]
+  },
+  {
+    "question": "Ang talata ay nagsasaad na",
+    "answer": "Maraming tao ang naghahangad ng yaman sa buhay, ngunit hindi nila ito nakukuha ng madali.",
+    "why": [
+      "The passage states that people <b>naghahangad at naglalakad,subalit ang mga ito’y nabigo</b> (desire and walk, but they failed) in rushing for <b>dunong</b> (knowledge) and <b>yaman</b> (wealth).",
+      "This directly supports that many people desire wealth but do not achieve it easily, especially when rushing."
+    ],
+    "random_answer": [
+      "Nabigo ang mga taong nagmamadali sa pagkamit ng kanilang mga hangarin.",
+      "Maraming tao ang nagtatagumpay dahil sila ay may ambisyon.",
+      "Ang tagumpay ay nasa dunong at yaman ng tao."
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pangunahing diwa ng talata?",
+    "answer": "Ang katahimikan ay tanda ng hindi pagkakasuundan.",
+    "why": [
+      "The provided passage for Question 110 discusses the importance of <b>thorough discussion</b>, <b>sound reasoning</b>, and <b>careful problem analysis</b> for obtaining things and achieving liberation.",
+      "This answer, however, pertains to silence being a sign of not understanding, which is unrelated to the main idea of the passage."
+    ],
+    "random_answer": [
+      "Ang problema ay bumigat kapag ito ay pinabayaan.",
+      "Walang katatasan ang batas sa ating mga problema.",
+      "Walang katatasan ang batas sa ating mga problema."
+    ]
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pangunahing diwa ng talata?",
+    "answer": "Ang krisis ay nakaaapekto sa hangarin ng maraming industriya na makapagbibigay ng karagdagang sahod sa kanilang mga manggagawa.",
+    "why": [
+      "The passage states that the depreciation of the peso creates a <b>krisis sa maraming industriya</b> and <b>problema sa mga manggagawa at paghahanap ng trabaho</b> (labor and job seeking problems) and <b>pagtaas ng presyo ng mga bilihin labis na nakaaapekto sa kita ng mga manggagawa</b> (price increase affecting workers' income).",
+      "This directly supports that the crisis negatively affects industries' ability or desire to provide additional wages, as their income is already affected and jobs are displaced."
+    ],
+    "random_answer": [
+      "Ang kasalukuyang krisis ay bunga ng mga mahal na bilihin at kawalan ng mapagkukunan ng trabaho.",
+      "Marami ang naghahanap ng trabaho ngunit kaunti lang ang nagbibigay ng trabaho.",
+      "Marami ang naghahanap ng trabaho ngunit kaunti lang ang nagbibigay ng trabaho."
+    ]
+  }
+]

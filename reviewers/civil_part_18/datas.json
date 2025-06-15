@@ -1,0 +1,170 @@
+[
+  {
+    "question": "RA 6713 or \"Code of Conduct and Ethical Standards for Public Officials and Employees\" covers all of the following, EXCEPT",
+    "answer": "Private contractors",
+    "why": [
+      "RA 6713 is specifically designed for <b>public officials</b> and <b>employees</b>.",
+      "<b>Private contractors</b> are generally not considered government employees or officials under this code.",
+      "The code applies to those in the <b>government service</b>, encompassing various forms of public employment."
+    ],
+    "random_answer": [
+      "Temporary employees",
+      "Non-career employees",
+      "Elective and appointive officials"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT one of the terms of conduct for government employees?",
+    "answer": "Reporting hazards to health in the community",
+    "why": [
+      "RA 6713 outlines terms of conduct centered on <b>public service ethics</b> and <b>integrity</b>.",
+      "Terms like <b>transparency</b>, <b>nationalism</b>, <b>justness</b>, and <b>exposing corruption</b> are specified as expected conduct.",
+      "Reporting health hazards, while important, is not explicitly defined as a <b>term of conduct</b> within this code of ethics."
+    ],
+    "random_answer": [
+      "Transparency",
+      "Nationalism and patriotism",
+      "Justness and sincerity"
+    ]
+  },
+  {
+    "question": "Which of the following does NOT exemplify commitment to public service?",
+    "answer": "Using public discretionary",
+    "why": [
+      "Commitment to public service requires <b>accountable</b> and <b>responsible</b> actions.",
+      "Options like exposing corruption and using resources <b>economically</b> directly demonstrate such commitment.",
+      "The phrase \"using public discretionary\" without further qualification does not inherently reflect <b>ethical commitment</b>, as discretion must be exercised justly and accountably."
+    ],
+    "random_answer": [
+      "Exposing graft and corruption",
+      "Reporting hazards to health in the community",
+      "Furnishing public property and domain"
+    ]
+  },
+  {
+    "question": "Which of the following positions allows appointments of relatives by consanguinity or affinity by the appointing authority?",
+    "answer": "Confidential",
+    "why": [
+      "RA 6713 generally prohibits nepotism, but makes specific <b>exceptions</b> for certain positions.",
+      "Appointments of relatives are permitted in <b>confidential</b> positions.",
+      "This exception is for positions requiring personal <b>trust and confidence</b>."
+    ],
+    "random_answer": [
+      "Technical",
+      "Skilled",
+      "Unskilled"
+    ]
+  },
+  {
+    "question": "Government officials and employees are prohibited from engaging in partisan political activities EXCEPT in _____",
+    "answer": "Expressing their views on current political problems or issues",
+    "why": [
+      "Public officials and employees are generally barred from <b>partisan political activities</b> to maintain neutrality.",
+      "However, they retain the right to express their <b>views</b> on political problems or issues.",
+      "This specific exception allows for <b>freedom of expression</b> on matters of public concern, distinct from campaigning."
+    ],
+    "random_answer": [
+      "Being a delegate to any political convention",
+      "Soliciting or receiving contributions for political purposes",
+      "Becoming publicly identified with the success or failure of any candidate"
+    ]
+  },
+  {
+    "question": "From the time of separation from the government service, public officials are prohibited from accepting employment in any private enterprise previously regulated by their office for a period of _____",
+    "answer": "One year",
+    "why": [
+      "This provision, often referred to as the <b>\"revolving door\"</b> rule, prevents conflicts of interest.",
+      "Former public officials are restricted from taking private employment in areas they previously regulated for a <b>specific period</b>.",
+      "The prohibition lasts for <b>one year</b> from the time of their separation from government service."
+    ],
+    "random_answer": [
+      "Two years",
+      "Three years",
+      "Ten months"
+    ]
+  },
+  {
+    "question": "The transfer of title or disposal of interest in property by voluntarily, completely, and actually depriving oneself of his/her right or title to it in favor of a person or persons pother than his/her spouse and immediate relatives is known as _____",
+    "answer": "Divestment",
+    "why": [
+      "This process is a <b>financial ethics measure</b> to prevent conflicts of interest.",
+      "It involves the voluntary and complete <b>transfer of property</b> or interests.",
+      "The term for this specific action is <b>divestment</b>, ensuring impartiality in public service."
+    ],
+    "random_answer": [
+      "Diversion",
+      "Disengagement",
+      "Dishinheritance"
+    ]
+  },
+  {
+    "question": "Entrepreneurial activities of government employees may be allowed subject to all of the following conditions EXCEPT one.",
+    "answer": "These are not done within the required 8-hour-a-week period",
+    "why": [
+      "Entrepreneurial activities by government employees are allowed if they do not interfere with their <b>official duties</b>.",
+      "Conditions include not using <b>government time</b> or resources, and not misusing their functions.",
+      "The condition \"not done within the required 8-hour-a-week period\" is <b>not a standard</b> and logical restriction for outside entrepreneurial activities."
+    ],
+    "random_answer": [
+      "These are not done during office hours.",
+      "They do not misuse the functions of the employee.",
+      "They do not misuse the use of government resources and facilities."
+    ]
+  },
+  {
+    "question": "The obligation of government officials and employees to be at all times answerable for their misconduct to the people from whom the government derives its power is known as _____",
+    "answer": "Public Accountability",
+    "why": [
+      "This principle is fundamental to <b>democratic governance</b> and public trust.",
+      "It mandates that public officials are <b>answerable</b> to the people for their actions and decisions.",
+      "The concept described is specifically <b>public accountability</b>, emphasizing responsibility to the citizenry."
+    ],
+    "random_answer": [
+      "Transparency",
+      "Public service",
+      "Checks and balances"
+    ]
+  },
+  {
+    "question": "Within the prescribed period of time public officials and employees are required to file their statement of assets and liabilities and financial disclosures to the following instances, EXCEPT _____",
+    "answer": "Acceptance of foreign scholarship",
+    "why": [
+      "The filing of a Statement of Assets, Liabilities, and Net Worth (SALN) is typically required upon <b>assuming</b> or <b>leaving</b> public office.",
+      "It is also required upon events like <b>compulsory retirement</b> or <b>expiration of term</b>.",
+      "<b>Acceptance of a foreign scholarship</b> does not fall under the usual triggers for mandatory SALN filing."
+    ],
+    "random_answer": [
+      "Assumption of office",
+      "Compulsory retirement",
+      "Voluntary resignation"
+    ]
+  },
+  {
+    "question": "Free voluntary service refers to services rendered by civil servants without _____",
+    "answer": "Compensation",
+    "why": [
+      "<b>Voluntary service</b> inherently means providing help or work without being paid.",
+      "The core characteristic of \"free voluntary service\" is the absence of <b>compensation</b>.",
+      "It highlights service given out of willingness rather than for <b>remuneration</b>."
+    ],
+    "random_answer": [
+      "Liability",
+      "Recognition",
+      "Eligibility"
+    ]
+  },
+  {
+    "question": "Which of the following describes the statement \"Public officials and employees shall lead modest lives appropriate for their positions and income.\"?",
+    "answer": "Simple Living",
+    "why": [
+      "The phrase \"modest lives appropriate for their positions and income\" directly advocates for a lifestyle free from <b>excess</b>.",
+      "This concept is specifically known as <b>simple living</b> within codes of conduct for public servants.",
+      "It aims to prevent <b>extravagance</b> and promote integrity among government officials."
+    ],
+    "random_answer": [
+      "Professionalism",
+      "Nationalism and Patriotism",
+      "Commitment to Public Interest"
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Which of the following is the BEST way to ensure sustainable fish supply?",
+    "answer": "Protecting coastal ecosystems",
+    "why": [
+      "Protecting coastal ecosystems ensures the natural habitats for fish are preserved.",
+      "Healthy ecosystems support fish breeding and growth, leading to a <b>sustainable supply</>.",
+      "Coastal ecosystems provide essential nurseries and feeding grounds for many fish species."
+    ],
+    "random_answer": ["Using correct size of nets", "Using efficient fishing boats", "Having enough fishponds"]
+  },
+  {
+    "question": "The _____ way of disposing of medical and hospital wastes is through ______.",
+    "answer": "Incineration",
+    "why": [
+      "Incineration is a method that involves burning waste materials to convert them into ash, flue gas, and heat.",
+      "It is often used for medical and hospital wastes to destroy pathogens and reduce waste volume.",
+      "High-temperature incineration can effectively eliminate infectious agents present in medical waste."
+    ],
+    "random_answer": ["Sewer", "Dump site", "Compost pit"]
+  },
+  {
+    "question": "The main purpose of waste segregation is to _______.",
+    "answer": "Turn waste into resource",
+    "why": [
+      "Waste segregation facilitates recycling and composting, allowing waste materials to be reused or repurposed.",
+      "By separating waste at the source, valuable materials can be recovered and transformed into new products.",
+      "This process reduces the amount of waste going to landfills and conserves natural resources."
+    ],
+    "random_answer": ["Expedite usable materials", "Prevent water pollution", "Reduce collection costs"]
+  },
+  {
+    "question": "Which of the following is the MOST damaging effect that a cement industry can do on the environment?",
+    "answer": "Pollution of air",
+    "why": [
+      "Cement production is a significant source of air pollutants, including particulate matter, sulfur dioxide, and nitrogen oxides.",
+      "These emissions contribute to respiratory problems, acid rain, and global warming.",
+      "The calcination process in cement kilns releases large amounts of carbon dioxide, a major greenhouse gas."
+    ],
+    "random_answer": ["Destruction of aquifers", "Lowering of soil productivity", "Displacement of farmers"]
+  },
+  {
+    "question": "The most important aspect with regard to population as a factor in environmental quality is the ________.",
+    "answer": "Equitable access to resources",
+    "why": [
+      "Equitable access to resources ensures that all individuals have their basic needs met without over-exploiting natural resources.",
+      "Unequal distribution can lead to unsustainable consumption patterns and environmental degradation.",
+      "When resources are shared fairly, it can promote more <b>sustainable lifestyles</> and reduce environmental strain."
+    ],
+    "random_answer": ["Size of the population", "Density of the population", "Literacy level of the population"]
+  },
+  {
+    "question": "Which of the following is the most destructive cause of forest degradation?",
+    "answer": "Logging",
+    "why": [
+      "Logging, particularly illegal and unsustainable practices, directly leads to the removal of trees and habitat destruction.",
+      "It disrupts forest ecosystems, reduces biodiversity, and contributes to soil erosion.",
+      "Large-scale logging can lead to deforestation, which has long-term environmental impacts."
+    ],
+    "random_answer": ["Mining", "Siltation", "Drought"]
+  },
+  {
+    "question": "The dominant source of air pollution in the Metropolitan area is _______.",
+    "answer": "Motor vehicles",
+    "why": [
+      "Motor vehicles release various pollutants like carbon monoxide, nitrogen oxides, and particulate matter into the air.",
+      "High traffic density in metropolitan areas results in significant cumulative emissions from vehicles.",
+      "These emissions contribute to smog, respiratory illnesses, and climate change."
+    ],
+    "random_answer": ["Industries", "Domestic sewage", "Garbage disposal"]
+  },
+  {
+    "question": "Which of the following is the MOST environment-friendly treatment for a used glass bottle?",
+    "answer": "Reuse it",
+    "why": [
+      "Reusing a glass bottle directly extends its lifespan without requiring energy-intensive reprocessing.",
+      "This method conserves raw materials, reduces waste generation, and saves energy compared to recycling or disposal.",
+      "Reusing is a key principle of the 'reduce, reuse, recycle' hierarchy, prioritizing the most environmentally beneficial actions."
+    ],
+    "random_answer": ["Bury it.", "Break it for recycling.", "Compost it."]
+  },
+  {
+    "question": "An environment impact assessment ensures that _______.",
+    "answer": "The negative impact is mitigated",
+    "why": [
+      "An Environmental Impact Assessment (EIA) identifies the environmental consequences of a proposed project.",
+      "Its primary goal is to predict and evaluate potential adverse impacts and propose measures to minimize or eliminate them.",
+      "Mitigation strategies developed during an EIA aim to reduce the environmental harm caused by development activities."
+    ],
+    "random_answer": ["Our natural resources are priced correctly", "A project is financially viable", "The project will have negative environment impact"]
+  },
+  {
+    "question": "The ozone layer is vital to the preservation of life on earth because it protects us from the harmful effects of _______.",
+    "answer": "Ultra-violet rays",
+    "why": [
+      "The ozone layer absorbs most of the Sun's harmful ultraviolet (UV) radiation.",
+      "UV radiation can cause skin cancer, cataracts, and harm to ecosystems.",
+      "Its presence in the stratosphere acts as a natural shield, safeguarding life on Earth."
+    ],
+    "random_answer": ["Infrared rays", "X-ray", "Gamma rays"]
+  },
+  {
+    "question": "Among the following, can BEST protect the forests in the long run?",
+    "answer": "Indigenous people",
+    "why": [
+      "Indigenous communities often have traditional knowledge and sustainable practices for forest management.",
+      "Their deep connection to the land and dependence on forest resources incentivize long-term conservation.",
+      "Empowering indigenous groups in forest management has proven effective in preserving forest health and biodiversity."
+    ],
+    "random_answer": ["Forest guards", "DENR officials", "Scientists"]
+  },
+  {
+    "question": "Which of the following BEST describes the importance of forests?",
+    "answer": "They protect us from typhoon",
+    "why": [
+      "Forests, particularly mangrove forests and strong tree cover, act as natural barriers against strong winds and storm surges.",
+      "Their root systems help stabilize soil, preventing erosion and landslides during heavy rains associated with typhoons.",
+      "They reduce the impact of natural disasters on coastal and inland communities."
+    ],
+    "random_answer": ["They provide oxygen", "They are rich sources of water", "They are good sources of timber"]
+  },
+  {
+    "question": "Putting some dams along rivers can negatively affect marine fishes because _______.",
+    "answer": "Some marine fishes spend part of their life cycle upstream",
+    "why": [
+      "Dams can block the migratory paths of fish species that need to move between freshwater and saltwater to complete their life cycles.",
+      "This interruption prevents fish from reaching their spawning grounds upstream or feeding areas downstream.",
+      "The altered flow and water quality downstream of dams can also negatively impact fish habitats."
+    ],
+    "random_answer": ["Some marine fishes need the coral reefs upstream.", "Less rainfall will flow to the sea.", "When dams break, the concrete wall can be harmful to fishes."]
+  },
+  {
+    "question": "Planting variety of crops on a piece of land is more advisable than planting only one kind of crop because _______.",
+    "answer": "Vulnerability to plant pests is less",
+    "why": [
+      "Planting a variety of crops (polyculture) increases biodiversity in the agricultural system.",
+      "This diversity makes the ecosystem more resilient to pests and diseases.",
+      "It reduces the risk of a single pest wiping out an entire harvest, which is common in monoculture."
+    ],
+    "random_answer": ["Market risks are lessened.", "Use of land area is maximized.", "The soil is enriched."]
+  },
+  {
+    "question": "Watersheds are important in the nation's survival because _______.",
+    "answer": "They sustain water supply",
+    "why": [
+      "Watersheds collect and store rainwater, filtering it through soil and vegetation before it reaches rivers and groundwater.",
+      "They are critical for replenishing aquifers and maintaining a steady flow of water for human consumption, agriculture, and industry.",
+      "Healthy watersheds ensure a reliable and clean source of fresh water, essential for a nation's survival."
+    ],
+    "random_answer": ["Of its aesthetic value", "They increase land area", "They prevent soil erosion"]
+  },
+  {
+    "question": "Which of the following is a renewable source of energy?",
+    "answer": "Biogas",
+    "why": [
+      "Biogas is produced from the anaerobic decomposition of organic matter, such as agricultural waste, manure, and sewage.",
+      "Since it's generated from continually available organic materials, it is considered a renewable energy source.",
+      "Its production also helps manage waste and reduce greenhouse gas emissions."
+    ],
+    "random_answer": ["Kerosene", "Natural gas", "Gasoline"]
+  },
+  {
+    "question": "Sorting garbage is necessary to _______.",
+    "answer": "Enable recycling or reuse",
+    "why": [
+      "Sorting garbage separates different types of waste, making it easier to process materials like plastics, paper, and glass for recycling.",
+      "It allows for the recovery of valuable resources that would otherwise be discarded, promoting a circular economy.",
+      "Proper segregation improves the efficiency of waste management systems and reduces the volume of waste sent to landfills."
+    ],
+    "random_answer": ["Prepare garbage for special garbage treatment", "Separate things that do not decay or burn", "Reduce the volume of solid wastes"]
+  },
+  {
+    "question": "Monoculture cropping or planting a single crop in a large area is not advisable because it _______.",
+    "answer": "Promotes pest infestation",
+    "why": [
+      "Monoculture creates a uniform environment that allows pests specific to that single crop to multiply rapidly.",
+      "The lack of diverse plant species means there are no natural barriers or predators to control pest populations.",
+      "This often leads to a higher reliance on pesticides, which can harm the environment and human health."
+    ],
+    "random_answer": ["Causes drought", "Requires more water", "Lowers the water table"]
+  },
+  {
+    "question": "Coral reefs are of great importance because they _______.",
+    "answer": "Serve as haven for young growing fish and small aquatic animals",
+    "why": [
+      "Coral reefs provide complex three-dimensional structures that offer shelter, breeding grounds, and feeding areas for numerous marine species.",
+      "They act as nurseries for a wide variety of fish and invertebrates, supporting marine biodiversity.",
+      "This rich biodiversity is crucial for healthy ocean ecosystems and supports commercial fisheries."
+    ],
+    "random_answer": ["Take many years to grow", "Possess natural beauty", "Help in recycling ocean"]
+  },
+  {
+    "question": "The biggest threat to biodiversity, which is the variety and variability among living things, is the _______.",
+    "answer": "Destruction of wildlife habitats",
+    "why": [
+      "Habitat destruction, such as deforestation, urbanization, and wetland drainage, directly eliminates the living spaces and resources for species.",
+      "When habitats are destroyed, species lose their homes, food sources, and breeding grounds, leading to population decline and extinction.",
+      "It is considered the leading cause of biodiversity loss globally, impacting entire ecosystems."
+    ],
+    "random_answer": ["Over-hunting of endangered species", "Overexploitation of resources", "Rising incidence of pest infestation"]
+  },
+  {
+    "question": "An area that has been logged will have greater erosion problems if the _______.",
+    "answer": "Area is cultivated for cash crops",
+    "why": [
+      "Cultivating cash crops often involves extensive tilling and removal of natural vegetation, which exposes soil to erosion agents like wind and rain.",
+      "These practices can compact the soil, reduce its ability to absorb water, and lead to increased runoff and soil loss.",
+      "Unlike native forests, cash crops typically have shallower root systems and do not provide as much ground cover to prevent erosion."
+    ],
+    "random_answer": ["Area is planted with fruit trees", "Area is planted with grass", "Tree stumps are allowed to remain"]
+  },
+  {
+    "question": "A rainforest is a _______.",
+    "answer": "Forest in the tropics",
+    "why": [
+      "Rainforests are characterized by high rainfall and are predominantly found in tropical regions near the equator.",
+      "The warm, wet climate in the tropics supports an immense diversity of plant and animal life.",
+      "These forests play a critical role in global climate regulation and biodiversity."
+    ],
+    "random_answer": ["Forest in the uplands", "Forest on the mountain slopes", "Wooded area which has diverse species"]
+  },
+  {
+    "question": "Fishery resources in marine and coastal waters may be considered as “open access resources” because of the _______.",
+    "answer": "Mobile nature of fish and water",
+    "why": [
+      "The highly mobile nature of fish and the fluid nature of water bodies make it difficult to establish and enforce property rights over them.",
+      "Fish move across vast areas and jurisdictions, making it hard to regulate access and prevent overexploitation.",
+      "This characteristic means that anyone can potentially access and harvest these resources without clear ownership."
+    ],
+    "random_answer": ["Difficulty in marking sea boundaries", "Proliferation of fish pens", "Overfishing in municipal waters"]
+  },
+  {
+    "question": "The lasting environmental impact of a large-scale mining operation comes from _______.",
+    "answer": "Mine tailings",
+    "why": [
+      "Mine tailings are the waste materials left over after the valuable minerals have been extracted from ore.",
+      "These tailings often contain toxic heavy metals and chemicals that can leach into soil and water, causing long-term pollution.",
+      "Improperly managed tailings dams can also collapse, leading to catastrophic environmental disasters."
+    ],
+    "random_answer": ["Air pollution", "Noise pollution", "Deforestation"]
+  },
+  {
+    "question": "Chlorofluorocarbons (CFCs) are popular as propellants and insulting agents because they are _______.",
+    "answer": "Stable",
+    "why": [
+      "CFCs are highly <b>stable</> compounds, meaning they do not easily react with other chemicals in the lower atmosphere.",
+      "This stability allows them to persist for many years and eventually reach the stratosphere.",
+      "Their non-reactive nature made them ideal for various industrial applications before their ozone-depleting properties were discovered."
+    ],
+    "random_answer": ["Reactive", "Biodegradable", "Soluble"]
+  },
+  {
+    "question": "Throwing paper into the river is objectionable because _______.",
+    "answer": "Paper will add to the biological oxygen demand",
+    "why": [
+      "Organic materials like paper decompose in water, a process that consumes dissolved oxygen.",
+      "A high biological oxygen demand (BOD) means there's less oxygen available for aquatic life, harming fish and other organisms.",
+      "This depletion of oxygen can lead to eutrophication and dead zones in water bodies."
+    ],
+    "random_answer": ["Paper is non-biodegradable", "Paper is eaten by fish", "Paper is toxic"]
+  },
+  {
+    "question": "Which of the following is the major cause of coral reef destruction?",
+    "answer": "Dynamite fishing",
+    "why": [
+      "Dynamite fishing uses explosives to stun or kill fish, causing widespread and indiscriminate destruction to the fragile coral structures.",
+      "The blasts shatter corals, turning vibrant reefs into rubble and destroying the habitat for marine life.",
+      "This destructive fishing method has long-lasting negative impacts on coral reef ecosystems, making recovery difficult."
+    ],
+    "random_answer": ["Muro-ami", "Oil spill", "Sewage pollution"]
+  },
+  {
+    "question": "Which of the following statements BEST describe the relationship between global warming and ozone depletion?",
+    "answer": "Excessive build up of carbon dioxide causes both global warming and ozone depletion",
+    "why": [
+      "According to the source, this statement best describes the relationship between global warming and ozone depletion.",
+      "An excessive buildup of carbon dioxide is widely recognized as a primary cause of global warming.",
+      "The source indicates a causal link between carbon dioxide buildup and ozone depletion."
+    ],
+    "random_answer": ["Global warming and ozone depletion have nothing to do with each other", "Ozone depletion contributes to global warming", "Ozone depletion and global warming are synonymous"]
+  },
+  {
+    "question": "This heavy metal is emitted by gasoline-fueled vehicles and is a potentially poisonous substance that is particularly harmful to children. According to the World Health Organization (WHO), inhalation of this substance can severely affect a child's behavior and decrease intellectual development when among high levels of concentration in the blood and bone marrow. This metal is _______.",
+    "answer": "Lead",
+    "why": [
+      "Lead was historically used as an additive in gasoline (leaded gasoline) to improve engine performance.",
+      "When leaded gasoline burned, it released lead particles into the atmosphere, contaminating air, soil, and water.",
+      "Lead exposure, especially in children, is known to cause severe neurological and developmental problems."
+    ],
+    "random_answer": ["Cadmium", "Mercury", "Iron"]
+  },
+  {
+    "question": "The most dangerous effect of deforestation is _______.",
+    "answer": "Soil erosion",
+    "why": [
+      "Deforestation removes tree cover, which protects the soil from the direct impact of rain and wind.",
+      "Tree roots bind the soil, and their removal leads to loose soil that is easily washed away or blown off.",
+      "Soil erosion degrades land quality, reduces agricultural productivity, and can lead to desertification and sedimentation in waterways."
+    ],
+    "random_answer": ["Eutrophication", "Sedimentation", "Acidification"]
+  },
+  {
+    "question": "Which of the following pollution management program implemented by the DENR includes disclosure of industries polluting the environment?",
+    "answer": "Bantay Kalikasan",
+    "why": [
+      "Bantay Kalikasan is a program by the Department of Environment and Natural Resources (DENR) in the Philippines.",
+      "It aims to promote environmental protection and responsible resource management.",
+      "The program often involves public awareness and monitoring, including the disclosure of environmental performance by industries."
+    ],
+    "random_answer": ["Ecological Watch", "Bantay Dagat", "Bantay Ilog Program"]
+  },
+  {
+    "question": "Farmers migrate to the uplands primarily because of _______.",
+    "answer": "Insecurity of tenure in the lowland",
+    "why": [
+      "Insecurity of land tenure in lowland areas often pushes farmers to seek land in the uplands.",
+      "Farmers may lack secure rights to cultivate lowland farms, leading them to clear forest lands in search of new opportunities.",
+      "This socio-economic factor is a significant driver of upland migration and deforestation."
+    ],
+    "random_answer": ["Pollution in the urban areas", "The cooler climate", "The more fertile soils in the forest area"]
+  }
+]

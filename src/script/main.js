@@ -176,7 +176,7 @@ const footer_choices = `
 
 const path = window.location.pathname;
 const cleanedPath = path.replace(/^\/+|\/+$/g, ''); // removes leading/trailing slashes
-
+console.log(cleanedPath)
 
 switch (cleanedPath) {
     case "choices/let":

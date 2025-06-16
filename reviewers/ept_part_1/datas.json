@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Jack is ______ a model airplane.",
+    "answer": "building",
+    "why": [
+      "The verb 'is' requires a present participle (-ing form) to create the present continuous tense.",
+      "The present continuous tense indicates an ongoing action.",
+      "The sentence describes an action happening at the moment or around the present time."
+    ],
+    "random_answer": ["build", "builder", "built"]
+  },
+  {
+    "question": "We bought a ____ books.",
+    "answer": "few",
+    "why": [
+      "The noun 'books' is a countable noun.",
+      "The determiner 'a few' is correctly used with plural countable nouns.",
+      "'A few' indicates a small, but positive, quantity."
+    ],
+    "random_answer": ["little", "some", "lot"]
+  },
+  {
+    "question": "The lady _______ in this city since 1997.",
+    "answer": "has lived",
+    "why": [
+      "The phrase 'since 1997' indicates an action that began in the past and continues to the present.",
+      "The present perfect tense is used for actions that started in the past and are still ongoing.",
+      "'Has lived' correctly expresses this continuous duration from a past point."
+    ],
+    "random_answer": ["lives", "is living", "lived"]
+  },
+  {
+    "question": "_____ will you finish your work?",
+    "answer": "When",
+    "why": [
+      "The question seeks information about the time an action will be completed.",
+      "'When' is the appropriate interrogative adverb to ask about time.",
+      "It directly inquires about the timing of finishing the work."
+    ],
+    "random_answer": ["What", "Any time", "Why"]
+  },
+  {
+    "question": "I am interested _____ receiving free samples of your product.",
+    "answer": "in",
+    "why": [
+      "The phrasal verb 'interested in' is the correct and common idiom.",
+      "The preposition 'in' correctly follows the adjective 'interested'.",
+      "It expresses the object of one's interest."
+    ],
+    "random_answer": ["to", "on", "for"]
+  },
+  {
+    "question": "This lake is much ______ than the one near my house.",
+    "answer": "deeper",
+    "why": [
+      "The sentence uses 'than', which indicates a comparison between two items.",
+      "'Deeper' is the comparative form of the adjective 'deep'.",
+      "Comparative adjectives are used to show differences between two things."
+    ],
+    "random_answer": ["deep", "deeply", "more deeply"]
+  },
+  {
+    "question": "After you collect the money, you need to count ______ .",
+    "answer": "it",
+    "why": [
+      "'Money' is an uncountable noun and is grammatically treated as singular.",
+      "The pronoun 'it' is used to refer to a singular, non-human noun.",
+      "The pronoun 'it' correctly replaces 'the money' in this context."
+    ],
+    "random_answer": ["them", "itself", "they"]
+  },
+  {
+    "question": "The _______ office is on Main Street.",
+    "answer": "doctor’s",
+    "why": [
+      "The sentence requires a possessive form to indicate ownership or association.",
+      "The apostrophe 's' ('doctor’s') correctly shows singular possession.",
+      "This form indicates that the office belongs to the doctor."
+    ],
+    "random_answer": ["doctor", "doctor whose", "of the doctor"]
+  },
+  {
+    "question": "The meeting was ________ because no one has time to come.",
+    "answer": "cancelled",
+    "why": [
+      "The sentence is in the passive voice, requiring a past participle after 'was'.",
+      "'Cancelled' is the past participle form of the verb 'cancel'.",
+      "It indicates that the meeting was the recipient of the action of cancelling."
+    ],
+    "random_answer": ["cancellation", "cancel", "canceling"]
+  },
+  {
+    "question": "The party is on the _____ of January.",
+    "answer": "twenty-eighth",
+    "why": [
+      "When expressing dates, ordinal numbers are conventionally used.",
+      "'Twenty-eighth' is the correct ordinal form for the number 28.",
+      "Ordinal numbers specify a position in a sequence."
+    ],
+    "random_answer": ["two eight", "twenty-eight", "twentieth and eighth"]
+  },
+  {
+    "question": "Jane became an English teacher and I did _____ .",
+    "answer": "too",
+    "why": [
+      "'Too' is used at the end of a sentence to mean 'also' or 'in addition'.",
+      "It indicates agreement with a positive statement.",
+      "It implies that 'I also became an English teacher'."
+    ],
+    "random_answer": ["become", "well", "neither"]
+  },
+  {
+    "question": "You can’t have dessert ______ you eat your dinner.",
+    "answer": "unless",
+    "why": [
+      "'Unless' means 'if not' and introduces a condition.",
+      "It implies that dessert is forbidden if the dinner is not eaten.",
+      "It correctly states the necessary condition for having dessert."
+    ],
+    "random_answer": ["but", "therefore", "whether"]
+  },
+  {
+    "question": "Buy a loaf of _____ when you’re at the supermarket.",
+    "answer": "bread",
+    "why": [
+      "'A loaf of' is a standard unit of measurement or quantity for bread.",
+      "Bread is commonly packaged and sold in loaves.",
+      "This is a common collocation in English."
+    ],
+    "random_answer": ["books", "boxes", "butter"]
+  },
+  {
+    "question": "The manager ______ to send this fax before noon today.",
+    "answer": "would like",
+    "why": [
+      "'Would like' is a polite way to express a desire or intention.",
+      "It is a common polite expression for wanting to do something.",
+      "This phrase conveys the manager's preference or wish."
+    ],
+    "random_answer": ["liked", "is liking", "is being liked"]
+  },
+  {
+    "question": "You can either rent _____ buy this house.",
+    "answer": "or",
+    "why": [
+      "'Either... or' is a correlative conjunction pair used to present two choices.",
+      "It correctly links the two alternative actions of renting or buying.",
+      "This structure implies a selection between two options."
+    ],
+    "random_answer": ["and", "nor", "whether"]
+  },
+  {
+    "question": "_______ these dishes will take at least an hour.",
+    "answer": "Washing",
+    "why": [
+      "The sentence requires a gerund to function as the subject.",
+      "'Washing' is the gerund form of the verb 'wash', acting as a noun.",
+      "The action of washing is what will take at least an hour."
+    ],
+    "random_answer": ["I wash", "The wash", "Wash"]
+  },
+  {
+    "question": "You had _______ study for the exam.",
+    "answer": "better",
+    "why": [
+      "'Had better' is an idiomatic expression used to give strong advice or warning.",
+      "It suggests that studying for the exam is advisable or necessary.",
+      "The full phrase 'had better' conveys a recommendation with a sense of urgency."
+    ],
+    "random_answer": ["go", "supposed to", "ought"]
+  },
+  {
+    "question": "We felt that the recent reports were not particularly _________ .",
+    "answer": "informative",
+    "why": [
+      "The sentence requires an adjective to describe the quality of the reports.",
+      "'Informative' means providing useful or interesting information.",
+      "It appropriately modifies 'reports' after the linking verb 'were'."
+    ],
+    "random_answer": ["informs", "information", "inform"]
+  },
+  {
+    "question": "Please call the travel agent this afternoon to ______ your travel plans.",
+    "answer": "confirm",
+    "why": [
+      "The infinitive of purpose 'to confirm' is needed after 'to' to explain the reason for the call.",
+      "'Confirm' is the base form of the verb required in this construction.",
+      "The action of confirming the travel plans is the goal."
+    ],
+    "random_answer": ["confirmation", "confirmed", "confirming"]
+  },
+  {
+    "question": "Our team worked ______ hard that we finished the project two days before the deadline.",
+    "answer": "so",
+    "why": [
+      "'So... that' is a correlative conjunction structure used to express cause and effect.",
+      "'So' modifies the adverb 'hard', indicating the degree of their work.",
+      "It highlights the intensity of their effort leading to the early completion."
+    ],
+    "random_answer": ["too", "not", "such"]
+  }
+]

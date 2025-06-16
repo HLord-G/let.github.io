@@ -1,0 +1,96 @@
+{
+  "title": "English Grammar (Part I and Part II), English Vocabulary (Part III), English Reading Comprehension (Part IV)",
+  "what": "<b>This topic helps learners understand the rules of English grammar, build vocabulary, and improve reading comprehension.</b>",
+  "tutorial": "<b>Use HTML to display examples, highlight rules, and explain each concept with basic formatting tags like &lt;p&gt;, &lt;b&gt;, &lt;ol&gt;, &lt;ul&gt;, and &lt;table&gt;.</b>",
+  "steps": "<ol><li>Create an HTML page layout for grammar, vocabulary, and reading.</li><li>Use &lt;section&gt; and &lt;div&gt; to separate parts.</li><li>Display lessons using &lt;p&gt; and highlight key terms using &lt;b&gt;.</li><li>Use &lt;ul&gt; or &lt;ol&gt; to present lists of words or steps.</li></ol>",
+  "sections": [
+    {
+      "title": "English Grammar - Part I",
+      "what": "<b>This section introduces the basics of grammar: parts of speech and sentence types.</b>",
+      "tutorial": "<b>Use &lt;p&gt; tags to describe parts of speech and &lt;table&gt; to show examples.</b>",
+      "steps": "<ol><li>Create a paragraph for each part of speech.</li><li>Use &lt;table&gt; to compare noun, verb, adjective, adverb.</li><li>Give sample sentences using &lt;p&gt;.</li></ol>",
+      "sections": [
+        {
+          "title": "Parts of Speech",
+          "what": "<b>These are types of words like nouns, verbs, adjectives, and adverbs.</b>",
+          "tutorial": "<b>Display words in sentences using colored &lt;span&gt; to show what part of speech they are.</b>",
+          "steps": "<ol><li>Write a sentence like 'The cat runs fast.'</li><li>Wrap 'cat' in blue (noun), 'runs' in green (verb), 'fast' in red (adverb).</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Types of Sentences",
+          "what": "<b>Four types: declarative, interrogative, imperative, and exclamatory.</b>",
+          "tutorial": "<b>Use &lt;p&gt; to write an example of each sentence type.</b>",
+          "steps": "<ol><li>Write: 'I like pizza.' (declarative)</li><li>'Do you like pizza?' (interrogative)</li><li>'Eat the pizza!' (imperative)</li><li>'Wow, this pizza is great!' (exclamatory)</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "English Grammar - Part II",
+      "what": "<b>This part covers grammar rules like subject-verb agreement and tenses.</b>",
+      "tutorial": "<b>Use examples with &lt;p&gt; and highlight correct grammar usage using &lt;b&gt;.</b>",
+      "steps": "<ol><li>Write pairs of correct and incorrect sentences.</li><li>Explain why one is correct using &lt;p&gt; and &lt;ul&gt;.</li></ol>",
+      "sections": [
+        {
+          "title": "Subject-Verb Agreement",
+          "what": "<b>The verb must match the subject in number (singular/plural).</b>",
+          "tutorial": "<b>Write examples of correct and incorrect agreements in &lt;p&gt; tags.</b>",
+          "steps": "<ol><li>'He eats.' (Correct)</li><li>'He eat.' (Incorrect)</li><li>Explain rule.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Tenses",
+          "what": "<b>Verb tenses show time: past, present, and future.</b>",
+          "tutorial": "<b>Show same verb in different tenses using &lt;table&gt;.</b>",
+          "steps": "<ol><li>Use 'walk' as example.</li><li>Create table with: walk, walked, will walk.</li><li>Add sample sentences below each.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "English Vocabulary - Part III",
+      "what": "<b>This section helps expand word knowledge and proper word usage.</b>",
+      "tutorial": "<b>Use &lt;ul&gt; and &lt;dl&gt; to show definitions and word groups.</b>",
+      "steps": "<ol><li>List new words using &lt;ul&gt;.</li><li>Use &lt;dl&gt; for word and definition.</li><li>Use &lt;p&gt; to show each word in a sentence.</li></ol>",
+      "sections": [
+        {
+          "title": "Synonyms and Antonyms",
+          "what": "<b>Words with similar or opposite meanings help understand meaning and tone.</b>",
+          "tutorial": "<b>Use &lt;table&gt; to show synonyms and antonyms side by side.</b>",
+          "steps": "<ol><li>Create a table with 3 columns: Word, Synonym, Antonym.</li><li>Fill with examples like 'happy - joyful - sad'.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Word Families",
+          "what": "<b>Word families are groups like act, action, actor, active.</b>",
+          "tutorial": "<b>Group related words in a &lt;ul&gt; and explain root word in &lt;p&gt;.</b>",
+          "steps": "<ol><li>Start with root word: act.</li><li>Add: actor, acting, action.</li><li>Explain each.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "English Reading Comprehension - Part IV",
+      "what": "<b>This section teaches how to read and understand texts better.</b>",
+      "tutorial": "<b>Display a short passage in &lt;p&gt; and ask questions using &lt;ol&gt;.</b>",
+      "steps": "<ol><li>Write a short story or paragraph.</li><li>Ask 3–5 questions after it using &lt;ol&gt; and &lt;li&gt;.</li><li>Highlight answers below.</li></ol>",
+      "sections": [
+        {
+          "title": "Main Idea and Details",
+          "what": "<b>The main idea is the overall point; details support it.</b>",
+          "tutorial": "<b>Use &lt;strong&gt; to mark the main idea and &lt;ul&gt; for details.</b>",
+          "steps": "<ol><li>Show paragraph.</li><li>Highlight sentence as main idea.</li><li>List details under it.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Inference and Context Clues",
+          "what": "<b>Inference means guessing meaning based on clues; context helps define unknown words.</b>",
+          "tutorial": "<b>Use short passages in &lt;p&gt; and bold the word to infer. Give options in &lt;ul&gt;.</b>",
+          "steps": "<ol><li>Show sentence with unknown word.</li><li>Provide 3 meanings to choose from.</li><li>Explain why the correct one fits.</li></ol>",
+          "sections": []
+        }
+      ]
+    }
+  ]
+}

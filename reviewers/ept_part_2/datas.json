@@ -1,0 +1,272 @@
+[
+  {
+    "question": "The birthday celebrant surprised his guests with his remarkable speech.",
+    "answer": "celebrator",
+    "why": [
+      "The term 'celebrator' refers to the person who is celebrating.",
+      "It is the more appropriate and commonly used noun for someone celebrating a <b>birthday</b>.",
+      "This word accurately identifies the person performing the action of celebrating."
+    ],
+    "random_answer": ["celebration", "celebrate", "celebrated"]
+  },
+  {
+    "question": "The debator trained hard for the competition but he lost to a more experienced foe.",
+    "answer": "debater",
+    "why": [
+      "The correct spelling for a person who debates is 'debater'.",
+      "It accurately describes someone participating in a <b>debate</b>.",
+      "This noun specifically refers to an individual involved in a formal discussion."
+    ],
+    "random_answer": ["debate", "debating", "debators"]
+  },
+  {
+    "question": "She is now a matured person as evidenced by how she handles life’s pressure.",
+    "answer": "mature",
+    "why": [
+      "'Mature' is the correct adjective form to describe a grown-up or fully developed person.",
+      "The word 'matured' is typically used as a past participle verb (e.g., 'the cheese has matured').",
+      "This word accurately conveys that she has developed a sensible way of handling <b>pressure</b>."
+    ],
+    "random_answer": ["maturity", "maturing", "matures"]
+  },
+  {
+    "question": "The books might arrive next next week as promised by the teacher.",
+    "answer": "the week after next week",
+    "why": [
+      "The phrase 'next next week' is grammatically incorrect and redundant.",
+      "The correct way to express the week following 'next week' is 'the week after <b>next week</b>'.",
+      "This phrase precisely indicates the intended future time."
+    ],
+    "random_answer": ["next week next", "next week later", "the next week"]
+  },
+  {
+    "question": "The jewelries that her mother bought are all fake.",
+    "answer": "pieces of jewelry",
+    "why": [
+      "'Jewelry' is an uncountable noun, so it does not have a plural form 'jewelries'.",
+      "To refer to multiple items, one should use 'pieces of <b>jewelry</b>'.",
+      "This construction correctly reflects the singular nature of the collective noun 'jewelry'."
+    ],
+    "random_answer": ["jewellery", "jewels", "jewelrieses"]
+  },
+  {
+    "question": "Can I have the key of Room 103?",
+    "answer": "May , to",
+    "why": [
+      "'May' is used for asking permission, which is more formal and appropriate than 'Can' in this context.",
+      "The correct preposition to indicate possession or association with a room key is 'to' (e.g., key <b>to</b> the room).",
+      "Using 'May' and 'to' makes the request more polite and grammatically sound."
+    ],
+    "random_answer": ["Could, for", "Will, on", "Shall, in"]
+  },
+  {
+    "question": "The boy was sidesweeped by a speeding car.",
+    "answer": "sideswiped",
+    "why": [
+      "'Sideswiped' is the correct past participle form of the verb meaning to strike along the side.",
+      "The word 'sidesweeped' is not a recognized English <b>verb</b> form.",
+      "This term accurately describes a collision where one vehicle scrapes the side of another."
+    ],
+    "random_answer": ["sideswept", "sidesweeping", "sideswipe"]
+  },
+  {
+    "question": "What kind of perfume did you use this morning?",
+    "answer": "wear",
+    "why": [
+      "The verb 'wear' is typically used for items applied to the body, including perfume, cologne, and makeup.",
+      "One 'wears' <b>perfume</b>, rather than 'uses' it, in common English usage.",
+      "This choice reflects idiomatic usage for fragrances."
+    ],
+    "random_answer": ["apply", "put", "smell"]
+  },
+  {
+    "question": "She forgot her TIN number.",
+    "answer": "TIN",
+    "why": [
+      "TIN stands for Taxpayer Identification <b>Number</b>, making the addition of 'number' redundant.",
+      "Using 'TIN' alone is sufficient and grammatically correct.",
+      "This avoids unnecessary repetition in the phrase."
+    ],
+    "random_answer": ["Tax Number", "ID Number", "TIN No."]
+  },
+  {
+    "question": "Aren’t you going to use heavy make-up today?",
+    "answer": "wear",
+    "why": [
+      "Similar to perfume, one 'wears' makeup.",
+      "The verb 'wear' is the idiomatic choice for applying <b>cosmetics</b> to the face.",
+      "This usage is consistent with how clothing and accessories are described."
+    ],
+    "random_answer": ["apply", "put on", "have"]
+  },
+  {
+    "question": "Form a queue and claim your identification card one by one.",
+    "answer": "one at a time",
+    "why": [
+      "'One at a time' is the more common and idiomatic phrase meaning individually or sequentially.",
+      "While 'one by one' is also used, 'one at a time' is often preferred for emphasis on <b>sequence</b>.",
+      "This phrase clearly indicates that individuals should claim their cards separately and in order."
+    ],
+    "random_answer": ["one after one", "single by single", "individually"]
+  },
+  {
+    "question": "To settle the matter, let us go to votation.",
+    "answer": "take a vote",
+    "why": [
+      "'Votation' is not a standard English word for the act of voting to resolve a matter.",
+      "The correct and common idiom for deciding something by casting votes is 'take a <b>vote</b>'.",
+      "This phrase clearly expresses the action of formal decision-making through ballots."
+    ],
+    "random_answer": ["do a vote", "perform votation", "enter vote"]
+  },
+  {
+    "question": "After having passed the rigid training, he is now a full-pledged pilot.",
+    "answer": "full-fledged",
+    "why": [
+      "'Full-fledged' is the correct idiom meaning fully developed, established, or qualified.",
+      "The term 'full-pledged' is a common error and not standard <b>English</b>.",
+      "This adjective accurately describes someone who has completed their training and is fully competent."
+    ],
+    "random_answer": ["full-pledge", "fully-pledged", "pledged-full"]
+  },
+  {
+    "question": "The doctor’s advices came at an opportune time.",
+    "answer": "pieces of advice",
+    "why": [
+      "'Advice' is an uncountable noun in English, meaning it does not have a plural form 'advices'.",
+      "To quantify advice, the phrase 'pieces of <b>advice</b>' is used.",
+      "This construction correctly conveys multiple suggestions or recommendations."
+    ],
+    "random_answer": ["adviceses", "advice", "advise"]
+  },
+  {
+    "question": "I will bring you to the airport.",
+    "answer": "take",
+    "why": [
+      "When accompanying someone to a destination, the verb 'take' is generally used.",
+      "'Bring' implies movement towards the speaker, while 'take' implies movement away from the <b>speaker</b>.",
+      "This choice aligns with the direction of travel to the airport."
+    ],
+    "random_answer": ["send", "carry", "lead"]
+  },
+  {
+    "question": "I will sue you to court!",
+    "answer": "I will sue you!",
+    "why": [
+      "The phrase 'sue to court' is redundant because 'sue' inherently means to take legal action, often in court.",
+      "The verb 'sue' alone is sufficient to convey the <b>meaning</b>.",
+      "This correction makes the sentence more concise and grammatically sound."
+    ],
+    "random_answer": ["sue at court", "sue into court", "sue you at law"]
+  },
+  {
+    "question": "I prefer a glass of ice tea over milk.",
+    "answer": "iced",
+    "why": [
+      "The correct adjective to describe tea that has been chilled with ice is 'iced'.",
+      "'Ice tea' is a common informal error; 'iced tea' is the standard <b>term</b>.",
+      "This accurately describes the state or preparation of the beverage."
+    ],
+    "random_answer": ["icy", "ice-cold", "freezing"]
+  },
+  {
+    "question": "The can goods that she gave me have expired for a long time.",
+    "answer": "canned",
+    "why": [
+      "'Canned' is the correct adjective to describe goods preserved in a can.",
+      "'Can goods' is grammatically incorrect and not standard <b>English</b>.",
+      "This term accurately refers to items that have undergone the canning process."
+    ],
+    "random_answer": ["can", "tin", "canning"]
+  },
+  {
+    "question": "Attached herewith are pertinent documents for your perusal.",
+    "answer": "Attached are pertinent documents for your perusal.",
+    "why": [
+      "The word 'herewith' is often redundant when 'attached' is already used to indicate accompaniment.",
+      "Simply stating 'Attached are' is clear and <b>concise</b>.",
+      "This eliminates unnecessary words while retaining the full meaning."
+    ],
+    "random_answer": ["attached here", "attached with", "attached herein"]
+  },
+  {
+    "question": "That elementary student is quite brilliant.",
+    "answer": "pupil",
+    "why": [
+      "'Pupil' is often used to refer to a student, especially one in elementary school.",
+      "While 'student' is broadly correct, 'pupil' is a more specific and traditional term for younger <b>learners</b>.",
+      "This term emphasizes their role as a learner under direct instruction."
+    ],
+    "random_answer": ["scholar", "learner", "child"]
+  },
+  {
+    "question": "The scavenger was assassinated by an unidentified assailant.",
+    "answer": "killed",
+    "why": [
+      "'Assassinated' typically refers to the murder of a prominent public figure, often for political reasons.",
+      "'Killed' is a more general and appropriate term for the unlawful killing of any <b>individual</b>, including a scavenger.",
+      "This term accurately describes the act without implying specific status or motive."
+    ],
+    "random_answer": ["murdered", "slain", "executed"]
+  },
+  {
+    "question": "The concert will be held at the closed gymnasium.",
+    "answer": "The concert will be held at the gymnasium.",
+    "why": [
+      "Describing a gymnasium as 'closed' in this context is redundant unless it's usually open-air or specifies its status for the event.",
+      "A gymnasium is inherently an <b>enclosed</b> space.",
+      "Removing 'closed' makes the phrase more concise and natural."
+    ],
+    "random_answer": ["enclosed", "indoors", "shut"]
+  },
+  {
+    "question": "There are hundreds of terminologies that I don’t understand.",
+    "answer": "terminology",
+    "why": [
+      "'Terminology' is an uncountable noun, referring to a system of terms, and does not have a plural form 'terminologies'.",
+      "To refer to multiple terms, one would say 'terms' or 'items of <b>terminology</b>'.",
+      "Using 'terminology' as a collective singular is the correct grammatical choice."
+    ],
+    "random_answer": ["terms", "vocabularies", "concepts"]
+  },
+  {
+    "question": "Weaving is her past time.",
+    "answer": "pastime",
+    "why": [
+      "'Pastime' is the correct single word referring to an activity done for enjoyment in one's leisure time.",
+      "The two-word phrase 'past time' is grammatically incorrect in this <b>context</b>.",
+      "This noun accurately describes a hobby or leisure pursuit."
+    ],
+    "random_answer": ["past-time", "pass time", "time pass"]
+  },
+  {
+    "question": "Even before the wedding, he already congratulated the groom and the bride.",
+    "answer": "Even before the wedding, he already congratulated the groom and extended best wishes to the bride.",
+    "why": [
+      "It is traditional and grammatically appropriate to 'congratulate' the groom (for marrying) but to offer 'best wishes' to the <b>bride</b>.",
+      "This distinction reflects common etiquette regarding weddings.",
+      "The phrase 'extended best wishes' completes the polite expression for the bride."
+    ],
+    "random_answer": ["wished well to the bride", "greeted the bride", "said congratulations to the bride"]
+  },
+  {
+    "question": "Some vocabularies have evolved from foreign words.",
+    "answer": "vocabulary",
+    "why": [
+      "'Vocabulary' is an uncountable noun when referring to the entire stock of words used by a person, group, or in a <b>language</b>.",
+      "It does not take a plural form 'vocabularies' in this general sense.",
+      "This word correctly refers to the collection of words as a whole."
+    ],
+    "random_answer": ["wordings", "dictionaries", "lexicons"]
+  },
+  {
+    "question": "She has to cope up with her lessons to get a high grade in Math.",
+    "answer": "She has to cope with her lessons to get a high grade in Math.",
+    "why": [
+      "The correct idiomatic phrase is 'cope with', meaning to deal effectively with something difficult.",
+      "The addition of 'up' is superfluous and grammatically <b>incorrect</b>.",
+      "This makes the sentence more concise and precise."
+    ],
+    "random_answer": ["cope around with", "cope on with", "cope through"]
+  }
+]

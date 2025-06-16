@@ -1,0 +1,88 @@
+{
+  "title": "English Proficiency Reviewer: Identifying and Correcting Common Usage Errors",
+  "what": "<b>This topic covers the structure, rules, and nuances of language usage including grammar, vocabulary, redundancy elimination, common expressions, language register, and precise word usage.</b>",
+  "tutorial": "<b>HTML can't teach grammar directly, but you can use it to display lessons. For example, use &lt;p&gt; tags to show examples and &lt;b&gt; to highlight key terms.</b>",
+  "steps": "<ol><li>Create an HTML page.</li><li>Use &lt;p&gt; to add explanations and examples.</li><li>Use &lt;b&gt; to highlight grammar rules or words.</li><li>Group related concepts with &lt;div&gt; or &lt;section&gt;.</li></ol>",
+  "sections": [
+    {
+      "title": "Grammar and Syntax",
+      "what": "<b>Grammar defines the rules of sentence structure; syntax is how words are arranged to form sentences.</b>",
+      "tutorial": "<b>Use HTML to create simple sentences showing subject-verb-object structure using &lt;p&gt; and &lt;span&gt;.</b>",
+      "steps": "<ol><li>Write a sentence using &lt;p&gt;.</li><li>Mark subject with &lt;span&gt;.</li><li>Highlight verb using &lt;b&gt; or color.</li><li>Repeat with different structures (questions, commands).</li></ol>",
+      "sections": [
+        {
+          "title": "Parts of Speech",
+          "what": "<b>Nouns, verbs, adjectives, adverbs, etc. are the building blocks of grammar.</b>",
+          "tutorial": "<b>Display each part of speech in a sentence using color-coded &lt;span&gt; tags.</b>",
+          "steps": "<ol><li>Write a sentence like 'The quick brown fox jumps.'</li><li>Wrap 'fox' in &lt;span style='color:blue'&gt; for noun.</li><li>Wrap 'quick' in red for adjective, etc.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Sentence Structures",
+          "what": "<b>Simple, compound, complex, and compound-complex sentences show increasing levels of grammar.</b>",
+          "tutorial": "<b>Create examples of each sentence type using &lt;p&gt; tags and line breaks.</b>",
+          "steps": "<ol><li>Write 'I eat.' (Simple)</li><li>'I eat, and I sleep.' (Compound)</li><li>'Because I was tired, I slept.' (Complex)</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Vocabulary and Word Choice",
+      "what": "<b>Vocabulary is the collection of known words; word choice is selecting the best word for clarity and effect.</b>",
+      "tutorial": "<b>Use lists (&lt;ul&gt;) to compare synonyms and word appropriateness in context.</b>",
+      "steps": "<ol><li>Make a list of simple words: big, small, fast.</li><li>Add better choices: enormous, tiny, rapid.</li><li>Show sentences using them.</li></ol>",
+      "sections": [
+        {
+          "title": "Synonyms and Antonyms",
+          "what": "<b>Words with similar or opposite meanings help in choosing the best expression.</b>",
+          "tutorial": "<b>Create a table of words and their synonyms or antonyms using &lt;table&gt;.</b>",
+          "steps": "<ol><li>Create a &lt;table&gt; with 2 columns: Word and Synonym/Antonym.</li><li>Fill it with entries like 'happy - joyful'.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Contextual Meaning",
+          "what": "<b>Words change meaning based on context, e.g., 'run a business' vs. 'run fast.'</b>",
+          "tutorial": "<b>Use &lt;p&gt; to show one word in different sentence examples.</b>",
+          "steps": "<ol><li>Write: 'She runs every morning.'</li><li>Write: 'He runs a restaurant.'</li><li>Highlight how 'run' changes meaning.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Redundancy and Conciseness (Pleonasm)",
+      "what": "<b>Redundancy means using more words than needed. Conciseness is saying things clearly with fewer words.</b>",
+      "tutorial": "<b>Use &lt;p&gt; to show redundant phrases and their concise versions side by side.</b>",
+      "steps": "<ol><li>Write: 'He made a free gift.'</li><li>Then: 'He gave a gift.'</li><li>Explain 'gift' is already free.</li></ol>",
+      "sections": [
+        {
+          "title": "Common Redundant Phrases",
+          "what": "<b>Phrases like 'each and every', 'absolutely essential' are common pleonasms.</b>",
+          "tutorial": "<b>Make a list of pleonasm examples using &lt;ul&gt; and show corrected forms.</b>",
+          "steps": "<ol><li>Create &lt;ul&gt; with phrases like 'unexpected surprise.'</li><li>Add corrected: 'surprise.'</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Idiomatic Expressions and Common Phrasing",
+      "what": "<b>Idioms are phrases with meanings different from the literal words. Common phrasing helps native-like fluency.</b>",
+      "tutorial": "<b>Use &lt;dl&gt; (definition list) to show idiom and its meaning.</b>",
+      "steps": "<ol><li>Write: 'Break the ice.'</li><li>Add: 'To start a conversation.'</li><li>Show use in sentence.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Formal vs. Informal Register",
+      "what": "<b>Formal language is used in professional or serious settings. Informal is casual and friendly.</b>",
+      "tutorial": "<b>Create a table with examples of formal and informal expressions.</b>",
+      "steps": "<ol><li>Create &lt;table&gt; with 2 columns: Formal and Informal.</li><li>Fill rows: 'request - ask', 'purchase - buy'.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Technical and Specific Terminology",
+      "what": "<b>Technical terms are precise words used in specific fields like law, science, or IT.</b>",
+      "tutorial": "<b>Use &lt;p&gt; and &lt;strong&gt; to show a term and its explanation.</b>",
+      "steps": "<ol><li>Write: 'CPU stands for Central Processing Unit.'</li><li>Explain its function briefly.</li></ol>",
+      "sections": []
+    }
+  ]
+}

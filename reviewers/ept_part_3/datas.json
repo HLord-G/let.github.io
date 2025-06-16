@@ -1,0 +1,437 @@
+[
+  {
+    "question": "Juan___________ in the library this morning.",
+    "answer": "is studying",
+    "why": [
+      "The subject 'Juan' is singular, requiring a singular verb form.",
+      "The present continuous tense 'is studying' correctly describes an action happening at the moment or around 'this morning'."
+    ],
+    "random_answer": ["is study", "studying", "are studying"]
+  },
+  {
+    "question": "Alicia, __________ the windows please. It's too hot in here.",
+    "answer": "open",
+    "why": [
+      "This is an imperative sentence, which uses the base form of the verb to give a command or request."
+    ],
+    "random_answer": ["opens", "opened", "will opened"]
+  },
+  {
+    "question": "The movie was __________ the book.",
+    "answer": "as good as",
+    "why": [
+      "The phrase 'as good as' is used for comparisons of equality between two items."
+    ],
+    "random_answer": ["as", "as good", "good as"]
+  },
+  {
+    "question": "Eli's hobbies include jogging, swimming, and __________.",
+    "answer": "climbing mountains",
+    "why": [
+      "For parallelism in a list of activities, all items should be in the same grammatical form.",
+      "Since 'jogging' and 'swimming' are gerunds, 'climbing mountains' maintains this consistency."
+    ],
+    "random_answer": ["to climb mountains", "climb mountains", "to climb"]
+  },
+  {
+    "question": "Mr. Hawkins requests that someone _________ the data by fax immediately.",
+    "answer": "send",
+    "why": [
+      "The verb 'request' followed by 'that' often triggers the subjunctive mood.",
+      "In the subjunctive mood, the base form of the verb is used regardless of the subject."
+    ],
+    "random_answer": ["sent", "sends", "to send"]
+  },
+  {
+    "question": "Who is ____________ , Marina or Sachiko?",
+    "answer": "taller",
+    "why": [
+      "The comparative form 'taller' is used when comparing two individuals or items."
+    ],
+    "random_answer": ["tallest", "tall", "the tallest"]
+  },
+  {
+    "question": "The concert will begin ________ fifteen minutes.",
+    "answer": "in",
+    "why": [
+      "The preposition 'in' is used to indicate a future point in time when an action will begin or be completed."
+    ],
+    "random_answer": ["on", "with", "about"]
+  },
+  {
+    "question": "I have only a ________ Christmas cards left to write.",
+    "answer": "few",
+    "why": [
+      "'Christmas cards' are countable nouns.",
+      "'A few' is used with countable nouns to indicate a small, but positive, quantity."
+    ],
+    "random_answer": ["fewer", "less", "little"]
+  },
+  {
+    "question": "Each of the Olympic athletes ____________ for months, even years.",
+    "answer": "has been training",
+    "why": [
+      "The subject 'Each' is singular, requiring a singular verb form 'has'.",
+      "The present perfect continuous tense 'has been training' indicates an action that started in the past and continues up to the present."
+    ],
+    "random_answer": ["have been training", "were training", "been training"]
+  },
+  {
+    "question": "Maria __________ never late for work.",
+    "answer": "is",
+    "why": [
+      "'Maria' is a singular third-person subject.",
+      "The singular form of the verb 'to be' in the present tense is 'is'."
+    ],
+    "random_answer": ["am", "are", "were"]
+  },
+  {
+    "question": "The company will upgrade _________ computer information systems next month.",
+    "answer": "its",
+    "why": [
+      "'Its' is the possessive pronoun for a singular inanimate subject like 'the company'."
+    ],
+    "random_answer": ["there", "their", "it's"]
+  },
+  {
+    "question": "Cheryl likes apples, _________ she does not like oranges.",
+    "answer": "but",
+    "why": [
+      "'But' is a conjunction used to connect contrasting ideas."
+    ],
+    "random_answer": ["so", "for", "or"]
+  },
+  {
+    "question": "You were ____________ the New York office before 2 p.m.",
+    "answer": "supposed to call",
+    "why": [
+      "The correct idiomatic expression is 'be supposed to' followed by the base form of the verb."
+    ],
+    "random_answer": ["suppose call", "supposed calling", "supposed call"]
+  },
+  {
+    "question": "When I graduate from college next June, I _____________ a student here for five years.",
+    "answer": "will have been",
+    "why": [
+      "The future perfect tense 'will have been' is used to describe an action that will be completed by a specific time in the future."
+    ],
+    "random_answer": ["have been", "has been", "will have"]
+  },
+  {
+    "question": "Ms. Guth _________ rather not invest that money in the stock market.",
+    "answer": "would",
+    "why": [
+      "The phrase 'would rather' is used to express preference."
+    ],
+    "random_answer": ["has to", "could", "must"]
+  },
+  {
+    "question": "Identify the error in the sentence: The majority to the news is about violence or scandal.",
+    "answer": "to",
+    "why": [
+      "The correct preposition to use with 'majority' when referring to a part of a whole is 'of', not 'to'."
+    ],
+    "random_answer": ["The", "news", "violence"]
+  },
+  {
+    "question": "Identify the error in the sentence: Takeshi swimmed one hundred laps in the pool yesterday.",
+    "answer": "swimmed",
+    "why": [
+      "The past tense of the irregular verb 'swim' is 'swam', not 'swimmed'."
+    ],
+    "random_answer": ["hundred", "in", "yesterday"]
+  },
+  {
+    "question": "Identify the error in the sentence: When our vacation, we plan to spend three days scuba diving.",
+    "answer": "When",
+    "why": [
+      "'When' is a conjunction and introduces a clause, but a preposition like 'During' or 'On' is needed here before 'our vacation'."
+    ],
+    "random_answer": ["plan", "days", "diving"]
+  },
+  {
+    "question": "Identify the error in the sentence: Mr. Feinauer does not take critical of his work very well.",
+    "answer": "critical",
+    "why": [
+      "'Critical' is an adjective, but the sentence requires a noun to complete the phrase 'take ______ of his work'.",
+      "The correct noun form is 'criticism'."
+    ],
+    "random_answer": ["does", "his", "well"]
+  },
+  {
+    "question": "Identify the error in the sentence: Yvette and Rinaldo send e-mail messages to other often.",
+    "answer": "other",
+    "why": [
+      "When referring to two people interacting with each other, the correct reciprocal pronoun phrase is 'each other', not simply 'other'."
+    ],
+    "random_answer": ["and", "send", "often"]
+  },
+  {
+    "question": "Identify the error in the sentence: Mr. Olsen is telephoning a American Red Cross for help.",
+    "answer": "a",
+    "why": [
+      "The word 'American' begins with a vowel sound.",
+      "Therefore, the indefinite article 'an' should be used instead of 'a'."
+    ],
+    "random_answer": ["is", "Red", "for"]
+  },
+  {
+    "question": "Identify the error in the sentence: I had a enjoyable time at the party last night.",
+    "answer": "a",
+    "why": [
+      "The word 'enjoyable' begins with a vowel sound.",
+      "Therefore, the indefinite article 'an' should be used instead of 'a'."
+    ],
+    "random_answer": ["time", "at", "last"]
+  },
+  {
+    "question": "Identify the error in the sentence: The doctor him visited the patient's parents.",
+    "answer": "him",
+    "why": [
+      "'Him' is an object pronoun and cannot function as the subject of the verb 'visited'.",
+      "If 'The doctor' is the subject, 'him' is redundant and grammatically incorrect."
+    ],
+    "random_answer": ["The", "visited", "patient's"]
+  },
+  {
+    "question": "Identify the error in the sentence: Petra intends to starting her own software business in a few years.",
+    "answer": "starting",
+    "why": [
+      "The verb 'intend' is typically followed by an infinitive verb form.",
+      "The correct construction is 'to start', not 'to starting'."
+    ],
+    "random_answer": ["intends", "software", "few"]
+  },
+  {
+    "question": "Identify the error in the sentence: Each day after school, Jerome run five miles.",
+    "answer": "run",
+    "why": [
+      "'Jerome' is a singular third-person subject.",
+      "In the present tense, a singular third-person subject requires the verb to end in '-s', making 'runs' the correct form."
+    ],
+    "random_answer": ["Each", "after", "miles"]
+  },
+  {
+    "question": "Identify the error in the sentence: He goes never to the company softball games.",
+    "answer": "never",
+    "why": [
+      "Adverbs of frequency like 'never' typically come before the main verb in a sentence.",
+      "The correct placement would be 'He never goes'."
+    ],
+    "random_answer": ["the", "softball", "games"]
+  },
+  {
+    "question": "Identify the error in the sentence: Do you know the student who books were stolen?",
+    "answer": "who",
+    "why": [
+      "To indicate possession in a relative clause, the relative pronoun 'whose' should be used.",
+      "'Who' is used for the subject of a clause."
+    ],
+    "random_answer": ["Do", "know", "were"]
+  },
+  {
+    "question": "Identify the error in the sentence: Jean-Pierre will spend his vacation either in Singapore nor the Bahamas.",
+    "answer": "nor",
+    "why": [
+      "The correlative conjunction 'either' must always be paired with 'or', not 'nor'."
+    ],
+    "random_answer": ["will", "his", "Bahamas"]
+  },
+  {
+    "question": "Identify the error in the sentence: I told the salesman that I was not interesting in buying the latest model.",
+    "answer": "interesting",
+    "why": [
+      "To describe a personal feeling or state, the past participle 'interested' (ending in -ed) is used.",
+      "'Interesting' (ending in -ing) describes something that causes interest."
+    ],
+    "random_answer": ["told", "that", "buying"]
+  },
+  {
+    "question": "Identify the error in the sentence: Frederick used work for a multinational corporation when he lived in Malaysia.",
+    "answer": "used work",
+    "why": [
+      "The correct past habit idiom is 'used to work', which requires the infinitive 'to' before the base verb 'work'."
+    ],
+    "random_answer": ["multinational", "when", "lived in"]
+  },
+  {
+    "question": "The rate of ___________ has been fluctuating wildly this week.",
+    "answer": "exchange",
+    "why": [
+      "'Rate of <b>exchange</> refers to the value of one currency in relation to another.",
+      "This term is commonly associated with fluctuations in value."
+    ],
+    "random_answer": ["money", "bills", "coins"]
+  },
+  {
+    "question": "The bus ___________ arrives late during bad weather.",
+    "answer": "always",
+    "why": [
+      "'Always' is an adverb of frequency that indicates a consistent pattern.",
+      "It fits the context of a recurring event like bus delays in bad weather."
+    ],
+    "random_answer": ["every week", "later", "yesterday"]
+  },
+  {
+    "question": "Do you ____________ where the nearest grocery store is?",
+    "answer": "know",
+    "why": [
+      "'Know' means to possess information or understanding.",
+      "It is the appropriate verb when asking for directions or information."
+    ],
+    "random_answer": ["no", "now", "not"]
+  },
+  {
+    "question": "Jerry Seinfeld, the popular American comedian, has his audiences __________.",
+    "answer": "rolling in the aisles",
+    "why": [
+      "'Rolling in the aisles' is an idiom meaning to laugh uncontrollably.",
+      "This phrase accurately describes the effect a successful comedian has on their audience."
+    ],
+    "random_answer": ["putting too many irons in the fire", "keeping their noses out of someone's business", "going to bat for someone"]
+  },
+  {
+    "question": "The chairperson will ____________ members to the subcommittee.",
+    "answer": "appoint",
+    "why": [
+      "'Appoint' means to officially assign a position or task to someone.",
+      "This is what a chairperson does when selecting members for a subcommittee."
+    ],
+    "random_answer": ["disappoint", "appointment", "disappointed"]
+  },
+  {
+    "question": "The critics had to admit that the ballet ______________ was superb.",
+    "answer": "performance",
+    "why": [
+      "'Performance' refers to the act of presenting a play, concert, or ballet.",
+      "It is the correct term to describe a show that can be judged as superb."
+    ],
+    "random_answer": ["procrastinate", "pathology", "psychosomatic"]
+  },
+  {
+    "question": "Peter says he can't ___________ our invitation to dinner tonight.",
+    "answer": "accept",
+    "why": [
+      "'Accept' means to receive or agree to something.",
+      "It is the appropriate verb for responding to an invitation."
+    ],
+    "random_answer": ["angel", "across", "almost"]
+  },
+  {
+    "question": "We were __________ friends in that strange but magical country.",
+    "answer": "among",
+    "why": [
+      "'Among' is used to describe a position or relationship within a group or a larger context.",
+      "It fits the idea of being friends within the population of a country."
+    ],
+    "random_answer": ["upon", "toward", "in addition to"]
+  },
+  {
+    "question": "The hurricane caused ____________ damage to the city.",
+    "answer": "extensive",
+    "why": [
+      "'Extensive' is an adjective meaning large in amount or scale.",
+      "It accurately describes significant or widespread damage caused by a hurricane."
+    ],
+    "random_answer": ["extend", "extended", "extension"]
+  },
+  {
+    "question": "Many cultures have special ceremonies to celebrate a person's _________ of passage into adulthood.",
+    "answer": "rite",
+    "why": [
+      "'Rite' refers to a formal ceremony or solemn observance.",
+      "The phrase 'rite of passage' is a common idiom for ceremonies marking transitions."
+    ],
+    "random_answer": ["right", "writ", "write"]
+  },
+  {
+    "question": "What is Erik's address?",
+    "answer": "33 Maple Drive",
+    "why": [
+      "The instructions explicitly state, 'At the next set of traffic lights, turn right onto Maple Drive. Erik's house is the third house on your left. It's number 33, and it's white with green trim.'",
+      "This identifies the house number and street name."
+    ],
+    "random_answer": ["Interstate 25", "2 Elm Street", "13 Erika Street"]
+  },
+  {
+    "question": "Which is closest to Erik's house?",
+    "answer": "the traffic lights",
+    "why": [
+      "The directions indicate that after the traffic lights, one turns onto Maple Drive, and Erik's house is shortly thereafter.",
+      "This places the traffic lights as the immediate landmark before arriving at his street."
+    ],
+    "random_answer": ["the shopping center", "exit 7S", "a greenhouse"]
+  },
+  {
+    "question": "The main focus of the presentation will be ______________.",
+    "answer": "monthly sales figures",
+    "why": [
+      "The memo explicitly states, 'Please be prepared to give your presentation on the monthly sales figures'.",
+      "While other related topics are mentioned, sales figures are the primary subject."
+    ],
+    "random_answer": ["monthly expenditures", "monthly salary figures", "staff meeting presentations"]
+  },
+  {
+    "question": "Who will give the presentation?",
+    "answer": "Megan Fallerman",
+    "why": [
+      "The memo is addressed 'To: Megan Fallerman' and asks her to 'be prepared to give your presentation'.",
+      "This clearly identifies her as the presenter."
+    ],
+    "random_answer": ["the company president", "Steven Roberts", "future customers"]
+  },
+  {
+    "question": "Which of the following counties is not included in the tour?",
+    "answer": "Cornwall",
+    "why": [
+      "The passage lists 'Devon, Dorset, Hampshire, and Essex' as the counties included in the tour.",
+      "Cornwall is not mentioned in this list."
+    ],
+    "random_answer": ["Devon", "Essex", "Hampshire"]
+  },
+  {
+    "question": "How many people can go on this tour?",
+    "answer": "a limited number",
+    "why": [
+      "The text states, 'Enrollment is limited, so please call soon'.",
+      "While no specific number is given, it explicitly indicates that the capacity is not unlimited."
+    ],
+    "random_answer": ["10", "an unlimited number", "2-8"]
+  },
+  {
+    "question": "What can we infer about this area of southern England?",
+    "answer": "The region has lots of vegetation.",
+    "why": [
+      "The passage describes the area as 'the lush countryside of southern England'.",
+      "The word 'lush' implies rich and abundant vegetation."
+    ],
+    "random_answer": ["The coast often has harsh weather.", "The sun is hot and the air is dry.", "The land is flat."]
+  },
+  {
+    "question": "What is the purpose of this announcement?",
+    "answer": "to recognize Ms. Szewcyzk's accomplishments",
+    "why": [
+      "The passage details Anna Szewcyzk's career progression and highlights her winning the 1998 Broadcasting Award.",
+      "The overall tone and content serve to celebrate her achievements in journalism and broadcasting."
+    ],
+    "random_answer": ["to invite people to the National Convention of Broadcast Journalism", "to encourage college students to study broadcasting", "to advertise a job opening at the Hollsville County Times"]
+  },
+  {
+    "question": "The expression 'to become synonymous with' means",
+    "answer": "to be the same as.",
+    "why": [
+      "'Synonymous' means having the same or a very similar meaning.",
+      "In this context, it implies a strong association or equivalence between her name and 'Good Day, America!'."
+    ],
+    "random_answer": ["to be the opposite of.", "to be in sympathy with.", "to be discharged from."]
+  },
+  {
+    "question": "What was Ms. Szewczyk's first job in journalism?",
+    "answer": "She was an editor for a newspaper in Missouri.",
+    "why": [
+      "The text explicitly states, 'She got her start in journalism as an editor at the Hollsville County Times in Missouri'.",
+      "This sentence directly identifies her initial role and location."
+    ],
+    "random_answer": ["She was a T.V. announcer in Washington.", "She was a newscaster in Oregon.", "She was a talk show host in Chicago."]
+  }
+]

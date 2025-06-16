@@ -1,0 +1,96 @@
+{
+    "title": "Grammar, Vocabulary and Usage",
+    "what": "<b>This topic covers the rules of English grammar, meanings of words (vocabulary), and how words are used in real sentences (usage).</b>",
+    "tutorial": "<b>Start by learning parts of speech (like nouns, verbs), sentence structure, and common vocabulary words. Practice using them in simple sentences.</b>",
+    "steps": "<ol><li>Learn about parts of speech (noun, verb, etc.).</li><li>Study sentence structure (subject + verb + object).</li><li>Memorize common vocabulary words and their meanings.</li><li>Practice writing simple sentences using these words.</li><li>Check how words are used in real-life situations (usage).</li></ol>",
+    "sections": [
+      {
+        "title": "Grammar",
+        "what": "<b>Grammar is the set of rules that tell how words fit together to make sentences.</b>",
+        "tutorial": "<b>Start with parts of speech and sentence structure. Then learn verb tenses, subject-verb agreement, and punctuation.</b>",
+        "steps": "<ol><li>Understand the 8 parts of speech.</li><li>Practice basic sentence structure (SVO).</li><li>Study verb tenses (past, present, future).</li><li>Learn how subjects and verbs must agree.</li><li>Use punctuation marks correctly.</li></ol>",
+        "sections": [
+          {
+            "title": "Parts of Speech",
+            "what": "<b>Words are grouped into types like noun, verb, adjective, etc. Each type has its own job in a sentence.</b>",
+            "tutorial": "<b>Learn what each part of speech does and see examples.</b>",
+            "steps": "<ol><li>Noun: Names a person, place, or thing.</li><li>Verb: Shows action or state.</li><li>Adjective: Describes a noun.</li><li>Adverb: Describes a verb or adjective.</li><li>Pronoun: Replaces a noun.</li><li>Preposition: Shows location/time (e.g., in, on, at).</li><li>Conjunction: Connects words or groups (e.g., and, but).</li><li>Interjection: Shows emotion (e.g., wow!).</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Sentence Structure",
+            "what": "<b>This is how you organize words into a correct sentence.</b>",
+            "tutorial": "<b>Use Subject + Verb + Object format to build simple sentences.</b>",
+            "steps": "<ol><li>Pick a subject (e.g., 'The dog').</li><li>Add a verb (e.g., 'eats').</li><li>Finish with an object (e.g., 'bones').</li><li>Combine them: 'The dog eats bones.'</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Verb Tenses",
+            "what": "<b>Verb tenses show when something happens: past, present, or future.</b>",
+            "tutorial": "<b>Use 'walked' for past, 'walk' for present, 'will walk' for future.</b>",
+            "steps": "<ol><li>Present: I walk.</li><li>Past: I walked.</li><li>Future: I will walk.</li><li>Practice writing 3 sentences using these tenses.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Subject-Verb Agreement",
+            "what": "<b>The subject and verb must match in number (singular/plural).</b>",
+            "tutorial": "<b>If the subject is singular, the verb ends in -s. If plural, no -s.</b>",
+            "steps": "<ol><li>She walks. (singular)</li><li>They walk. (plural)</li><li>Match verbs correctly to subjects.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Punctuation",
+            "what": "<b>Punctuation marks help organize sentences and show meaning.</b>",
+            "tutorial": "<b>Use periods, commas, question marks, and exclamation points properly.</b>",
+            "steps": "<ol><li>Use a period to end a sentence.</li><li>Use a comma for a pause or list.</li><li>Use a question mark for questions.</li><li>Use an exclamation mark for strong emotion.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Vocabulary",
+        "what": "<b>Vocabulary is the set of words you know and understand.</b>",
+        "tutorial": "<b>Start learning new words with meanings and use them in daily conversation.</b>",
+        "steps": "<ol><li>Learn 5 new words each day.</li><li>Write each word with its meaning.</li><li>Use each word in a sentence.</li><li>Say the sentence aloud.</li><li>Review old words weekly.</li></ol>",
+        "sections": [
+          {
+            "title": "Synonyms and Antonyms",
+            "what": "<b>Synonyms are words with similar meanings. Antonyms are words with opposite meanings.</b>",
+            "tutorial": "<b>Learn common word pairs and practice using them.</b>",
+            "steps": "<ol><li>Big - Large (synonym)</li><li>Big - Small (antonym)</li><li>Write your own pairs.</li><li>Use both in sentences.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Context Clues",
+            "what": "<b>Context clues are hints in a sentence that help you guess the meaning of a new word.</b>",
+            "tutorial": "<b>Use the surrounding words to understand the new word.</b>",
+            "steps": "<ol><li>Read the sentence fully.</li><li>Look for words that explain the unknown word.</li><li>Guess the meaning.</li><li>Check with a dictionary.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Usage",
+        "what": "<b>Usage is about using the right word in the right way in real sentences.</b>",
+        "tutorial": "<b>Learn common errors and how to fix them. Practice writing clear sentences.</b>",
+        "steps": "<ol><li>Learn the difference between commonly confused words.</li><li>Practice correct word choice.</li><li>Check your writing for errors.</li><li>Fix unclear or awkward sentences.</li></ol>",
+        "sections": [
+          {
+            "title": "Commonly Confused Words",
+            "what": "<b>These are words that look or sound similar but have different meanings.</b>",
+            "tutorial": "<b>Learn pairs like 'your/you're', 'its/it's', and practice using them correctly.</b>",
+            "steps": "<ol><li>Your = possession (e.g., your book)</li><li>You're = you are</li><li>Its = belongs to it</li><li>It's = it is</li><li>Write sentences using both.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Idiomatic Expressions",
+            "what": "<b>Idioms are phrases that have a meaning different from the words used.</b>",
+            "tutorial": "<b>Learn common English idioms and what they really mean.</b>",
+            "steps": "<ol><li>Pick 5 common idioms (e.g., 'break the ice').</li><li>Learn what each means.</li><li>Use them in simple sentences.</li><li>Say them out loud.</li></ol>",
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+  

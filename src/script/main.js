@@ -182,6 +182,8 @@ console.log("Final Path:", finalPath);
 switch (finalPath) {
     case "/choices/let":
     case "/choices/cse":
+    case "/choices/ept":
+
         choicesFunc();
         break;
 

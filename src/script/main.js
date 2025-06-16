@@ -172,21 +172,16 @@ const footer_choices = `
 
 
 
+const path = window.location.pathname; // Ex: /repo-name/choices/let/
+const match = path.match(/(\/choices\/[^\/]*)/); // Match starts with /choices/... until next /
 
+const finalPath = match ? match[1] : null;
 
-const path = window.location.pathname;
-const cleanedPath = path.replace(/^\/+|\/+$/g, ''); // removes leading/trailing slashes
+console.log("Final Path:", finalPath);
 
-// Remove first segment (e.g. the repo name in GitHub Pages)
-const pathParts = cleanedPath.split('/');
-pathParts.shift(); // remove the first folder
-const trimmedPath = pathParts.join('/');
-
-console.log("Final Path:", trimmedPath);
-
-switch (trimmedPath) {
-    case "choices/let":
-    case "choices/cse":
+switch (finalPath) {
+    case "/choices/let":
+    case "/choices/cse":
         choicesFunc();
         break;
 
@@ -201,6 +196,7 @@ switch (trimmedPath) {
         break;
 }
 
+ 
 function  choicesFunc(params) {
     if (!$('header.navbar').length) {
         $('body').prepend(header_choices);

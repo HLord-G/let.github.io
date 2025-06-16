@@ -1,0 +1,204 @@
+$(document).ready(function() {
+
+    // Your JSON data
+    const jsonData = {
+      "title": "BASIC OPERATIONS",
+      "what": "<b>Basic operations</b> in mathematics are the fundamental processes that we use to combine numbers. These are the building blocks for all other mathematical concepts. The four basic operations are addition, subtraction, multiplication, and division.",
+      "tutorial": "<p>This tutorial will cover the four basic mathematical operations. We will explore what each operation does and see simple examples.</p>",
+      "steps": "<ol><li><b>Addition (+):</b> Combining values.</li><li><b>Subtraction (-):</b> Finding the difference between values.</li><li><b>Multiplication (x or *):</b> Repeated addition.</li><li><b>Division (÷ or /):</b> Splitting into equal parts.</li><li><b>Order of Operations:</b> The sequence to solve problems with multiple operations.</li></ol>",
+      "sections": [
+        {
+          "title": "Addition",
+          "what": "<b>Addition</b> is the process of putting things together or combining quantities. When you add two or more numbers, you are finding their total, or <i>sum</i>.",
+          "tutorial": "<p>Let's add 5 and 3. Imagine you have 5 apples, and someone gives you 3 more apples. To find the total number of apples, you add 5 and 3.</p><p>5 + 3 = 8</p><p>So, you have 8 apples in total.</p>",
+          "steps": "<ol><li>Start with the first number.</li><li>Count on the second number from the first.</li><li>The number you land on is the sum.</li></ol><p><i>Example: For 2 + 3</i></p><ol><li>Start at 2.</li><li>Count three more numbers: 3, 4, 5.</li><li>The answer is 5.</li></ol>",
+          "sections": [
+            {
+              "title": "Properties of Addition",
+              "what": "Properties of addition are rules that addition follows. Understanding these properties can make solving problems easier.",
+              "tutorial": "<p>Let's look at the basic properties of addition that always hold true.</p>",
+              "steps": "<ol><li>Learn the Commutative Property.</li><li>Learn the Associative Property.</li><li>Learn the Identity Property.</li></ol>",
+              "sections": [
+                {
+                  "title": "Commutative Property",
+                  "what": "The <b>Commutative Property of Addition</b> states that changing the order of the numbers you are adding does not change the sum.",
+                  "tutorial": "<p>If you add 4 + 2, you get 6. If you add 2 + 4, you also get 6.</p><p><i>a + b = b + a</i></p><p>4 + 2 = 2 + 4 = 6</p>",
+                  "steps": "<ol><li>Take any two numbers.</li><li>Add them in jejich original order.</li><li>Now, swap the order of the numbers and add them again.</li><li>Observe that the sum is the same in both cases.</li></ol>",
+                  "sections": []
+                },
+                {
+                  "title": "Associative Property",
+                  "what": "The <b>Associative Property of Addition</b> states that when you add three or more numbers, the way you group them does not change the sum.",
+                  "tutorial": "<p>If you are adding (2 + 3) + 4, you first add 2 and 3 to get 5, and then add 4 to get 9.</p><p>If you group them as 2 + (3 + 4), you first add 3 and 4 to get 7, and then add 2 to get 9.</p><p><i>(a + b) + c = a + (b + c)</i></p><p>(2 + 3) + 4 = 2 + (3 + 4) = 9</p>",
+                  "steps": "<ol><li>Take any three numbers.</li><li>Add the first two numbers, and then add the third number to the result.</li><li>Now, add the second and third numbers, and then add the first number to that result.</li><li>Notice that the final sum is the same.</li></ol>",
+                  "sections": []
+                },
+                {
+                  "title": "Identity Property",
+                  "what": "The <b>Identity Property of Addition</b> (or Additive Identity) states that the sum of any number and zero is that same number. Zero is called the additive identity.",
+                  "tutorial": "<p>If you add 7 + 0, the answer is 7.</p><p><i>a + 0 = a</i></p><p>7 + 0 = 7</p>",
+                  "steps": "<ol><li>Take any number.</li><li>Add zero to it.</li><li>The result will be the original number.</li></ol>",
+                  "sections": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subtraction",
+          "what": "<b>Subtraction</b> is the process of taking away an amount from another. It is the opposite of addition. The result of subtraction is called the <i>difference</i>.",
+          "tutorial": "<p>Let's subtract 3 from 8. Imagine you have 8 cookies and you eat 3 of them. To find out how many cookies are left, you subtract 3 from 8.</p><p>8 - 3 = 5</p><p>So, you have 5 cookies left.</p>",
+          "steps": "<ol><li>Start with the first number.</li><li>Count backward the second number of times.</li><li>The number you land on is the difference.</li></ol><p><i>Example: For 5 - 2</i></p><ol><li>Start at 5.</li><li>Count back two numbers: 4, 3.</li><li>The answer is 3.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Multiplication",
+          "what": "<b>Multiplication</b> is essentially repeated addition. It's a faster way to add the same number multiple times. The numbers being multiplied are called <i>factors</i>, and the result is the <i>product</i>.",
+          "tutorial": "<p>Let's multiply 4 by 3. This is the same as adding 4 to itself 3 times.</p><p>4 x 3 = 4 + 4 + 4 = 12</p><p>So, the product is 12.</p>",
+          "steps": "<ol><li>Identify the two numbers (factors) you want to multiply.</li><li>Take the first number and add it to itself the number of times indicated by the second number.</li><li>The final sum is the product.</li></ol><p><i>Example: For 5 x 4</i></p><ol><li>This means you need to add 5 to itself 4 times.</li><li>5 + 5 + 5 + 5 = 20.</li><li>The answer is 20.</li></ol>",
+          "sections": [
+            {
+              "title": "Properties of Multiplication",
+              "what": "Properties of multiplication are rules that multiplication follows, similar to addition.",
+              "tutorial": "<p>Let's explore the fundamental properties of multiplication.</p>",
+              "steps": "<ol><li>Learn the Commutative Property.</li><li>Learn the Associative Property.</li><li>Learn the Distributive Property.</li><li>Learn the Identity Property.</li><li>Learn the Zero Property.</li></ol>",
+              "sections": [
+                {
+                  "title": "Commutative Property",
+                  "what": "The <b>Commutative Property of Multiplication</b> states that changing the order of the factors does not change the product.",
+                  "tutorial": "<p>If you multiply 5 x 2, you get 10. If you multiply 2 x 5, you also get 10.</p><p><i>a x b = b x a</i></p><p>5 x 2 = 2 x 5 = 10</p>",
+                  "steps": "<ol><li>Take any two numbers.</li><li>Multiply them in their original order.</li><li>Now, swap the order of the numbers and multiply them again.</li><li>Observe that the product is the same in both cases.</li></ol>",
+                  "sections": []
+                },
+                {
+                  "title": "Associative Property",
+                  "what": "The <b>Associative Property of Multiplication</b> states that when you multiply three or more numbers, the way you group them does not change the product.",
+                  "tutorial": "<p>If you are multiplying (2 x 3) x 4, you first multiply 2 and 3 to get 6, and then multiply by 4 to get 24.</p><p>If you group them as 2 x (3 x 4), you first multiply 3 and 4 to get 12, and then multiply by 2 to get 24.</p><p><i>(a x b) x c = a x (b x c)</i></p><p>(2 x 3) x 4 = 2 x (3 x 4) = 24</p>",
+                  "steps": "<ol><li>Take any three numbers.</li><li>Multiply the first two numbers, and then multiply the result by the third number.</li><li>Now, multiply the second and third numbers, and then multiply the first number by that result.</li><li>Notice that the final product is the same.</li></ol>",
+                  "sections": []
+                },
+                {
+                  "title": "Distributive Property",
+                  "what": "The <b>Distributive Property</b> involves both multiplication and addition. It states that multiplying a number by a sum is the same as multiplying the number by each addend and then adding the products.",
+                  "tutorial": "<p>Let's calculate 3 x (2 + 4). According to the distributive property, this is the same as (3 x 2) + (3 x 4).</p><p>3 x (6) = 6 + 12</p><p>18 = 18</p><p><i>a x (b + c) = (a x b) + (a x c)</i></p>",
+                  "steps": "<ol><li>You have a number multiplied by a sum in parentheses.</li><li>Multiply the number outside the parentheses by the first number inside.</li><li>Multiply the number outside by the second number inside.</li><li>Add the results of these two multiplications.</li></ol>",
+                  "sections": []
+                },
+                {
+                  "title": "Identity Property",
+                  "what": "The <b>Identity Property of Multiplication</b> (or Multiplicative Identity) states that the product of any number and one is that same number. One is called the multiplicative identity.",
+                  "tutorial": "<p>If you multiply 9 x 1, the answer is 9.</p><p><i>a x 1 = a</i></p><p>9 x 1 = 9</p>",
+                  "steps": "<ol><li>Take any number.</li><li>Multiply it by one.</li><li>The result will be the original number.</li></ol>",
+                  "sections": []
+                },
+                {
+                  "title": "Zero Property",
+                  "what": "The <b>Zero Property of Multiplication</b> states that the product of any number and zero is zero.",
+                  "tutorial": "<p>If you multiply 6 x 0, the answer is 0.</p><p><i>a x 0 = 0</i></p><p>6 x 0 = 0</p>",
+                  "steps": "<ol><li>Take any number.</li><li>Multiply it by zero.</li><li>The result will always be zero.</li></ol>",
+                  "sections": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Division",
+          "what": "<b>Division</b> is the process of splitting a number into equal parts or groups. It is the inverse operation of multiplication. In a division problem, the number being divided is the <i>dividend</i>, the number by which it is divided is the <i>divisor</i>, and the result is the <i>quotient</i>.",
+          "tutorial": "<p>Let's divide 12 by 3. This means we want to find out how many groups of 3 we can make from 12.</p><p>12 ÷ 3 = 4</p><p>This is because you can make 4 groups of 3 from 12 (3 + 3 + 3 + 3 = 12).</p>",
+          "steps": "<ol><li>Take the dividend and the divisor.</li><li>Determine how many times the divisor can go into the dividend.</li><li>This number is the quotient.</li></ol><p><i>Example: For 10 ÷ 2</i></p><ol><li>How many times does 2 go into 10?</li><li>2 + 2 + 2 + 2 + 2 = 10. There are five 2s.</li><li>The answer is 5.</li></ol>",
+          "sections": [
+            {
+              "title": "Division with Remainder",
+              "what": "Sometimes, a number cannot be divided perfectly. The leftover number is called the <b>remainder</b>.",
+              "tutorial": "<p>Let's divide 13 by 4. You can make 3 groups of 4 from 13, but there will be 1 left over.</p><p>4 + 4 + 4 = 12. You have 1 left to get to 13.</p><p>So, 13 ÷ 4 = 3 with a remainder of 1.</p>",
+              "steps": "<ol><li>Divide the dividend by the divisor to the nearest whole number that does not exceed the dividend.</li><li>Multiply the quotient by the divisor.</li><li>Subtract this result from the dividend. The result is the remainder.</li></ol><p><i>Example: For 14 ÷ 3</i></p><ol><li>3 goes into 14 four times (3 x 4 = 12).</li><li>Subtract 12 from 14, which gives 2.</li><li>The answer is 4 with a remainder of 2.</li></ol>",
+              "sections": []
+            }
+          ]
+        },
+        {
+          "title": "Order of Operations",
+          "what": "The <b>Order of Operations</b> is a set of rules that dictates the order in which to solve a mathematical expression with multiple operations. A common acronym to remember the order is <b>PEMDAS</b> or <b>BODMAS</b>.",
+          "tutorial": "<h3>PEMDAS</h3><ul><li><b>P</b>arentheses</li><li><b>E</b>xponents</li><li><b>M</b>ultiplication and <b>D</b>ivision (from left to right)</li><li><b>A</b>ddition and <b>S</b>ubtraction (from left to right)</li></ul><p>Let's solve: 5 + (2 x 3) - 1</p><ol><li><b>Parentheses:</b> 2 x 3 = 6. The expression becomes 5 + 6 - 1.</li><li><b>Exponents:</b> None.</li><li><b>Multiplication/Division:</b> Done.</li><li><b>Addition/Subtraction (left to right):</b> 5 + 6 = 11. Then 11 - 1 = 10.</li></ol><p>The answer is 10.</p>",
+          "steps": "<ol><li>First, solve any calculations inside <b>Parentheses</b> or brackets.</li><li>Next, solve any <b>Exponents</b> (powers and square roots).</li><li>Then, perform all <b>Multiplication and Division</b> from left to right.</li><li>Finally, perform all <b>Addition and Subtraction</b> from left to right.</li></ol>",
+          "sections": []
+        }
+      ]
+    };
+
+    /**
+     * Decodes HTML entities.
+     * It's safer to let the browser do this by assigning the encoded string
+     * to an element's innerHTML and then getting its text content.
+     * @param {string} text - The HTML string to decode.
+     * @returns {string} - The decoded HTML string.
+     */
+    function decodeHtml(text) {
+        // Using jQuery's .html() method is a concise way to do this.
+        return $('<textarea />').html(text).text();
+    }
+
+    /**
+     * Recursively builds and renders HTML content for a given data object.
+     * This function will call itself for any nested sections.
+     * @param {object} data - The data object for the current section.
+     * @param {jQuery} $container - The jQuery object to append the content to.
+     * @param {boolean} isNested - Flag to indicate if it's a nested call for different styling.
+     */
+    function renderContent(data, $container, isNested = false) {
+        // Main content card
+        const cardHtml = `
+            <div class="card bg-base-200 shadow-lg mb-8 p-6 md:p-8 rounded-box">
+                <h2 class="text-3xl font-bold text-primary mb-4">${data.title}</h2>
+                <div class="text-base-content text-md mb-4 leading-relaxed">${data.what}</div>
+                
+                <div class="divider text-base-content/50 my-4"></div>
+
+                <div class="text-base-content text-md mb-4 leading-relaxed">${decodeHtml(data.tutorial)}</div>
+                
+                ${data.steps ? `<div class="text-base-content text-md space-y-3 pl-4">${decodeHtml(data.steps)}</div>` : ''}
+            </div>
+        `;
+        $container.append(cardHtml);
+        
+        // Check for and render nested sections recursively
+        if (data.sections && data.sections.length > 0) {
+            const $nestedContainer = $('<div class="nested-section pl-4 md:pl-8 border-l-4 border-primary/20"></div>');
+            $container.append($nestedContainer);
+
+            data.sections.forEach(section => {
+                // The magic of recursion: call the same function for the subsection
+                renderContent(section, $nestedContainer, true);
+            });
+        }
+    }
+
+    /**
+     * Initializes the page, rendering the main title and introduction.
+     * @param {object} data - The main JSON data object.
+     */
+    function initializePage(data) {
+        const $mainContainer = $('#content-container');
+        $mainContainer.empty(); // Clear previous content
+
+        // Render the main page title and introduction
+        const headerHtml = `
+            <h1 class="text-4xl lg:text-5xl font-extrabold text-primary mb-6 text-center">${data.title}</h1>
+            <p class="text-base-content text-lg mb-4 leading-relaxed">${data.what}</p>
+            <div class="divider text-base-content/50 my-8"></div>
+        `;
+        $mainContainer.append(headerHtml);
+
+        // Start the rendering process for the top-level sections
+        if (data.sections && data.sections.length > 0) {
+            data.sections.forEach(section => {
+                renderContent(section, $mainContainer);
+            });
+        }
+    }
+
+    // Start the application
+    initializePage(jsonData);
+
+});

@@ -176,14 +176,18 @@ const footer_choices = `
 
 const path = window.location.pathname;
 const cleanedPath = path.replace(/^\/+|\/+$/g, ''); // removes leading/trailing slashes
-console.log(cleanedPath)
 
-switch (cleanedPath) {
+// Remove first segment (e.g. the repo name in GitHub Pages)
+const pathParts = cleanedPath.split('/');
+pathParts.shift(); // remove the first folder
+const trimmedPath = pathParts.join('/');
+
+console.log("Final Path:", trimmedPath);
+
+switch (trimmedPath) {
     case "choices/let":
-        choicesFunc()
-        break;
     case "choices/cse":
-        choicesFunc()
+        choicesFunc();
         break;
 
     default:
@@ -196,7 +200,7 @@ switch (cleanedPath) {
         }
         break;
 }
- 
+
 function  choicesFunc(params) {
     if (!$('header.navbar').length) {
         $('body').prepend(header_choices);

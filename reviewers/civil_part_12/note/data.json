@@ -1,0 +1,88 @@
+{
+    "title": "Paragraph Organization",
+    "what": "<b>Paragraph Organization</b> refers to how sentences are arranged to form a clear, logical, and meaningful paragraph. It helps readers understand the message easily.",
+    "tutorial": "<b>Example Tutorial:</b><br><p><b>Topic Sentence:</b> Dogs are great pets.<br><b>Supporting Sentences:</b> They are loyal. They protect their owners. They are fun to play with.<br><b>Concluding Sentence:</b> That is why many people love keeping dogs.</p>",
+    "steps": "<ol><li>Start with a topic sentence that tells the main idea.</li><li>Add supporting sentences with facts or examples.</li><li>End with a concluding sentence that wraps up the idea.</li></ol>",
+    "sections": [
+      {
+        "title": "Types of Paragraphs",
+        "what": "<b>Types of Paragraphs</b> show different ways a paragraph can be used like to describe, narrate, explain, or convince.",
+        "tutorial": "<b>Example:</b><br><p><b>Descriptive:</b> The sunset painted the sky with orange and pink.<br><b>Narrative:</b> I woke up late and rushed to school.<br><b>Expository:</b> Photosynthesis is how plants make food.<br><b>Persuasive:</b> We should recycle more to save the planet.</p>",
+        "steps": "<ol><li>Choose a purpose (describe, narrate, explain, or persuade).</li><li>Write a topic sentence based on the purpose.</li><li>Add supporting sentences related to your purpose.</li><li>Close with a strong concluding sentence.</li></ol>",
+        "sections": [
+          {
+            "title": "Descriptive Paragraph",
+            "what": "<b>Descriptive Paragraph</b> paints a picture using words to describe a person, place, or thing.",
+            "tutorial": "<p>The flowers in the garden were bright and colorful, filling the air with a sweet scent.</p>",
+            "steps": "<ol><li>Pick what to describe (place, object, person).</li><li>Use sensory words (see, hear, smell, touch, taste).</li><li>Add details to create a strong image.</li><li>End with a summary of the description.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Narrative Paragraph",
+            "what": "<b>Narrative Paragraph</b> tells a story or event in order.",
+            "tutorial": "<p>Yesterday, I lost my keys. I searched everywhere until I found them under the couch.</p>",
+            "steps": "<ol><li>Think of a story or event.</li><li>Write the topic sentence to introduce the story.</li><li>Tell the events in order.</li><li>End with what happened in the end.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Expository Paragraph",
+            "what": "<b>Expository Paragraph</b> explains facts, ideas, or steps clearly.",
+            "tutorial": "<p>To make a sandwich, first get bread. Then add meat and veggies. Finally, put the slices together.</p>",
+            "steps": "<ol><li>Choose a topic to explain.</li><li>Write a clear topic sentence.</li><li>Give details or steps in order.</li><li>End with a short summary.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Persuasive Paragraph",
+            "what": "<b>Persuasive Paragraph</b> tries to convince the reader to agree with an opinion.",
+            "tutorial": "<p>School should start later. Students will get more sleep and focus better in class.</p>",
+            "steps": "<ol><li>Pick a strong opinion.</li><li>Start with a topic sentence showing your opinion.</li><li>Give reasons and examples.</li><li>End by repeating your opinion strongly.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Parts of a Paragraph",
+        "what": "<b>Parts of a Paragraph</b> are the building blocks that make a paragraph clear and complete.",
+        "tutorial": "<p><b>Topic Sentence:</b> Reading is fun.<br><b>Supporting Sentences:</b> It helps us learn new words. It makes our imagination grow.<br><b>Concluding Sentence:</b> That's why I love to read.</p>",
+        "steps": "<ol><li>Begin with the main idea in the topic sentence.</li><li>Write 2-3 supporting sentences with examples.</li><li>End with a concluding sentence.</li></ol>",
+        "sections": [
+          {
+            "title": "Topic Sentence",
+            "what": "<b>Topic Sentence</b> shows the main idea of the paragraph.",
+            "tutorial": "<p>Exercise keeps our body healthy.</p>",
+            "steps": "<ol><li>Choose one clear main idea.</li><li>Write it in a short and clear sentence.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Supporting Sentences",
+            "what": "<b>Supporting Sentences</b> give details, examples, or facts to support the topic sentence.",
+            "tutorial": "<p>It makes our heart strong. It helps us stay active. It also reduces stress.</p>",
+            "steps": "<ol><li>Think of 2-3 ideas that support the topic.</li><li>Write one idea per sentence.</li><li>Keep the sentences connected to the topic.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Concluding Sentence",
+            "what": "<b>Concluding Sentence</b> ends the paragraph by repeating the idea or giving a summary.",
+            "tutorial": "<p>That’s why exercise is important for everyone.</p>",
+            "steps": "<ol><li>Restate the main idea.</li><li>Use a sentence that gives closure to the paragraph.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Paragraph Transitions",
+        "what": "<b>Paragraph Transitions</b> are words or phrases used to connect ideas smoothly between sentences or paragraphs.",
+        "tutorial": "<p><b>Examples:</b> First, Next, In addition, However, Finally</p>",
+        "steps": "<ol><li>Choose a transition that fits your idea flow.</li><li>Use it at the start of a new sentence or paragraph.</li><li>Make sure it helps the paragraph sound connected.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Unity and Coherence",
+        "what": "<b>Unity and Coherence</b> make sure all parts of the paragraph talk about one idea and flow smoothly.",
+        "tutorial": "<p><b>Unity:</b> All sentences talk about one topic.<br><b>Coherence:</b> Sentences are connected with proper order and transitions.</p>",
+        "steps": "<ol><li>Stick to one main idea.</li><li>Use logical order for your sentences.</li><li>Add transitions to connect ideas.</li><li>Read again to check if everything makes sense together.</li></ol>",
+        "sections": []
+      }
+    ]
+  }
+  

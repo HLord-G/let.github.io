@@ -1,186 +1,140 @@
- 
 {
-  "title": "NUMBER RELATED",
-  "what": "Numbers are fundamental mathematical objects used for counting, measuring, and labeling. They are represented by symbols called numerals (e.g., '5' for the number five). The study of numbers and their operations is known as arithmetic and number theory. This topic covers various types of numbers, how they are represented, and the basic operations performed with them.",
-  "tutorial": "<h3>Introduction to Numbers</h3><p>Numbers are all around us! From counting your fingers and toes to telling time, numbers are essential. In mathematics, numbers help us quantify things and solve problems.</p><p>Think about how you use numbers in your daily life. When you buy something, you use numbers to know the price. When you cook, you use numbers for measurements. Understanding numbers is the first step to understanding more complex math.</p>",
-  "sections": [
-    {
-      "title": "What are Numbers?",
-      "what": "This section defines what a number is in a mathematical context, differentiating it from a numeral, and explains its basic purpose.",
-      "tutorial": "<h3>Understanding What a Number Is</h3><p>A <b>number</b> is an abstract concept used for counting, measuring, and labeling. A <b>numeral</b> is the symbol or name that represents a number. For example, the number 'two' can be represented by the numeral '2' or the word 'two'.</p><p>Imagine you have two apples. The quantity of apples is the <i>number</i> two. The symbol '2' is the <i>numeral</i> that represents that quantity.</p>",
-      "steps": "<ol><li><b>Think of a quantity:</b> Imagine you have three friends.</li><li><b>Identify the number:</b> The quantity of friends is 'three'.</li><li><b>Identify the numeral:</b> The symbol '3' is the numeral for that quantity.</li><li><b>Understand the difference:</b> The number is the idea of 'threeness', and the numeral '3' is how we write it down.</li></ol>",
-      "sections": []
-    },
-    {
-      "title": "Types of Numbers",
-      "what": "This section introduces different classifications of numbers, from the most basic to more complex sets, explaining their properties and how they relate to each other.",
-      "tutorial": "<h3>Exploring Different Types of Numbers</h3><p>Numbers aren't all the same! We group them into different types based on their characteristics. This helps us understand their behavior in various mathematical operations.</p><p>For example, some numbers are only positive, while others include negative values. Some can be written as fractions, and some cannot.</p>",
-      "steps": "<ol><li><b>Start with Counting:</b> Think about how you count things. These are 'Natural Numbers'.</li><li><b>Add Zero:</b> What happens if you have nothing? That's zero, and it extends our set to 'Whole Numbers'.</li><li><b>Include Negatives:</b> What about temperatures below zero? Those are negative numbers, which expand our set to 'Integers'.</li><li><b>Consider Parts of a Whole:</b> How do you represent half an apple? Fractions and decimals introduce 'Rational Numbers'.</li><li><b>Discover the 'Unrepresentable':</b> Some numbers, like Pi, can't be written as simple fractions. These are 'Irrational Numbers'.</li><li><b>Combine them all:</b> All these together make up 'Real Numbers'.</li></ol>",
-      "sections": [
-        {
-          "title": "Natural Numbers",
-          "what": "Natural numbers are the counting numbers: 1, 2, 3, and so on. They are positive integers used for counting and ordering.",
-          "tutorial": "<h3>Learning About Natural Numbers</h3><p><b>Natural Numbers</b> are the numbers you use when you first learn to count: 1, 2, 3, 4, 5, and so on. They are sometimes called 'counting numbers'. They do not include zero or negative numbers.</p><p>If you have a basket of apples, you'd count them starting from 1.</p>",
-          "steps": "<ol><li><b>Imagine counting:</b> Picture counting items one by one.</li><li><b>Start from one:</b> The first item is 1, the second is 2, and so on.</li><li><b>Understand the set:</b> The set of natural numbers is {1, 2, 3, 4, ...}.</li><li><b>Remember no zero or negatives:</b> These numbers are always positive and greater than zero.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Whole Numbers",
-          "what": "Whole numbers include all natural numbers plus zero. They are 0, 1, 2, 3, and so on.",
-          "tutorial": "<h3>Understanding Whole Numbers</h3><p><b>Whole Numbers</b> are just like natural numbers, but they also include zero. So, the set of whole numbers is 0, 1, 2, 3, 4, and so on.</p><p>If you start with an empty basket (0 apples) and then add apples, you are dealing with whole numbers.</p>",
-          "steps": "<ol><li><b>Start with natural numbers:</b> Recall that natural numbers are 1, 2, 3, ...</li><li><b>Add zero:</b> Now, consider the concept of 'nothing' or 'empty', which is represented by 0.</li><li><b>Combine them:</b> The set of whole numbers is {0, 1, 2, 3, ...}.</li><li><b>Remember no negatives:</b> Whole numbers do not include negative values.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Integers",
-          "what": "Integers include all whole numbers and their negative counterparts. They are ..., -3, -2, -1, 0, 1, 2, 3, ...",
-          "tutorial": "<h3>Working with Integers</h3><p><b>Integers</b> are whole numbers, but they also include negative numbers. So, integers can be positive (1, 2, 3...), negative (-1, -2, -3...), or zero (0).</p><p>Think about temperature: 5 degrees above zero (5) and 5 degrees below zero (-5) are both integers.</p>",
-          "steps": "<ol><li><b>Start with whole numbers:</b> You have 0, 1, 2, 3, ...</li><li><b>Introduce negatives:</b> For every positive number, there's a corresponding negative number (e.g., -1 for 1, -2 for 2).</li><li><b>Combine all:</b> The set of integers is {..., -3, -2, -1, 0, 1, 2, 3, ...}.</li><li><b>Recognize no fractions or decimals:</b> Integers are always 'whole' numbers, without any fractional or decimal parts.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Rational Numbers",
-          "what": "Rational numbers are any number that can be expressed as a fraction p/q, where p and q are integers and q is not zero. This includes all integers, as well as fractions and terminating or repeating decimals.",
-          "tutorial": "<h3>Understanding Rational Numbers</h3><p><b>Rational Numbers</b> are numbers that can be written as a simple fraction (a ratio). This means they can be expressed as p/q, where p and q are integers, and q is not zero. All integers are rational numbers (e.g., 5 can be written as 5/1). Decimals that terminate (like 0.5) or repeat (like 0.333...) are also rational.</p><p>If you cut a pizza into 8 slices, and you eat 3, you've eaten 3/8 of the pizza. This is a rational number.</p>",
-          "steps": "<ol><li><b>Think of fractions:</b> Any number that can be written as a fraction is rational.</li><li><b>Numerator and denominator rules:</b> The top number (numerator) and bottom number (denominator) must be integers, and the bottom number cannot be zero.</li><li><b>Examples of rational numbers:</b><ul><li>1/2</li><li>-3/4</li><li>5 (because it can be written as 5/1)</li><li>0.25 (because it's 1/4)</li><li>0.333... (because it's 1/3)</li></ul></li><li><b>Identify non-examples:</b> Numbers that cannot be written as a simple fraction are not rational.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Irrational Numbers",
-          "what": "Irrational numbers are real numbers that cannot be expressed as a simple fraction. Their decimal representations are non-terminating and non-repeating.",
-          "tutorial": "<h3>Exploring Irrational Numbers</h3><p><b>Irrational Numbers</b> are numbers that cannot be written as a simple fraction. When written as decimals, they go on forever without repeating a pattern. A famous example is Pi ($&#92;&#x3C0;$), which starts 3.14159... and continues infinitely without repetition. Another common irrational number is the square root of 2 ($&#92;&#x221A;2$).</p><p>Imagine trying to draw a perfect circle. The ratio of its circumference to its diameter is always Pi, an irrational number.</p>",
-          "steps": "<ol><li><b>Understand the opposite of rational:</b> If a number can't be a simple fraction (p/q), it's likely irrational.</li><li><b>Look for non-repeating, non-terminating decimals:</b> If a decimal goes on forever without a repeating pattern, it's irrational.</li><li><b>Common examples:</b><ul><li>$&#92;&#x3C0;$ (Pi)</li><li>$&#92;&#x221A;2$ (Square root of 2)</li><li>$&#92;&#x221A;3$ (Square root of 3)</li></ul></li><li><b>Recognize their unique nature:</b> These numbers represent exact values that cannot be precisely written as a finite decimal or simple fraction.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Real Numbers",
-          "what": "Real numbers encompass all rational and irrational numbers. They can be represented as points on an infinitely long number line.",
-          "tutorial": "<h3>Understanding Real Numbers</h3><p><b>Real Numbers</b> include all rational numbers and all irrational numbers. Basically, any number you can think of that can be plotted on a number line is a real number. This includes positive, negative, zero, fractions, decimals, and numbers like Pi or square roots.</p><p>Think of a giant, never-ending line. Every single point on that line represents a real number.</p>",
-          "steps": "<ol><li><b>Combine rational and irrational:</b> If a number is either rational or irrational, it's a real number.</li><li><b>Visualize the number line:</b> Imagine a continuous line stretching infinitely in both positive and negative directions.</li><li><b>Every point is a real number:</b> Any spot you can point to on that line represents a real number.</li><li><b>Almost all numbers you commonly use are real:</b> This set covers the vast majority of numbers encountered in everyday life and basic mathematics.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Prime and Composite Numbers",
-          "what": "Prime numbers are natural numbers greater than 1 that have only two distinct positive divisors: 1 and itself. Composite numbers are natural numbers greater than 1 that have more than two distinct positive divisors.",
-          "tutorial": "<h3>Discovering Prime and Composite Numbers</h3><p>When we talk about natural numbers, we can further classify them based on how many factors (divisors) they have.</p><p>A <b>Prime Number</b> is a whole number greater than 1 that has exactly two factors: 1 and itself. Examples: 2, 3, 5, 7, 11.</p><p>A <b>Composite Number</b> is a whole number greater than 1 that has more than two factors. Examples: 4 (factors: 1, 2, 4), 6 (factors: 1, 2, 3, 6), 9 (factors: 1, 3, 9).</p><p>The number 1 is neither prime nor composite.</p>",
-          "steps": "<ol><li><b>Start with a natural number greater than 1:</b> Let's pick 7.</li><li><b>Find its factors:</b> What numbers divide evenly into 7? Only 1 and 7.</li><li><b>Determine if prime or composite:</b> Since 7 has exactly two factors, it's a <b>prime number</b>.</li><li><b>Try another number:</b> Let's pick 6.</li><li><b>Find its factors:</b> What numbers divide evenly into 6? 1, 2, 3, and 6.</li><li><b>Determine if prime or composite:</b> Since 6 has more than two factors, it's a <b>composite number</b>.</li><li><b>Special case for 1:</b> Remember that 1 is neither prime nor composite.</li></ol>",
-          "sections": []
-        }
-      ]
-    },
-    {
-      "title": "Number Systems",
-      "what": "Number systems are methods of representing numbers using digits or symbols. Different number systems have different bases, which determine the number of unique digits used.",
-      "tutorial": "<h3>Introduction to Number Systems</h3><p>A <b>Number System</b> is a way of writing down numbers. We use different number systems in everyday life and in technology. The most common one is the decimal system, but computers use others like binary.</p><p>Think of it like different languages for numbers. Each language has its own rules for how to write and read numbers.</p>",
-      "steps": "<ol><li><b>Understand the concept of a 'base':</b> The base of a number system tells you how many unique digits it uses.</li><li><b>Explore the Decimal System (Base-10):</b> This is what you use every day (digits 0-9).</li><li><b>Discover the Binary System (Base-2):</b> Learn why computers use only 0s and 1s.</li><li><b>Briefly touch upon Octal (Base-8) and Hexadecimal (Base-16):</b> Understand their uses, especially in computer science.</li></ol>",
-      "sections": [
-        {
-          "title": "Decimal Number System (Base-10)",
-          "what": "The decimal number system is the most common number system, using ten unique digits (0-9). Each digit's position has a place value that is a power of 10.",
-          "tutorial": "<h3>Working with the Decimal System</h3><p>The <b>Decimal Number System</b> is what you use every single day. It has a base of 10, meaning it uses ten different digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.</p><p>The position of a digit in a number determines its value. For example, in the number 123, the '1' means 100 (1 x 10<sup>2</sup>), the '2' means 20 (2 x 10<sup>1</sup>), and the '3' means 3 (3 x 10<sup>0</sup>).</p>",
-          "steps": "<ol><li><b>Identify the digits:</b> Remember, only 0 through 9 are used.</li><li><b>Understand place value:</b> The rightmost digit is the 'ones' place (10<sup>0</sup>), the next is 'tens' (10<sup>1</sup>), then 'hundreds' (10<sup>2</sup>), and so on.</li><li><b>Break down a number:</b> Take the number 456.</li><li><b>Calculate its value:</b> (4 x 100) + (5 x 10) + (6 x 1) = 400 + 50 + 6 = 456.</li><li><b>Practice with other numbers:</b> Try breaking down 789 or 105.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Binary Number System (Base-2)",
-          "what": "The binary number system uses only two digits: 0 and 1. It is the fundamental language of computers, where each digit (bit) represents a power of 2.",
-          "tutorial": "<h3>Understanding the Binary System</h3><p>The <b>Binary Number System</b> is crucial for computers. It has a base of 2, meaning it only uses two digits: 0 and 1. These are often called 'bits'.</p><p>Just like in decimal, the position of a digit matters, but here, each position represents a power of 2. For example, the binary number 101 means (1 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup>) = 4 + 0 + 1 = 5 in decimal.</p>",
-          "steps": "<ol><li><b>Identify the digits:</b> Only 0 and 1 are used.</li><li><b>Understand place value (powers of 2):</b> Starting from the right, the places are 2<sup>0</sup> (1), 2<sup>1</sup> (2), 2<sup>2</sup> (4), 2<sup>3</sup> (8), and so on.</li><li><b>Convert binary to decimal:</b> Take the binary number 1101.</li><li><b>Multiply each digit by its place value:</b><ul><li>1 x 2<sup>3</sup> = 1 x 8 = 8</li><li>1 x 2<sup>2</sup> = 1 x 4 = 4</li><li>0 x 2<sup>1</sup> = 0 x 2 = 0</li><li>1 x 2<sup>0</sup> = 1 x 1 = 1</li></ul></li><li><b>Add the results:</b> 8 + 4 + 0 + 1 = 13. So, binary 1101 is decimal 13.</li><li><b>Convert decimal to binary:</b> To convert decimal 5 to binary:<ul><li>Divide 5 by 2: 5 ÷ 2 = 2 remainder 1</li><li>Divide 2 by 2: 2 ÷ 2 = 1 remainder 0</li><li>Divide 1 by 2: 1 ÷ 2 = 0 remainder 1</li><li>Read the remainders from bottom to top: 101. So, decimal 5 is binary 101.</li></ul></li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Octal Number System (Base-8)",
-          "what": "The octal number system uses eight digits (0-7). It's often used as a compact way to represent binary numbers, as three binary digits can be represented by one octal digit.",
-          "tutorial": "<h3>Understanding the Octal System</h3><p>The <b>Octal Number System</b> has a base of 8, meaning it uses digits from 0 to 7. It's less common in everyday use but is sometimes used in computer science as a shorthand for binary numbers (since 8 is 2<sup>3</sup>, three binary digits can be easily converted to one octal digit).</p><p>For example, the octal number 12 is equivalent to (1 x 8<sup>1</sup>) + (2 x 8<sup>0</sup>) = 8 + 2 = 10 in decimal.</p>",
-          "steps": "<ol><li><b>Identify the digits:</b> Only 0 through 7 are used.</li><li><b>Understand place value (powers of 8):</b> Starting from the right, the places are 8<sup>0</sup> (1), 8<sup>1</sup> (8), 8<sup>2</sup> (64), and so on.</li><li><b>Convert octal to decimal:</b> Take the octal number 37.</li><li><b>Multiply each digit by its place value:</b><ul><li>3 x 8<sup>1</sup> = 3 x 8 = 24</li><li>7 x 8<sup>0</sup> = 7 x 1 = 7</li></ul></li><li><b>Add the results:</b> 24 + 7 = 31. So, octal 37 is decimal 31.</li><li><b>Convert decimal to octal:</b> To convert decimal 15 to octal:<ul><li>Divide 15 by 8: 15 ÷ 8 = 1 remainder 7</li><li>Divide 1 by 8: 1 ÷ 8 = 0 remainder 1</li><li>Read the remainders from bottom to top: 17. So, decimal 15 is octal 17.</li></ul></li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Hexadecimal Number System (Base-16)",
-          "what": "The hexadecimal number system uses sixteen digits (0-9 and A-F, where A represents 10, B is 11, and so on up to F for 15). It's widely used in computing for representing memory addresses and colors due to its compact representation of binary data (four binary digits can be represented by one hexadecimal digit).",
-          "tutorial": "<h3>Understanding the Hexadecimal System</h3><p>The <b>Hexadecimal Number System</b> has a base of 16. It uses digits 0-9 and letters A-F to represent values from 0 to 15. A=10, B=11, C=12, D=13, E=14, F=15.</p><p>Hexadecimal is very common in computer programming and web development (e.g., for color codes like #FF0000 for red), as it provides a more human-readable way to represent long binary strings (since 16 is 2<sup>4</sup>, four binary digits convert directly to one hex digit).</p>",
-          "steps": "<ol><li><b>Identify the digits:</b> Remember, 0-9 and A-F.</li><li><b>Understand place value (powers of 16):</b> Starting from the right, the places are 16<sup>0</sup> (1), 16<sup>1</sup> (16), 16<sup>2</sup> (256), and so on.</li><li><b>Convert hexadecimal to decimal:</b> Take the hexadecimal number 2A.</li><li><b>Substitute letter values:</b> A = 10.</li><li><b>Multiply each digit by its place value:</b><ul><li>2 x 16<sup>1</sup> = 2 x 16 = 32</li><li>10 (for A) x 16<sup>0</sup> = 10 x 1 = 10</li></ul></li><li><b>Add the results:</b> 32 + 10 = 42. So, hexadecimal 2A is decimal 42.</li><li><b>Convert decimal to hexadecimal:</b> To convert decimal 255 to hexadecimal:<ul><li>Divide 255 by 16: 255 ÷ 16 = 15 remainder 15 (F)</li><li>Divide 15 by 16: 15 ÷ 16 = 0 remainder 15 (F)</li><li>Read the remainders from bottom to top: FF. So, decimal 255 is hexadecimal FF.</li></ul></li></ol>",
-          "sections": []
-        }
-      ]
-    },
-    {
-      "title": "Basic Arithmetic Operations",
-      "what": "This section covers the fundamental mathematical operations performed on numbers: addition, subtraction, multiplication, and division.",
-      "tutorial": "<h3>Mastering Basic Arithmetic</h3><p>Arithmetic operations are the building blocks of mathematics. Once you understand different types of numbers, you need to know how to combine and manipulate them.</p><p>These four operations are essential for everyday calculations and more advanced mathematical concepts.</p>",
-      "steps": "<ol><li><b>Learn the four basic operations:</b> Addition, Subtraction, Multiplication, and Division.</li><li><b>Practice each operation individually:</b> Start with simple examples for each.</li><li><b>Understand their relationships:</b> Subtraction is the inverse of addition, and division is the inverse of multiplication.</li><li><b>Practice mixed operations:</b> Combine different operations in one problem.</li></ol>",
-      "sections": [
-        {
-          "title": "Addition",
-          "what": "Addition is the process of combining two or more numbers to find their total sum.",
-          "tutorial": "<h3>Learning Addition</h3><p><b>Addition</b> is simply putting numbers together to find a total. The symbol for addition is the plus sign (+).</p><p>Example: If you have 3 apples and your friend gives you 2 more apples, you add them together: 3 + 2 = 5 apples.</p>",
-          "steps": "<ol><li><b>Identify the numbers to add:</b> Let's add 7 and 4.</li><li><b>Write the equation:</b> 7 + 4 = ?</li><li><b>Count or mentally add:</b> If you have 7 items and add 4 more, you get 11 items.</li><li><b>State the sum:</b> 7 + 4 = 11.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Subtraction",
-          "what": "Subtraction is the process of taking one number away from another to find the difference.",
-          "tutorial": "<h3>Learning Subtraction</h3><p><b>Subtraction</b> is the opposite of addition. It's about taking away one number from another to find what's left. The symbol for subtraction is the minus sign (-).</p><p>Example: If you have 5 cookies and you eat 2, you subtract: 5 - 2 = 3 cookies left.</p>",
-          "steps": "<ol><li><b>Identify the numbers:</b> Let's subtract 5 from 12.</li><li><b>Write the equation:</b> 12 - 5 = ?</li><li><b>Count backward or mentally subtract:</b> Start at 12 and count back 5, or think what number added to 5 gives 12.</li><li><b>State the difference:</b> 12 - 5 = 7.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Multiplication",
-          "what": "Multiplication is a repeated addition of a number by itself a specified number of times. It's a faster way to add when you have equal groups.",
-          "tutorial": "<h3>Understanding Multiplication</h3><p><b>Multiplication</b> is a quick way to do repeated addition. The symbol for multiplication can be an 'x' or an asterisk '*'.</p><p>Example: If you have 4 groups of 3 candies each, you can add 3 + 3 + 3 + 3 = 12. Or, you can multiply: 4 x 3 = 12 candies.</p>",
-          "steps": "<ol><li><b>Identify the numbers to multiply:</b> Let's multiply 6 by 3.</li><li><b>Write the equation:</b> 6 x 3 = ? (or 6 * 3 = ?)</li><li><b>Think of it as repeated addition:</b> This means 6 added to itself 3 times (6 + 6 + 6) or 3 added to itself 6 times (3 + 3 + 3 + 3 + 3 + 3).</li><li><b>Calculate the product:</b> 6 x 3 = 18.</li><li><b>Practice with multiplication tables:</b> Memorizing these helps a lot!</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Division",
-          "what": "Division is the process of splitting a number into equal parts or groups. It's the inverse of multiplication.",
-          "tutorial": "<h3>Learning Division</h3><p><b>Division</b> is about sharing or grouping equally. It tells you how many times one number is contained within another. The symbol for division can be '÷' or a forward slash '/'.</p><p>Example: If you have 10 cookies and you want to share them equally among 5 friends, you divide: 10 ÷ 5 = 2 cookies per friend.</p>",
-          "steps": "<ol><li><b>Identify the numbers:</b> Let's divide 20 by 4.</li><li><b>Write the equation:</b> 20 ÷ 4 = ? (or 20 / 4 = ?)</li><li><b>Think of it as sharing:</b> If you have 20 items and you put them into groups of 4, how many groups will you have? Or, how many times does 4 fit into 20?</li><li><b>Calculate the quotient:</b> 20 ÷ 4 = 5.</li><li><b>Understand remainders:</b> Sometimes numbers don't divide evenly, leaving a remainder (e.g., 7 ÷ 2 = 3 with a remainder of 1).</li></ol>",
-          "sections": []
-        }
-      ]
-    },
-    {
-      "title": "Fractions, Decimals, and Percentages",
-      "what": "This section explains how fractions, decimals, and percentages are different ways of representing parts of a whole, and how to convert between them.",
-      "tutorial": "<h3>Understanding Parts of a Whole</h3><p>Fractions, decimals, and percentages are all different ways to express a part of a whole. They are interconnected and can be converted from one form to another.</p><p>Think of a pizza: You can talk about eating 'half' (fraction), '0.5' (decimal), or '50%' (percentage) of it.</p>",
-      "steps": "<ol><li><b>Grasp the concept of 'part of a whole':</b> All three represent a portion, not necessarily a full unit.</li><li><b>Learn fractions first:</b> They are the most intuitive way to think about parts.</li><li><b>Connect fractions to decimals:</b> Understand that decimals are another way to write fractions with powers of 10 in the denominator.</li><li><b>Connect decimals to percentages:</b> See that percentages are simply decimals multiplied by 100 and given a '%' symbol.</li><li><b>Practice conversions:</b> The key to mastering this is converting between the three forms.</li></ol>",
-      "sections": [
-        {
-          "title": "Fractions",
-          "what": "A fraction represents a part of a whole or a collection of equal parts. It consists of a numerator (the number of parts you have) and a denominator (the total number of equal parts in the whole).",
-          "tutorial": "<h3>Working with Fractions</h3><p>A <b>fraction</b> shows a part of a whole. It's written as one number over another, like 1/2 or 3/4. The top number is the <b>numerator</b> (how many parts you have), and the bottom number is the <b>denominator</b> (how many equal parts make up the whole).</p><p>Example: In the fraction 1/2, you have 1 part out of 2 equal parts.</p>",
-          "steps": "<ol><li><b>Identify the numerator and denominator:</b> In 2/5, 2 is the numerator, 5 is the denominator.</li><li><b>Understand what they mean:</b> You have 2 parts out of a total of 5 equal parts.</li><li><b>Practice simplifying fractions:</b> 4/8 can be simplified to 1/2 by dividing both top and bottom by 4.</li><li><b>Learn to add/subtract fractions:</b> Find a common denominator before adding or subtracting numerators (e.g., 1/3 + 1/2 = 2/6 + 3/6 = 5/6).</li><li><b>Learn to multiply fractions:</b> Multiply numerators and multiply denominators (e.g., 1/2 x 3/4 = 3/8).</li><li><b>Learn to divide fractions:</b> Flip the second fraction and multiply (e.g., 1/2 ÷ 3/4 = 1/2 x 4/3 = 4/6 = 2/3).</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Decimals",
-          "what": "Decimals are numbers that represent fractions where the denominator is a power of 10 (e.g., 10, 100, 1000). They use a decimal point to separate the whole number part from the fractional part.",
-          "tutorial": "<h3>Understanding Decimals</h3><p><b>Decimals</b> are another way to write parts of a whole, using a decimal point. The digits to the right of the decimal point represent fractions with denominators of 10, 100, 1000, and so on.</p><p>Example: 0.5 is the same as 5/10 or 1/2. 0.25 is the same as 25/100 or 1/4.</p>",
-          "steps": "<ol><li><b>Identify the whole and fractional parts:</b> In 3.75, 3 is the whole number, and .75 is the fractional part.</li><li><b>Understand place value after the decimal:</b> The first digit after the decimal is tenths, the second is hundredths, the third is thousandths, etc.</li><li><b>Convert fractions to decimals:</b> Divide the numerator by the denominator (e.g., 3/4 = 3 ÷ 4 = 0.75).</li><li><b>Convert decimals to fractions:</b> Write the decimal over a power of 10 (e.g., 0.6 = 6/10, which simplifies to 3/5).</li><li><b>Practice adding, subtracting, multiplying, and dividing decimals:</b> Align decimal points for addition/subtraction, count decimal places for multiplication.</li></ol>",
-          "sections": []
-        },
-        {
-          "title": "Percentages",
-          "what": "A percentage is a way of expressing a number as a fraction of 100. It is denoted by the percent sign (%).",
-          "tutorial": "<h3>Working with Percentages</h3><p>A <b>percentage</b> means 'per hundred' or 'out of one hundred'. It's a way to express a part of a whole as a fraction of 100. The symbol is %. So, 50% means 50 out of 100, or 50/100.</p><p>Example: If you got 80% on a test, it means you got 80 out of every 100 points, or 80/100 correct.</p>",
-          "steps": "<ol><li><b>Understand the meaning:</b> '% means out of 100'. So, 25% = 25/100.</li><li><b>Convert percentages to decimals:</b> Divide the percentage by 100 (e.g., 75% = 75 ÷ 100 = 0.75).</li><li><b>Convert decimals to percentages:</b> Multiply the decimal by 100 and add the '%' sign (e.g., 0.15 = 0.15 x 100% = 15%).</li><li><b>Convert fractions to percentages:</b> First convert to a decimal, then convert the decimal to a percentage (e.g., 1/4 = 0.25 = 25%).</li><li><b>Calculate a percentage of a number:</b> To find 20% of 50, convert 20% to a decimal (0.20) and multiply: 0.20 x 50 = 10.</li></ol>",
-          "sections": []
-        }
-      ]
-    },
-    {
-      "title": "Order of Operations (PEMDAS/BODMAS)",
-      "what": "The order of operations is a set of rules that dictates the sequence in which mathematical operations should be performed to ensure a single, consistent answer. The most common acronyms are PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction) or BODMAS (Brackets, Orders, Division and Multiplication, Addition and Subtraction).",
-      "tutorial": "<h3>Understanding Order of Operations</h3><p>When you have a math problem with multiple operations (like addition, subtraction, multiplication, and division), the <b>Order of Operations</b> tells you which one to do first. Without these rules, you could get different answers for the same problem!</p><p>We use acronyms to remember the order: <b>PEMDAS</b> (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction) or <b>BODMAS</b> (Brackets, Orders (powers/roots), Division and Multiplication, Addition and Subtraction).</p>",
-      "steps": "<ol><li><b>P/B - Parentheses/Brackets:</b> Do everything inside parentheses or brackets first. Example: <code>(2 + 3) * 4</code>. Calculate <code>2 + 3</code> first, which is <code>5</code>. So, <code>5 * 4</code>.</li><li><b>E/O - Exponents/Orders:</b> Next, solve any exponents or roots. Example: <code>5 + 2^3</code>. Calculate <code>2^3</code> (2 to the power of 3) first, which is <code>8</code>. So, <code>5 + 8</code>.</li><li><b>MD - Multiplication and Division:</b> Perform multiplication and division from left to right. They have equal priority. Example: <code>10 - 4 / 2 * 3</code>. First, <code>4 / 2 = 2</code>. Then, <code>2 * 3 = 6</code>. So, <code>10 - 6</code>.</li><li><b>AS - Addition and Subtraction:</b> Finally, perform addition and subtraction from left to right. They also have equal priority. Example: <code>15 + 5 - 2</code>. First, <code>15 + 5 = 20</code>. Then, <code>20 - 2 = 18</code>.</li><li><b>Practice a full example:</b> Solve <code>3 + (4 * 2) - 6 / 3</code>.<ul><li>Parentheses: <code>4 * 2 = 8</code>. So, <code>3 + 8 - 6 / 3</code>.</li><li>Division: <code>6 / 3 = 2</code>. So, <code>3 + 8 - 2</code>.</li><li>Addition: <code>3 + 8 = 11</code>. So, <code>11 - 2</code>.</li><li>Subtraction: <code>11 - 2 = 9</code>. The answer is 9.</li></ul></li></ol>",
-      "sections": []
-    },
-    {
-      "title": "Exponents and Logarithms",
-      "what": "This section delves into exponents (powers) as a shorthand for repeated multiplication, and logarithms as the inverse operation, finding the exponent to which a base must be raised to produce a given number.",
-      "tutorial": "<h3>Exploring Exponents and Logarithms</h3><p><b>Exponents</b> (also called powers) are a shortcut for writing repeated multiplication. For example, 2<sup>3</sup> means 2 multiplied by itself 3 times (2 x 2 x 2 = 8).</p><p><b>Logarithms</b> are the inverse of exponents. They answer the question: 'What exponent do I need to raise a base to, to get a certain number?' For example, log<sub>2</sub>8 = 3, because 2 raised to the power of 3 equals 8.</p>",
-      "sections": []
-    }
-  ]
-}
+    "title": "Number Related",
+    "what": "<b>Number Related topics are lessons that involve counting, operations, number types, and patterns using numbers.</b>",
+    "tutorial": "<p>Example: Adding 2 + 3 = 5. This is a number operation.</p>",
+    "steps": "<ol><li>Understand what numbers are.</li><li>Learn basic math operations.</li><li>Study different number types like even, odd, prime, etc.</li><li>Practice number patterns and problem solving.</li></ol>",
+    "sections": [
+      {
+        "title": "Basic Number Concepts",
+        "what": "<b>These are the foundations of working with numbers.</b>",
+        "tutorial": "<p>Example: Knowing that 1, 2, 3... are counting numbers.</p>",
+        "steps": "<ol><li>Identify counting numbers.</li><li>Practice ordering numbers.</li><li>Recognize zero and its value.</li></ol>",
+        "sections": [
+          {
+            "title": "Counting Numbers",
+            "what": "<b>Numbers used to count things (1, 2, 3, ...).</b>",
+            "tutorial": "<p>Count objects like: 1 apple, 2 apples, 3 apples...</p>",
+            "steps": "<ol><li>Start from 1.</li><li>Add 1 to count forward.</li><li>Subtract 1 to count backward.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Place Value",
+            "what": "<b>Shows the value of each digit in a number depending on its position.</b>",
+            "tutorial": "<p>In 345, the 3 is in the hundreds place = 300.</p>",
+            "steps": "<ol><li>Break a number into digits.</li><li>Identify units, tens, hundreds.</li><li>Multiply each digit by its place value.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Number Types",
+        "what": "<b>Different groups of numbers based on their properties.</b>",
+        "tutorial": "<p>Examples: Even numbers (2,4,6), Odd numbers (1,3,5), Prime numbers (2,3,5), Composite numbers (4,6,8)</p>",
+        "steps": "<ol><li>Learn each number type definition.</li><li>Practice identifying them from a list.</li><li>Sort numbers into correct groups.</li></ol>",
+        "sections": [
+          {
+            "title": "Even and Odd Numbers",
+            "what": "<b>Even = divisible by 2, Odd = not divisible by 2.</b>",
+            "tutorial": "<p>Even: 2, 4, 6<br>Odd: 1, 3, 5</p>",
+            "steps": "<ol><li>Take a number.</li><li>Check if it ends in 0,2,4,6,8 = Even.</li><li>If not, it's Odd.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Prime and Composite Numbers",
+            "what": "<b>Prime = only 2 factors (1 and itself), Composite = more than 2 factors.</b>",
+            "tutorial": "<p>Prime: 2, 3, 5, 7<br>Composite: 4, 6, 8, 9</p>",
+            "steps": "<ol><li>Check how many factors a number has.</li><li>If exactly 2, it's Prime.</li><li>If more, it's Composite.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Whole Numbers and Integers",
+            "what": "<b>Whole numbers = 0 and up, Integers = negative and positive whole numbers.</b>",
+            "tutorial": "<p>Whole: 0, 1, 2, 3<br>Integers: ..., -3, -2, -1, 0, 1, 2, 3</p>",
+            "steps": "<ol><li>Understand zero as a base.</li><li>Recognize numbers below zero.</li><li>Use a number line to visualize integers.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Number Operations",
+        "what": "<b>Basic math operations performed with numbers.</b>",
+        "tutorial": "<p>Operations: Addition (+), Subtraction (-), Multiplication (×), Division (÷)</p>",
+        "steps": "<ol><li>Start with single-digit problems.</li><li>Use visual aids like counters.</li><li>Move to 2-digit and word problems.</li></ol>",
+        "sections": [
+          {
+            "title": "Addition",
+            "what": "<b>Combining two or more numbers to get a total.</b>",
+            "tutorial": "<p>2 + 3 = 5</p>",
+            "steps": "<ol><li>Line up numbers by place value.</li><li>Add digits starting from the right.</li><li>Carry over if needed.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Subtraction",
+            "what": "<b>Finding the difference between numbers.</b>",
+            "tutorial": "<p>5 - 2 = 3</p>",
+            "steps": "<ol><li>Line up numbers.</li><li>Start from the right digit.</li><li>Borrow if top digit is smaller.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Multiplication",
+            "what": "<b>Repeated addition of the same number.</b>",
+            "tutorial": "<p>3 × 4 = 3 + 3 + 3 + 3 = 12</p>",
+            "steps": "<ol><li>Memorize multiplication table.</li><li>Multiply one digit at a time.</li><li>Add results if multi-digit.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Division",
+            "what": "<b>Splitting a number into equal parts.</b>",
+            "tutorial": "<p>12 ÷ 3 = 4</p>",
+            "steps": "<ol><li>Know the divisor and dividend.</li><li>Check how many times the divisor fits.</li><li>Write the quotient.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Number Patterns and Sequences",
+        "what": "<b>Numbers that follow a certain rule or pattern.</b>",
+        "tutorial": "<p>Example: 2, 4, 6, 8 (Add 2 each time)</p>",
+        "steps": "<ol><li>Identify the rule.</li><li>Apply the rule to find next numbers.</li><li>Test pattern by writing full sequence.</li></ol>",
+        "sections": [
+          {
+            "title": "Arithmetic Sequence",
+            "what": "<b>A sequence where each term increases or decreases by the same number.</b>",
+            "tutorial": "<p>Example: 5, 10, 15, 20 (+5)</p>",
+            "steps": "<ol><li>Check the difference between terms.</li><li>Add or subtract to continue the pattern.</li><li>Write more terms based on the rule.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Skip Counting",
+            "what": "<b>Counting by numbers other than 1.</b>",
+            "tutorial": "<p>Skip count by 2s: 2, 4, 6, 8...</p>",
+            "steps": "<ol><li>Choose a number to skip by (e.g., 2).</li><li>Add it repeatedly.</li><li>Say the numbers aloud while pointing to each.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Problem Solving Using Numbers",
+        "what": "<b>Solving real-life math situations with number operations.</b>",
+        "tutorial": "<p>Example: If you have 3 apples and get 2 more, how many total?</p>",
+        "steps": "<ol><li>Read and understand the problem.</li><li>Identify what operation to use.</li><li>Solve step by step.</li></ol>",
+        "sections": [
+          {
+            "title": "Word Problems",
+            "what": "<b>Math problems described in sentence form.</b>",
+            "tutorial": "<p>Anna has 5 pens. She buys 3 more. How many in total?</p>",
+            "steps": "<ol><li>Underline important numbers and keywords.</li><li>Translate words into math operation.</li><li>Solve using number skills.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Estimating and Rounding Numbers",
+            "what": "<b>Rounding numbers makes them simpler for quick calculation.</b>",
+            "tutorial": "<p>Round 48 to nearest ten = 50</p>",
+            "steps": "<ol><li>Look at the digit to the right.</li><li>If it's 5 or more, round up.</li><li>If it's 4 or less, round down.</li></ol>",
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+  

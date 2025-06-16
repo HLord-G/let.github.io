@@ -1,0 +1,88 @@
+{
+    "title": "Logical Related",
+    "what": "<b>Logical Related</b> topics involve reasoning skills used to make conclusions, solve problems, and understand arguments. These include identifying patterns, drawing conclusions, finding assumptions, evaluating arguments, and understanding relationships.",
+    "tutorial": "<p>Logical reasoning helps you think clearly and make good decisions by using facts and rules to reach a conclusion.</p>",
+    "steps": "<ol><li>Understand the situation or question.</li><li>Identify patterns, rules, or connections.</li><li>Use logic to find the correct answer or conclusion.</li></ol>",
+    "sections": [
+      {
+        "title": "Cause and Effect",
+        "what": "<b>Cause and Effect</b> shows how one thing (the cause) leads to another (the effect).",
+        "tutorial": "<p>If it rains (cause), the ground gets wet (effect).</p>",
+        "steps": "<ol><li>Read the sentence or paragraph.</li><li>Identify what happened first (cause).</li><li>Find out what it led to (effect).</li></ol>",
+        "sections": [
+          {
+            "title": "Signal Words for Cause and Effect",
+            "what": "<b>Signal words</b> like 'because', 'therefore', 'so', 'as a result' help show cause and effect.",
+            "tutorial": "<p>Example: She was tired <b>because</b> she didn't sleep.</p>",
+            "steps": "<ol><li>Look for signal words in the sentence.</li><li>Identify the two parts connected.</li><li>Label the cause and the effect.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Assumption",
+        "what": "<b>Assumption</b> is an idea taken as true without being stated.",
+        "tutorial": "<p>Example: He must be a doctor because he wears a white coat. (Assumes only doctors wear white coats)</p>",
+        "steps": "<ol><li>Read the argument or statement.</li><li>Ask what must be true for it to make sense.</li><li>Find the hidden idea.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Conclusion",
+        "what": "<b>Conclusion</b> is the final judgment or decision made after looking at all facts and reasoning.",
+        "tutorial": "<p>All dogs bark. Max is a dog. <b>Conclusion:</b> Max barks.</p>",
+        "steps": "<ol><li>Read the facts or premises.</li><li>Find what logically follows from them.</li><li>That’s your conclusion.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Inference",
+        "what": "<b>Inference</b> is a logical guess based on clues or evidence in the text.",
+        "tutorial": "<p>She carried an umbrella and wore boots. (Inference: It’s raining)</p>",
+        "steps": "<ol><li>Read the given clues.</li><li>Think of what they suggest or imply.</li><li>Write your conclusion or guess.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Analogy",
+        "what": "<b>Analogy</b> shows how two things are related in a similar way.",
+        "tutorial": "<p>Hand is to glove as foot is to sock.</p>",
+        "steps": "<ol><li>Look at the first pair of words.</li><li>Understand their relationship.</li><li>Apply the same relationship to the second pair.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Deductive and Inductive Reasoning",
+        "what": "<b>Deductive reasoning</b> starts from a general rule to a specific case. <b>Inductive reasoning</b> goes from specific examples to a general conclusion.",
+        "tutorial": "<p>Deductive: All humans are mortal. Socrates is a human. So, Socrates is mortal.<br>Inductive: The sun has risen every day. So, it will rise tomorrow.</p>",
+        "steps": "<ol><li>Identify if it starts from a general or specific idea.</li><li>Check how the conclusion is formed.</li><li>Label it as inductive or deductive.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Logical Fallacies",
+        "what": "<b>Logical fallacies</b> are errors in reasoning that weaken an argument.",
+        "tutorial": "<p>Example: Everyone is doing it, so it must be right. (Bandwagon fallacy)</p>",
+        "steps": "<ol><li>Read the argument carefully.</li><li>Identify if there's a flaw or weak point.</li><li>Name the type of fallacy if you know it.</li></ol>",
+        "sections": [
+          {
+            "title": "Common Fallacies",
+            "what": "<b>Common fallacies</b> include slippery slope, hasty generalization, ad hominem, strawman, and false dilemma.",
+            "tutorial": "<p>Strawman: Misrepresenting someone's argument to make it easier to attack.</p>",
+            "steps": "<ol><li>Learn the names and meaning of common fallacies.</li><li>Practice identifying them in sample arguments.</li><li>Explain why each one is a faulty reasoning.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Sequencing and Order",
+        "what": "<b>Sequencing</b> means arranging events in the correct order based on time or logic.",
+        "tutorial": "<p>First, he woke up. Then, he brushed his teeth. After that, he ate breakfast.</p>",
+        "steps": "<ol><li>Read all the steps or events.</li><li>Put them in correct order.</li><li>Use signal words like first, next, finally.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Pattern Recognition",
+        "what": "<b>Pattern recognition</b> means finding repeating shapes, numbers, or ideas in a set.",
+        "tutorial": "<p>2, 4, 6, 8... (The pattern is +2)</p>",
+        "steps": "<ol><li>Observe the given items.</li><li>Look for what repeats or changes consistently.</li><li>Predict the next one in the pattern.</li></ol>",
+        "sections": []
+      }
+    ]
+  }
+  

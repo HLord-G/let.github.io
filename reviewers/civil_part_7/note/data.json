@@ -1,0 +1,103 @@
+{
+    "title": "Word Analogy",
+    "what": "<b>Word Analogy</b> is a type of comparison where two pairs of words show the same kind of relationship. It's like a puzzle where you find the correct connection between words.",
+    "tutorial": "<p>Example: <b>Hot : Cold :: Day : ?</b><br>Answer: Night. Because Hot is the opposite of Cold, just like Day is the opposite of Night.</p>",
+    "steps": "<ol><li>Understand what analogy means.</li><li>Learn different types of word relationships.</li><li>Practice with sample questions.</li><li>Look for clues in the first pair.</li><li>Apply the same logic to the second pair.</li></ol>",
+    "sections": [
+      {
+        "title": "Types of Word Relationships",
+        "what": "<b>Word analogies</b> are based on relationships like opposites, part-whole, function, etc.",
+        "tutorial": "<p>Each type helps you figure out the connection. Knowing the types makes solving analogies easier.</p>",
+        "steps": "<ol><li>Learn each type of relationship.</li><li>Understand how the two words in the first pair are related.</li><li>Use the same type of relation to complete the second pair.</li></ol>",
+        "sections": [
+          {
+            "title": "Synonym Analogy",
+            "what": "<b>Words have the same or similar meanings.</b>",
+            "tutorial": "<p>Example: <b>Happy : Joyful :: Big : Large</b></p>",
+            "steps": "<ol><li>Identify that the first two words are similar in meaning.</li><li>Find the pair with the same relationship.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Antonym Analogy",
+            "what": "<b>Words have opposite meanings.</b>",
+            "tutorial": "<p>Example: <b>Hot : Cold :: Tall : Short</b></p>",
+            "steps": "<ol><li>Spot the opposite relationship in the first pair.</li><li>Apply the same opposite idea to the second pair.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Part to Whole Analogy",
+            "what": "<b>A part belongs to a whole.</b>",
+            "tutorial": "<p>Example: <b>Finger : Hand :: Petal : Flower</b></p>",
+            "steps": "<ol><li>Recognize that the first word is a part of the second.</li><li>Use the same part-to-whole logic.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Cause and Effect Analogy",
+            "what": "<b>One thing causes another.</b>",
+            "tutorial": "<p>Example: <b>Fire : Burn :: Virus : Illness</b></p>",
+            "steps": "<ol><li>Understand how the first word causes the second.</li><li>Find a second pair that shows the same cause-effect pattern.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Function Analogy",
+            "what": "<b>The first item is used for the second item’s function.</b>",
+            "tutorial": "<p>Example: <b>Pen : Write :: Knife : Cut</b></p>",
+            "steps": "<ol><li>See what the first item does.</li><li>Match with another item that does a similar action.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Category or Classification Analogy",
+            "what": "<b>The first word belongs to the category of the second.</b>",
+            "tutorial": "<p>Example: <b>Rose : Flower :: Dog : Animal</b></p>",
+            "steps": "<ol><li>Know what group the first word belongs to.</li><li>Find the same group idea in the second pair.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Tips to Solve Word Analogies",
+        "what": "<b>Useful ways</b> to quickly and accurately answer word analogy questions.",
+        "tutorial": "<p>Break the pair into a sentence: <b>'A is to B as C is to ?'</b> then test all choices.</p>",
+        "steps": "<ol><li>Read the pair carefully.</li><li>Create a sentence using the relationship.</li><li>Apply it to the second pair.</li><li>Check which answer fits logically.</li></ol>",
+        "sections": [
+          {
+            "title": "Use Sentence Form",
+            "what": "<b>Make a sentence to understand the word link.</b>",
+            "tutorial": "<p>Example: <b>Bird : Fly — A bird can fly. Then Fish : ? — A fish can swim.</b></p>",
+            "steps": "<ol><li>Think of a short sentence that links the words.</li><li>Plug in the other pair to see which one matches.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Check All Answer Choices",
+            "what": "<b>Try all choices</b> to avoid guessing errors.",
+            "tutorial": "<p>Sometimes choices look correct. Testing them ensures accuracy.</p>",
+            "steps": "<ol><li>After forming the sentence, try every choice word.</li><li>Choose the most logical match.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Common Analogy Patterns",
+        "what": "<b>These are usual formats or ways analogies are built.</b>",
+        "tutorial": "<p>Pattern examples: <b>A is the opposite of B</b>, <b>A is used to B</b>, <b>A is a type of B</b></p>",
+        "steps": "<ol><li>Learn the most common analogy patterns.</li><li>Practice spotting them in sample questions.</li></ol>",
+        "sections": [
+          {
+            "title": "Opposite (Antonym) Pattern",
+            "what": "<b>Words with opposite meanings.</b>",
+            "tutorial": "<p>Like <b>Start : End :: Win : Lose</b></p>",
+            "steps": "<ol><li>Identify the direction of meaning (opposite).</li><li>Check the same pattern in the second pair.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Degree of Intensity Pattern",
+            "what": "<b>Words show the same idea but in different strength levels.</b>",
+            "tutorial": "<p>Example: <b>Warm : Hot :: Sad : Depressed</b></p>",
+            "steps": "<ol><li>See which word is stronger or more intense.</li><li>Apply to the second pair.</li></ol>",
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+  

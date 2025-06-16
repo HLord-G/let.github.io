@@ -1,0 +1,59 @@
+{
+    "title": "Assumption",
+    "what": "<b>Assumption</b> is something that is accepted as true without proof. It’s an idea or belief that supports an argument, even if it is not stated directly.",
+    "tutorial": "<p>If someone says, 'She must be rich because she drives a nice car,' the <b>assumption</b> is that rich people drive nice cars.</p>",
+    "steps": "<ol><li>Read the argument or statement carefully.</li><li>Ask: What must be true for this argument to work?</li><li>Find the hidden idea that supports the conclusion.</li></ol>",
+    "sections": [
+      {
+        "title": "Types of Assumptions",
+        "what": "<b>Types of assumptions</b> include factual assumptions, belief-based assumptions, and value assumptions. These are ideas taken as true in arguments.",
+        "tutorial": "<p>Example:<br>Factual: It will rain because the sky is dark.<br>Belief: People are good by nature.<br>Value: Education is more important than sports.</p>",
+        "steps": "<ol><li>Identify the argument or idea.</li><li>Look at the reason behind the statement.</li><li>Classify what type of assumption it is: fact, belief, or value.</li></ol>",
+        "sections": [
+          {
+            "title": "Factual Assumptions",
+            "what": "<b>Factual assumptions</b> are based on what the speaker believes is a true event or fact, even without proof.",
+            "tutorial": "<p>Example: She’s late, so the traffic must be bad. (Assumes bad traffic is the reason)</p>",
+            "steps": "<ol><li>Find the conclusion.</li><li>Ask what fact is assumed to be true for the conclusion to work.</li><li>Check if that fact is mentioned or not.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Value Assumptions",
+            "what": "<b>Value assumptions</b> are based on what people believe is important, right, or wrong.",
+            "tutorial": "<p>Example: Everyone should go to college. (Assumes that education is more valuable than work experience)</p>",
+            "steps": "<ol><li>Read the opinion or claim.</li><li>Ask what value supports this claim.</li><li>Find the hidden value that makes the argument strong.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Belief-Based Assumptions",
+            "what": "<b>Belief-based assumptions</b> come from a person’s general view of the world, society, or life.",
+            "tutorial": "<p>Example: People will always help others in need. (Assumes belief that people are kind)</p>",
+            "steps": "<ol><li>Identify the generalization or claim.</li><li>Ask what belief is needed for the claim to work.</li><li>Check if that belief is reasonable or not.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Finding Assumptions in Arguments",
+        "what": "<b>Finding assumptions</b> means discovering the hidden ideas that make an argument possible.",
+        "tutorial": "<p>Example: He’ll do great in college because he was top in high school. (Assumes top high school students always do great in college)</p>",
+        "steps": "<ol><li>Find the conclusion and reason.</li><li>Ask: What must be true for this reason to support the conclusion?</li><li>Check if this idea is stated. If not, it’s the assumption.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Assumption vs Inference",
+        "what": "<b>Assumption</b> is what the author or speaker takes for granted. <b>Inference</b> is what the reader concludes based on the given information.",
+        "tutorial": "<p>Assumption: The speaker believes something to be true (even if unstated).<br>Inference: The reader guesses something from the clues.</p>",
+        "steps": "<ol><li>Identify the main statement or argument.</li><li>Ask: Is this a hidden belief by the author (assumption) or your own conclusion (inference)?</li><li>Practice using examples to know the difference.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Common Assumption-Based Mistakes",
+        "what": "<b>Common mistakes</b> include assuming too much, ignoring other possible explanations, and relying on stereotypes.",
+        "tutorial": "<p>Example: He’s wearing glasses, so he must be smart. (This is a stereotype and a weak assumption.)</p>",
+        "steps": "<ol><li>Check if your assumption is based on enough facts.</li><li>Avoid making conclusions based on looks, race, or background.</li><li>Always ask: Is this the only explanation?</li></ol>",
+        "sections": []
+      }
+    ]
+  }
+  

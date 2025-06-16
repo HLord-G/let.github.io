@@ -1,0 +1,110 @@
+{
+    "title": "Reading Comprehension",
+    "what": "<b>Reading Comprehension</b> is the ability to understand, remember, and use what you read. It helps you make sense of stories, articles, and information.",
+    "tutorial": "<p><b>Example:</b><br>Text: The cat climbed the tree because it saw a bird.<br><b>Question:</b> Why did the cat climb the tree?<br><b>Answer:</b> Because it saw a bird.</p>",
+    "steps": "<ol><li>Read the text slowly and carefully.</li><li>Look for main ideas and key details.</li><li>Ask questions about what you read.</li><li>Summarize or explain the meaning.</li></ol>",
+    "sections": [
+      {
+        "title": "Types of Reading Comprehension Skills",
+        "what": "<b>These are the different skills used to understand texts.</b>",
+        "tutorial": "<p><b>Example:</b><br>Identifying the main idea, finding the author's purpose, understanding vocabulary in context.</p>",
+        "steps": "<ol><li>Know the type of question (main idea, detail, inference).</li><li>Practice each skill with short texts.</li><li>Try to answer questions after reading.</li></ol>",
+        "sections": [
+          {
+            "title": "Main Idea and Supporting Details",
+            "what": "<b>Main idea</b> is the most important point of a paragraph or passage. <b>Supporting details</b> help explain or prove the main idea.",
+            "tutorial": "<p>Text: Apples are good for your health. They have vitamins and fiber.<br><b>Main Idea:</b> Apples are healthy.<br><b>Details:</b> They have vitamins and fiber.</p>",
+            "steps": "<ol><li>Read the whole passage.</li><li>Ask: What is this mostly about?</li><li>Look for sentences that explain the main idea.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Inference",
+            "what": "<b>Inference</b> means understanding something that is not directly said, but is hinted or suggested.",
+            "tutorial": "<p>Text: Anna came home soaking wet and without her umbrella.<br><b>Inference:</b> It was raining.</p>",
+            "steps": "<ol><li>Read the clues in the text.</li><li>Think about what it suggests.</li><li>Make a smart guess based on those clues.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Vocabulary in Context",
+            "what": "<b>Vocabulary in context</b> means figuring out the meaning of a word by using the surrounding words.",
+            "tutorial": "<p>Text: The giant tree was enormous, much taller than a house.<br><b>Unknown word:</b> Enormous<br><b>Meaning:</b> Very big</p>",
+            "steps": "<ol><li>Find the unknown word.</li><li>Read the sentence carefully.</li><li>Use clues from the sentence to guess the meaning.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Author’s Purpose",
+            "what": "<b>Author's Purpose</b> is the reason why the author wrote the text: to inform, entertain, or persuade.",
+            "tutorial": "<p>Text: Recycling helps the Earth by reducing waste.<br><b>Purpose:</b> To inform</p>",
+            "steps": "<ol><li>Read the text.</li><li>Ask: Is the author trying to teach, entertain, or convince?</li><li>Look for words that show feelings or facts.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Sequencing Events",
+            "what": "<b>Sequencing</b> means putting events in the order they happened.",
+            "tutorial": "<p>Text: First, I woke up. Then, I brushed my teeth. Last, I had breakfast.<br><b>Order:</b> Wake up → Brush teeth → Eat breakfast</p>",
+            "steps": "<ol><li>Look for time words like first, then, next, last.</li><li>List the events as they happen.</li><li>Check if the order makes sense.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Reading Strategies",
+        "what": "<b>Reading Strategies</b> are techniques used before, during, and after reading to improve understanding.",
+        "tutorial": "<p><b>Examples:</b> Skimming, scanning, asking questions, rereading.</p>",
+        "steps": "<ol><li>Use skimming for getting the general idea.</li><li>Use scanning to find specific info.</li><li>Ask questions while reading.</li><li>Reread if you didn’t understand something.</li></ol>",
+        "sections": [
+          {
+            "title": "Skimming and Scanning",
+            "what": "<b>Skimming</b> is reading quickly to get the main idea. <b>Scanning</b> is looking for specific information.",
+            "tutorial": "<p>Skimming: Read the first and last sentences of paragraphs.<br>Scanning: Look for names, numbers, or keywords.</p>",
+            "steps": "<ol><li>Skim for general understanding before reading deeply.</li><li>Scan when answering questions or looking for facts.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Questioning",
+            "what": "<b>Questioning</b> is asking questions while reading to stay focused and understand better.",
+            "tutorial": "<p>Ask: What is happening? Why did that happen? What will happen next?</p>",
+            "steps": "<ol><li>Before reading, ask what you think the text is about.</li><li>During reading, ask why and how things happen.</li><li>After reading, ask what the main message is.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Summarizing",
+            "what": "<b>Summarizing</b> is telling the important parts of the text in your own words.",
+            "tutorial": "<p>Text: Maria studied hard and passed the test.<br><b>Summary:</b> Maria passed because she studied.</p>",
+            "steps": "<ol><li>Read the whole text.</li><li>Pick out the most important parts.</li><li>Write a short version using your own words.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Text Structures",
+        "what": "<b>Text Structures</b> are how information is organized in a passage.",
+        "tutorial": "<p><b>Examples:</b> Cause and effect, Compare and contrast, Problem and solution.</p>",
+        "steps": "<ol><li>Identify what kind of text it is.</li><li>Look for clues like 'because', 'different', 'solve'.</li><li>Use that to understand the message clearly.</li></ol>",
+        "sections": [
+          {
+            "title": "Cause and Effect",
+            "what": "<b>Cause and Effect</b> shows why something happened and what happened next.",
+            "tutorial": "<p>It rained hard, so the game was canceled.</p>",
+            "steps": "<ol><li>Find the cause (why).</li><li>Find the effect (what happened).</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Compare and Contrast",
+            "what": "<b>Compare and Contrast</b> shows how two things are alike and different.",
+            "tutorial": "<p>Cats and dogs are both pets, but cats are more independent.</p>",
+            "steps": "<ol><li>Identify what is being compared.</li><li>Find similarities and differences.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Problem and Solution",
+            "what": "<b>Problem and Solution</b> shows a problem and how it was fixed.",
+            "tutorial": "<p>The car broke down. We called a mechanic to fix it.</p>",
+            "steps": "<ol><li>Find the problem in the story.</li><li>Look for how it was solved.</li></ol>",
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+  

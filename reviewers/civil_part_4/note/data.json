@@ -1,72 +1,97 @@
 {
-    "title": "PROBLEM SOLVING RATIO",
-    "what": "Problem solving involving ratios means using the mathematical relationship between two or more quantities to find unknown values or to compare different sets of quantities. It's a fundamental concept in mathematics that applies to various real-world scenarios, from cooking and finance to science and engineering.",
-    "tutorial": "<h3>Understanding Ratios</h3><p>A ratio is a comparison of two or more numbers. It tells us how much of one thing there is compared to another. Ratios can be written in several ways: using a colon (e.g., 2:3), as a fraction (e.g., 2/3), or with the word 'to' (e.g., 2 to 3).</p><h3>Example: Simple Ratio Problem</h3><p>Let's say you are baking cookies, and the recipe calls for 2 cups of flour for every 1 cup of sugar. This is a ratio of 2:1 (flour to sugar).</p><h3>Solving a Proportion</h3><p>If you want to make a bigger batch of cookies and use 4 cups of flour, how much sugar do you need? You can set up a proportion: 2/1 = 4/x. By cross-multiplication, 2x = 4, so x = 2 cups of sugar.</p>",
+    "title": "Problem Solving - Ratio",
+    "what": "<b>Ratio is a way to compare two or more quantities. It shows how much of one thing there is compared to another.</b>",
+    "tutorial": "<p>Example: If there are 2 apples and 3 oranges, the ratio is 2:3.</p>",
+    "steps": "<ol><li>Understand the given quantities.</li><li>Write the ratio in the form a:b.</li><li>Simplify the ratio if possible.</li><li>Use the ratio to solve word problems.</li></ol>",
     "sections": [
       {
-        "title": "Introduction to Ratios",
-        "what": "This section covers the basic definition of a ratio, different ways to express ratios, and the concept of equivalent ratios.",
-        "tutorial": "<h3>What is a Ratio?</h3><p>A ratio is a way to compare two or more quantities. For example, if you have 3 red apples and 2 green apples, the ratio of red apples to green apples is 3:2.</p><h3>Ways to Write Ratios</h3><ul><li><b>Using a colon:</b> 3:2</li><li><b>As a fraction:</b> 3/2</li><li><b>Using the word 'to':</b> 3 to 2</li></ul><h3>Equivalent Ratios</h3><p>Equivalent ratios represent the same relationship between quantities. For example, 1:2 is equivalent to 2:4 because both express that one quantity is half of the other.</p>",
-        "steps": "<ol><li><b>Define Ratio:</b> Understand that a ratio compares quantities.</li><li><b>Identify Quantities:</b> Determine the specific items or numbers you are comparing.</li><li><b>Choose Notation:</b> Select the most appropriate way to write the ratio (colon, fraction, or 'to').</li><li><b>Simplify (Optional):</b> If possible, simplify the ratio to its simplest form by dividing both parts by their greatest common divisor.</li></ol>",
-        "sections": []
-      },
-      {
-        "title": "Types of Ratios",
-        "what": "This section delves into different classifications of ratios, such as part-to-part, part-to-whole, and rate.",
-        "tutorial": "<h3>Part-to-Part Ratio</h3><p>Compares two distinct parts of a whole. Example: In a class of 15 boys and 10 girls, the ratio of boys to girls is 15:10, which simplifies to 3:2.</p><h3>Part-to-Whole Ratio</h3><p>Compares a part to the entire whole. Example: In the same class, the ratio of boys to total students is 15:25, which simplifies to 3:5.</p><h3>Rate</h3><p>A ratio that compares two quantities with different units. Example: Speed is a rate, comparing distance (miles) to time (hours), like 60 miles/hour.</p>",
-        "steps": "<ol><li><b>Identify the comparison:</b> Determine if you are comparing a part to another part, a part to the whole, or two quantities with different units.</li><li><b>Formulate the Ratio:</b> Write the ratio using the appropriate notation based on its type.</li><li><b>Include Units (for Rates):</b> When dealing with rates, always remember to include the units for both quantities.</li><li><b>Simplify (if applicable):</b> Reduce the ratio to its simplest form.</li></ol>",
-        "sections": []
-      },
-      {
-        "title": "Proportions and Solving Proportions",
-        "what": "This section explains what a proportion is and how to solve for unknown values in a proportion using cross-multiplication.",
-        "tutorial": "<h3>What is a Proportion?</h3><p>A proportion is an equation that states that two ratios are equal. For example, 1/2 = 2/4 is a proportion.</p><h3>Solving Proportions using Cross-Multiplication</h3><p>If you have the proportion a/b = c/d, then ad = bc. This method is called cross-multiplication.</p><h3>Example: Finding an Unknown</h3><p>If 3/x = 9/15, you can cross-multiply: 3 * 15 = 9 * x, which gives 45 = 9x. Dividing both sides by 9, you get x = 5.</p>",
-        "steps": "<ol><li><b>Set up the Proportion:</b> Write the two ratios as an equation, ensuring corresponding quantities are in the same relative positions.</li><li><b>Cross-Multiply:</b> Multiply the numerator of the first ratio by the denominator of the second, and the numerator of the second ratio by the denominator of the first.</li><li><b>Solve the Equation:</b> Isolate the variable to find its value.</li><li><b>Check Your Answer:</b> Substitute the found value back into the original proportion to ensure both sides are equal.</li></ol>",
+        "title": "Understanding Ratios",
+        "what": "<b>This is the basic concept of comparing two values using division or colon notation (e.g., 4:5 or 4 to 5).</b>",
+        "tutorial": "<p>Compare boys and girls in a class: 10 boys and 15 girls = 10:15 or 2:3.</p>",
+        "steps": "<ol><li>Identify the two values.</li><li>Write the ratio in colon form.</li><li>Simplify by dividing both numbers by GCF.</li></ol>",
         "sections": [
           {
-            "title": "Direct Proportion",
-            "what": "Direct proportion describes a relationship where as one quantity increases, the other quantity increases at the same rate, and vice versa.",
-            "tutorial": "<h3>Understanding Direct Proportion</h3><p>If two quantities are directly proportional, their ratio is constant. For example, if you buy more apples, the total cost increases proportionally.</p><h3>Formula:</h3><p>y = kx, where k is the constant of proportionality.</p><h3>Example:</h3><p>If 2 pencils cost $1, how much do 6 pencils cost? Here, the cost is directly proportional to the number of pencils. Ratio: 1/2 = x/6. Solving for x, 2x = 6, so x = $3.</p>",
-            "steps": "<ol><li><b>Identify Directly Proportional Quantities:</b> Determine if one quantity increases or decreases in direct relation to another.</li><li><b>Set up the Proportion:</b> Formulate a proportion where the ratios of corresponding quantities are equal.</li><li><b>Solve for the Unknown:</b> Use cross-multiplication or by finding the constant of proportionality to find the unknown value.</li></ol>",
+            "title": "Simplifying Ratios",
+            "what": "<b>Making the ratio smaller but keeping the same value.</b>",
+            "tutorial": "<p>Example: 12:16 → divide both by 4 → becomes 3:4</p>",
+            "steps": "<ol><li>Find the GCF (Greatest Common Factor).</li><li>Divide both sides of the ratio by the GCF.</li><li>Write the new simplified ratio.</li></ol>",
             "sections": []
           },
           {
-            "title": "Inverse Proportion",
-            "what": "Inverse proportion describes a relationship where as one quantity increases, the other quantity decreases, and vice versa, such that their product remains constant.",
-            "tutorial": "<h3>Understanding Inverse Proportion</h3><p>If two quantities are inversely proportional, their product is constant. For example, if you increase the number of workers on a job, the time it takes to complete the job decreases.</p><h3>Formula:</h3><p>xy = k, or y = k/x, where k is the constant of proportionality.</p><h3>Example:</h3><p>If 2 workers can complete a task in 6 hours, how many hours will it take 4 workers? Here, the number of workers is inversely proportional to the time. 2 * 6 = 4 * x. Solving for x, 12 = 4x, so x = 3 hours.</p>",
-            "steps": "<ol><li><b>Identify Inversely Proportional Quantities:</b> Determine if an increase in one quantity leads to a decrease in another.</li><li><b>Set up the Inverse Relationship:</b> Formulate the equation where the product of the two quantities is constant.</li><li><b>Solve for the Unknown:</b> Use the inverse relationship to find the unknown value.</li></ol>",
+            "title": "Writing Ratios in Different Forms",
+            "what": "<b>Ratios can be written as a:b, a to b, or a/b.</b>",
+            "tutorial": "<p>Example: 5 pens to 2 pencils → 5:2 or 5/2 or 5 to 2</p>",
+            "steps": "<ol><li>Know the three forms of ratio.</li><li>Practice converting between forms.</li><li>Use the form best suited for the problem.</li></ol>",
             "sections": []
           }
         ]
       },
       {
-        "title": "Ratio Word Problems",
-        "what": "This section focuses on applying ratio concepts to solve real-world problems presented in word format.",
-        "tutorial": "<h3>Strategy for Solving Ratio Word Problems</h3><p>Most ratio word problems involve identifying the given ratio, understanding the total or a part of the total, and then using proportions to find unknown quantities.</p><h3>Example: Simple Ratio Word Problem</h3><p>The ratio of apples to oranges in a basket is 3:5. If there are 12 apples, how many oranges are there?</p><p><b>Solution:</b> Let 'A' be apples and 'O' be oranges. We have A:O = 3:5. We are given A = 12. So, 3/5 = 12/O. Cross-multiply: 3 * O = 5 * 12. 3O = 60. O = 20 oranges.</p>",
-        "steps": "<ol><li><b>Read Carefully:</b> Understand the problem and identify the quantities being compared.</li><li><b>Identify the Ratio:</b> Write down the given ratio.</li><li><b>Determine the Known and Unknown:</b> Identify which quantities are given and which need to be found.</li><li><b>Set up a Proportion:</b> Formulate an equation using the given ratio and the known/unknown quantities.</li><li><b>Solve the Proportion:</b> Use cross-multiplication or other methods to find the unknown value.</li><li><b>Check Your Answer:</b> Ensure your answer makes sense in the context of the problem.</li></ol>",
+        "title": "Equivalent Ratios",
+        "what": "<b>These are ratios that show the same relationship, just like equivalent fractions.</b>",
+        "tutorial": "<p>Example: 2:3 is equivalent to 4:6, 6:9, etc.</p>",
+        "steps": "<ol><li>Multiply or divide both sides of a ratio by the same number.</li><li>Check if two ratios are equal by cross-multiplying.</li><li>Simplify to check equivalency.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Solving Ratio Word Problems",
+        "what": "<b>This involves using ratios to solve real-life math problems like sharing, comparing, or scaling.</b>",
+        "tutorial": "<p>Example: If 2:3 is the ratio of red to blue beads and you have 10 red beads, how many blue?</p>",
+        "steps": "<ol><li>Write the given ratio.</li><li>Set up proportion (2:3 = 10:x).</li><li>Use cross multiplication: 2×x = 10×3.</li><li>Solve for x.</li></ol>",
         "sections": [
           {
-            "title": "Dividing a Quantity in a Given Ratio",
-            "what": "This subtopic teaches how to split a total quantity into parts according to a given ratio.",
-            "tutorial": "<h3>Concept:</h3><p>When you need to divide a quantity in a given ratio, first find the total number of 'parts' in the ratio. Then, determine the value of one part.</p><h3>Example:</h3><p>Divide $120 between two friends in the ratio 2:3.</p><p><b>Solution:</b> The total number of parts is 2 + 3 = 5. Value of one part = $120 / 5 = $24. Friend 1 gets 2 * $24 = $48. Friend 2 gets 3 * $24 = $72.</p>",
-            "steps": "<ol><li><b>Sum the Ratio Parts:</b> Add all the numbers in the given ratio to find the total number of parts.</li><li><b>Find the Value of One Part:</b> Divide the total quantity by the sum of the ratio parts.</li><li><b>Calculate Each Share:</b> Multiply the value of one part by each number in the ratio to find the individual shares.</li><li><b>Verify Total:</b> Add up the individual shares to ensure they sum back to the original total quantity.</li></ol>",
+            "title": "Part-to-Part and Part-to-Whole Ratios",
+            "what": "<b>Part-to-Part compares two parts; Part-to-Whole compares a part to the total.</b>",
+            "tutorial": "<p>Example: 3 boys and 5 girls. Part-to-part = 3:5. Part-to-whole = 3:8 (boys to total).</p>",
+            "steps": "<ol><li>Identify the parts.</li><li>Add parts for whole if needed.</li><li>Write the correct form of the ratio.</li></ol>",
             "sections": []
           },
           {
-            "title": "Ratios with Three or More Quantities",
-            "what": "This section extends ratio problems to involve more than two quantities, maintaining proportional relationships.",
-            "tutorial": "<h3>Concept:</h3><p>Ratios can compare more than two quantities, such as A:B:C. The principles of proportions still apply.</p><h3>Example:</h3><p>The ratio of red, blue, and green marbles in a bag is 2:3:4. If there are 18 blue marbles, how many red and green marbles are there?</p><p><b>Solution:</b> Let the number of red, blue, and green marbles be 2x, 3x, and 4x respectively. We know 3x = 18, so x = 6. Red marbles = 2 * 6 = 12. Green marbles = 4 * 6 = 24.</p>",
-            "steps": "<ol><li><b>Understand the Combined Ratio:</b> Recognize that all parts are relative to a common multiplier.</li><li><b>Identify the Known Part:</b> Find the quantity for which the actual value is provided.</li><li><b>Determine the Common Multiplier:</b> Divide the known actual value by its corresponding ratio part to find the multiplier (often represented as 'x').</li><li><b>Calculate Unknown Parts:</b> Multiply the common multiplier by each of the other ratio parts to find their actual values.</li></ol>",
+            "title": "Using Ratio Tables",
+            "what": "<b>Tables can help solve ratio problems by scaling up or down values.</b>",
+            "tutorial": "<p>Example Table:<br>2:3 = 4:6 = 6:9</p>",
+            "steps": "<ol><li>Write the original ratio.</li><li>Multiply or divide to scale up/down.</li><li>Use the table to find missing values.</li></ol>",
             "sections": []
           }
         ]
       },
       {
-        "title": "Applications of Ratios in Real Life",
-        "what": "This section explores various real-world scenarios where ratios are commonly used, highlighting their practical importance.",
-        "tutorial": "<h3>Cooking and Recipes</h3><p>Ratios are essential for scaling recipes up or down. If a recipe calls for 1 cup of sugar to 2 cups of flour (1:2), you can adjust the amounts proportionally to make more or less.</p><h3>Maps and Scale Drawings</h3><p>The scale on a map (e.g., 1:100,000) is a ratio representing the relationship between a distance on the map and the actual distance on the ground.</p><h3>Finance (e.g., Debt-to-Income Ratio)</h3><p>Financial ratios are used to assess financial health. A debt-to-income ratio compares your monthly debt payments to your gross monthly income.</p><h3>Science (e.g., Chemical Formulas)</h3><p>Chemical formulas use ratios to show the proportion of elements in a compound (e.g., H2O has a 2:1 ratio of hydrogen to oxygen).</p>",
-        "steps": "<ol><li><b>Observe a Real-World Situation:</b> Look for situations where quantities are compared or scaled.</li><li><b>Identify the Ratio:</b> Extract the underlying ratio that governs the relationship between the quantities.</li><li><b>Apply Ratio Principles:</b> Use your understanding of ratios and proportions to solve problems or make decisions in that context.</li><li><b>Interpret Results:</b> Translate your mathematical findings back into the real-world scenario.</li></ol>",
-        "sections": []
+        "title": "Proportions and Cross Multiplication",
+        "what": "<b>A proportion is an equation with two equal ratios. Cross multiplication helps solve for missing values.</b>",
+        "tutorial": "<p>If 2/3 = x/9, cross multiply: 2×9 = 3×x → x = 6</p>",
+        "steps": "<ol><li>Write the ratio equation.</li><li>Cross multiply the terms.</li><li>Solve for the unknown.</li></ol>",
+        "sections": [
+          {
+            "title": "Solving for the Unknown in a Ratio",
+            "what": "<b>Use algebra or logic to find the missing term.</b>",
+            "tutorial": "<p>If 5:x = 10:20 → Cross multiply → 5×20 = 10×x → x = 10</p>",
+            "steps": "<ol><li>Write the proportion with x.</li><li>Multiply across the equals sign.</li><li>Solve for x.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Real-life Applications of Ratios",
+        "what": "<b>Ratios are used in recipes, maps, business, mixing colors, and more.</b>",
+        "tutorial": "<p>In a recipe, if the ratio of sugar to flour is 1:2 and you use 2 cups of sugar, use 4 cups flour.</p>",
+        "steps": "<ol><li>Understand what the ratio represents.</li><li>Scale the ratio based on the situation.</li><li>Apply in solving practical tasks.</li></ol>",
+        "sections": [
+          {
+            "title": "Ratios in Recipes",
+            "what": "<b>Used to keep the right balance of ingredients.</b>",
+            "tutorial": "<p>Example: 1 cup milk : 2 cups flour</p>",
+            "steps": "<ol><li>Identify the ratio in recipe.</li><li>Multiply if you're doubling the recipe.</li><li>Maintain same proportion in all ingredients.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Ratios in Maps and Scale Drawings",
+            "what": "<b>Used to represent real-life distances in smaller units.</b>",
+            "tutorial": "<p>1 cm = 10 km, so 5 cm = 50 km</p>",
+            "steps": "<ol><li>Find the map scale ratio.</li><li>Multiply measurement by the scale.</li><li>Get actual real-life size.</li></ol>",
+            "sections": []
+          }
+        ]
       }
     ]
   }
+  

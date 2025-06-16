@@ -1,0 +1,85 @@
+{
+  "title": "Identifying Error",
+  "what": "<b>Identifying error</b> means finding mistakes in grammar, usage, structure, punctuation, or word choice in a sentence or paragraph.",
+  "tutorial": "<p>Example: She <u>go</u> to school every day. ❌<br>Correct: She <u>goes</u> to school every day. ✅</p>",
+  "steps": "<ol><li>Read the sentence carefully.</li><li>Check the grammar rules (subject-verb, tenses, etc.).</li><li>Look for confusing or awkward words.</li><li>Try replacing or correcting the wrong part.</li><li>Reread the sentence to see if it makes sense.</li></ol>",
+  "sections": [
+    {
+      "title": "Subject-Verb Agreement Errors",
+      "what": "<b>These errors</b> happen when the subject and verb do not match in number (singular/plural).",
+      "tutorial": "<p>Wrong: The dog <u>run</u> fast.<br>Correct: The dog <u>runs</u> fast.</p>",
+      "steps": "<ol><li>Find the subject.</li><li>Check if it’s singular or plural.</li><li>Match it with the correct verb form.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Verb Tense Errors",
+      "what": "<b>Tense errors</b> happen when the verb does not match the time of action (past, present, future).",
+      "tutorial": "<p>Wrong: She <u>eat</u> lunch yesterday.<br>Correct: She <u>ate</u> lunch yesterday.</p>",
+      "steps": "<ol><li>Check time indicators (yesterday, now, tomorrow).</li><li>Use the correct verb tense.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Pronoun-Antecedent Errors",
+      "what": "<b>These errors</b> happen when a pronoun doesn’t agree with the noun it replaces.",
+      "tutorial": "<p>Wrong: Every student must bring <u>their</u> pencil.<br>Correct: Every student must bring <u>his or her</u> pencil.</p>",
+      "steps": "<ol><li>Find the noun being replaced (antecedent).</li><li>Make sure the pronoun agrees in number and gender.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Modifiers Errors",
+      "what": "<b>Modifier errors</b> happen when descriptive words or phrases are misplaced or unclear.",
+      "tutorial": "<p>Wrong: Running fast, the finish line was crossed by the athlete.<br>Correct: Running fast, <u>the athlete</u> crossed the finish line.</p>",
+      "steps": "<ol><li>Identify the word being described.</li><li>Place the modifier close to that word.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Parallelism Errors",
+      "what": "<b>Parallel structure</b> means using the same pattern of words in a list or comparison. Errors happen when the forms are different.",
+      "tutorial": "<p>Wrong: She likes dancing, to sing, and painting.<br>Correct: She likes <u>dancing</u>, <u>singing</u>, and <u>painting</u>.</p>",
+      "steps": "<ol><li>Look for lists or comparisons.</li><li>Check if the grammar structure matches.</li><li>Fix unmatched forms.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Preposition Errors",
+      "what": "<b>Preposition errors</b> happen when the wrong preposition is used in a sentence.",
+      "tutorial": "<p>Wrong: She is good <u>in</u> dancing.<br>Correct: She is good <u>at</u> dancing.</p>",
+      "steps": "<ol><li>Look at the verb and object.</li><li>Use a preposition that makes logical and idiomatic sense.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Punctuation Errors",
+      "what": "<b>Punctuation errors</b> include wrong or missing commas, periods, colons, or apostrophes.",
+      "tutorial": "<p>Wrong: I like apples oranges and bananas.<br>Correct: I like <u>apples, oranges,</u> and bananas.</p>",
+      "steps": "<ol><li>Read the sentence out loud.</li><li>Pause where commas or punctuation are needed.</li><li>Use correct marks based on sentence type.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Word Choice Errors",
+      "what": "<b>Word choice errors</b> happen when the wrong word is used, especially confusing homonyms or idioms.",
+      "tutorial": "<p>Wrong: I accept your apology.<br>Correct: I <u>except</u> your apology. ❌<br>Correction: I <u>accept</u> your apology. ✅</p>",
+      "steps": "<ol><li>Check for confusing words.</li><li>Use a dictionary if unsure.</li><li>Replace with the correct one.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Sentence Fragment Errors",
+      "what": "<b>Fragments</b> are incomplete thoughts missing subject or verb.",
+      "tutorial": "<p>Wrong: Because I was hungry.<br>Correct: I ate lunch because I was hungry.</p>",
+      "steps": "<ol><li>Check if sentence has subject and verb.</li><li>Combine fragments with full sentences.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Run-on Sentence Errors",
+      "what": "<b>Run-on sentences</b> combine two or more complete thoughts without proper punctuation or conjunctions.",
+      "tutorial": "<p>Wrong: I woke up I brushed my teeth.<br>Correct: I woke up, and I brushed my teeth.</p>",
+      "steps": "<ol><li>Break the sentence into parts.</li><li>Add conjunctions or proper punctuation.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Double Negatives",
+      "what": "<b>Double negatives</b> are two negative words in the same sentence which cancel each other out and confuse meaning.",
+      "tutorial": "<p>Wrong: I don’t need no help.<br>Correct: I don’t need <u>any</u> help.</p>",
+      "steps": "<ol><li>Find all negative words like 'not', 'no', 'nothing'.</li><li>Keep only one negative word per idea.</li></ol>",
+      "sections": []
+    }
+  ]
+}

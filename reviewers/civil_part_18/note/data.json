@@ -1,0 +1,81 @@
+{
+  "title": "Peace, Human Rights & RA 6713",
+  "what": "<b>This covers</b> principles of peace and human rights in public service, combined with RA 6713 ethics standards for officials in the Philippines.",
+  "tutorial": "<p>Learn how public servants support peace and protect human rights while following ethical standards.</p>",
+  "steps": "<ol><li>Study core human rights and peace concepts.</li><li>Understand RA 6713 norms of conduct.</li><li>See how they work together in government.</li></ol>",
+  "sections": [
+    {
+      "title": "Peace Concepts in Public Service",
+      "what": "<b>Peace concepts</b> mean maintaining public order, reducing conflict, and promoting social harmony.",
+      "tutorial": "<p>Example: A barangay official mediates during a community dispute to restore peace.</p>",
+      "steps": "<ol><li>Know what peace means in society.</li><li>Identify government roles in promoting peace.</li><li>Study real examples of peace-building work.</li></ol>",
+      "sections": [
+        {
+          "title": "Community Mediation",
+          "what": "<b>Mediation</b> is resolving disputes by bringing parties together to discuss solutions.",
+          "tutorial": "<p>Example: Two neighbors have a noise dispute; the barangay council helps them talk and agree.</p>",
+          "steps": "<ol><li>Find the conflict.</li><li>Gather both parties to talk calmly.</li><li>Help them make a fair agreement.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Conflict Resolution",
+          "what": "<b>Conflict resolution</b> includes strategies to handle disagreements and prevent violence.",
+          "tutorial": "<p>Example: Police and community leaders train together to prevent clashes during protests.</p>",
+          "steps": "<ol><li>Recognize potential conflict areas.</li><li>Create strategies to prevent or manage conflict.</li><li>Act early to stop escalation.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Human Rights in Public Service",
+      "what": "<b>Human rights</b> are basic rights every person has, like freedom, dignity, and safety.",
+      "tutorial": "<p>Example: A government clinic ensures no one is denied service based on race or beliefs.</p>",
+      "steps": "<ol><li>Learn major human rights (e.g., speech, religion, equality).</li><li>Know public service duties to protect them.</li><li>Ensure policies respect these rights.</li></ol>",
+      "sections": [
+        {
+          "title": "Non-Discrimination",
+          "what": "<b>Non-discrimination</b> ensures fair treatment for all, no matter their background.",
+          "tutorial": "<p>Example: A social worker gives assistance equally to everyone regardless of religion.</p>",
+          "steps": "<ol><li>Identify groups often excluded.</li><li>Act with fairness and respect to all.</li><li>Challenge unfair treatment when you see it.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Right to Information",
+          "what": "<b>Right to information</b> ensures people can access government documents easily.",
+          "tutorial": "<p>Example: Providing clear procedure guides at public offices.</p>",
+          "steps": "<ol><li>Make essential documents available during office hours.</li><li>Explain policies in plain language.</li><li>Respond quickly to requests.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "RA 6713 Ethics Standards",
+      "what": "<b>RA 6713</b> sets strong ethical norms to ensure public officials serve with integrity, fairness, and accountability :contentReference[oaicite:1]{index=1}.",
+      "tutorial": "<p>Officials must avoid conflicts of interest, follow professionalism, and live simply.</p>",
+      "steps": "<ol><li>Read the declared policies in the Act.</li><li>Learn the 8 core norms of conduct.</li><li>Apply them in daily government service.</li></ol>",
+      "sections": [
+        {
+          "title": "Norms of Conduct",
+          "what": "<b>The 8 norms</b> guide how officials should act ethically :contentReference[oaicite:2]{index=2}.",
+          "tutorial": "<p>Includes fidelity to public interest, professionalism, justice, neutrality, responsiveness, patriotism, democracy, and simple living.</p>",
+          "steps": "<ol><li>Memorize each norm.</li><li>Reflect on ways to live them.</li><li>Create habits that reinforce them.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Prohibited Acts and Responsibilities",
+          "what": "<b>This covers</b> duties like submitting SALNs, avoiding gifts, and duties to serve the public :contentReference[oaicite:3]{index=3}.",
+          "tutorial": "<p>Example: You file SALN every April, don’t accept non-nominal gifts, and respond to public requests within 15 working days.</p>",
+          "steps": "<ol><li>Gather and honestly declare your assets, debts, and interests.</li><li>Refuse gifts that may influence your decisions.</li><li>Respond to public letters within 15 working days.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Integration of Peace, Human Rights, and Ethics",
+      "what": "<b>This shows</b> how peace-building and human rights promotion connect with ethical public service.",
+      "tutorial": "<p>Example: A mayor resolving a land dispute must act fairly (human rights), support community reconciliation (peace), and follow neutrality and justice (RA 6713).</p>",
+      "steps": "<ol><li>Recognize the roles of peace and rights in your public duty.</li><li>Use RA 6713 norms when handling such cases.</li><li>Ensure your actions are fair, transparent, and respectful.</li></ol>",
+      "sections": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Sentence Structure",
+  "what": "<b>Sentence structure</b> refers to how words are arranged to form sentences. It helps in making sentences clear, logical, and grammatically correct.",
+  "tutorial": "<b>Example:</b><br><p>I love pizza.</p><br><p>She runs fast.</p>",
+  "steps": "<ol><li>Start with a subject.</li><li>Add a verb or action.</li><li>Include an object or complement if needed.</li><li>End with proper punctuation.</li></ol>",
+  "sections": [
+    {
+      "title": "Types of Sentences",
+      "what": "<b>Types of sentences</b> show the purpose or tone of the sentence: statements, questions, commands, and exclamations.",
+      "tutorial": "<p>1. I am happy. (Declarative)</p><p>2. Are you okay? (Interrogative)</p><p>3. Sit down. (Imperative)</p><p>4. Wow! (Exclamatory)</p>",
+      "steps": "<ol><li>Know the 4 sentence types.</li><li>Use a period for declarative and imperative.</li><li>Use a question mark for interrogative.</li><li>Use an exclamation mark for exclamatory.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Sentence Components",
+      "what": "<b>Sentence components</b> are the building blocks: subject, verb, object, complement, modifiers.",
+      "tutorial": "<p>John (subject) eats (verb) pizza (object).</p>",
+      "steps": "<ol><li>Identify the subject (who/what).</li><li>Add the verb (what is happening).</li><li>Add object or complement if needed.</li><li>Use modifiers for more detail.</li></ol>",
+      "sections": [
+        {
+          "title": "Subject",
+          "what": "<b>The subject</b> is who or what the sentence is about.",
+          "tutorial": "<p>Maria runs fast. ('Maria' is the subject)</p>",
+          "steps": "<ol><li>Find the doer of the action.</li><li>Make sure it's a noun or pronoun.</li><li>Keep it before the verb.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Predicate",
+          "what": "<b>The predicate</b> tells what the subject does or is.",
+          "tutorial": "<p>Maria <u>runs fast</u>. ('runs fast' is the predicate)</p>",
+          "steps": "<ol><li>Find the action or state.</li><li>Include all words related to the action.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Object",
+          "what": "<b>The object</b> receives the action of the verb.",
+          "tutorial": "<p>He kicked <u>the ball</u>.</p>",
+          "steps": "<ol><li>Find the verb.</li><li>Ask 'what?' or 'whom?'</li><li>The answer is the object.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Complement",
+          "what": "<b>A complement</b> gives more info about the subject or object.",
+          "tutorial": "<p>She is <u>a teacher</u>.</p>",
+          "steps": "<ol><li>Use linking verbs like 'is', 'are', 'seems'.</li><li>Add a noun or adjective after it.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Modifiers",
+          "what": "<b>Modifiers</b> describe or give more detail to the sentence.",
+          "tutorial": "<p>The <u>red</u> car drives <u>fast</u>.</p>",
+          "steps": "<ol><li>Add adjectives before nouns.</li><li>Add adverbs to describe verbs.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Sentence Patterns",
+      "what": "<b>Sentence patterns</b> show how parts of a sentence are ordered.",
+      "tutorial": "<p>Pattern: Subject + Verb + Object<br>Example: She plays guitar.</p>",
+      "steps": "<ol><li>Learn common patterns like S-V, S-V-O, S-LV-C.</li><li>Try building each with examples.</li></ol>",
+      "sections": [
+        {
+          "title": "Simple Sentence",
+          "what": "<b>A simple sentence</b> has one independent clause.",
+          "tutorial": "<p>I like coffee.</p>",
+          "steps": "<ol><li>Use one subject.</li><li>Use one verb or action.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Compound Sentence",
+          "what": "<b>A compound sentence</b> joins two independent clauses.",
+          "tutorial": "<p>I like tea, and she likes juice.</p>",
+          "steps": "<ol><li>Write two complete sentences.</li><li>Join with a conjunction like 'and', 'but'.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Complex Sentence",
+          "what": "<b>A complex sentence</b> joins one independent and one dependent clause.",
+          "tutorial": "<p>Because it was late, I went home.</p>",
+          "steps": "<ol><li>Write a complete sentence.</li><li>Add a dependent clause using 'because', 'although', etc.</li></ol>",
+          "sections": []
+        },
+        {
+          "title": "Compound-Complex Sentence",
+          "what": "<b>This sentence</b> has at least two independent clauses and one dependent clause.",
+          "tutorial": "<p>Although I was tired, I finished my work, and I went to bed.</p>",
+          "steps": "<ol><li>Write two full sentences.</li><li>Add one dependent clause.</li><li>Use commas and conjunctions.</li></ol>",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "title": "Sentence Fragments and Run-ons",
+      "what": "<b>Fragments</b> are incomplete sentences. <b>Run-ons</b> have too many ideas without proper punctuation.",
+      "tutorial": "<p>Fragment: Because I was late.<br>Run-on: I was late I missed the bus.</p>",
+      "steps": "<ol><li>Check if your sentence has a subject and verb.</li><li>Use punctuation or conjunctions to separate complete ideas.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Subject-Verb Agreement",
+      "what": "<b>Subject-verb agreement</b> means the verb must match the subject in number (singular/plural).",
+      "tutorial": "<p>He <u>runs</u>. (singular)<br>They <u>run</u>. (plural)</p>",
+      "steps": "<ol><li>Find the subject.</li><li>Choose the verb that matches in number.</li><li>Use 's' for third person singular.</li></ol>",
+      "sections": []
+    },
+    {
+      "title": "Sentence Clarity and Style",
+      "what": "<b>Sentence clarity</b> is making your sentence easy to understand. <b>Style</b> is how interesting and smooth your sentence sounds.",
+      "tutorial": "<p>Unclear: She saw the man with a telescope.<br>Clear: Using a telescope, she saw the man.</p>",
+      "steps": "<ol><li>Avoid ambiguity.</li><li>Use active voice.</li><li>Keep sentences short and direct.</li></ol>",
+      "sections": []
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+    "title": "Vocabulary",
+    "what": "<b>Vocabulary</b> means all the words a person knows or uses. It helps us understand and express ideas better.",
+    "tutorial": "<p>Example: If you know the word 'generous', you can say 'My teacher is generous' instead of 'My teacher gives a lot'.</p>",
+    "steps": "<ol><li>Learn new words every day.</li><li>Use them in a sentence.</li><li>Group words by topics like food, school, feelings, etc.</li><li>Practice with flashcards or games.</li></ol>",
+    "sections": [
+      {
+        "title": "Types of Vocabulary",
+        "what": "<b>Vocabulary</b> can be learned in different ways based on how we use or hear words.",
+        "tutorial": "<p>There are 4 types: Listening, Speaking, Reading, and Writing vocabulary.</p>",
+        "steps": "<ol><li>Know the four types of vocabulary.</li><li>Identify how you learn best (by reading, hearing, speaking).</li><li>Practice each type regularly.</li></ol>",
+        "sections": [
+          {
+            "title": "Listening Vocabulary",
+            "what": "<b>Words you understand when you hear them.</b>",
+            "tutorial": "<p>Example: You hear 'delicious' and know it means something tastes good.</p>",
+            "steps": "<ol><li>Listen to stories or songs.</li><li>Ask what unknown words mean.</li><li>Use those words in speaking later.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Speaking Vocabulary",
+            "what": "<b>Words you use when you talk.</b>",
+            "tutorial": "<p>Example: You say 'I’m excited!' when you feel happy and nervous.</p>",
+            "steps": "<ol><li>Practice talking with others.</li><li>Try to use new words in daily conversation.</li><li>Correct yourself if needed.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Reading Vocabulary",
+            "what": "<b>Words you understand when you read them.</b>",
+            "tutorial": "<p>Example: When you read 'gigantic', you know it means very big.</p>",
+            "steps": "<ol><li>Read books or articles daily.</li><li>Underline new words.</li><li>Check the dictionary or context.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Writing Vocabulary",
+            "what": "<b>Words you use when writing something.</b>",
+            "tutorial": "<p>Example: Writing ‘beautiful’ in a poem or essay.</p>",
+            "steps": "<ol><li>Write journals or short stories.</li><li>Use new words you’ve learned.</li><li>Edit to replace simple words with better vocabulary.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Ways to Learn Vocabulary",
+        "what": "<b>There are many fun and effective ways</b> to learn new words.",
+        "tutorial": "<p>Example: Using flashcards, songs, games, and reading are all great methods.</p>",
+        "steps": "<ol><li>Choose one or more fun ways to learn.</li><li>Be consistent—do it daily.</li><li>Track your progress.</li></ol>",
+        "sections": [
+          {
+            "title": "Using Flashcards",
+            "what": "<b>Flashcards help you memorize new words fast.</b>",
+            "tutorial": "<p>Write the word on one side, the meaning on the other.</p>",
+            "steps": "<ol><li>Prepare index cards or use an app.</li><li>Write words and meanings.</li><li>Review them every day.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Using Word Games",
+            "what": "<b>Games like Word Search, Scrabble, or crossword puzzles help vocabulary.</b>",
+            "tutorial": "<p>Play games with friends or online to test your knowledge.</p>",
+            "steps": "<ol><li>Pick a word game.</li><li>Play with new words only.</li><li>Check and learn words you didn’t know.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Using Context Clues",
+            "what": "<b>Guess the word's meaning by looking at the sentence around it.</b>",
+            "tutorial": "<p>Example: 'He is very frugal, never spending too much money.' (Frugal = not spending much)</p>",
+            "steps": "<ol><li>Read the sentence carefully.</li><li>Look for hints in the sentence.</li><li>Guess the meaning before checking a dictionary.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Using a Personal Dictionary",
+            "what": "<b>A notebook where you write new words and their meanings.</b>",
+            "tutorial": "<p>Helps you review and remember better over time.</p>",
+            "steps": "<ol><li>Buy a small notebook.</li><li>Write down new words daily.</li><li>Review every week.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Word Forms and Usage",
+        "what": "<b>Words change depending on how they are used.</b>",
+        "tutorial": "<p>Example: 'Run' (verb), 'Runner' (noun), 'Running' (gerund or continuous verb)</p>",
+        "steps": "<ol><li>Learn root words first.</li><li>Study how suffixes or prefixes change meaning or form.</li><li>Practice using different forms in a sentence.</li></ol>",
+        "sections": [
+          {
+            "title": "Nouns",
+            "what": "<b>Words that name people, places, things, or ideas.</b>",
+            "tutorial": "<p>Example: 'Teacher', 'City', 'Phone'</p>",
+            "steps": "<ol><li>List common nouns.</li><li>Group by types (person, place, etc.).</li><li>Use in sample sentences.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Verbs",
+            "what": "<b>Words that show actions or states.</b>",
+            "tutorial": "<p>Example: 'Run', 'Think', 'Feel'</p>",
+            "steps": "<ol><li>Make a list of common verbs.</li><li>Learn their past and present forms.</li><li>Practice in different tenses.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Adjectives",
+            "what": "<b>Words that describe nouns.</b>",
+            "tutorial": "<p>Example: 'Happy', 'Blue', 'Tall'</p>",
+            "steps": "<ol><li>List adjectives that describe feelings, colors, sizes.</li><li>Use them to describe people or things around you.</li><li>Practice making comparisons (tall, taller, tallest).</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Adverbs",
+            "what": "<b>Words that describe verbs, adjectives, or other adverbs.</b>",
+            "tutorial": "<p>Example: 'Quickly', 'Very', 'Happily'</p>",
+            "steps": "<ol><li>Identify the action word (verb).</li><li>Add an adverb to describe how the action is done.</li><li>Practice placing adverbs in a sentence.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Vocabulary Building Techniques",
+        "what": "<b>Smart ways to grow your word bank daily.</b>",
+        "tutorial": "<p>Do a 'Word of the Day', join spelling contests, and read often.</p>",
+        "steps": "<ol><li>Choose a method to learn new words.</li><li>Stick to it every day.</li><li>Track new words and use them in your writing or speech.</li></ol>",
+        "sections": [
+          {
+            "title": "Root Words",
+            "what": "<b>Base words from which other words are made.</b>",
+            "tutorial": "<p>Example: 'Bio' = Life (Biology, Biography)</p>",
+            "steps": "<ol><li>List common roots.</li><li>Identify how they combine with other parts.</li><li>Guess new words by analyzing root meanings.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Affixes (Prefixes and Suffixes)",
+            "what": "<b>Letters added to the start (prefix) or end (suffix) of a word to change its meaning.</b>",
+            "tutorial": "<p>Prefix: 'Unhappy' = Not happy<br>Suffix: 'Careless' = Without care</p>",
+            "steps": "<ol><li>Make two columns for prefixes and suffixes.</li><li>List their meanings.</li><li>Combine with root words and test meanings.</li></ol>",
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+  

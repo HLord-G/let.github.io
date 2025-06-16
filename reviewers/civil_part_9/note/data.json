@@ -1,0 +1,88 @@
+{
+    "title": "Sentence Completion",
+    "what": "<b>Sentence completion</b> means filling in the blank(s) in a sentence with the correct word or phrase that fits the meaning and grammar.",
+    "tutorial": "<p>Example: The sun is ______ in the sky.<br>Correct: The sun is <u>bright</u> in the sky.</p>",
+    "steps": "<ol><li>Read the whole sentence carefully.</li><li>Look at the meaning and tone.</li><li>Guess what kind of word is missing (noun, verb, adjective, etc.).</li><li>Try each option if given choices.</li><li>Check if the sentence makes complete sense.</li></ol>",
+    "sections": [
+      {
+        "title": "Vocabulary-Based Completion",
+        "what": "<b>This type</b> of sentence completion needs you to choose the best word that fits the meaning of the sentence.",
+        "tutorial": "<p>Example: She was so ______ that everyone liked her.<br>Correct: She was so <u>friendly</u> that everyone liked her.</p>",
+        "steps": "<ol><li>Understand the meaning of the sentence.</li><li>Choose the word that makes the sentence logical.</li><li>Avoid words that change the sentence meaning too much.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Grammar-Based Completion",
+        "what": "<b>Focuses</b> on correct grammar usage, like verb tense, agreement, or pronouns.",
+        "tutorial": "<p>Example: She ______ to the store yesterday.<br>Correct: She <u>went</u> to the store yesterday.</p>",
+        "steps": "<ol><li>Look at keywords (like time indicators).</li><li>Choose the right verb form or grammar rule.</li></ol>",
+        "sections": [
+          {
+            "title": "Subject-Verb Agreement",
+            "what": "<b>Ensures</b> that the subject and verb match in number.",
+            "tutorial": "<p>Example: The boy ______ fast.<br>Correct: The boy <u>runs</u> fast.</p>",
+            "steps": "<ol><li>Check if the subject is singular or plural.</li><li>Match with correct verb form.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Verb Tense",
+            "what": "<b>Makes sure</b> the verb is in the correct time form.",
+            "tutorial": "<p>Example: They ______ football last weekend.<br>Correct: They <u>played</u> football last weekend.</p>",
+            "steps": "<ol><li>Look for time clues (like yesterday, now).</li><li>Use the proper tense for the action.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Pronouns",
+            "what": "<b>Checks</b> if the pronoun fits and agrees with the noun.",
+            "tutorial": "<p>Example: Anna lost ______ keys.<br>Correct: Anna lost <u>her</u> keys.</p>",
+            "steps": "<ol><li>Identify the noun the pronoun replaces.</li><li>Use correct gender or number.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Context Clue Completion",
+        "what": "<b>Uses hints</b> in the sentence to figure out the missing word.",
+        "tutorial": "<p>Example: He was very tired, so he went to ______.<br>Correct: He was very tired, so he went to <u>sleep</u>.</p>",
+        "steps": "<ol><li>Look for hint words around the blank.</li><li>Guess what would logically complete the sentence.</li></ol>",
+        "sections": [
+          {
+            "title": "Synonyms and Antonyms",
+            "what": "<b>Use meaning clues</b> to help choose the correct word.",
+            "tutorial": "<p>Example: She is very <u>generous</u>, the opposite of <u>stingy</u>.<br>Blank: generous</p>",
+            "steps": "<ol><li>Check for words that suggest similarity or contrast.</li><li>Choose a word with the correct relation.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Cause and Effect Clues",
+            "what": "<b>Look</b> for cause or result in the sentence.",
+            "tutorial": "<p>Example: It was raining, so she took her ______.<br>Correct: It was raining, so she took her <u>umbrella</u>.</p>",
+            "steps": "<ol><li>Find the cause or effect in the sentence.</li><li>Guess what would logically happen.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Examples and Explanations",
+            "what": "<b>Clues</b> may be explained by other words in the sentence.",
+            "tutorial": "<p>Example: She likes citrus fruits such as ______.<br>Correct: She likes citrus fruits such as <u>oranges</u>.</p>",
+            "steps": "<ol><li>Look for words like “such as”, “for example”, “like”.</li><li>Choose a word that matches the category or idea.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Logic-Based Completion",
+        "what": "<b>Focuses</b> on sentence meaning and logical flow.",
+        "tutorial": "<p>Example: He studied hard, ______ he passed.<br>Correct: He studied hard, <u>so</u> he passed.</p>",
+        "steps": "<ol><li>Understand the logic of the sentence.</li><li>Use connecting words (so, but, because, etc.) correctly.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Two-Blank Completion",
+        "what": "<b>Sentences</b> with two missing parts; both must work together in grammar and meaning.",
+        "tutorial": "<p>Example: She is ______ and ______, which is why many admire her.<br>Correct: She is <u>kind</u> and <u>intelligent</u>.</p>",
+        "steps": "<ol><li>Read both blanks as one idea.</li><li>Check that the words match each other in meaning and form.</li><li>Test all choices if given.</li></ol>",
+        "sections": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,81 @@
+{
+    "title": "Logical Analysis Conclusion",
+    "what": "<b>Logical Analysis Conclusion</b> is the skill of evaluating information or arguments to decide if a conclusion is valid, based on reasoning and evidence.",
+    "tutorial": "<p>If all cats are animals, and Luna is a cat, then Luna is an animal. This is an example of a valid logical conclusion.</p>",
+    "steps": "<ol><li>Understand the given statements (premises).</li><li>Check if the conclusion follows logically.</li><li>Use common logic rules to test it.</li><li>Decide if the conclusion is valid or invalid.</li></ol>",
+    "sections": [
+      {
+        "title": "Understanding Premises and Conclusions",
+        "what": "<b>Premises</b> are the statements that give support or evidence. The <b>conclusion</b> is the result or idea drawn from those premises.",
+        "tutorial": "<p>Premise 1: All dogs bark.<br>Premise 2: Max is a dog.<br><b>Conclusion:</b> Max barks.</p>",
+        "steps": "<ol><li>Identify the premises in a sentence or paragraph.</li><li>Find the conclusion (usually follows 'therefore', 'so').</li><li>Check if the conclusion is based on the premises.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Types of Logical Reasoning",
+        "what": "<b>Logical reasoning</b> includes different methods like <b>deductive</b> and <b>inductive</b> reasoning to reach conclusions.",
+        "tutorial": "<p><b>Deductive:</b> If A = B and B = C, then A = C.<br><b>Inductive:</b> Every dog I met has barked. So, all dogs bark. (but not 100% sure)</p>",
+        "steps": "<ol><li>Choose if the logic is general to specific (deductive) or specific to general (inductive).</li><li>Check if the reasoning is strong and makes sense.</li><li>Use real-life examples to practice both types.</li></ol>",
+        "sections": [
+          {
+            "title": "Deductive Reasoning",
+            "what": "<b>Deductive reasoning</b> starts from general truths and moves to a specific conclusion that must be true.",
+            "tutorial": "<p>All birds have feathers. A parrot is a bird. So, a parrot has feathers.</p>",
+            "steps": "<ol><li>State a general rule (major premise).</li><li>Give a specific case (minor premise).</li><li>Form the conclusion that follows logically.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Inductive Reasoning",
+            "what": "<b>Inductive reasoning</b> uses specific examples to make a general guess or pattern.",
+            "tutorial": "<p>Bee stings hurt. Wasp stings hurt. Probably, insect stings hurt.</p>",
+            "steps": "<ol><li>List specific examples.</li><li>Identify the pattern or similarity.</li><li>Make a general conclusion based on the examples.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Evaluating Validity and Soundness",
+        "what": "<b>Validity</b> means the conclusion follows the logic, even if the info is false. <b>Soundness</b> means it's both valid and true.",
+        "tutorial": "<p>Valid but not sound:<br>All fish can fly. Goldfish is a fish. So, goldfish can fly. (valid but false)</p>",
+        "steps": "<ol><li>Check if the conclusion logically follows (validity).</li><li>Check if the premises are actually true (soundness).</li><li>Decide if the argument is valid, sound, both, or neither.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Common Logical Fallacies",
+        "what": "<b>Logical fallacies</b> are errors in reasoning that lead to weak or false conclusions.",
+        "tutorial": "<p>Example:<br><b>Ad Hominem:</b> You’re wrong because you’re not smart.<br><b>Strawman:</b> You said we should eat less meat, so you hate farmers.</p>",
+        "steps": "<ol><li>Learn the common types of fallacies.</li><li>Spot faulty logic in arguments or debates.</li><li>Avoid using fallacies in your own thinking.</li></ol>",
+        "sections": [
+          {
+            "title": "Ad Hominem",
+            "what": "<b>Ad hominem</b> is when you attack the person, not their argument.",
+            "tutorial": "<p>You can’t believe what she says about climate change—she failed science class.</p>",
+            "steps": "<ol><li>Look for attacks on the person, not the idea.</li><li>Focus on the argument itself, not who said it.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Strawman",
+            "what": "<b>Strawman</b> is when someone misrepresents another’s argument to make it easier to attack.",
+            "tutorial": "<p>You said we should save water. So you want us to never bathe again?</p>",
+            "steps": "<ol><li>Identify if the argument is twisted or exaggerated.</li><li>Compare the real argument with how it was changed.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "False Cause",
+            "what": "<b>False cause</b> happens when someone thinks one thing caused another just because it happened earlier.",
+            "tutorial": "<p>I wore red socks, and we won the game. So, the socks caused the win.</p>",
+            "steps": "<ol><li>Ask: Did one thing really cause the other?</li><li>Check if there's real proof or just coincidence.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Constructing Strong Conclusions",
+        "what": "<b>Strong conclusions</b> are clear, supported by evidence, and based on logical steps.",
+        "tutorial": "<p>Given: All students must wear uniforms. Jake is a student.<br><b>Conclusion:</b> Jake must wear a uniform.</p>",
+        "steps": "<ol><li>State your premises clearly.</li><li>Use correct logic to connect them.</li><li>Write your conclusion clearly and briefly.</li></ol>",
+        "sections": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,88 @@
+{
+    "title": "General Information: Constitution",
+    "what": "<b>The Constitution</b> is the highest law of the land. It sets the structure of government, the powers of each branch, and the rights of the people.",
+    "tutorial": "<p>The Constitution guides how the government works. It has parts like the Preamble, Articles, and Amendments.</p>",
+    "steps": "<ol><li>Know what a Constitution is.</li><li>Study its main parts: Preamble, Articles, and Bill of Rights.</li><li>Understand each branch of government.</li><li>Learn about your rights and duties as a citizen.</li></ol>",
+    "sections": [
+      {
+        "title": "Preamble",
+        "what": "<b>The Preamble</b> is the introduction. It states the purpose and goals of the Constitution.",
+        "tutorial": "<p>Example: 'We, the sovereign Filipino people…' shows the will of the people to create a just and humane society.</p>",
+        "steps": "<ol><li>Read the full text of the Preamble.</li><li>Understand its message of unity, peace, and democracy.</li><li>Relate its values to everyday life.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Parts of the Constitution",
+        "what": "<b>The Constitution</b> is divided into different articles. Each article covers a part of government or law.",
+        "tutorial": "<p>Example: Article I talks about national territory. Article II talks about state principles and policies.</p>",
+        "steps": "<ol><li>Study the number of articles (18 total).</li><li>Understand the topic of each article.</li><li>Focus on key articles that are often asked in exams.</li></ol>",
+        "sections": [
+          {
+            "title": "Article I: National Territory",
+            "what": "<b>Defines</b> the areas under the jurisdiction of the Philippines.",
+            "tutorial": "<p>This includes land, water, airspace, and maritime zones.</p>",
+            "steps": "<ol><li>Identify what areas are included as Philippine territory.</li><li>Understand the importance of protecting national territory.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Article II: Declaration of Principles and State Policies",
+            "what": "<b>Lists</b> the guiding principles of the country like democracy, sovereignty, and peace.",
+            "tutorial": "<p>Examples: The Philippines is a democratic state. Civilian authority is supreme over the military.</p>",
+            "steps": "<ol><li>Read and understand the principles.</li><li>Connect these with current events or laws.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Article III: Bill of Rights",
+            "what": "<b>Protects</b> individual freedoms like freedom of speech, religion, and equal protection.",
+            "tutorial": "<p>Example: No person shall be deprived of life, liberty, or property without due process of law.</p>",
+            "steps": "<ol><li>List all rights mentioned.</li><li>Understand the meaning of each right.</li><li>Learn what actions can violate these rights.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Three Branches of Government",
+        "what": "<b>Explains</b> how power is divided: Executive, Legislative, and Judiciary.",
+        "tutorial": "<p>Example: The President leads the Executive. The Congress creates laws. The Supreme Court interprets laws.</p>",
+        "steps": "<ol><li>Learn the function of each branch.</li><li>Know the leaders (President, Senate President, Chief Justice).</li><li>Understand the check and balance system.</li></ol>",
+        "sections": [
+          {
+            "title": "Executive Branch",
+            "what": "<b>Implements</b> the laws. Headed by the President.",
+            "tutorial": "<p>The President signs laws, appoints officials, and leads the nation.</p>",
+            "steps": "<ol><li>Know the powers and duties of the President.</li><li>Understand how the executive enforces laws.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Legislative Branch",
+            "what": "<b>Makes</b> the laws. Composed of Senate and House of Representatives.",
+            "tutorial": "<p>The Senate has 24 members. The House has district and party-list reps.</p>",
+            "steps": "<ol><li>Understand how a bill becomes a law.</li><li>Know the roles of each chamber.</li></ol>",
+            "sections": []
+          },
+          {
+            "title": "Judicial Branch",
+            "what": "<b>Interprets</b> laws and settles disputes. Headed by the Supreme Court.",
+            "tutorial": "<p>The court ensures laws are fairly applied and followed.</p>",
+            "steps": "<ol><li>Learn how courts operate.</li><li>Know the role of the Chief Justice and judges.</li></ol>",
+            "sections": []
+          }
+        ]
+      },
+      {
+        "title": "Amendments and Revisions",
+        "what": "<b>Refers</b> to changes or updates made to the Constitution.",
+        "tutorial": "<p>Amendments can be made by Congress or through a constitutional convention.</p>",
+        "steps": "<ol><li>Understand why a constitution may need to be amended.</li><li>Learn how amendments are proposed and approved.</li></ol>",
+        "sections": []
+      },
+      {
+        "title": "Citizen's Duties and Responsibilities",
+        "what": "<b>Explains</b> what Filipinos must do as part of the country (follow laws, vote, etc.).",
+        "tutorial": "<p>Examples: Obey laws, respect others' rights, pay taxes, vote in elections.</p>",
+        "steps": "<ol><li>List duties of every citizen.</li><li>Connect each duty to real-life situations.</li></ol>",
+        "sections": []
+      }
+    ]
+  }
+  
